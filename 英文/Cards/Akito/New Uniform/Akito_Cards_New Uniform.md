@@ -1,0 +1,32 @@
+# Shinonome Akito - New Uniform
+
+## 基本信息
+
+- **Character**：Shinonome Akito
+- **Category**：New Uniform
+- **Count**：15
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 551 | 2023-12-11 | The Reason For His Words | 4 | happy | The People Who Matter Are Watching | Find A Way Out | https://storage.sekai.best/sekai-en-assets/character/member/res011_no022/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no022/card_after_training.png |
+| 569 | 2023-12-31 | It's About The Journey | 2 | pure | If Another Chance Comes | Happy New Year! Lion Dance Robot's New Year's Show! | https://storage.sekai.best/sekai-en-assets/character/member/res011_no023/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no023/card_after_training.png |
+| 597 | 2024-02-19 | Strategy Meeting With Cheesecake | 4 | happy | An Appetizing Proposal | Kick It Up a Notch | https://storage.sekai.best/sekai-en-assets/character/member/res011_no024/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no024/card_after_training.png |
+| 662 | 2024-06-10 | No Way Out In Sight | 3 | mysterious | Rest Your Wings For Now | Light Up the Fire | https://storage.sekai.best/sekai-en-assets/character/member/res011_no025/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no025/card_after_training.png |
+| 695 | 2024-08-10 | Outfit Assembler! | 4 | pure | True Meaning Made Clear | On Your Feet | https://storage.sekai.best/sekai-en-assets/character/member/res011_no027/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no027/card_after_training.png |
+| 723 | 2024-09-20 | Late-Night Learner | 2 | mysterious | A Donut Dose of Kindness | Let's Study Hard! | https://storage.sekai.best/sekai-en-assets/character/member/res011_no028/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no028/card_after_training.png |
+| 734 | 2024-09-30 | Brand New Style | 2 | cool | No Need To Change |  | https://storage.sekai.best/sekai-en-assets/character/member/res011_no029/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no029/card_after_training.png |
+| 768 | 2024-10-12 | Flame Passed On | 4 | cute | When All Is Said And Done | Burn My Soul | https://storage.sekai.best/sekai-en-assets/character/member/res011_no030/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no030/card_after_training.png |
+| 919 | 2025-04-30 | I Won't Miss It Next Time | 2 | happy | Good Vibes | Whip Yourself into Shape! | https://storage.sekai.best/sekai-en-assets/character/member/res011_no036/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no036/card_after_training.png |
+| 994 | 2025-09-10 | Post-Competition Feast | 4 | happy | Back At The Obstacle Course | Get Fit & Fly! Muscle Training! | https://storage.sekai.best/sekai-en-assets/character/member/res011_no038/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no038/card_after_training.png |
+| 1016 | 2025-10-21 | Burnout | 4 | cool | We'll See The World Together | Rekindle the Flame | https://storage.sekai.best/sekai-en-assets/character/member/res011_no039/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no039/card_after_training.png |
+| 1053 | 2025-12-21 | White-Hot Snowball Fight! | 3 | pure | Another Snowball Fight, In SEKAI?! | Special Present for You! | https://storage.sekai.best/sekai-en-assets/character/member/res011_no041/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no041/card_after_training.png |
+| 1068 | 2026-01-11 | The View From Up Above | 3 | mysterious | Souvenirs For Family | Time to Take Off! | https://storage.sekai.best/sekai-en-assets/character/member/res011_no043/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no043/card_after_training.png |
+| 1183 | 2026-05-31 | The World In My Eyes | 3 | happy | Unified Early Start | Aim Higher and Higher! | https://storage.sekai.best/sekai-en-assets/character/member/res011_no047/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no047/card_after_training.png |
+| 1217 | 2026-07-31 | Return To Regular Life | 2 | cute | An Orange Trap | Competitive Fire! | https://storage.sekai.best/sekai-en-assets/character/member/res011_no048/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no048/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

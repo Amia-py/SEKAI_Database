@@ -1,0 +1,41 @@
+# KAITO - 旧制服
+
+## 基本信息
+
+- **角色**：KAITO
+- **分类**：旧制服
+- **数量**：24
+
+## 数据
+
+| カードID | 実装日 | カード名 | レアリティ | 属性 | スキル | 関連イベント | 特訓前画像 | 特訓後画像 |
+|---|---|---|---|---|---|---|---|---|
+| 105 | 2020-09-29 | 涼やかな青い旋律 | 1 | cute | 歌の存在感 |  | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no001/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no001/card_after_training.png |
+| 106 | 2020-09-29 | ワンダーランドのセカイ | 2 | cute | 最高のショーを目指して |  | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no002/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no002/card_after_training.png |
+| 107 | 2020-09-29 | 劇団員募集中！ | 3 | cool | 座長は大変！ |  | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no003/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no003/card_after_training.png |
+| 121 | 2020-10-31 | 迷い子達との語らい | 4 | happy | 導きの手 | 全力！ワンダーハロウィン！ | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no006/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no006/card_after_training.png |
+| 140 | 2020-12-10 | ヒミツの演技指導 | 4 | mysterious | あの感動をもう一度 | KAMIKOU FESTIVAL！ | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no007/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no007/card_after_training.png |
+| 214 | 2021-04-30 | 陽気なDJ現る？ | 4 | happy | こだわりと情熱 | STRAY BAD DOG | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no008/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no008/card_after_training.png |
+| 236 | 2021-06-11 | チェシャっとスマイル | 2 | cool | つながった笑顔の輪 | ワンダーマジカルショウタイム！ | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no009/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no009/card_after_training.png |
+| 272 | 2021-08-20 | 座長の一日休暇 | 3 | happy | 叶えられた願い | マーメイドにあこがれて | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no010/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no010/card_after_training.png |
+| 280 | 2021-09-10 | 音で語るセッション | 4 | mysterious | 新しい扉を開いて | Knock the Future!! | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no011/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no011/card_after_training.png |
+| 333 | 2021-12-10 | アイドル兼マネージャー！？ | 3 | pure | 頼れるみんなのお兄さん | MOREMOREMakingXmas | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no012/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no012/card_after_training.png |
+| 382 | 2022-02-18 | 少し慣れない賑やかさ | 4 | pure | 気まずくない距離感 | あの日、空は遠かった | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no015/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no015/card_after_training.png |
+| 436 | 2022-05-20 | みんなも美味しいパンケーキ！ | 4 | cute | VS Vivid BAD SQUAD！？ | THE POWER OF UNITY | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no017/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no017/card_after_training.png |
+| 472 | 2022-07-21 | 曲と向き合うということ | 3 | cool | 一番音楽してる？ | No seek No find | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no018/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no018/card_after_training.png |
+| 506 | 2022-09-20 | こだわりじゃない？ | 4 | cool | 何事も挑戦 | Walk on and on | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no019/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no019/card_after_training.png |
+| 521 | 2022-10-12 | 頼れる先輩達 | 2 | pure | 輝く姿を焼きつけて | 拝啓、あの頃のわたしへ | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no020/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no020/card_after_training.png |
+| 539 | 2022-11-11 | 演奏であと押し | 2 | mysterious | MVもしも談義 | Echo my melody | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no021/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no021/card_after_training.png |
+| 558 | 2022-12-21 | どんなアレンジがいいかな？ | 4 | cute | 挑戦！衣装アレンジデザイン | 弓引け、白の世界で | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no022/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no022/card_after_training.png |
+| 615 | 2023-03-21 | 激情の顕現 | 3 | cute | 呼ばれた理由 | イミシブル・ディスコード | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no025/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no025/card_after_training.png |
+| 633 | 2023-04-21 | 消えない想いを信じて | 3 | happy | 優しい君にエールを | Re-tie Friendship | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no026/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no026/card_after_training.png |
+| 650 | 2023-05-20 | 応援の力を信じて | 4 | pure | お祝いはスペシャルショーで | カナリアは窮境に歌う | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no027/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no027/card_after_training.png |
+| 685 | 2023-07-21 | 見守ってきた軌跡 | 4 | cool | 想いを託して | つなぐ、星の歌 | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no028/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no028/card_after_training.png |
+| 712 | 2023-08-31 | 秘密の思惑 | 2 | happy | 忘れないでほしいこと | セカイに響け！Your Song | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no029/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no029/card_after_training.png |
+| 749 | 2023-09-29 | Origin Style | 2 | pure | 歓声に幸せを感じて |  | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no030/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no030/card_after_training.png |
+| 759 | 2023-09-29 | Brand New Wonderland | 2 | happy | カイトをいたわるの会！？ |  | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no031/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no031/card_after_training.png |
+
+
+## 数据来源
+
+出典：SEKAI master database カードデータ（公式テキスト）。画像は SEKAI Viewer アセット（storage.sekai.best）。

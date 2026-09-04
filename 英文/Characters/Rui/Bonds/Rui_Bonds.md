@@ -1,0 +1,77 @@
+# Kamishiro Rui - Bonds
+
+## 基本信息
+
+- **Name**：Kamishiro Rui
+
+## 数据
+
+| Group ID | Partner |
+|---|---|
+| 11316 | Tenma Tsukasa |
+| 11316 | Tenma Tsukasa |
+| 11416 | Otori Emu |
+| 11416 | Otori Emu |
+| 11516 | Kusanagi Nene |
+| 11516 | Kusanagi Nene |
+| 11621 | Hatsune Miku |
+| 11621 | Hatsune Miku |
+| 11626 | KAITO |
+| 11626 | KAITO |
+| 11620 | Akiyama Mizuki |
+| 11620 | Akiyama Mizuki |
+| 11623 | Kagamine Len |
+| 11623 | Kagamine Len |
+| 11624 | Megurine Luka |
+| 11624 | Megurine Luka |
+| 11621 |  |
+| 11621 |  |
+| 11623 |  |
+| 11623 |  |
+| 11624 |  |
+| 11624 |  |
+| 11626 |  |
+| 11626 |  |
+| 11116 | Shinonome Akito |
+| 11116 | Shinonome Akito |
+| 11216 | Aoyagi Toya |
+| 11216 | Aoyagi Toya |
+| 11625 | MEIKO |
+| 11625 | MEIKO |
+| 11625 |  |
+| 11625 |  |
+| 11016 | Shiraishi An |
+| 11016 | Shiraishi An |
+| 11618 | Asahina Mafuyu |
+| 11618 | Asahina Mafuyu |
+| 11622 | Kagamine Rin |
+| 11622 | Kagamine Rin |
+| 11622 |  |
+| 11622 |  |
+| 10116 | Hoshino Ichika |
+| 10116 | Hoshino Ichika |
+| 10216 | Tenma Saki |
+| 10216 | Tenma Saki |
+| 10316 | Mochizuki Honami |
+| 10316 | Mochizuki Honami |
+| 10416 | Hinomori Shiho |
+| 10416 | Hinomori Shiho |
+| 10516 | Hanasato Minori |
+| 10516 | Hanasato Minori |
+| 10616 | Kiritani Haruka |
+| 10616 | Kiritani Haruka |
+| 10716 | Momoi Airi |
+| 10716 | Momoi Airi |
+| 10816 | Hinomori Shizuku |
+| 10816 | Hinomori Shizuku |
+| 10916 | Azusawa Kohane |
+| 10916 | Azusawa Kohane |
+| 11617 | Yoisaki Kanade |
+| 11617 | Yoisaki Kanade |
+| 11619 | Shinonome Ena |
+| 11619 | Shinonome Ena |
+
+
+## 数据来源
+
+数据来源：SEKAI master database（en 服官方文本）、各服官网。

@@ -1,0 +1,20 @@
+# Hinomori Shizuku - Collaboration
+
+## 基本信息
+
+- **Character**：Hinomori Shizuku
+- **Category**：Collaboration
+- **Count**：3
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 812 | 2025-01-07 | Featuring WISH ME MELL | 2 | happy | Airheaded & Absent-Minded |  | https://storage.sekai.best/sekai-en-assets/character/member/res008_no030/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no030/card_after_training.png |
+| 1077 | 2025-04-28 | Let's Enjoy The Movie! | 2 | cute | Four Friends In Florals |  | https://storage.sekai.best/sekai-en-assets/character/member/res008_no041/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no041/card_after_training.png |
+| 1248 | 2026-08-04 | Featuring Furawatchi | 2 | pure | Flowery Dress-Up |  | https://storage.sekai.best/sekai-en-assets/character/member/res008_no047/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no047/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

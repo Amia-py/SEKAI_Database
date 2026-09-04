@@ -1,0 +1,14 @@
+# SEGA
+
+## 基本信息
+
+- **Name**：SEGA
+
+## 数据
+
+（暂无数据）
+
+
+## 数据来源
+
+SEGA Corporation (Kabushiki gaisha Sega) is a Japanese video game company headquartered in Shinagawa, Tokyo, tracing its origins to Service Games, founded in Honolulu, Hawaii in 1940, and renamed Sega Enterprises after merging with Rosen Enterprises in 1965. Now a subsidiary of SEGA Sammy Holdings, SEGA formerly produced home consoles including the Mega Drive, Saturn, and Dreamcast, before becoming a third-party software publisher in 2001, with franchises such as Sonic and Yakuza. For this title, SEGA co-develops and co-operates the game with Colorful Palette. SEGA previously developed the Hatsune Miku: Project DIVA series (since 2009, ~6.5 million cumulative units) and has a long partnership with Crypton Future Media. (Sources: SEGA official site, SEGA Sammy Group reports, SEGA press releases)

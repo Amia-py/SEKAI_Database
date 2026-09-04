@@ -1,0 +1,28 @@
+# Kusanagi Nene - Old Uniform
+
+## 基本信息
+
+- **Character**：Kusanagi Nene
+- **Category**：Old Uniform
+- **Count**：11
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 57 | 2021-12-07 | Sharp-Tongued And Unsociable | 1 | cool | I Can't Concentrate... |  | https://storage.sekai.best/sekai-en-assets/character/member/res015_no001/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no001/card_after_training.png |
+| 58 | 2021-12-07 | Wonderlands×Showtime | 2 | cool | Robo-Nene Is Here |  | https://storage.sekai.best/sekai-en-assets/character/member/res015_no002/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no002/card_after_training.png |
+| 59 | 2021-12-07 | Backstage Operator | 3 | pure | Delightfully Ridiculous |  | https://storage.sekai.best/sekai-en-assets/character/member/res015_no003/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no003/card_after_training.png |
+| 123 | 2021-12-24 | Wonder Wand | 2 | mysterious | Precious Friend | It's On! Wonder Halloween! | https://storage.sekai.best/sekai-en-assets/character/member/res015_no005/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no005/card_after_training.png |
+| 142 | 2022-01-25 | Animal Cotton Candy♪ | 3 | mysterious | W-Welcome | KAMIYAMA HIGH FESTIVAL! | https://storage.sekai.best/sekai-en-assets/character/member/res015_no006/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no006/card_after_training.png |
+| 144 | 2022-02-02 | Gift From Above | 4 | cute | A New Way To Play | On This Holy Night, I Sing | https://storage.sekai.best/sekai-en-assets/character/member/res015_no007/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no007/card_after_training.png |
+| 234 | 2022-06-18 | The Confidence You Gave Me | 4 | cool | Cherishing The Future | Wonder Magical Showtime! | https://storage.sekai.best/sekai-en-assets/character/member/res015_no009/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no009/card_after_training.png |
+| 269 | 2022-08-20 | Celebrate With Fireworks | 4 | pure | The Song That Encouraged Me | Mermaid Admiration | https://storage.sekai.best/sekai-en-assets/character/member/res015_no010/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no010/card_after_training.png |
+| 359 | 2023-01-12 | I Thought It Was Game Over | 3 | happy | Souvenirs For Everyone | Popping in My Heart! | https://storage.sekai.best/sekai-en-assets/character/member/res015_no013/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no013/card_after_training.png |
+| 411 | 2023-04-11 | The Little Squirrels' Invitation | 4 | cute | I Do Have Some Faith In You | On the Stage of Dazzling Light | https://storage.sekai.best/sekai-en-assets/character/member/res015_no014/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no014/card_after_training.png |
+| 450 | 2023-06-20 | Thank You For Playing With Us | 4 | happy | An Address Book In The Nick Of Time?! | Desperate Times?! Island Panic! | https://storage.sekai.best/sekai-en-assets/character/member/res015_no015/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no015/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

@@ -1,0 +1,21 @@
+# Tenma Tsukasa - Birthday
+
+## 基本信息
+
+- **Character**：Tenma Tsukasa
+- **Category**：Birthday
+- **Count**：4
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 433 | 2023-05-17 | Happy Birthday! | bd | happy | A Mysterious Challenge?! |  | https://storage.sekai.best/sekai-en-assets/character/member/res013_no017/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no017/card_after_training.png |
+| 647 | 2024-05-17 | Happy Birthday! 2024 | bd | cute | The Tsukasa Tenma Birthday Festival! |  | https://storage.sekai.best/sekai-en-assets/character/member/res013_no023/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no023/card_after_training.png |
+| 926 | 2025-05-17 | Happy Birthday! 2025 | bd | cool | Excited For What Awaits |  | https://storage.sekai.best/sekai-en-assets/character/member/res013_no035/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no035/card_after_training.png |
+| 1173 | 2026-05-17 | Happy Birthday! 2026 | bd | mysterious | Surprise Tour! |  | https://storage.sekai.best/sekai-en-assets/character/member/res013_no046/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no046/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

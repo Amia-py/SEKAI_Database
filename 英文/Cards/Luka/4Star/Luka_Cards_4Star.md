@@ -1,0 +1,39 @@
+# Megurine Luka - 4Star
+
+## 基本信息
+
+- **Character**：Megurine Luka
+- **Category**：4Star
+- **Count**：22
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 110 | 2021-12-08 | Wiping Away Twilight Rain | 4 | mysterious | Tears For You | First Star After the Rain | https://storage.sekai.best/sekai-en-assets/character/member/res024_no005/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no005/card_after_training.png |
+| 151 | 2022-02-10 | Elegant Smile | 4 | pure | Fourth Time's The Charm | SEKAI Happy New Year! | https://storage.sekai.best/sekai-en-assets/character/member/res024_no006/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no006/card_after_training.png |
+| 161 | 2022-02-26 | A New Member Arrives♪ | 4 | cool | Sparkling Wink | My Color! | https://storage.sekai.best/sekai-en-assets/character/member/res024_no007/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no007/card_after_training.png |
+| 238 | 2022-06-26 | Doing Things My Own Way | 4 | mysterious | Poking At The Truth | Carnation Recollection | https://storage.sekai.best/sekai-en-assets/character/member/res024_no011/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no011/card_after_training.png |
+| 271 | 2022-08-20 | Longing For The Sea | 4 | pure | Sleeping Referee | Mermaid Admiration | https://storage.sekai.best/sekai-en-assets/character/member/res024_no012/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no012/card_after_training.png |
+| 320 | 2022-11-18 | Reassuring Words | 4 | happy | Surprisingly A Scaredy Cat | Time to hang out♪ | https://storage.sekai.best/sekai-en-assets/character/member/res024_no013/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no013/card_after_training.png |
+| 406 | 2023-03-30 | Chalkboard Cherry Blossoms In Bloom | 4 | happy | Classroom Cherry Blossoms | Connected Through SEKAI's Cherry Blossoms | https://storage.sekai.best/sekai-en-assets/character/member/res024_no017/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no017/card_after_training.png |
+| 430 | 2023-05-10 | What Do Kappas Like? | 4 | cool | Seeing The Magic Unfold | The Climax! Kamiyama Cheer Squad! | https://storage.sekai.best/sekai-en-assets/character/member/res024_no019/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no019/card_after_training.png |
+| 510 | 2023-09-30 | Recounting To Your Feelings | 4 | pure | One Day, These Feelings Will Be Born |  | https://storage.sekai.best/sekai-en-assets/character/member/res024_no022/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no022/card_after_training.png |
+| 553 | 2023-12-11 | Hurry To Your Teammate! | 4 | happy | Have The Best Christmas♪ | Find A Way Out | https://storage.sekai.best/sekai-en-assets/character/member/res024_no023/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no023/card_after_training.png |
+| 638 | 2024-04-30 | Take A New Angle | 4 | cool | Whispers That Shakes The Heart | We Escape to Survive | https://storage.sekai.best/sekai-en-assets/character/member/res024_no026/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no026/card_after_training.png |
+| 710 | 2024-08-31 | Sharing My Shine | 4 | cute | Overlapping Feelings | Let SEKAI Hear Your Song! | https://storage.sekai.best/sekai-en-assets/character/member/res024_no028/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no028/card_after_training.png |
+| 770 | 2024-10-12 | Surprise Challenger | 4 | cute | United Front♪ | Burn My Soul | https://storage.sekai.best/sekai-en-assets/character/member/res024_no031/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no031/card_after_training.png |
+| 830 | 2024-12-10 | Greetings Are Idol 101 | 4 | cool | Covert Zoo Trip | This Way! That Way! Zookeeper Day | https://storage.sekai.best/sekai-en-assets/character/member/res024_no033/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no033/card_after_training.png |
+| 935 | 2025-05-31 | Fluffy Dream Wedding | 4 | mysterious | Who's Best For The Job? | Stream With Friends♡ Wedding Live! | https://storage.sekai.best/sekai-en-assets/character/member/res024_no037/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no037/card_after_training.png |
+| 958 | 2025-07-09 | From The Watchtower | 4 | pure | Sleepy Swordswoman Skills | Halt! Tenma's on the Case | https://storage.sekai.best/sekai-en-assets/character/member/res024_no038/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no038/card_after_training.png |
+| 982 | 2025-08-17 | Being There | 4 | cute | A Spotlight On Luka Cuteness | With You at SEKAI's Beginnings | https://storage.sekai.best/sekai-en-assets/character/member/res024_no040/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no040/card_after_training.png |
+| 1052 | 2025-12-21 | Making Lanterns Looks Fun! | 4 | pure | Operation: Use All The Milk! | Special Present for You! | https://storage.sekai.best/sekai-en-assets/character/member/res024_no042/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no042/card_after_training.png |
+| 1112 | 2026-02-10 | Accept Your Regrets | 4 | mysterious | They'll Get Back Up Again | Rise and Strive | https://storage.sekai.best/sekai-en-assets/character/member/res024_no045/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no045/card_after_training.png |
+| 1145 | 2026-03-30 | Feelings From Each SEKAI | 4 | happy | All Kinds Of Me | Find the Dream View | https://storage.sekai.best/sekai-en-assets/character/member/res024_no046/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no046/card_after_training.png |
+| 1215 | 2026-07-31 | Between You And Me | 4 | happy | A Fiery Sight | Competitive Fire! | https://storage.sekai.best/sekai-en-assets/character/member/res024_no048/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no048/card_after_training.png |
+| 1238 | 2026-09-06 | An Exhilarating Stage! | 4 | cool | What Idols Bring | Link the Beats! | https://storage.sekai.best/sekai-en-assets/character/member/res024_no049/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no049/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

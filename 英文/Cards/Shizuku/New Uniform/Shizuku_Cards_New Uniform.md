@@ -1,0 +1,32 @@
+# Hinomori Shizuku - New Uniform
+
+## 基本信息
+
+- **Character**：Hinomori Shizuku
+- **Category**：New Uniform
+- **Count**：15
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 520 | 2023-10-11 | Excited Unboxing♪ | 3 | mysterious | An Enjoyable Inspection? | Dear Me, From Back Then | https://storage.sekai.best/sekai-en-assets/character/member/res008_no020/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no020/card_after_training.png |
+| 549 | 2023-11-30 | Focusing On What Lies Ahead | 2 | cool | Staring Down Passion | Beyond The Dream of That Day | https://storage.sekai.best/sekai-en-assets/character/member/res008_no021/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no021/card_after_training.png |
+| 556 | 2023-12-21 | Make Every Shot Count | 4 | cute | The Mysterious Multiplying Snow Bunnies | Raise Your Bow in a Snow-White World | https://storage.sekai.best/sekai-en-assets/character/member/res008_no023/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no023/card_after_training.png |
+| 589 | 2024-02-10 | Graduating To Independence | 4 | happy | Speaking My Truth In My Words | At The End of The Unraveled Thread | https://storage.sekai.best/sekai-en-assets/character/member/res008_no024/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no024/card_after_training.png |
+| 632 | 2024-04-21 | Energetic On Location! | 4 | cute | Share The Fun Too | Friendship Rebuilt | https://storage.sekai.best/sekai-en-assets/character/member/res008_no025/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no025/card_after_training.png |
+| 667 | 2024-06-20 | Lunch Break Study Session | 3 | pure | Distant From Classmates | Step by Step! | https://storage.sekai.best/sekai-en-assets/character/member/res008_no026/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no026/card_after_training.png |
+| 731 | 2024-09-30 | Brand New Style | 2 | pure | Nosy Older Sister |  | https://storage.sekai.best/sekai-en-assets/character/member/res008_no028/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no028/card_after_training.png |
+| 877 | 2025-02-20 | Fun With Layout Planning | 2 | cool | Who's The Lonely One? | From the Marks Left Behind | https://storage.sekai.best/sekai-en-assets/character/member/res008_no033/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no033/card_after_training.png |
+| 939 | 2025-06-10 | Cooking To Give You Energy♪ | 4 | cool | Health Committee Duties! | Lead to Shine More | https://storage.sekai.best/sekai-en-assets/character/member/res008_no035/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no035/card_after_training.png |
+| 990 | 2025-08-31 | Careful Stitching | 3 | mysterious | Cold Hand, Warm Heart | Wonderhorror?! A Test of Courage! | https://storage.sekai.best/sekai-en-assets/character/member/res008_no037/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no037/card_after_training.png |
+| 1029 | 2025-11-10 | A Blissful Moment With You | 4 | mysterious | What's A Fun Way To Eat Grapes? | As the Leaves Change Once More | https://storage.sekai.best/sekai-en-assets/character/member/res008_no038/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no038/card_after_training.png |
+| 1045 | 2025-12-11 | Determined Brilliance | 4 | happy | Cozy Celebration | Grow Glorious Glow | https://storage.sekai.best/sekai-en-assets/character/member/res008_no040/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no040/card_after_training.png |
+| 1113 | 2026-02-10 | Trial Skin Care Routine | 3 | cool | MORE MORE Rehearsal! | Rise and Strive | https://storage.sekai.best/sekai-en-assets/character/member/res008_no043/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no043/card_after_training.png |
+| 1178 | 2026-05-23 | Calm For The Hard Workers | 2 | mysterious | Passing The Baton | Cheer With My Heart! | https://storage.sekai.best/sekai-en-assets/character/member/res008_no044/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no044/card_after_training.png |
+| 1209 | 2026-07-23 | A Comforting Breakfast | 4 | pure | Special Navigators | Start Rolling! Stars' Crossing | https://storage.sekai.best/sekai-en-assets/character/member/res008_no045/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no045/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

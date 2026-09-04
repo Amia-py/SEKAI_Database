@@ -1,0 +1,62 @@
+# Kusanagi Nene - Cards
+
+## 基本信息
+
+- **Name**：Kusanagi Nene
+- **Card Count**：46
+
+## 数据
+
+| Released | Card Name | Rarity | Attribute | Skill | Event |
+|---|---|---|---|---|---|
+| 2021-12-07 | Sharp-Tongued And Unsociable | 1 | cool | I Can't Concentrate... |  |
+| 2021-12-07 | Wonderlands×Showtime | 2 | cool | Robo-Nene Is Here |  |
+| 2021-12-07 | Backstage Operator | 3 | pure | Delightfully Ridiculous |  |
+| 2021-12-24 | Wonder Wand | 2 | mysterious | Precious Friend | It's On! Wonder Halloween! |
+| 2022-01-25 | Animal Cotton Candy♪ | 3 | mysterious | W-Welcome | KAMIYAMA HIGH FESTIVAL! |
+| 2022-02-02 | Gift From Above | 4 | cute | A New Way To Play | On This Holy Night, I Sing |
+| 2022-03-30 | Messenger Of Feelings | 4 | mysterious | I Want You To Smile | Smile of a Dreamer |
+| 2022-06-18 | The Confidence You Gave Me | 4 | cool | Cherishing The Future | Wonder Magical Showtime! |
+| 2022-08-20 | Celebrate With Fireworks | 4 | pure | The Song That Encouraged Me | Mermaid Admiration |
+| 2022-12-31 | Dazzling Dream Stage | 4 | mysterious | Someday, I'll Find The Answer |  |
+| 2023-01-12 | I Thought It Was Game Over | 3 | happy | Souvenirs For Everyone | Popping in My Heart! |
+| 2023-04-11 | The Little Squirrels' Invitation | 4 | cute | I Do Have Some Faith In You | On the Stage of Dazzling Light |
+| 2023-06-20 | Thank You For Playing With Us | 4 | happy | An Address Book In The Nick Of Time?! | Desperate Times?! Island Panic! |
+| 2023-07-20 | Happy Birthday! | bd | pure | Nonsensical But Precious Days |  |
+| 2023-07-31 | I'm Not Losing My Target | 4 | cute | Sharing The Things We Like | close game/OFFLINE |
+| 2023-10-21 | A Childhood Friend's Gaze | 4 | cool | An Adventure In Gift Giving | A Sad Farewell at the Curtain Call |
+| 2023-12-31 | Drive GO! GO! | 3 | cute | Key Goals For This Year | Happy New Year! Lion Dance Robot's New Year's Show! |
+| 2024-01-10 | Lessons Learnt Alone | 2 | happy | Communication Hurdles | To The Gleaming Stars Halfway Through a Dream |
+| 2024-01-31 | Hold Them In Your Mind | 4 | cool | Will They Like It? | Memories That Come With The Scent of Candles |
+| 2024-03-11 | The Gap Is Laid Bare | 4 | cute | Still Not Enough... | The Phoenix in the Distant Sky |
+| 2024-03-30 | To Become The Canary | 3 | pure | Powered Up And Glowing | In This Singing City |
+| 2024-05-11 | Gentle Encouragement From Afar | 2 | pure | Matching Blue Birds | One Small Trip Before a Big Journey |
+| 2024-05-20 | Because I'm Not Enough | 4 | pure | Take Strength From Their Support | The Song of a Canary in Crisis |
+| 2024-07-20 | Happy Birthday! 2024 | bd | mysterious | Surrounded By Friends |  |
+| 2024-08-21 | Everything, Even Sorrow | 4 | happy | As Rivals, As Friends | Our Happy Ending |
+| 2024-09-30 | Brand New Style | 2 | cute | Trying To Make Friends |  |
+| 2024-11-22 | Nervous Departure | 2 | happy | Advice I Can Give | Star of Your Own Story |
+| 2024-11-30 | Determined Director | 4 | pure | Let's Have An After-Party! | Picture Perfect! |
+| 2025-01-07 | Featuring U・SA・HA・NA | 2 | cool | See You Onstage♪ |  |
+| 2025-01-23 | I'm Used To Setup Now | 4 | happy | Fated Filmmaker | Backlight, Lens Flare |
+| 2025-03-08 | Who We Want To Be | 4 | mysterious | Frustration And Fear | With Your Sights on Stardom, Set Sail! |
+| 2025-05-23 | Understanding Tokiwa Gozen | 2 | mysterious | Help Me With My Stamina! | Perspective for Smile |
+| 2025-05-31 | Into A Magical Dress | 4 | mysterious | Nervously Waiting | Stream With Friends♡ Wedding Live! |
+| 2025-07-09 | Swept Up In The Edo Streets | 2 | cute | As Fun As Games | Halt! Tenma's on the Case |
+| 2025-07-20 | Happy Birthday! 2025 | bd | cool | Welcome To The Party! |  |
+| 2025-09-30 | A Dream On A Melody | 4 | pure | You Can Get Used To Anything | Here on Our Dream Stage |
+| 2025-11-20 | Unwavering Gaze | 4 | pure | Trust Comes In Many Forms | The Power of Regret |
+| 2025-04-28 | Let's Enjoy The Movie! | 2 | pure | Movie Theater Must-Have |  |
+| 2026-02-20 | A Tail On Screen | 4 | cute | The Fruits Of Hard Work | Yesteryear Read-Aloud |
+| 2026-03-10 | Trying On Cuteness | 3 | cool | Lifelong Memories | You Are My Hero! |
+| 2026-04-22 | Feeling In Each Step | 4 | mysterious | Small Signs Of Growth | Choices for the Future |
+| 2026-05-09 | I Can't Rest | 4 | cool | The Joy Of Growing Together | Dear My Fellows |
+| 2026-07-07 | Getting You Snacks | 4 | happy | Serious About English | Deeper and Deeper |
+| 2026-07-20 | Happy Birthday! 2026 | bd | cute | Festival Birthday! |  |
+| 2026-08-30 | Little Princess | 2 | happy | To Become That Dazzling | Deep Dark for Light |
+| 2026-08-04 | Super Special Practice Session! | 4 | happy | Your Song, Your Feelings, Your Bond |  |
+
+
+## 数据来源
+
+数据来源：SEKAI master database（en 服官方文本）、各服官网。

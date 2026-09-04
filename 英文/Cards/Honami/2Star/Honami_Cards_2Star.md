@@ -1,0 +1,24 @@
+# Mochizuki Honami - 2Star
+
+## 基本信息
+
+- **Character**：Mochizuki Honami
+- **Category**：2Star
+- **Count**：7
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 10 | 2021-12-07 | Leo/need | 2 | cool | I've Got To Grow |  | https://storage.sekai.best/sekai-en-assets/character/member/res003_no002/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res003_no002/card_after_training.png |
+| 189 | 2022-04-07 | Even Though I Shouldn't... | 2 | mysterious | Smiling Through Courage | Doll Festival at the Tenma's | https://storage.sekai.best/sekai-en-assets/character/member/res003_no008/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res003_no008/card_after_training.png |
+| 328 | 2022-11-29 | For My Dear Childhood Friends | 2 | pure | Waiting For That Day | The Warmth of Intersecting Melodies | https://storage.sekai.best/sekai-en-assets/character/member/res003_no015/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res003_no015/card_after_training.png |
+| 384 | 2023-02-18 | Cool Rider Lady | 2 | happy | A Promise To A Classmate | That day, the Sky was Far Away | https://storage.sekai.best/sekai-en-assets/character/member/res003_no017/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res003_no017/card_after_training.png |
+| 497 | 2023-08-31 | The Power Of Faith | 2 | cute | I Can't Thank You Enough | Don't lose faith! | https://storage.sekai.best/sekai-en-assets/character/member/res003_no020/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res003_no020/card_after_training.png |
+| 726 | 2024-09-30 | Brand New Style | 2 | mysterious | Family Pet Pride |  | https://storage.sekai.best/sekai-en-assets/character/member/res003_no030/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res003_no030/card_after_training.png |
+| 913 | 2025-04-20 | Let's All Get Along♪ | 2 | cool | Some Spice To Pep You Up | Parallel Harmonies | https://storage.sekai.best/sekai-en-assets/character/member/res003_no036/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res003_no036/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

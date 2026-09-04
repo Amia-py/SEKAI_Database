@@ -1,0 +1,21 @@
+# Azusawa Kohane - Birthday
+
+## 基本信息
+
+- **Character**：Azusawa Kohane
+- **Category**：Birthday
+- **Count**：4
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 390 | 2023-03-02 | Happy Birthday! | bd | happy | The Adventures Of Kohane The Brave |  | https://storage.sekai.best/sekai-en-assets/character/member/res009_no016/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no016/card_after_training.png |
+| 605 | 2024-03-02 | Happy Birthday! 2024 | bd | mysterious | Dreamlike Celebration |  | https://storage.sekai.best/sekai-en-assets/character/member/res009_no024/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no024/card_after_training.png |
+| 883 | 2025-03-02 | Happy Birthday! 2025 | bd | cute | Relaxing For A Day |  | https://storage.sekai.best/sekai-en-assets/character/member/res009_no034/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no034/card_after_training.png |
+| 1132 | 2026-03-02 | Happy Birthday! 2026 | bd | pure | Fun Party Time |  | https://storage.sekai.best/sekai-en-assets/character/member/res009_no043/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no043/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

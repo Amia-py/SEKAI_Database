@@ -1,0 +1,27 @@
+# Hatsune Miku - Special
+
+## 基本信息
+
+- **Character**：Hatsune Miku
+- **Category**：Special
+- **Count**：10
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 289 | 2022-10-01 | Where Feelings Come Together | 4 | mysterious | Our Feelings In Your Hands |  | https://storage.sekai.best/sekai-en-assets/character/member/res021_no016/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res021_no016/card_after_training.png |
+| 404 | 2023-03-30 | Among The Petals Dancing In The Wind | 4 | happy | Cherry Blossoms Filled With Warmth | Connected Through SEKAI's Cherry Blossoms | https://storage.sekai.best/sekai-en-assets/character/member/res021_no023/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res021_no023/card_after_training.png |
+| 509 | 2023-09-30 | At Least Let Me | 4 | pure | I'm By Your Side |  | https://storage.sekai.best/sekai-en-assets/character/member/res021_no028/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res021_no028/card_after_training.png |
+| 622 | 2024-03-30 | Intro To Street Music | 4 | happy | Wanting To Help More | In This Singing City | https://storage.sekai.best/sekai-en-assets/character/member/res021_no033/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res021_no033/card_after_training.png |
+| 707 | 2024-08-31 | Shiny Smiley Magic | 4 | cute | A Miku Story | Let SEKAI Hear Your Song! | https://storage.sekai.best/sekai-en-assets/character/member/res021_no037/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res021_no037/card_after_training.png |
+| 953 | 2025-06-30 | Beyond That Door | 4 | mysterious | Just Us, Together | Over Rad Squad!! | https://storage.sekai.best/sekai-en-assets/character/member/res021_no047/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res021_no047/card_after_training.png |
+| 979 | 2025-08-17 | Entrusted Feelings | 4 | cool | Feelings Of Support | With You at SEKAI's Beginnings | https://storage.sekai.best/sekai-en-assets/character/member/res021_no048/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res021_no048/card_after_training.png |
+| 1148 | 2026-03-30 | Wrapped Up In Your Emotions | 4 | cool | To Be Everyone's Senior | Find the Dream View | https://storage.sekai.best/sekai-en-assets/character/member/res021_no053/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res021_no053/card_after_training.png |
+| 1182 | 2026-05-31 | An Imminent Threat | 4 | cute | A Taste Of America | Aim Higher and Higher! | https://storage.sekai.best/sekai-en-assets/character/member/res021_no055/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res021_no055/card_after_training.png |
+| 1235 | 2026-09-06 | A Precious Promise | 4 | happy | Proud Of "Myself" | Link the Beats! | https://storage.sekai.best/sekai-en-assets/character/member/res021_no058/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res021_no058/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

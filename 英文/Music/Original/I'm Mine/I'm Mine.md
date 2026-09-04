@@ -1,0 +1,15 @@
+# I'm Mine
+
+## 基本信息
+
+
+## 数据
+
+| Title | Artist | Lyricist | Composer | Arranger | Released | Event | Category | Jacket | Preview Audio | Vocal Version |
+|---|---|---|---|---|---|---|---|---|---|---|
+| I'm Mine | halyosy | halyosy | halyosy | halyosy | 2024-10-01 |  |  | https://storage.sekai.best/sekai-en-assets/music/jacket/jacket_s_368/jacket_s_368.png | https://storage.sekai.best/sekai-en-assets/music/short/vs_0368_01/vs_0368_01_short.mp3 | VIRTUAL SINGER ver. |
+
+
+## 数据来源
+
+Source: SEKAI master database music data (official text). Audio/jacket assets from SEKAI Viewer (storage.sekai.best).

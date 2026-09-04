@@ -1,0 +1,77 @@
+# Hinomori Shiho - Bonds
+
+## 基本信息
+
+- **Name**：Hinomori Shiho
+
+## 数据
+
+| Group ID | Partner |
+|---|---|
+| 10104 | Hoshino Ichika |
+| 10104 | Hoshino Ichika |
+| 10204 | Tenma Saki |
+| 10204 | Tenma Saki |
+| 10304 | Mochizuki Honami |
+| 10304 | Mochizuki Honami |
+| 10421 | Hatsune Miku |
+| 10421 | Hatsune Miku |
+| 10424 | Megurine Luka |
+| 10424 | Megurine Luka |
+| 10408 | Hinomori Shizuku |
+| 10408 | Hinomori Shizuku |
+| 10405 | Hanasato Minori |
+| 10405 | Hanasato Minori |
+| 10409 | Azusawa Kohane |
+| 10409 | Azusawa Kohane |
+| 10413 | Tenma Tsukasa |
+| 10413 | Tenma Tsukasa |
+| 10425 | MEIKO |
+| 10425 | MEIKO |
+| 10426 | KAITO |
+| 10426 | KAITO |
+| 10421 |  |
+| 10421 |  |
+| 10424 |  |
+| 10424 |  |
+| 10425 |  |
+| 10425 |  |
+| 10426 |  |
+| 10426 |  |
+| 10422 | Kagamine Rin |
+| 10422 | Kagamine Rin |
+| 10422 |  |
+| 10422 |  |
+| 10406 | Kiritani Haruka |
+| 10406 | Kiritani Haruka |
+| 10407 | Momoi Airi |
+| 10407 | Momoi Airi |
+| 10423 | Kagamine Len |
+| 10423 | Kagamine Len |
+| 10423 |  |
+| 10423 |  |
+| 10410 | Shiraishi An |
+| 10410 | Shiraishi An |
+| 10411 | Shinonome Akito |
+| 10411 | Shinonome Akito |
+| 10412 | Aoyagi Toya |
+| 10412 | Aoyagi Toya |
+| 10414 | Otori Emu |
+| 10414 | Otori Emu |
+| 10415 | Kusanagi Nene |
+| 10415 | Kusanagi Nene |
+| 10416 | Kamishiro Rui |
+| 10416 | Kamishiro Rui |
+| 10417 | Yoisaki Kanade |
+| 10417 | Yoisaki Kanade |
+| 10418 | Asahina Mafuyu |
+| 10418 | Asahina Mafuyu |
+| 10419 | Shinonome Ena |
+| 10419 | Shinonome Ena |
+| 10420 | Akiyama Mizuki |
+| 10420 | Akiyama Mizuki |
+
+
+## 数据来源
+
+数据来源：SEKAI master database（en 服官方文本）、各服官网。

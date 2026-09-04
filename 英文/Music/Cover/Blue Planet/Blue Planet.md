@@ -1,0 +1,15 @@
+# Blue Planet
+
+## 基本信息
+
+
+## 数据
+
+| Title | Artist | Lyricist | Composer | Arranger | Released | Event | Category | Jacket | Preview Audio | Vocal Version |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Blue Planet | DECO*27 | DECO*27 | DECO*27 | Rockwell | 2023-08-31 |  |  | https://storage.sekai.best/sekai-en-assets/music/jacket/jacket_s_357/jacket_s_357.png | https://storage.sekai.best/sekai-en-assets/music/short/vs_0357_01/vs_0357_01_short.mp3 | VIRTUAL SINGER ver. |
+
+
+## 数据来源
+
+Source: SEKAI master database music data (official text). Audio/jacket assets from SEKAI Viewer (storage.sekai.best).

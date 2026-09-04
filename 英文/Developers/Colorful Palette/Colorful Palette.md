@@ -1,0 +1,14 @@
+# Colorful Palette
+
+## 基本信息
+
+- **Name**：Colorful Palette
+
+## 数据
+
+（暂无数据）
+
+
+## 数据来源
+
+Colorful Palette Inc. was established on June 1, 2018 as a subsidiary of Craft Egg Inc. (developer/publisher of BanG Dream! Girls Band Party!, a CyberAgent subsidiary), with Yujiro Kondo as Representative Director. The name embodies the wish to 'create content that adds color to life.' On April 1, 2024, as its parent Craft Egg was absorbed into CyberAgent, Colorful Palette became a direct subsidiary of CyberAgent, and in June 2024 it founded the subsidiary Colorful Palette ENCORE for live entertainment content. As of April 2025 it has 212 employees. Representative work: Project SEKAI COLORFUL STAGE! feat. Hatsune Miku. (Sources: Colorful Palette official site, SEGA Sammy Group reports, public encyclopedia references)

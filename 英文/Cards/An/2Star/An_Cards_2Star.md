@@ -1,0 +1,26 @@
+# Shiraishi An - 2Star
+
+## 基本信息
+
+- **Character**：Shiraishi An
+- **Category**：2Star
+- **Count**：9
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 38 | 2021-12-07 | Vivid BAD SQUAD | 2 | cool | I Recommend It! |  | https://storage.sekai.best/sekai-en-assets/character/member/res010_no002/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res010_no002/card_after_training.png |
+| 231 | 2022-06-10 | Last-Minute Dancer | 2 | happy | One Day On Our Own | An Ode for the Pure of Heart | https://storage.sekai.best/sekai-en-assets/character/member/res010_no008/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res010_no008/card_after_training.png |
+| 438 | 2023-05-20 | A Bit Of Frustration | 2 | pure | Unyielding Passion | THE POWER OF UNITY | https://storage.sekai.best/sekai-en-assets/character/member/res010_no015/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res010_no015/card_after_training.png |
+| 555 | 2023-12-11 | Limited Menu Survey! | 2 | mysterious | Weekend Garage Christmas | Find A Way Out | https://storage.sekai.best/sekai-en-assets/character/member/res010_no020/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res010_no020/card_after_training.png |
+| 733 | 2024-09-30 | Brand New Style | 2 | cute | Lunch Together |  | https://storage.sekai.best/sekai-en-assets/character/member/res010_no028/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res010_no028/card_after_training.png |
+| 772 | 2024-10-12 | Hop In! | 2 | pure | Dinner At The Shiraishis'! | Burn My Soul | https://storage.sekai.best/sekai-en-assets/character/member/res010_no029/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res010_no029/card_after_training.png |
+| 997 | 2025-09-10 | Have No Regrets | 2 | mysterious | Is It The Curse Of Rin & Len? | Get Fit & Fly! Muscle Training! | https://storage.sekai.best/sekai-en-assets/character/member/res010_no038/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res010_no038/card_after_training.png |
+| 1069 | 2026-01-11 | The Guy Behind Our Troubles | 2 | cute | Motivation Boost! | Time to Take Off! | https://storage.sekai.best/sekai-en-assets/character/member/res010_no041/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res010_no041/card_after_training.png |
+| 1184 | 2026-05-31 | Excited & Anxious | 2 | cool | Say YEAH! | Aim Higher and Higher! | https://storage.sekai.best/sekai-en-assets/character/member/res010_no044/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res010_no044/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

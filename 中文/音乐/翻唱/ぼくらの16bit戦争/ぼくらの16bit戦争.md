@@ -1,0 +1,15 @@
+# ぼくらの16bit戦争
+
+## 基本信息
+
+
+## 数据
+
+| 曲名 | 创作者 | 作词 | 作曲 | 编曲 | 实装日期 | 关联活动 | 分类 | 曲绘 | 试听音频 | 演唱版本 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| ぼくらの16bit戦争 | sasakure.UK | sasakure.UK | sasakure.UK | sasakure.UK(Gt 佐々木秀尚 Ba 二家本亮介(有形ランペイジ)) | 2025-04-25 |  |  | https://storage.sekai.best/sekai-cn-assets/music/jacket/jacket_s_249/jacket_s_249.png | https://storage.sekai.best/sekai-cn-assets/music/short/vs_0249_01/vs_0249_01_short.mp3 | 虚拟歌手ver. |
+
+
+## 数据来源
+
+数据来源：SEKAI master database 乐曲数据（官方文本）；音频／曲绘资源来自 SEKAI Viewer 资源库 storage.sekai.best。

@@ -1,0 +1,65 @@
+# MEIKO - Bonds
+
+## 基本信息
+
+- **Name**：MEIKO
+
+## 数据
+
+| Group ID | Partner |
+|---|---|
+| 10925 | Azusawa Kohane |
+| 10925 | Azusawa Kohane |
+| 11025 | Shiraishi An |
+| 11025 | Shiraishi An |
+| 11125 | Shinonome Akito |
+| 11125 | Shinonome Akito |
+| 11225 | Aoyagi Toya |
+| 11225 | Aoyagi Toya |
+| 12125 | Hatsune Miku |
+| 12125 | Hatsune Miku |
+| 12225 | Kagamine Rin |
+| 12225 | Kagamine Rin |
+| 12325 | Kagamine Len |
+| 12325 | Kagamine Len |
+| 12425 | Megurine Luka |
+| 12425 | Megurine Luka |
+| 12526 | KAITO |
+| 12526 | KAITO |
+| 10325 | Mochizuki Honami |
+| 10325 | Mochizuki Honami |
+| 10425 | Hinomori Shiho |
+| 10425 | Hinomori Shiho |
+| 11925 | Shinonome Ena |
+| 11925 | Shinonome Ena |
+| 12025 | Akiyama Mizuki |
+| 12025 | Akiyama Mizuki |
+| 10625 | Kiritani Haruka |
+| 10625 | Kiritani Haruka |
+| 11525 | Kusanagi Nene |
+| 11525 | Kusanagi Nene |
+| 11425 | Otori Emu |
+| 11425 | Otori Emu |
+| 10725 | Momoi Airi |
+| 10725 | Momoi Airi |
+| 11625 | Kamishiro Rui |
+| 11625 | Kamishiro Rui |
+| 10125 | Hoshino Ichika |
+| 10125 | Hoshino Ichika |
+| 10225 | Tenma Saki |
+| 10225 | Tenma Saki |
+| 10525 | Hanasato Minori |
+| 10525 | Hanasato Minori |
+| 10825 | Hinomori Shizuku |
+| 10825 | Hinomori Shizuku |
+| 11325 | Tenma Tsukasa |
+| 11325 | Tenma Tsukasa |
+| 11725 | Yoisaki Kanade |
+| 11725 | Yoisaki Kanade |
+| 11825 | Asahina Mafuyu |
+| 11825 | Asahina Mafuyu |
+
+
+## 数据来源
+
+数据来源：SEKAI master database（en 服官方文本）、各服官网。

@@ -1,0 +1,62 @@
+# Momoi Airi - Cards
+
+## 基本信息
+
+- **Name**：Momoi Airi
+- **Card Count**：46
+
+## 数据
+
+| Released | Card Name | Rarity | Attribute | Skill | Event |
+|---|---|---|---|---|---|
+| 2021-12-07 | Unyielding Idol Spirit | 1 | mysterious | Leave It To Me! |  |
+| 2021-12-07 | MORE MORE JUMP! | 2 | cute | Hide Your Face! |  |
+| 2021-12-07 | Follow Your Dreams! | 3 | pure | The Secret To Being An Idol! |  |
+| 2022-01-17 | Always Looking Ahead | 4 | cute | In Order To Be Ourselves! | Time to RE:START! |
+| 2022-02-26 | Sweet Moment | 4 | cool | Sore Loser? | My Color! |
+| 2022-04-15 | What I Can Do For Them | 2 | happy | I Won't Let You Experience What I Did | Hear Me! Hopeful Show♪ |
+| 2022-05-25 | Unyielding Indomitable Spirit | 4 | pure | Repaying My Best Friend | What's on your mind? Exciting Picnic! |
+| 2022-06-02 | Perfect Sweets | 2 | cool | You Just Gotta Relax Sometimes | You deserve it! Break Time! |
+| 2022-07-04 | To You Who Wants To Be An Idol | 4 | happy | A Promise To Myself |  |
+| 2022-07-21 | That's So Unfair! | 3 | happy | A Delicious Summer Festival | The Sounds of a Summer Festival! |
+| 2022-08-10 | Full Power! Happy Everyday! | 4 | mysterious | What I Gave Them | Happy Lovely Everyday! |
+| 2022-12-10 | Together With Our Fans! | 4 | mysterious | A Happy Debrief | MORE MORE Making Christmas |
+| 2023-01-31 | Baking Sweets In Secret | 4 | happy | Allies Forever! | Secret Operation Valentine's Day |
+| 2023-03-11 | Mysterious Heart Witch | 2 | mysterious | What's Behind These Three Leaves | Cast a Spell on You |
+| 2023-03-19 | Happy Birthday! | bd | pure | Four-Person Cake Cutting Ceremony♪ |  |
+| 2023-05-31 | Captivated By Cuteness | 3 | cute | Different Kinds Of Happiness | Wishing to the Blue Sky for Your Happiness! |
+| 2023-08-10 | The Strongest Idol Smile! | 4 | cool | A Soothing Foot Massage? | Chasing The Sparkle Beyond the Blue Sky |
+| 2023-10-11 | Solo Show Strategy Meeting! | 4 | cute | Pulling Off The Best Solo Show | Dear Me, From Back Then |
+| 2023-11-30 | Many Feelings Delivered | 4 | pure | Show Exactly Who We Are! | Beyond The Dream of That Day |
+| 2023-12-21 | Intro To Tea Ceremony | 3 | mysterious | Trying Tea Ceremony Together♪ | Raise Your Bow in a Snow-White World |
+| 2024-02-10 | Don't Push Yourself | 4 | happy | Unwavering Admiration | At The End of The Unraveled Thread |
+| 2024-03-19 | Happy Birthday! 2024 | bd | happy | Their Voices, My Feelings |  |
+| 2024-04-21 | Growing Distance | 4 | cute | Promised With Unchanging Feelings | Friendship Rebuilt |
+| 2024-06-20 | For A Bigger, Better Stream | 4 | cool | Fellow Dream Chasers | Step by Step! |
+| 2024-06-30 | I'm Excited Too | 2 | pure | Tales From The Road | An Unmissable Spirited Affair |
+| 2024-07-31 | Happy Snacker! | 4 | mysterious | Shopping Trip For Two♪ | Bustling Cafe ●REC! |
+| 2024-09-10 | Lots Of Love For My Junior | 2 | cute | Now It's My Turn! | Our Precious Memories |
+| 2024-09-30 | Brand New Style | 2 | mysterious | Senior Of Seniors |  |
+| 2024-10-31 | Special Free Time Snapshot! | 4 | cool | Thoughtful Moment | The Warmth of a Guiding Hand |
+| 2025-01-07 | Featuring My Melody | 4 | pure | A Friend Who's Cute And Sweet♪ |  |
+| 2025-02-20 | Service With A Smile | 3 | cool | Making Your Dreams Come True | From the Marks Left Behind |
+| 2025-02-28 | Even If Just With Words | 2 | happy | A Gift From MORE MORE JUMP! | Relaxing Tea Time |
+| 2025-03-19 | Happy Birthday! 2025 | bd | cool | When Did You Start Planning? |  |
+| 2025-05-09 | An Ordinary Moment | 4 | happy | My Idea Of An Idol | To One Day Reach that Flowery Stage |
+| 2025-06-10 | Pro Give And Take | 3 | happy | A Senior's Dignity | Lead to Shine More |
+| 2025-07-31 | Shine On Me | 4 | cute | Hungry For Opportunity | Chase My Ideal Idol! |
+| 2025-09-30 | A Song Of Courage | 4 | pure | Feelings About Costumes | Here on Our Dream Stage |
+| 2025-12-11 | One Of The Fans | 2 | cool | A Secret Between You And Me | Grow Glorious Glow |
+| 2025-12-31 | We're Matching♥ | 4 | cute | Blazing Variety Show Heart | Unfading Wishing |
+| 2025-04-28 | Let's Enjoy The Movie! | 2 | pure | Let's Go To Our Seats! |  |
+| 2026-02-10 | Cooking Stream Prep | 2 | mysterious | Simple & Nutritious Recipes | Rise and Strive |
+| 2026-03-10 | Cat Sister Mischief! | 4 | mysterious | The Thrilling Carnival Plan | You Are My Hero! |
+| 2026-03-19 | Happy Birthday! 2026 | bd | cute | Circle of Blessings |  |
+| 2026-05-23 | It Wasn't Enough | 4 | happy | A Gift Of Gratitude | Cheer With My Heart! |
+| 2026-07-23 | Airi's Beauty Salon | 3 | mysterious | MORE MORE TOUR! | Start Rolling! Stars' Crossing |
+| 2026-08-08 | Special Collab Stream! | 4 | mysterious | Because You Told Me | All Ways Jump! With You |
+
+
+## 数据来源
+
+数据来源：SEKAI master database（en 服官方文本）、各服官网。

@@ -1,0 +1,63 @@
+# Shinonome Akito - Cards
+
+## 基本信息
+
+- **Name**：Shinonome Akito
+- **Card Count**：47
+
+## 数据
+
+| Released | Card Name | Rarity | Attribute | Skill | Event |
+|---|---|---|---|---|---|
+| 2021-12-07 | Well-Known Big Shot | 1 | happy | A Little Surprised |  |
+| 2021-12-07 | Vivid BAD SQUAD | 2 | cute | You're Coming With Me |  |
+| 2021-12-07 | Bristling Irritation | 3 | happy | Crush Those Who Aren't Serious |  |
+| 2022-01-01 | Because We're Partners | 4 | cool | To Sing With You | Singing in Sync |
+| 2022-03-06 | Waiting For You | 4 | mysterious | Greatest Compliment | Nocturne Interlude |
+| 2022-05-17 | A Night Of Defeat | 4 | happy | The Presence Of Teammates | STRAY BAD DOG |
+| 2022-06-10 | Bask In Happiness | 3 | cool | Lead Dancer & Singer | An Ode for the Pure of Heart |
+| 2022-07-21 | Unchanging Summer Festival | 4 | cool | Still Playing Soccer | The Sounds of a Summer Festival! |
+| 2022-10-14 | A Choice To Be Proud Of | 2 | mysterious | As The Senior "Partner" | Bout for Beside You |
+| 2022-11-12 | Happy Birthday! | bd | cute | A Heart Pounding Jack-in-the-Box? |  |
+| 2022-12-20 | A Winter Evening Chat | 4 | pure | Camping With The Shinonomes | Same Dreams, Same Colors |
+| 2023-02-09 | Towards Legend | 2 | cool | Ironclad Resolve | The Legend Still Vivid |
+| 2023-02-28 | No Compromises When Making Chocolates | 4 | mysterious | A Dash Of Orange Zest | A Gentleman Thief's Thrilling White Day?! |
+| 2023-05-10 | There's No Time To Lose! | 3 | pure | All For A Peaceful Break? | The Climax! Kamiyama Cheer Squad! |
+| 2023-05-20 | Newfound Enthusiasm | 4 | cute | We Need More Pancakes?! | THE POWER OF UNITY |
+| 2023-07-11 | One-Act Morning Practice | 4 | mysterious | The Inaugural Footrace! | The Vivid Old Tale |
+| 2023-07-31 | With The Plushies | 3 | cute | Gunslinger Wolf & Panda | close game/OFFLINE |
+| 2023-09-20 | How We Each Spend Our Days Off | 2 | happy | A Day Without An And Kohane | Walk on and on |
+| 2023-09-30 | Those Wild Cheers | 4 | pure | Bond With An Old Friend | At This Festival Bathed in Twilight |
+| 2023-11-12 | Happy Birthday! 2023 | bd | pure | A Hectic But Exciting Day |  |
+| 2023-12-11 | The Reason For His Words | 4 | happy | The People Who Matter Are Watching | Find A Way Out |
+| 2023-12-31 | It's About The Journey | 2 | pure | If Another Chance Comes | Happy New Year! Lion Dance Robot's New Year's Show! |
+| 2024-02-19 | Strategy Meeting With Cheesecake | 4 | happy | An Appetizing Proposal | Kick It Up a Notch |
+| 2024-06-10 | No Way Out In Sight | 3 | mysterious | Rest Your Wings For Now | Light Up the Fire |
+| 2024-06-30 | Thirsting Wanderer | 4 | cute | What Cannot Be Lost |  |
+| 2024-08-10 | Outfit Assembler! | 4 | pure | True Meaning Made Clear | On Your Feet |
+| 2024-09-20 | Late-Night Learner | 2 | mysterious | A Donut Dose of Kindness | Let's Study Hard! |
+| 2024-09-30 | Brand New Style | 2 | cool | No Need To Change |  |
+| 2024-10-12 | Flame Passed On | 4 | cute | When All Is Said And Done | Burn My Soul |
+| 2024-11-12 | Happy Birthday! 2024 | bd | mysterious | Surprise Cheesecake |  |
+| 2024-11-30 | Committed Actor | 4 | pure | Until We Wrap It Up | Picture Perfect! |
+| 2025-01-07 | Featuring BAD BADTZ-MARU | 2 | cute | BAD DOG＆BAD BOY |  |
+| 2025-01-09 | Unyielding Resolve | 4 | cute | Coaching During Break Time | Break Down the Wall |
+| 2025-03-30 | Tag Terror | 4 | cool | The Trust We've Built | Rise as One! |
+| 2025-04-30 | I Won't Miss It Next Time | 2 | happy | Good Vibes | Whip Yourself into Shape! |
+| 2025-06-30 | Huddle Of Resolve | 4 | mysterious | Signs Of What's To Come | Over Rad Squad!! |
+| 2025-09-10 | Post-Competition Feast | 4 | happy | Back At The Obstacle Course | Get Fit & Fly! Muscle Training! |
+| 2025-10-21 | Burnout | 4 | cool | We'll See The World Together | Rekindle the Flame |
+| 2025-11-12 | Happy Birthday! 2025 | bd | happy | Sharing The Joy |  |
+| 2025-12-21 | White-Hot Snowball Fight! | 3 | pure | Another Snowball Fight, In SEKAI?! | Special Present for You! |
+| 2025-12-31 | Unexpected Farewell Gift | 4 | cute | The Year's First Test Of Luck | Unfading Wishing |
+| 2026-01-11 | The View From Up Above | 3 | mysterious | Souvenirs For Family | Time to Take Off! |
+| 2025-04-28 | Let's Enjoy The Movie! | 2 | pure | This Crepe Isn't Half Bad |  |
+| 2025-09-04 | Two Hearts' Resonant Roar | 4 | pure | Because We're Alike |  |
+| 2026-04-08 | Words I Never Thought I'd Hear | 4 | happy | Saved By Their Voices | Turning Pain Into Drive |
+| 2026-05-31 | The World In My Eyes | 3 | happy | Unified Early Start | Aim Higher and Higher! |
+| 2026-07-31 | Return To Regular Life | 2 | cute | An Orange Trap | Competitive Fire! |
+
+
+## 数据来源
+
+数据来源：SEKAI master database（en 服官方文本）、各服官网。

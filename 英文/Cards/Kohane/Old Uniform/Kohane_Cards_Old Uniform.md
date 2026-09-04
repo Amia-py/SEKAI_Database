@@ -1,0 +1,33 @@
+# Azusawa Kohane - Old Uniform
+
+## 基本信息
+
+- **Character**：Azusawa Kohane
+- **Category**：Old Uniform
+- **Count**：16
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 33 | 2021-12-07 | Tiny Timid Creature | 1 | pure | Phoenix Wonderland Mania |  | https://storage.sekai.best/sekai-en-assets/character/member/res009_no001/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no001/card_after_training.png |
+| 34 | 2021-12-07 | Vivid BAD SQUAD | 2 | mysterious | Never Miss A Photo Op |  | https://storage.sekai.best/sekai-en-assets/character/member/res009_no002/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no002/card_after_training.png |
+| 35 | 2021-12-07 | A Quick Breather | 3 | cool | Piping Hot |  | https://storage.sekai.best/sekai-en-assets/character/member/res009_no003/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no003/card_after_training.png |
+| 135 | 2022-01-01 | Once More, Together | 4 | cool | Watch My Back! | Singing in Sync | https://storage.sekai.best/sekai-en-assets/character/member/res009_no005/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no005/card_after_training.png |
+| 168 | 2022-03-06 | Gloomy Night | 3 | pure | Under A Clear Sky | Nocturne Interlude | https://storage.sekai.best/sekai-en-assets/character/member/res009_no006/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no006/card_after_training.png |
+| 199 | 2022-04-23 | Chasing After Everyone | 4 | pure | The Best Rookie? | Singing Among the Cherry Blossoms | https://storage.sekai.best/sekai-en-assets/character/member/res009_no007/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no007/card_after_training.png |
+| 215 | 2022-05-17 | Wanting To Grow Together | 3 | mysterious | Don't Forget About Schoolwork | STRAY BAD DOG | https://storage.sekai.best/sekai-en-assets/character/member/res009_no008/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no008/card_after_training.png |
+| 249 | 2022-07-12 | Awakening My Inner Strength | 4 | cute | Moving Forward Together | Awakening Beat | https://storage.sekai.best/sekai-en-assets/character/member/res009_no009/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no009/card_after_training.png |
+| 263 | 2022-08-01 | Sea Glass Full Of Feelings | 2 | cool | A New Singing Voice | The BEST Summer Ever! | https://storage.sekai.best/sekai-en-assets/character/member/res009_no010/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no010/card_after_training.png |
+| 319 | 2022-11-18 | A Secret Between Us | 4 | happy | Photo Op! | Time to hang out♪ | https://storage.sekai.best/sekai-en-assets/character/member/res009_no012/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no012/card_after_training.png |
+| 345 | 2022-12-20 | Warm Camping Style | 2 | cute | Card Battle! | Same Dreams, Same Colors | https://storage.sekai.best/sekai-en-assets/character/member/res009_no013/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no013/card_after_training.png |
+| 373 | 2023-02-09 | The "Legend" We Came To Know | 4 | mysterious | Songs Changing What I See | The Legend Still Vivid | https://storage.sekai.best/sekai-en-assets/character/member/res009_no015/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no015/card_after_training.png |
+| 435 | 2023-05-20 | I Got Praised♪ | 4 | cute | The Town, Air And Atmosphere | THE POWER OF UNITY | https://storage.sekai.best/sekai-en-assets/character/member/res009_no017/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no017/card_after_training.png |
+| 444 | 2023-05-31 | Pretty Bridesmaid | 2 | happy | Between Shoots | Wishing to the Blue Sky for Your Happiness! | https://storage.sekai.best/sekai-en-assets/character/member/res009_no018/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no018/card_after_training.png |
+| 466 | 2023-07-11 | Lemonade Break♪ | 3 | happy | Let's Explore The City! | The Vivid Old Tale | https://storage.sekai.best/sekai-en-assets/character/member/res009_no019/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no019/card_after_training.png |
+| 505 | 2023-09-20 | Midnight Making | 4 | cool | Gathering Up The Excitement I Felt | Walk on and on | https://storage.sekai.best/sekai-en-assets/character/member/res009_no020/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no020/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

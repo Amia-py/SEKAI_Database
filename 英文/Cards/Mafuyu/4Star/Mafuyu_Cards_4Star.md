@@ -1,0 +1,41 @@
+# Asahina Mafuyu - 4Star
+
+## 基本信息
+
+- **Character**：Asahina Mafuyu
+- **Category**：4Star
+- **Count**：24
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 114 | 2021-12-16 | Captive Masquerade | 4 | cool | First Feeling | Imprisoned Marionette | https://storage.sekai.best/sekai-en-assets/character/member/res018_no005/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no005/card_after_training.png |
+| 176 | 2022-03-22 | Thrown Words | 4 | happy | There Is No "I Can't" | Insatiable Pale Color | https://storage.sekai.best/sekai-en-assets/character/member/res018_no007/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no007/card_after_training.png |
+| 196 | 2022-06-07 | Dive Into Me | 4 | pure | Touching Knowledge |  | https://storage.sekai.best/sekai-en-assets/character/member/res018_no008/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no008/card_after_training.png |
+| 239 | 2022-06-26 | Break Into A Smile | 4 | mysterious | Caramel Chocolates | Carnation Recollection | https://storage.sekai.best/sekai-en-assets/character/member/res018_no010/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no010/card_after_training.png |
+| 284 | 2022-09-20 | Memories Of Warm Affection | 4 | happy | So That I Never Forget Again | Mirage of Light | https://storage.sekai.best/sekai-en-assets/character/member/res018_no012/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no012/card_after_training.png |
+| 324 | 2022-11-29 | Under The First Snow | 4 | cute | What Miku Means To Me | The Warmth of Intersecting Melodies | https://storage.sekai.best/sekai-en-assets/character/member/res018_no014/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no014/card_after_training.png |
+| 362 | 2023-01-21 | Elpis At The Depths Of Despair | 4 | pure | Keeping That Promise | Someday, From the Depths of Despair | https://storage.sekai.best/sekai-en-assets/character/member/res018_no015/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no015/card_after_training.png |
+| 445 | 2023-06-10 | In The Warmth Of Glowing Dusk | 4 | cool | A Blinding Sight | What Lies Beyond Guiding a Lost Child | https://storage.sekai.best/sekai-en-assets/character/member/res018_no018/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no018/card_after_training.png |
+| 488 | 2023-08-20 | Distant Warmth | 4 | cute | Being The "Older Girl" | And Now, I Wear This Ribbon | https://storage.sekai.best/sekai-en-assets/character/member/res018_no019/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no019/card_after_training.png |
+| 511 | 2023-09-30 | Gentle Magic Words | 4 | pure | Eating Crepes Together | At This Festival Bathed in Twilight | https://storage.sekai.best/sekai-en-assets/character/member/res018_no020/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no020/card_after_training.png |
+| 542 | 2023-11-20 | A Somewhat Different Dinner Table | 4 | mysterious | I Want To Stay A While... | Hope Will Someday Go Beyond the Morning | https://storage.sekai.best/sekai-en-assets/character/member/res018_no021/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no021/card_after_training.png |
+| 557 | 2023-12-21 | A Stillness Only You Know | 4 | cute | What Grows In Silence | Raise Your Bow in a Snow-White World | https://storage.sekai.best/sekai-en-assets/character/member/res018_no022/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no022/card_after_training.png |
+| 637 | 2024-04-30 | Walls Closing In | 4 | cool | Late Nights, But Alone | We Escape to Survive | https://storage.sekai.best/sekai-en-assets/character/member/res018_no025/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no025/card_after_training.png |
+| 677 | 2024-07-11 | How I Really Feel | 4 | mysterious | Walk Of Resolve | Farewell, My Mask | https://storage.sekai.best/sekai-en-assets/character/member/res018_no027/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no027/card_after_training.png |
+| 786 | 2024-11-08 | Like A Heart In My Hands | 4 | mysterious | A Hot Meal | Searching for Sunken Shadows | https://storage.sekai.best/sekai-en-assets/character/member/res018_no029/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no029/card_after_training.png |
+| 834 | 2024-12-20 | The Truth Comes Out | 4 | happy | Believing It's For The Best | The Way I Played That Day | https://storage.sekai.best/sekai-en-assets/character/member/res018_no031/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no031/card_after_training.png |
+| 880 | 2025-02-28 | Bubbles Of Solace | 4 | happy | Lingering, Fleeting Feelings | Relaxing Tea Time | https://storage.sekai.best/sekai-en-assets/character/member/res018_no034/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no034/card_after_training.png |
+| 904 | 2025-04-10 | Leisurely Preparations | 4 | pure | Lingering Light | Knowing the Unseen | https://storage.sekai.best/sekai-en-assets/character/member/res018_no035/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no035/card_after_training.png |
+| 943 | 2025-06-20 | A Warm Hand | 4 | pure | The Gift Of A Simple Moment | A Light Drawn Closer | https://storage.sekai.best/sekai-en-assets/character/member/res018_no036/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no036/card_after_training.png |
+| 988 | 2025-08-31 | Cat-Eared Guide | 4 | cool | Another Participant | Wonderhorror?! A Test of Courage! | https://storage.sekai.best/sekai-en-assets/character/member/res018_no038/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no038/card_after_training.png |
+| 1105 | 2026-01-31 | In A Silent Library | 4 | happy | To Show Appreciation | Warmth in Every Stitch | https://storage.sekai.best/sekai-en-assets/character/member/res018_no043/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no043/card_after_training.png |
+| 1140 | 2026-03-20 | Desolate Kitchen | 4 | cool | Internal Turmoil | Unreliable Notes | https://storage.sekai.best/sekai-en-assets/character/member/res018_no044/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no044/card_after_training.png |
+| 1162 | 2026-04-30 | A Period Of Warmth | 4 | mysterious | Here In Spirit | The Stopped Hand Moves Once More | https://storage.sekai.best/sekai-en-assets/character/member/res018_no045/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no045/card_after_training.png |
+| 1186 | 2026-06-09 | A Pair Of Smiles | 4 | cute | Putting The Pieces Together | In an Ephemeral Embrace | https://storage.sekai.best/sekai-en-assets/character/member/res018_no046/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no046/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

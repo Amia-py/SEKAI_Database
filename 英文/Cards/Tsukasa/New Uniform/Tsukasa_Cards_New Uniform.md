@@ -1,0 +1,33 @@
+# Tenma Tsukasa - New Uniform
+
+## 基本信息
+
+- **Character**：Tenma Tsukasa
+- **Category**：New Uniform
+- **Count**：16
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 523 | 2023-10-21 | A Rush Of Excitement | 4 | cool | Jotting Down Idiosyncrasies | A Sad Farewell at the Curtain Call | https://storage.sekai.best/sekai-en-assets/character/member/res013_no019/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no019/card_after_training.png |
+| 574 | 2024-01-10 | Never Give Up | 3 | pure | A Fruitful Workshop | To The Gleaming Stars Halfway Through a Dream | https://storage.sekai.best/sekai-en-assets/character/member/res013_no021/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no021/card_after_training.png |
+| 606 | 2024-03-11 | In Tearful Eyes, An Immortal Bird | 4 | cute | Watch, Even As It Blinds You | The Phoenix in the Distant Sky | https://storage.sekai.best/sekai-en-assets/character/member/res013_no022/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no022/card_after_training.png |
+| 652 | 2024-05-20 | One Foot In Front Of The Other | 2 | mysterious | Showdown! Robo-Phoenix | The Song of a Canary in Crisis | https://storage.sekai.best/sekai-en-assets/character/member/res013_no024/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no024/card_after_training.png |
+| 704 | 2024-08-21 | Words Of Thanks | 2 | cool | The Last Morning | Our Happy Ending | https://storage.sekai.best/sekai-en-assets/character/member/res013_no026/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no026/card_after_training.png |
+| 722 | 2024-09-20 | Leave It To Me! | 3 | pure | Listen Carefully | Let's Study Hard! | https://storage.sekai.best/sekai-en-assets/character/member/res013_no027/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no027/card_after_training.png |
+| 736 | 2024-09-30 | Brand New Style | 2 | pure | Restoring My Reputation |  | https://storage.sekai.best/sekai-en-assets/character/member/res013_no028/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no028/card_after_training.png |
+| 791 | 2024-11-22 | A Small Friend With A Big Part | 4 | mysterious | Pushed On By That Memory | Star of Your Own Story | https://storage.sekai.best/sekai-en-assets/character/member/res013_no030/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no030/card_after_training.png |
+| 857 | 2025-01-23 | Meat Gives You Energy! | 3 | cute | Even Loving Flowers Takes Effort | Backlight, Lens Flare | https://storage.sekai.best/sekai-en-assets/character/member/res013_no032/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no032/card_after_training.png |
+| 928 | 2025-05-23 | Sprinting For Stardom! | 4 | cute | Historical Drama Discussion | Perspective for Smile | https://storage.sekai.best/sekai-en-assets/character/member/res013_no036/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no036/card_after_training.png |
+| 956 | 2025-07-09 | A Moment All Its Own | 4 | pure | Stop Your Running!!! | Halt! Tenma's on the Case | https://storage.sekai.best/sekai-en-assets/character/member/res013_no037/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no037/card_after_training.png |
+| 995 | 2025-09-10 | Training With A Buddy! | 4 | happy | SEKAI Water Footrace! | Get Fit & Fly! Muscle Training! | https://storage.sekai.best/sekai-en-assets/character/member/res013_no038/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no038/card_after_training.png |
+| 1032 | 2025-11-10 | Souvenir Excitement | 2 | cute | What's The Snack Budget? | As the Leaves Change Once More | https://storage.sekai.best/sekai-en-assets/character/member/res013_no039/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no039/card_after_training.png |
+| 1037 | 2025-11-20 | Lessons With Kikyogumi | 3 | cute | New Challenges, New Experiences | The Power of Regret | https://storage.sekai.best/sekai-en-assets/character/member/res013_no040/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no040/card_after_training.png |
+| 1133 | 2026-03-10 | From One Hero To Another | 4 | mysterious | My Little Partner | You Are My Hero! | https://storage.sekai.best/sekai-en-assets/character/member/res013_no043/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no043/card_after_training.png |
+| 1160 | 2026-04-22 | Arresting Poise | 2 | cool | Passion All Around | Choices for the Future | https://storage.sekai.best/sekai-en-assets/character/member/res013_no044/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no044/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

@@ -1,0 +1,24 @@
+# Mochizuki Honami - 3Star
+
+## 基本信息
+
+- **Character**：Mochizuki Honami
+- **Category**：3Star
+- **Count**：7
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 11 | 2021-12-07 | Unchanging Flavor | 3 | happy | So Close, Yet So Far |  | https://storage.sekai.best/sekai-en-assets/character/member/res003_no003/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res003_no003/card_after_training.png |
+| 112 | 2021-12-08 | Rest Well | 3 | pure | Etoile By The Window | First Star After the Rain | https://storage.sekai.best/sekai-en-assets/character/member/res003_no005/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res003_no005/card_after_training.png |
+| 247 | 2022-07-04 | Thinking About Friends | 3 | cool | I'm Sure She'll Understand | Unnamed Harmony | https://storage.sekai.best/sekai-en-assets/character/member/res003_no010/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res003_no010/card_after_training.png |
+| 515 | 2023-09-30 | Getting Our Name Out There | 3 | cute | I Have To Get The Others! | At This Festival Bathed in Twilight | https://storage.sekai.best/sekai-en-assets/character/member/res003_no022/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res003_no022/card_after_training.png |
+| 586 | 2024-01-31 | Beyond A Smile | 3 | mysterious | For Everyone's True Feelings | Memories That Come With The Scent of Candles | https://storage.sekai.best/sekai-en-assets/character/member/res003_no026/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res003_no026/card_after_training.png |
+| 686 | 2024-07-21 | With All Our Supporters | 3 | happy | We're Going Shopping! | Our Constellation of Song | https://storage.sekai.best/sekai-en-assets/character/member/res003_no029/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res003_no029/card_after_training.png |
+| 1001 | 2025-09-20 | Discovering The Joys Of Drumming | 3 | cool | A Leader's Duty | This Moment With You! | https://storage.sekai.best/sekai-en-assets/character/member/res003_no039/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res003_no039/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

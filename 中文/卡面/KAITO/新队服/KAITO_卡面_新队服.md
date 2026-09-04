@@ -1,0 +1,50 @@
+# KAITO - 新队服
+
+## 基本信息
+
+- **角色**：KAITO
+- **分类**：新队服
+- **数量**：33
+
+## 数据
+
+| 卡面ID | 实装日期 | 卡名 | 星级 | 属性 | 技能 | 关联活动 | 特训前图片 | 特训后图片 |
+|---|---|---|---|---|---|---|---|---|
+| 105 | 2024-01-01 | 凉爽的蓝色旋律 | 1 | cute | 歌曲的存在感 |  | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no001/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no001/card_after_training.png |
+| 106 | 2024-01-01 | 奇幻乐园「世界」 | 2 | cute | 向着最精彩的演出而努力 |  | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no002/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no002/card_after_training.png |
+| 107 | 2024-01-01 | 剧团成员招募中！ | 3 | cool | 当团长好辛苦！ |  | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no003/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no003/card_after_training.png |
+| 121 | 2024-01-01 | 和迷茫的人谈心 | 4 | happy | 引导者 | 全力以赴！奇幻万圣节！ | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no006/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no006/card_after_training.png |
+| 140 | 2024-01-01 | 秘密的演技指导 | 4 | mysterious | 再次体会那份感动 | 神山高校校园庆典！ | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no007/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no007/card_after_training.png |
+| 214 | 2024-01-01 | 开朗DJ现身？ | 4 | happy | 坚持与热情 | STRAY BAD DOG | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no008/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no008/card_after_training.png |
+| 236 | 2024-01-01 | 柴郡猫与微笑 | 2 | cool | 笑容与笑容相连 | 奇幻魔法表演时间！ | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no009/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no009/card_after_training.png |
+| 272 | 2024-01-01 | 团长的休假日 | 3 | happy | 实现的愿望 | 对美人鱼充满憧憬 | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no010/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no010/card_after_training.png |
+| 280 | 2024-01-01 | 诉诸于音乐的合奏 | 4 | mysterious | 开启崭新的大门 | Knock the Future!! | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no011/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no011/card_after_training.png |
+| 333 | 2024-01-01 | 偶像兼经纪人？！ | 3 | pure | 值得大家依靠的大哥 | MOREMOREMakingXmas | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no012/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no012/card_after_training.png |
+| 382 | 2024-01-01 | 不太习惯的热闹景象 | 4 | pure | 不会尴尬的距离感 | 那一天，天空遥不可及 | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no015/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no015/card_after_training.png |
+| 436 | 2024-01-01 | 大家都能变成美味的松饼！ | 4 | cute | VS Vivid BAD SQUAD？！ | THE POWER OF UNITY | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no017/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no017/card_after_training.png |
+| 472 | 2024-01-01 | 直面心愿之歌 | 3 | cool | 最有音乐方面的发言权？ | No seek No find | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no018/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no018/card_after_training.png |
+| 506 | 2024-01-01 | 这不就是执着吗？ | 4 | cool | 万事都需挑战一下 | Walk on and on | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no019/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no019/card_after_training.png |
+| 521 | 2024-01-01 | 可靠的前辈们 | 2 | pure | 牢牢记住闪耀的身姿 | 致过去的我 | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no020/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no020/card_after_training.png |
+| 539 | 2024-01-01 | 用演奏鼓励 | 2 | mysterious | 畅谈MV拍摄 | Echo my melody | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no021/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no021/card_after_training.png |
+| 558 | 2024-01-01 | 改成什么样比较好呢？ | 4 | cute | 挑战服装改造设计！ | 在纯白世界拉弓引箭 | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no022/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no022/card_after_training.png |
+| 615 | 2024-01-01 | 冲动的显现 | 3 | cute | 被叫来的原因 | 难以弥合·分歧 | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no025/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no025/card_after_training.png |
+| 633 | 2024-01-01 | 相信不会消失的感情 | 3 | happy | 为善良的你打气 | Re-tie Friendship | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no026/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no026/card_after_training.png |
+| 650 | 2024-01-01 | 相信支持的力量 | 4 | pure | 庆祝就要上演特别演出 | 金丝雀于绝境中高歌 | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no027/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no027/card_after_training.png |
+| 685 | 2024-01-01 | 守望至今的轨迹 | 4 | cool | 寄托心愿 | 相联的，星星之歌 | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no028/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no028/card_after_training.png |
+| 712 | 2024-01-01 | 秘密的期望 | 2 | happy | 希望不要忘记 | 响彻「世界」！Your Song | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no029/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no029/card_after_training.png |
+| 749 | 2025-02-28 | Origin Style | 2 | pure | 在欢声中感受幸福 |  | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no030/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no030/card_after_training.png |
+| 759 | 2025-02-28 | Brand New Wonderland | 2 | happy | KAITO慰劳会？！ |  | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no031/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no031/card_after_training.png |
+| 835 | 2024-01-01 | 不容忽视的心愿 | 4 | happy | 某人和某人关系不和？ | 将那天，演奏的音乐 | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no034/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no034/card_after_training.png |
+| 869 | 2024-01-01 | 你赞成哪一方？！ | 4 | cool | “打比方”的天才？！ | 勇敢引导，温柔在心 | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no035/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no035/card_after_training.png |
+| 888 | 2025-04-18 | 守望至今的心愿 | 2 | pure | 突如其来的消息 | 向着星星，启航！ | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no037/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no037/card_after_training.png |
+| 893 | 2024-01-01 | 提供支持 | 3 | mysterious | 想说一句“辛苦了” | The first concerto | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no038/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no038/card_after_training.png |
+| 940 | 2025-06-22 | 为了献上最精彩的表演 | 4 | cool | 做好心理准备了吗？ | Lead to shine more | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no040/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no040/card_after_training.png |
+| 1013 | 2025-10-11 | 冰冷的争执 | 4 | cute | 凋落的花 | 荆棘之路通往何处 | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no042/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no042/card_after_training.png |
+| 1019 | 2025-10-21 | 对追求“热情”的你 | 3 | pure | 墙的另一端，开辟的道路 | Rekindle the flame | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no043/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no043/card_after_training.png |
+| 1158 | 2026-04-22 | 体贴的笑容 | 4 | mysterious | 选择相信努力的方向 | Choices for the future | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no048/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no048/card_after_training.png |
+| 1211 | 2026-07-23 | 「世界」的偶像粉丝 | 2 | cool | 沉迷的心情 | start rolling! stars' crossing | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no050/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res026_no050/card_after_training.png |
+
+
+## 数据来源
+
+数据来源：SEKAI master database 卡面数据（官方文本）；图片来自 SEKAI Viewer 资源库 storage.sekai.best。

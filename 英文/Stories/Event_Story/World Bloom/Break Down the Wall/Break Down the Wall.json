@@ -1,0 +1,4502 @@
+{
+ "title": "World Bloom — Break Down the Wall",
+ "meta": {
+  "Event": "Break Down the Wall",
+  "Event Type": "world_bloom",
+  "Episodes": 10,
+  "Outline": "Vivid BAD SQUAD continue their intensive training, set on surpassing RAD WEEKEND. But one day in the Street SEKAI, a new area suddenly appears: an unfamiliar plaza, in which stands a huge wall..."
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Live House",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Backstage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Alright.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Like I was saying on the way over, this live house is on the same level as Rodin, where you all performed the other day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Not only that, some of the teams you're going to see are signed to major labels. Get ready for a tough battle.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "That being said...\nI believe you all have what it takes to win now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, we will.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Like Akito said to the entire city, we're gonna surpass RAD WEEKEND during our next event. This is all for that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Then, give it absolutely everything you've got. Leave nothing behind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Everyone",
+   "Line": "Right!\nGot it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "<Next up, we've got Vivid BAD SQUAD!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00019_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "There's our cue...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Alright, you guys, show them what you've got! I'll do the same when I go next!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah! We're gonna give it everything we've got!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Then, let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An, Kohane & Toya",
+   "Line": "Yeah!\nOkay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00019_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00035",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend Garage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Whew!\nTalk about an exhausting day!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm tired too...\nAll the other teams were so good...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But I'm really glad we still won.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I couldn't believe it when they couldn't decide on a winner and asked us to sing another song... But that might've been our best performance yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I still can't believe how good you guys have become. I mean, you went toe-to-toe with an amazing team like them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You say that, but try not to forget that you also went all out today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Well, I figure I at least need to match you guys for passion... Since I can't match your skill, and I need to do everything I can to catch back up to you after being out of action for so long.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, we'll be counting on you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, Dad, that reminds me.\nAbout practice after this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Yeah, sorry.\nI completely forgot that I have to go meet with the owner of COL...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "You've all had a pretty taxing day, so why don't you all call it a day here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Use this time to do whatever you like.\nYou can practice by yourselves, work on those tasks I assigned all of you or do something else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay, got it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Alright, just try not to push yourselves too hard.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_005_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Okay, now what?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'd like to work on my task...\nBut my pitch today during the chorus is still bothering me. I think I'd like to practice that part first.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay!\nWhat are you gonna do, Kotaro?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I'm gonna head back and practice on my own. My little brother's been asking me to come home early when I can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. Your little brother must love you very much. I hope you two get to spend a lot of time together today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Me too! So, I'll see you guys tomorrow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_005_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Then, I'll take a short break before practicing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Hey, you guys!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hm? That sounded like...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I had a feeling it was you, Len.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Oh, you're all here!\nAre you guys free to talk right now?!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "S-Sure.\nBut why the hurry? What's wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<So, the thing is...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<SEKAI has a new area!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An, Toya & Akito",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "A new...area?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00258",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "???",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "There! Look!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00134_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Whoa...! This is so cool!\nIt's like a big plaza!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "You're right...\nThis place is completely new...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It's huge. And it just appeared overnight?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Over here, you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hi, Rin!\nOh, everyone's with you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So, what's the deal with this place...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "We're still not sure either.\nLuka just brought us over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I see.\nBut how or why did just appear like this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hmm... I can't say for sure...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "But your feelings may have something to do with it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So, our feelings created this new area? Is that actually possible...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "SEKAI was born out of your feelings, so it doesn't seem like too much of a stretch to say that strong feelings can cause it to transform.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Transform...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But our feelings haven't changed that much or anything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah.\nOur goal's still the same.\nTo surpass RAD WEEKEND...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "True...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, but taking a look around may help us figure out what feelings went into this place being created. After all, those feelings should manifest in some way in SEKAI!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What feelings went into this place...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(The plaza's so big...\nThere's a lot of graffiti on the walls—)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Find something, Kohane?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, um...\nIt's just that the wall of that big building over there seemed a little funny.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, it is a bit odd...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Most of it is covered in flyers and graffiti, but the middle is completely devoid of anything for some reason...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Almost like there's a hole in it.\nBut why...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, it is kinda weird, but we don't have enough information to work with right now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So, why don't we try searching for clues somewhere else?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I agree. We should get the lay of the land first... We can start with one of these alleyways.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh... Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00211",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Alleyway",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Whoa!!\nThis place is totally different from the streets we're used to!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah.\nIt's like we're suddenly overseas...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, this resembles the streets of Boston.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "It does?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes.\nWhen I was little, my dad held a concert over there and I got to go with him. This is very similar to what I saw that time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...\nNow that you mention it, one of the other alleys I saw from the plaza looked like a street in Mexico I saw in a book of photos when I was little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Then, does that mean we're standing in the middle of a collection of streets from around the world...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "That may be significant.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "It's so cool how we get to see all these different sights! Let's keep exploring, you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hey, Len, wait up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "It isn't safe to rush like that, you two.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "*Sigh*\nThey never change.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len's Voice",
+   "Line": "Huh?!\nWh-What is this thing?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...?!\nWhat happened?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin's Voice",
+   "Line": "E-Everyone, come here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin's Voice",
+   "Line": "There's a huge wall blocking the way!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00678",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Whoa...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I-It's so big...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "There's plenty of buildings around here...\nBut this wall's taller than all of them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "And it looks very sturdy.\nNo windows or passageways either. Almost like a castle wall.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But why's this path blocked?\nThere's no way ahead.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hmm...\nWanna try finding a way around it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes.\nThere were many ways out of the plaza, so one will surely take us around this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Then, let's try that side alley over there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I wasn't expecting to find another giant wall here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I just tried one of the other alleys, but it was also blocked by a wall!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Could it be that all these alleyways are blocked by this one wall?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "So, we won't be able to see what's on the other side? I was hoping to see if we could find out what feelings went into making this place...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Still, what's with this wall?\nThey don't seem natural at all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I agree.\nIt's as if it suddenly sprang up to block our way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Did this wall also come from our feelings?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I mean, it's pretty prominent.\nWhy else would it exist, you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Right... Yes, that might be worth keeping in mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But what sort of feelings would lead to this wall being created...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "If I recall correctly, it's common for walls to appear in a person's dreams when they're feeling stressed or pressured in some way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I guess we might be feeling some pressure lately... We did say that we're going to surpass RAD WEEKEND no matter what.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hmm... Which means...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "This wall...\nIt represents how we feel about RAD WEEKEND...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, that is a distinct possibility.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It makes sense if you think how huge it is, like no one could ever even think to try getting over it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "These streets from around the world may also be relevant to that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Remember what you said you're going to do after you surpass RAD WEEKEND?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh...!\nRight...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We're gonna go beyond Aunt Nagi's dream. In other words...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We're gonna stand on top of the world...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00259",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I don't know for sure, but that's my guess.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "If we do manage to surpass RAD WEEKEND, then we'll be able to see even more of SEKAI on the other side of this wall?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah!\nThat's gotta be it!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I'm starting to like this place.\nAll your dreams have a tangible shape here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Alright!\nNow that we know what kind of feelings helped produce this place, let's try exploring all these alleys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, nice idea!\nStrolling around streets from around the world is bound to be fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, we can visit all those streets and visualize what it'll be like when we take on the world!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Then, let's take a walk.\nI do wanna go back and check out that last alley.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Me too.\nI'm still curious about the one I spotted from the plaza earlier.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, there's also one that caught my eye...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hmm... Checking out all of them is gonna take pretty long, so why don't we split up and meet back in the plaza later?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Sounds good. That way, we'll still be able to have practice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Then, let's give ourselves thirty minutes to explore and meet back in the plaza afterwards.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_street_op1",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00258",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Alleyway",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00171_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wow...!\nThis alley looks totally different from the last one!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, you're right.\nThis looks a lot like a street from Argentina.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh? What makes you say that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I vaguely remember seeing a place like this a few times on TV when I was a kid...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "And...\nThere's another one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Another alley, another wall.\nAnd it's so big...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah.\nIt looks just as sturdy as the other ones we saw.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00687",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...?\nSomething's rolling towards us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "A soccer ball...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What's this doing in SEKAI?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Len, isn't that the soccer ball Akito gave you that time?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hmm... No, I don't think so.\nI didn't bring it with me, and I don't recognize these stains.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Then...\nDoes that mean someone's feelings also made this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "This too...?\nIs there anything our feelings can't make?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Wait, Akito, I bet this was made out of your feelings!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh? Mine?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yeah!\nBecause you used to play soccer!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "How does that lead to this soccer ball?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Because... Oh!\nBecause you love playing soccer so much?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I think you're grasping at straws.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But it probably has to do with you, right? I don't think Kohane and the others used to play soccer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, true...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Still... What kind of feelings could have made it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, I know!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "What if we played soccer together?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Playing with it might help shake some things loose in your mind!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Also, I've been wanting to try playing soccer for a while now! Len always looks like he's having so much fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wait, that sounds like your actual goal here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "That's just the way Rin is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But if there is a chance that playing soccer will help you realize something, then it might be worth a try!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yay!\nTake my pass, Akito!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00683",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Got it...!\nSo we're really doing this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00679",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I still don't think playing soccer here is gonna help. Exploring the other alleys seems like the better option.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah, I get that!\nBut let's keep playing for a bit!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Akito, pass me the ball!\nGot it. Now, check out my...tornado shot!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00679",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "All you're doing is raising your leg a little higher than normal.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00686",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Whoa, hey!\nThe ball flew way over there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh no!\nI'm really sorry, Akito! Can you go get it?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, fine...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "The flier on that wall over there.\nWhy does it look so familiar...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Isn't this from...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What's this doing here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Akito, what's wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh...\nI just found this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh? A flyer...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, for an event I performed in way back when.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wait, but...\nI don't see “Vivid BAD SQUAD” written anywhere.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Well, it did happen a long time ago.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "This was from back when I was in middle school. I entered by myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh...!\nYou mean the thing that Luka and the others mentioned the other day...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah...\nThe event where I dragged Crawl Green's name through the mud...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wait a second...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What if my painful emotions from back then are manifesting in SEKAI?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Before I started singing, I played soccer... But I hit a huge wall.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "And now I've found a flyer of an event where I messed up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Come to think of it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I've messed up a lot.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(The first time was with soccer when I got shown just how unprepared I really was.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Then, I saw RAD WEEKEND.\nI decided to start singing instead, but it didn't go as planned. One dumb argument led to me dragging that place's name through the mud.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(After that, I met Toya and started practicing like there was no tomorrow. Even then, everyone kept making fun of us.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I managed to finally get this far... But I fell at so many hurdles.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "In that respect, Akito, you're an amazing person.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh?\nWhere's this coming from all of a sudden?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Because you always keep trying no matter how hard things get...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "And now, your singing's so good it reignited all of Vivid Street!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Which makes you...an amazing person!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Praise me all you want...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "But I think Len's right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I mean, if I went through what you did, I'd probably have given up the first chance I could!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Exactly!\nNot giving up is really hard!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "And you never did.\nYou just kept blazing your own trail.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Again, that's really amazing...and really cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Cool, huh...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I've never really thought of it that way.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I didn't think I had any other choice is all.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I couldn't quit. I couldn't show any weakness. Not after I decided I was gonna surpass that night. I'd never have forgiven myself if I did...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Which is why I can't see myself as being “cool”.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I mean, I've gotten better, but I'm still nowhere near my goal...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(However...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000239",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I was able to sing with absolutely everything I had that time.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Which helped me figure out how to make everyone realize that we're serious...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I feel like I'm finally on the same level as them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(So...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Len might not be wrong.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "What the...?\nHey, Akito, check out the wall!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hm? What happened?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "There's a big empty white box on it now! It wasn't there a second ago!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah, he's right!\nAlso...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hmm... Is it just me, or does it look like a soccer goal?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "A goal?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, it's about the right size...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(But why's a drawing of a goal appearing instead of an actual one?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(It's like it wants me to kick the ball at that spot.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Len, pass that ball to me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh? Why?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "To give it the attention it deserves.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00242",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I thought this flyer and ball appeared because of what I felt in the past.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(But I might've been wrong.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I kept trying in the face of pain.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I kept pushing forward despite what I was feeling. I was determined to succeed.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(And that determination is what's manifesting here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Including that goal.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(All the times I messed up, all that pain...\nIt's telling me to take what I felt and use it to break down this wall.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000272",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I know I'm gonna come across more walls in the future.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But they won't stop me.\nI'll always find a way through.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "That's why I'm gonna keep doing everything I can to make that happen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Alright, Akito, it's your ball!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00683",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00679",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00681",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Whoa...!\nYou did a tornado shot!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "No, that was just a regular mid-range shoot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But it was so fast! That was really cool, Akito!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, quit exaggerating...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_breakdown_2024_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hm...?\nHey, did you guys hear that just now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It sounded like something hard just cracked...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Look! There's a crack in the wall!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "She's right!\nAkito, did you actually do a tornado shot?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "No, there's no way I kicked it that hard!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "But it's definitely a crack...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What the heck's going on...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_street_ed1",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_street_op2",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00258",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Alleyway",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, this one looks really pretty!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, it is.\nI'm reminded of the streets in Hamburg.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Did your dad also do a concert there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, a number of times.\nHowever, this feels more downtown than the streets I walked on then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Wow, really?\nOh!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Look at all the flyers on the walls!\nThey're so fun and colorful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, they are.\nTheir designs are interesting and... Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...!\nThis is...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "What's that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It's a flyer for Gurney flap...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "G-Gurney...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, that's the name of Tono and Soma's team...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Really! I didn't know that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But what's their flyer doing here in SEKAI...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(On closer inspection, it seems only their team name is written here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(There's no information regarding when or where it is, or who else is performing. Not only that, it's starting to fall off.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(What if this means...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00215",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Is something wrong, Toya?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "“What if Tono isn't coming back...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "“What if Soma stops making new songs for him...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "This may be a product of those thoughts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "It's true that anxieties like that could also manifest themselves here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(When I visited Soma in the hospital after Tono disappeared...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Those thoughts ran through my head.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I was worried that I'd never see Tono sing Soma's songs again.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(At the same time...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I still believe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "In Tono. In Soma.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Toya...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "A little while back, KAITO, you told me that we share some similarities with Soma and Tono...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "You said you saw similarities in how he cares about his partner very much and seems very serious about surpassing RAD WEEKEND.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, I remember saying that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "That day, Tono...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "So, Arata, let me ask you this. Who are you really singing for?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "You're not trying to make Soma's dreams come true. You can't face the pain of having lost him, so you're just clinging to his dreams.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Am I wrong...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "After Taiga said that...Tono disappeared.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But I've been thinking about that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, Tono may be singing because he can't face that pain.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But... I'm certain there's more to it than just that. There must be.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "He cares about the dream that Soma shared with him more deeply than anything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Just as Akito shared his dream with me, which I now care deeply about.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Just watching the two of them talking made that...painfully clear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Toya...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So, I'm going to complete the task Ken gave me and tell Tono and the others about it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "In order to get them to return.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, this is wonderful! I'm starting to get all fired up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Not only that, this flyer specifically appeared in SEKAI.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I have a feeling that it doesn't come from a place of worry. I think it comes from your desire to surpass RAD WEEKEND with Tono and the others.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I see.\nThank you for saying that, KAITO.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Hm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh? Is something the matter?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No, it's just... I noticed that there's a strange flyer posted on the wall behind you, KAITO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "A strange flyer?\nHuh...? No, this is...something else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "It's sheet music!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Sheet music...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "This sheet music...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I think it's for the piano.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Wow, this looks hard.\nI don't think I have enough fingers for this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "What's this song called?\nLet's see... The title says...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Fantaisie-Impromptu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "This is sheet music for Chopin's Fantaisie-Impromptu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "What?!\nYou can tell just by glancing at it?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No, um... Another piece may not have been so obvious, but this one...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000064",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I practiced playing it so much when I was little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I see...\nNow I understand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "That means...\nThis sheet music might also have come from your feelings.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes.\nYou're likely right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(This really takes me back...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000273",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I remember spending every single day sitting at the piano.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00112",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Despite the fatigue, I had to keep my fingers moving... My vision even went blurry from time to time.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Things were so hard.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(So hard that I found myself hating music itself.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(But I'm able to keep moving forward today because of what I experienced back then.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(That also applies to the task Ken gave me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "My task...\nThat's it, KAITO!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "About the task you helped me the other day with... I think I know what I need to do now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I should be able to produce some results now, so I hope you'll be looking forward to that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "If you're willing to say that, Toya, then I think there's nothing for me to worry about!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "However, it is a bit unfortunate...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Huh?\nWhat is?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "How you've got such a good head on your shoulders!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...\nUm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Why is it unfortunate that I have a good head on my shoulders?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Because I don't have anything to do now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I was hoping to help you all since you've been working so hard on your tasks, but it seems that I don't have anything to teach you, Toya...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Once again, you found the solution all on your own!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I...see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "In other words, I wish you'd lean on me more since I'm here in the first place to help you make your dreams a reality!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "You've already helped me so much, KAITO.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "What...?!\nI... I have?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Whether it's making me laugh whenever something is bothering me, or inviting me to have a nice meal with you and MEIKO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Your kindness has always allowed me to take a step back and relax...and given me a chance to think about how to tackle my problems.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So, KAITO, thank you for everything you've done for me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Haha!\nWow, now I'm the one receiving all the encouragement!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Still, I'm glad to hear that I've been able to help you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "You have.\nAnd I'll be asking you for more help in the future.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Excellent!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I'll do everything I can to make sure you're all able to go beyond that giant wall!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you.\nWith that in mind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I promise to surpass RAD WEEKEND!\nAnd—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_breakdown_2024_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Hm?\nDid you hear that sound?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, it seemed like it came from over by the wall...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...!\nKAITO, there's a crack in it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "What?!\nWow, and a fairly big one too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "But why now...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(This wall...\nIt must have something to do with how we see RAD WEEKEND in our minds...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Ah...\nMaybe that's it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "This is just my hunch...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But I think our desire to overcome the obstacle in front of us—to see what's beyond—is what caused this crack to form in the wall.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, I see...!\nSo when you do find a way to overcome it, then maybe it'll crumble to pieces!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Hehe. You may be right.\nIn any case...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I want to see what's beyond it as soon as I can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_street_ed2",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_street_op3",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00258",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Alleyway",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "An, is something bothering you?\nYou've been staring up at that wall for a while now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh! Hi, Miku...!\nHaha. You caught me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "How do I put it...?\nKnowing that this is how we perceive RAD WEEKEND has me thinking about a lot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Like how tall it is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Aunt Nagi and everyone really did put on a legendary event.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "An...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We'll surpass it.\nFor sure.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "And I'll need to do what I have to to make that happen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "What you have to do...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Do you think you'll be able to?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "All that's left for me to do is act when the time comes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "That being said...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I still don't have an answer for the thing that's really got me hung up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Are you talking about...Kohane?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We're gonna surpass RAD WEEKEND and see what it's like beyond that dream. We're gonna do the thing Aunt Nagi didn't get to. I don't have any doubt about that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But I still don't know what to do about how I feel about Kohane...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "She's my partner...\nShe means more to me than anyone else...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000167",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Because I wanna keep up with her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I wanna get closure on this before we surpass RAD WEEKEND.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00098",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Because we definitely won't be able to if I still have lingering doubts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I'll be watching.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I'll be keeping an eye on how you deal with this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "So, I'll be looking forward to seeing some nice results.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Thanks! I hope you'll be ready then!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_breakdown_2024_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey... Did you hear that just now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yes...\nOh...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...!\nThere's a crack in the wall!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "A pretty big one too...\nBut why now all of a sudden...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "♪————...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Is someone...singing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(But it doesn't sound like Kohane or any of the others. Who could it—)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "That...voice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "An?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "It can't be...\nBut, it is...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00382_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(I hear footsteps...getting closer.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00382_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00382_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(Is that...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Aunt...Nagi...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "♪————...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00382_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00382_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "*Gasp*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wait... Wait, please!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "An...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Aunt Nagi... Aunt Nagi...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(What's she doing here?!\nI mean, she's...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(But if she is, who was that...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Did my feelings...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(If so...\nWas that Aunt Nagi like a ghost or something...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Still...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Aunt Nagi! Wait for me!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huff... Huff...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(That's weird...\nShe's just walking like nothing's happening, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "♪——————",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00382_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00382_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...! Wait!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(I'm running as fast as I can, but I can't seem to catch up...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(Why can't she catch up...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(Could it be because this Nagi came from her feelings?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Argh!\nShe won't wait for me at all...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Please! Wait...!\nWhoa!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00107_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oww...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "An...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I-I'm okay! Just a small scrape!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00382_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00382_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Honestly... It's just like you to do this, Aunt Nagi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "When you watch me practice, you always run off to someone else when they ask you to!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Whenever we have dinner together, you always move to the living room to watch TV as soon as you finish!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Can't you at least stop for me in SEKAI?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Please! Just wait for me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_breakdown_2024_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "She stopped...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(But something doesn't feel right.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(It looks like she's staring at something.\nBut what...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, um...\nIt's just that the wall of that big building over there seemed a little funny.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, it is a bit odd...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Most of it is covered in flyers and graffiti, but the middle is completely devoid of anything for some reason...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Almost like there's a hole in it.\nBut why...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(Is she staring at the wall...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, are you Aunt Nagi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(I finally managed to catch up to her, but I have no idea what to say...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(There's a ton of stuff I need to tell her and ask her about...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(But I...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00382_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00382_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00144",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(She's patting her head.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000093",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "She's gone...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Aunt Nagi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Haha...\nJust when I finally got my chance to talk to her again, I couldn't say anything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "An...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Can you hear that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh? Hear what...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00260",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "♪...————",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "♪————————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "This song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "It's the one we used to sing together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "♪————————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An & ???",
+   "Line": "♪————————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "She always sings like she's having so much fun...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I understand now, Aunt Nagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000271",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I'll catch up to you soon!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I'm gonna come charging towards you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "And I'm gonna fly right past you. So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You better be ready, Aunt Nagi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "*Sigh*\nThanks for helping me, Miku!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I feel a lot better now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "That's good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I'm really glad for you, An.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Thanks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I still don't understand why Nagi stared at that wall the way she did.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "She looked a little sad.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, now that you mention it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(That wall in the plaza is the only one we still don't really know anything about...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "What does it mean?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_street_ed3",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_street_op4",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00258",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Alleyway",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Darn...\nAnother dead end.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "But I think all this walking around has given me a better understanding of this area.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes.\nThese alleyways all seem to extend outward from that central plaza.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "And that wall is encircling it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I see...\nSo no matter which alley we go down, we'll hit a dead end.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "That's unfortunate.\nI really want to see what's on the other side of this wall.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Kohane and the others will likely need to surpass RAD WEEKEND for that to happen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(This is how we see RAD WEEKEND.\nThis is what this wall represents...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(It's so big, tall...immovable.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Does that mean what lies beyond Nagi and her team's dream is waiting for us on the other side?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Beyond their dream...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(To stand on top of the world...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(It's such a huge goal, now that I think about it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I mean, we've been having to work so hard just to win the events we're entering into now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Even so... We have to find a way over this wall.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Because we won't get to see what's on the other side if we don't.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Is something bothering you, Kohane?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh...?!\nSorry, I was just going over it all...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I knew it wouldn't be easy...\nBut I didn't think we'd have to face such a huge wall...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes, it is a bit overwhelming when you see it right in front of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "However, I wouldn't worry.\nI'm sure you'll all figure out a way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Nagi, Ken, all the locals...\nYou're determined to carry all their dreams forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "MEIKO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Right.\nWe've already made our decision.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "There's no turning back for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00192",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "It doesn't matter how scary or unsettling things get... We're going to surpass RAD WEEKEND no matter what.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "For the sake of our team.\nFor the sake of Nagi, her team, everyone...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Kohane...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "You've become such a strong girl...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "But, don't forget about the others, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "When someone's carrying a big load, it's easy for them to forget about those around them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "They feel that they need to do everything themselves.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, you're right...\nI may have felt that way for a second there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe. It's not necessarily a bad thing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "But everyone will always support you in any way they can when you get stuck.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Us as well, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "She's right, Kohane!\nI'll help you out in whatever ways I can!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thank you very much, MEIKO, Luka!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'll do my best to remember that we're all in this together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "We're going to surpass RAD WEEKEND!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_breakdown_2024_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh...?!\nThere's a crack in the wall...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_breakdown_2024_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Wh-Why did this crack form all of the sudden...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "What if...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "What if it's a response to Kohane's declaration?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "If this wall represents how you all see RAD WEEKEND, then it makes sense for it to be big, tall and immovable.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "But you just said that you're going to surpass it, right, Kohane? You were able to visualize going to see what's beyond it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "That might've caused this crack to form.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What I said made it crack...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hm? What's wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "No, um... I thought I heard music coming from this crack...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00262",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, you're right! I hear it too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Is this crack allowing this music to come through the wall?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "It sounds like a fun song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "*Nod*\nIt's got a Latin rhythm to it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I suppose it only makes sense since this alley also has that sort of feel to it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Haha! That'd be so much fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Be it America, India, wherever...!\nIf an alley looks like it's from a certain part of the world, then we'd get to hear music from that region, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. That would mean there's all sorts of music we've never heard before waiting for us on the other side.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hm? Did something happen?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "No, I just thought of something...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "If we do end up surpassing RAD WEEKEND and cause this wall to come crumbling down...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I have a feeling that music from all around the world will come together in the plaza back there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "You may be right.\nIt does lie at the center of this area...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Wow!\nWhat a lovely thought!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Imagine getting to hear all the music that the world has to offer! How wonderful would that be?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Actually...\nI may have had the wrong idea about this place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Originally, I thought this place was the new starting point for your journey as you strive towards seeing what's beyond that dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "However, Kohane, if what you say is correct, then it's more than that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "This may be where you all come into contact with music from around the world.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "With music from around the world?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "When this wall comes down, you'll get to hear all that music.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "And through that, you'll get to learn new things and continue to grow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "And that will help you stand on top of the world. That's what this place is for.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I can't explain why, MEIKO, but what you said is just what I needed to hear...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "We're going to surpass RAD WEEKEND, this wall will come down, we'll get to learn about all this music from around the world and keep growing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "It's such an exciting thought! This place is going to be so incredible!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Haha!\nLook how bold you are, Kohane.\nYou sound so eager to set out into the unknown.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Y-You think so?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "No... You might be right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, look at the time!\nWe should start making our way back to the plaza.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay!\nLet's go meet back up with everyone, MEIKO, Luka!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000270",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00234",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I'm so glad we came here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I knew that surpassing RAD WEEKEND wasn't going to be easy.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(But I'm so excited about what we're going to see once this wall comes down.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(All that's left is for us to do it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(We're going to break down this wall! Together!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_street_ed4",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Plaza",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "So, this should be where we're supposed to meet. Where is everyone...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, Kohane!\nOver here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, An! You guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00134_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Welcome back!\nHow'd things on your end go?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, I think we figured something out...!\nMind listening for a bit while I explain?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So, this place is where we're supposed to interact with music from all different countries, so we can stand on top of the world?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Interesting...\nThat didn't occur to me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Me neither. I wouldn't have made that connection if it weren't for MEIKO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But it sort of makes sense based on how this place's layout",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I agree with you there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Which means this place is bigger than we realize. I kinda like that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hm?\nAn, Miku, what's wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I saw Aunt Nagi just earlier.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?!\nWh-What do you mean?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I can't say for sure, but... I think I was able to see her because of what I was feeling.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "She looked exactly the way she did when I was little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So our feelings can be reflected in that much depth? SEKAI really is a mysterious place...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Also, she was staring at that part of the wall over there with a kinda sad look on her face.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "That part...?\nOh, you mean the weird blank spot?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah.\nMe and Miku talked about what we think that meant...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But I think you just gave me the answer, Kohane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "If this plaza's supposed to be filled with music from all around the world like you said...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Then all this graffiti, flyers and stuff we see around here must also mean something.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "They all have a meaning...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah. That big blank spot in the middle...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I think it's reserved for the team that's standing on top of the world.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Now I get it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Music from around the world all in one place...with the name of our event etched in here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "And us standing on top of the world.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(Which means...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Can't you at least stop for me in SEKAI?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Please! Just wait for me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_breakdown_2024_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "She stopped...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(Nagi departed this world before she could make her dream come true... Before she could etch her name into that wall.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(And the people carrying the torch for her now are...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We're going to succeed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00222",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We're going to etch the name of our event in! Right in the center of the world!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We gotta we gotta break down this wall first...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Let's do it, you guys!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya, An & Akito",
+   "Line": "*Nod*\nYes!\nYeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, that's settled...\nSo let's start practicing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Right.\nI feel like I can sing for hours on end.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, that's what I like to hear!\nThen, let's sing until it's completely dark!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hey, look!\nWhat's that thing over by the edge of the plaza?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Did a plant just sprout...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "You're right!\nIt's so adorably tiny!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Did their feelings also produce this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "If so, then what sorts of feelings?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Who knows?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I'm looking forward to seeing how it grows.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_street_bud",
+   "_kind": "Effect"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

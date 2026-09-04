@@ -1,0 +1,27 @@
+# Azusawa Kohane - Special
+
+## 基本信息
+
+- **Character**：Azusawa Kohane
+- **Category**：Special
+- **Count**：10
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 292 | 2022-10-01 | Emu Style? The Art Of Dancing! | 4 | pure | Music Brought Me Here | Scramble Fan Festival! | https://storage.sekai.best/sekai-en-assets/character/member/res009_no011/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no011/card_after_training.png |
+| 352 | 2022-12-31 | With The First Sunrise At My Back | 4 | cute | Our Wish Plaques | The Tomorrow We Hope For | https://storage.sekai.best/sekai-en-assets/character/member/res009_no014/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no014/card_after_training.png |
+| 528 | 2023-10-31 | I'll Protect You | 4 | mysterious | Behind The Scenes Of The Chase | Screaming?! Welcome to the Forest of Wolves! | https://storage.sekai.best/sekai-en-assets/character/member/res009_no021/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no021/card_after_training.png |
+| 670 | 2024-06-30 | Kaleidoscopic Steps | 4 | cool | I Am My Song |  | https://storage.sekai.best/sekai-en-assets/character/member/res009_no026/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no026/card_after_training.png |
+| 848 | 2025-01-09 | Into An Exciting Future | 4 | happy | As Long As I Have This Pain | Break Down the Wall | https://storage.sekai.best/sekai-en-assets/character/member/res009_no032/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no032/card_after_training.png |
+| 861 | 2025-01-31 | Getting Her The Best Chocolate | 4 | mysterious | Unexpected Run-In! | Take the Best Shot! | https://storage.sekai.best/sekai-en-assets/character/member/res009_no033/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no033/card_after_training.png |
+| 916 | 2025-04-30 | Accepting It All | 4 | cool | As Long As We Sing Together | Whip Yourself into Shape! | https://storage.sekai.best/sekai-en-assets/character/member/res009_no036/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no036/card_after_training.png |
+| 951 | 2025-06-30 | A Heart-Pounding World | 4 | mysterious | The One For The Job | Over Rad Squad!! | https://storage.sekai.best/sekai-en-assets/character/member/res009_no037/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no037/card_after_training.png |
+| 1151 | 2026-04-08 | Smile Hued By Dusk | 4 | mysterious | Resonance In The Heart | Turning Pain Into Drive | https://storage.sekai.best/sekai-en-assets/character/member/res009_no044/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no044/card_after_training.png |
+| 1180 | 2026-05-31 | Lasting Heat | 4 | cute | A World United By Song | Aim Higher and Higher! | https://storage.sekai.best/sekai-en-assets/character/member/res009_no045/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res009_no045/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

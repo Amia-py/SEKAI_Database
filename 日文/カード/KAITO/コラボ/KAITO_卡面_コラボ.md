@@ -1,0 +1,21 @@
+# KAITO - コラボ
+
+## 基本信息
+
+- **角色**：KAITO
+- **分类**：コラボ
+- **数量**：4
+
+## 数据
+
+| カードID | 実装日 | カード名 | レアリティ | 属性 | スキル | 関連イベント | 特訓前画像 | 特訓後画像 |
+|---|---|---|---|---|---|---|---|---|
+| 339 | 2021-12-13 | 強欲な裁判官 | 4 | cool | 地獄の沙汰も金次第 |  | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no013/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no013/card_after_training.png |
+| 826 | 2023-12-05 | feat.あひるのペックル | 2 | mysterious | Let's Dance！ |  | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no033/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no033/card_after_training.png |
+| 1095 | 2025-01-16 | Let's enjoy the movie！ | 2 | cute | 見つけてつい買っちゃったよ |  | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no045/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no045/card_after_training.png |
+| 1120 | 2025-02-15 | スマートアイドルスタイル | 2 | cool | 心癒すメロディー |  | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no046/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no046/card_after_training.png |
+
+
+## 数据来源
+
+出典：SEKAI master database カードデータ（公式テキスト）。画像は SEKAI Viewer アセット（storage.sekai.best）。

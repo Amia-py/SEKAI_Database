@@ -1,0 +1,21 @@
+# Otori Emu - Birthday
+
+## 基本信息
+
+- **Character**：Otori Emu
+- **Category**：Birthday
+- **Count**：4
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 498 | 2023-09-09 | Happy Birthday! | bd | cute | The Adventures Of Private Emu! |  | https://storage.sekai.best/sekai-en-assets/character/member/res014_no019/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res014_no019/card_after_training.png |
+| 713 | 2024-09-09 | Happy Birthday! 2024 | bd | pure | An Irreplaceable Place |  | https://storage.sekai.best/sekai-en-assets/character/member/res014_no028/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res014_no028/card_after_training.png |
+| 992 | 2025-09-09 | Happy Birthday! 2025 | bd | happy | Explore! Discover! Celebrate! |  | https://storage.sekai.best/sekai-en-assets/character/member/res014_no039/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res014_no039/card_after_training.png |
+| 1241 | 2026-09-09 | Happy Birthday! 2026 | bd | cool | Princess Of Emuland?! |  | https://storage.sekai.best/sekai-en-assets/character/member/res014_no048/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res014_no048/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

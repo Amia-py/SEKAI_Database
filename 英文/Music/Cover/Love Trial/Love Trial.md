@@ -1,0 +1,15 @@
+# Love Trial
+
+## 基本信息
+
+
+## 数据
+
+| Title | Artist | Lyricist | Composer | Arranger | Released | Event | Category | Jacket | Preview Audio | Vocal Version |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Love Trial | 40mP | 40mP | 40mP | 40mP | 2022-01-06 |  |  | https://storage.sekai.best/sekai-en-assets/music/jacket/jacket_s_087/jacket_s_087.png | https://storage.sekai.best/sekai-en-assets/music/short/0087_01/0087_01_short.mp3 | VIRTUAL SINGER ver. / SEKAI ver. / Cover ver. / Cover ver. |
+
+
+## 数据来源
+
+Source: SEKAI master database music data (official text). Audio/jacket assets from SEKAI Viewer (storage.sekai.best).

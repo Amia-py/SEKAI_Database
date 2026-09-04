@@ -1,0 +1,15 @@
+# Otome Dissection
+
+## 基本信息
+
+
+## 数据
+
+| Title | Artist | Lyricist | Composer | Arranger | Released | Event | Category | Jacket | Preview Audio | Vocal Version |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Otome Dissection | DECO*27 | DECO*27 | DECO*27 | emon(Tes.) & Rockwell | 2022-01-14 |  |  | https://storage.sekai.best/sekai-en-assets/music/jacket/jacket_s_092/jacket_s_092.png | https://storage.sekai.best/sekai-en-assets/music/short/vs_0092_01/vs_0092_01_short.mp3 | VIRTUAL SINGER ver. / Cover ver. / SEKAI ver. / Cover ver. |
+
+
+## 数据来源
+
+Source: SEKAI master database music data (official text). Audio/jacket assets from SEKAI Viewer (storage.sekai.best).

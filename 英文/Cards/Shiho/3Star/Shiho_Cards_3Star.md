@@ -1,0 +1,25 @@
+# Hinomori Shiho - 3Star
+
+## 基本信息
+
+- **Character**：Hinomori Shiho
+- **Category**：3Star
+- **Count**：8
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 15 | 2021-12-07 | Lingering Melody | 3 | cute | Fond Memories |  | https://storage.sekai.best/sekai-en-assets/character/member/res004_no003/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res004_no003/card_after_training.png |
+| 282 | 2022-09-09 | We're Doing A Debrief Right After | 3 | pure | Believing In My Friends | A Bright Future!! | https://storage.sekai.best/sekai-en-assets/character/member/res004_no011/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res004_no011/card_after_training.png |
+| 388 | 2023-02-28 | Filled With My "Thanks" | 3 | mysterious | Homemade For A Change | A Gentleman Thief's Thrilling White Day?! | https://storage.sekai.best/sekai-en-assets/character/member/res004_no016/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res004_no016/card_after_training.png |
+| 419 | 2023-04-21 | How Things Develop From Here | 3 | cool | Crepe Party | Live with Memories | https://storage.sekai.best/sekai-en-assets/character/member/res004_no017/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res004_no017/card_after_training.png |
+| 870 | 2025-02-10 | Imagining That Smile | 3 | happy | A Modest Picnic | Lead With Courage and Kindness | https://storage.sekai.best/sekai-en-assets/character/member/res004_no035/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res004_no035/card_after_training.png |
+| 936 | 2025-05-31 | Any Fun Stories? | 3 | pure | Bridal Fair Talk! | Stream With Friends♡ Wedding Live! | https://storage.sekai.best/sekai-en-assets/character/member/res004_no037/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res004_no037/card_after_training.png |
+| 1130 | 2026-02-28 | Hugs Of Friendship♪ | 3 | cool | Repaid With Gratitude | Connect Hearts Message | https://storage.sekai.best/sekai-en-assets/character/member/res004_no045/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res004_no045/card_after_training.png |
+| 1204 | 2026-07-15 | The Moment I Rise | 3 | happy | That Comfortable Feeling | Unsteady, Still Steady Step | https://storage.sekai.best/sekai-en-assets/character/member/res004_no048/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res004_no048/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

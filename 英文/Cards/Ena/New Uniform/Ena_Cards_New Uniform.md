@@ -1,0 +1,32 @@
+# Shinonome Ena - New Uniform
+
+## 基本信息
+
+- **Character**：Shinonome Ena
+- **Category**：New Uniform
+- **Count**：15
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 540 | 2023-11-20 | I Want To Capture That Expression | 4 | mysterious | The Intent Behind Those Words | Hope Will Someday Go Beyond the Morning | https://storage.sekai.best/sekai-en-assets/character/member/res019_no022/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no022/card_after_training.png |
+| 613 | 2024-03-21 | Peaceful Moments, If Nothing Else | 4 | pure | A Problem Halved | Immiscible Discord | https://storage.sekai.best/sekai-en-assets/character/member/res019_no024/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no024/card_after_training.png |
+| 640 | 2024-04-30 | Frustration, Regret and Gratitude | 2 | cool | In Return For Secret Sweets | We Escape to Survive | https://storage.sekai.best/sekai-en-assets/character/member/res019_no026/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no026/card_after_training.png |
+| 679 | 2024-07-11 | A Shadow Out Of Sight | 4 | mysterious | Lost Contact | Farewell, My Mask | https://storage.sekai.best/sekai-en-assets/character/member/res019_no028/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no028/card_after_training.png |
+| 742 | 2024-09-30 | Brand New Style | 2 | happy | Memories Of Changing Classes |  | https://storage.sekai.best/sekai-en-assets/character/member/res019_no029/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no029/card_after_training.png |
+| 836 | 2024-12-20 | Gloomy Afternoon | 3 | cute | Coffee Break In SEKAI | The Way I Played That Day | https://storage.sekai.best/sekai-en-assets/character/member/res019_no032/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no032/card_after_training.png |
+| 903 | 2025-04-10 | The Emotions In The Art | 4 | pure | Cheesecake Payoff | Knowing the Unseen | https://storage.sekai.best/sekai-en-assets/character/member/res019_no034/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no034/card_after_training.png |
+| 937 | 2025-05-31 | Secondhand Ticket | 2 | mysterious | Making Ring Pillows! | Stream With Friends♡ Wedding Live! | https://storage.sekai.best/sekai-en-assets/character/member/res019_no036/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no036/card_after_training.png |
+| 946 | 2025-06-20 | Evident Emotion & Effort | 3 | cool | Lend A Hand, Carry An Umbrella | A Light Drawn Closer | https://storage.sekai.best/sekai-en-assets/character/member/res019_no037/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no037/card_after_training.png |
+| 1009 | 2025-09-30 | Restock Time! | 3 | happy | Each Doing Our Part | Here on Our Dream Stage | https://storage.sekai.best/sekai-en-assets/character/member/res019_no038/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no038/card_after_training.png |
+| 1012 | 2025-10-12 | In Excruciating Twilight | 4 | cute | A Smile Brings Relief | Whither This Path of Thorns | https://storage.sekai.best/sekai-en-assets/character/member/res019_no039/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no039/card_after_training.png |
+| 1063 | 2025-12-31 | The Year Starts With 25:00 | 2 | pure | Flower Fortunes | Unfading Wishing | https://storage.sekai.best/sekai-en-assets/character/member/res019_no041/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no041/card_after_training.png |
+| 1141 | 2026-03-20 | A Bag Full Of Care | 4 | cool | Take Care Of Yourself | Unreliable Notes | https://storage.sekai.best/sekai-en-assets/character/member/res019_no043/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no043/card_after_training.png |
+| 1166 | 2026-04-30 | Matching Bracelets | 2 | cute | Nothing Changes | The Stopped Hand Moves Once More | https://storage.sekai.best/sekai-en-assets/character/member/res019_no045/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no045/card_after_training.png |
+| 1224 | 2026-08-22 | An Overwhelming Welcome! | 4 | happy | Chatter On The Way Home | Tying Tomorrow's Ribbon | https://storage.sekai.best/sekai-en-assets/character/member/res019_no048/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no048/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

@@ -1,0 +1,25 @@
+# KAITO - Special
+
+## 基本信息
+
+- **Character**：KAITO
+- **Category**：Special
+- **Count**：8
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 407 | 2023-03-30 | It's Okay, Everyone | 4 | happy | My Wish, Just For A Little Bit | Connected Through SEKAI's Cherry Blossoms | https://storage.sekai.best/sekai-en-assets/character/member/res026_no016/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no016/card_after_training.png |
+| 602 | 2024-02-29 | It's All In The Mixing! | 4 | mysterious | Subtle Flavors, Subtle Support | Never Give Up Cooking! | https://storage.sekai.best/sekai-en-assets/character/member/res026_no024/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no024/card_after_training.png |
+| 761 | 2024-09-30 | A Song For The Restless | 4 | cute | Your Struggle, My Song |  | https://storage.sekai.best/sekai-en-assets/character/member/res026_no032/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no032/card_after_training.png |
+| 900 | 2025-03-30 | A Curious Rascal | 4 | cool | SEKAI's Animal Caretaker? | Rise as One! | https://storage.sekai.best/sekai-en-assets/character/member/res026_no039/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no039/card_after_training.png |
+| 984 | 2025-08-17 | Wanting To Give A Push | 4 | mysterious | All For That Joyous Day | With You at SEKAI's Beginnings | https://storage.sekai.best/sekai-en-assets/character/member/res026_no041/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no041/card_after_training.png |
+| 1061 | 2025-12-31 | Natural Juggler! | 4 | cute | One-On-One Lessons With KAITO | Unfading Wishing | https://storage.sekai.best/sekai-en-assets/character/member/res026_no044/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no044/card_after_training.png |
+| 1195 | 2026-07-07 | The Ones Close To Me | 4 | happy | Differing Relationships | Deeper and Deeper | https://storage.sekai.best/sekai-en-assets/character/member/res026_no049/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no049/card_after_training.png |
+| 1240 | 2026-09-06 | At The Mercy Of The Mysterious | 4 | pure | Tree Versus Roof? | Link the Beats! | https://storage.sekai.best/sekai-en-assets/character/member/res026_no051/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no051/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

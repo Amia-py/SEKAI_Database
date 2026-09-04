@@ -1,0 +1,77 @@
+# Asahina Mafuyu - Bonds
+
+## 基本信息
+
+- **Name**：Asahina Mafuyu
+
+## 数据
+
+| Group ID | Partner |
+|---|---|
+| 11718 | Yoisaki Kanade |
+| 11718 | Yoisaki Kanade |
+| 11819 | Shinonome Ena |
+| 11819 | Shinonome Ena |
+| 11820 | Akiyama Mizuki |
+| 11820 | Akiyama Mizuki |
+| 11821 | Hatsune Miku |
+| 11821 | Hatsune Miku |
+| 10818 | Hinomori Shizuku |
+| 10818 | Hinomori Shizuku |
+| 10118 | Hoshino Ichika |
+| 10118 | Hoshino Ichika |
+| 11822 | Kagamine Rin |
+| 11822 | Kagamine Rin |
+| 11821 |  |
+| 11821 |  |
+| 11822 |  |
+| 11822 |  |
+| 11418 | Otori Emu |
+| 11418 | Otori Emu |
+| 11823 | Kagamine Len |
+| 11823 | Kagamine Len |
+| 11823 |  |
+| 11823 |  |
+| 11824 | Megurine Luka |
+| 11824 | Megurine Luka |
+| 11824 |  |
+| 11824 |  |
+| 11826 | KAITO |
+| 11826 | KAITO |
+| 11826 |  |
+| 11826 |  |
+| 11618 | Kamishiro Rui |
+| 11618 | Kamishiro Rui |
+| 10318 | Mochizuki Honami |
+| 10318 | Mochizuki Honami |
+| 11825 | MEIKO |
+| 11825 | MEIKO |
+| 11825 |  |
+| 11825 |  |
+| 10218 | Tenma Saki |
+| 10218 | Tenma Saki |
+| 10418 | Hinomori Shiho |
+| 10418 | Hinomori Shiho |
+| 10518 | Hanasato Minori |
+| 10518 | Hanasato Minori |
+| 10618 | Kiritani Haruka |
+| 10618 | Kiritani Haruka |
+| 10718 | Momoi Airi |
+| 10718 | Momoi Airi |
+| 10918 | Azusawa Kohane |
+| 10918 | Azusawa Kohane |
+| 11018 | Shiraishi An |
+| 11018 | Shiraishi An |
+| 11118 | Shinonome Akito |
+| 11118 | Shinonome Akito |
+| 11218 | Aoyagi Toya |
+| 11218 | Aoyagi Toya |
+| 11318 | Tenma Tsukasa |
+| 11318 | Tenma Tsukasa |
+| 11518 | Kusanagi Nene |
+| 11518 | Kusanagi Nene |
+
+
+## 数据来源
+
+数据来源：SEKAI master database（en 服官方文本）、各服官网。

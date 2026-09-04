@@ -1,0 +1,32 @@
+# Shinonome Akito - Old Uniform
+
+## 基本信息
+
+- **Character**：Shinonome Akito
+- **Category**：Old Uniform
+- **Count**：15
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 41 | 2021-12-07 | Well-Known Big Shot | 1 | happy | A Little Surprised |  | https://storage.sekai.best/sekai-en-assets/character/member/res011_no001/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no001/card_after_training.png |
+| 42 | 2021-12-07 | Vivid BAD SQUAD | 2 | cute | You're Coming With Me |  | https://storage.sekai.best/sekai-en-assets/character/member/res011_no002/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no002/card_after_training.png |
+| 43 | 2021-12-07 | Bristling Irritation | 3 | happy | Crush Those Who Aren't Serious |  | https://storage.sekai.best/sekai-en-assets/character/member/res011_no003/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no003/card_after_training.png |
+| 136 | 2022-01-01 | Because We're Partners | 4 | cool | To Sing With You | Singing in Sync | https://storage.sekai.best/sekai-en-assets/character/member/res011_no005/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no005/card_after_training.png |
+| 166 | 2022-03-06 | Waiting For You | 4 | mysterious | Greatest Compliment | Nocturne Interlude | https://storage.sekai.best/sekai-en-assets/character/member/res011_no006/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no006/card_after_training.png |
+| 230 | 2022-06-10 | Bask In Happiness | 3 | cool | Lead Dancer & Singer | An Ode for the Pure of Heart | https://storage.sekai.best/sekai-en-assets/character/member/res011_no008/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no008/card_after_training.png |
+| 254 | 2022-07-21 | Unchanging Summer Festival | 4 | cool | Still Playing Soccer | The Sounds of a Summer Festival! | https://storage.sekai.best/sekai-en-assets/character/member/res011_no009/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no009/card_after_training.png |
+| 300 | 2022-10-14 | A Choice To Be Proud Of | 2 | mysterious | As The Senior "Partner" | Bout for Beside You | https://storage.sekai.best/sekai-en-assets/character/member/res011_no010/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no010/card_after_training.png |
+| 342 | 2022-12-20 | A Winter Evening Chat | 4 | pure | Camping With The Shinonomes | Same Dreams, Same Colors | https://storage.sekai.best/sekai-en-assets/character/member/res011_no012/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no012/card_after_training.png |
+| 377 | 2023-02-09 | Towards Legend | 2 | cool | Ironclad Resolve | The Legend Still Vivid | https://storage.sekai.best/sekai-en-assets/character/member/res011_no013/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no013/card_after_training.png |
+| 431 | 2023-05-10 | There's No Time To Lose! | 3 | pure | All For A Peaceful Break? | The Climax! Kamiyama Cheer Squad! | https://storage.sekai.best/sekai-en-assets/character/member/res011_no015/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no015/card_after_training.png |
+| 434 | 2023-05-20 | Newfound Enthusiasm | 4 | cute | We Need More Pancakes?! | THE POWER OF UNITY | https://storage.sekai.best/sekai-en-assets/character/member/res011_no016/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no016/card_after_training.png |
+| 464 | 2023-07-11 | One-Act Morning Practice | 4 | mysterious | The Inaugural Footrace! | The Vivid Old Tale | https://storage.sekai.best/sekai-en-assets/character/member/res011_no017/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no017/card_after_training.png |
+| 478 | 2023-07-31 | With The Plushies | 3 | cute | Gunslinger Wolf & Panda | close game/OFFLINE | https://storage.sekai.best/sekai-en-assets/character/member/res011_no018/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no018/card_after_training.png |
+| 508 | 2023-09-20 | How We Each Spend Our Days Off | 2 | happy | A Day Without An And Kohane | Walk on and on | https://storage.sekai.best/sekai-en-assets/character/member/res011_no019/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res011_no019/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

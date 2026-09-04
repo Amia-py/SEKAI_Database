@@ -1,0 +1,28 @@
+# MEIKO - 2星
+
+## 基本信息
+
+- **角色**：MEIKO
+- **分类**：2星
+- **数量**：11
+
+## 数据
+
+| カードID | 実装日 | カード名 | レアリティ | 属性 | スキル | 関連イベント | 特訓前画像 | 特訓後画像 |
+|---|---|---|---|---|---|---|---|---|
+| 102 | 2020-09-29 | ストリートのセカイ | 2 | pure | マスター冥利につきるわ |  | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no002/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no002/card_after_training.png |
+| 138 | 2020-11-30 | 温かい眼差し | 2 | happy | みんなで開店準備！ | いつか、背中あわせのリリックを | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no005/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no005/card_after_training.png |
+| 211 | 2021-04-21 | 答えを探して | 2 | pure | 先輩のひとりとして | Resonate with you | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no009/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no009/card_after_training.png |
+| 593 | 2023-02-10 | もっともっと支えるために | 2 | cute | これからのあの子達のために | ほどかれた糸のその先に | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no023/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no023/card_after_training.png |
+| 610 | 2023-03-11 | 優しさこそが力の源 | 2 | mysterious | マラソンinワンダーランド | 天の果てのフェニックスへ | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no024/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no024/card_after_training.png |
+| 748 | 2023-09-29 | Origin Style | 2 | happy | 誇りを胸に |  | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no028/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no028/card_after_training.png |
+| 758 | 2023-09-29 | Brand New Street | 2 | cool | メイコの悩み？ |  | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no029/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no029/card_after_training.png |
+| 853 | 2024-01-09 | 同じ胸の高鳴り | 2 | mysterious | いつも頼れるまとめ役 | BREAK DOWN THE WALL | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no035/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no035/card_after_training.png |
+| 1131 | 2025-02-28 | とっておきのアイディア | 2 | cute | 想いを運ぶカードの精 | Connect hearts message | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no045/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no045/card_after_training.png |
+| 1205 | 2025-07-15 | 熱いコンセプト | 2 | happy | みんなのためにできること | Unsteady, still steady step | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no047/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no047/card_after_training.png |
+| 1457 | 2026-08-29 | 仲良くチーム分け？ | 2 | mysterious | 出会いの影響は | Mix&Make Party Time!! | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no057/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no057/card_after_training.png |
+
+
+## 数据来源
+
+出典：SEKAI master database カードデータ（公式テキスト）。画像は SEKAI Viewer アセット（storage.sekai.best）。

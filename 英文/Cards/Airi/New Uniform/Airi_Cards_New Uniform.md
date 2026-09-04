@@ -1,0 +1,33 @@
+# Momoi Airi - New Uniform
+
+## 基本信息
+
+- **Character**：Momoi Airi
+- **Category**：New Uniform
+- **Count**：16
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 519 | 2023-10-11 | Solo Show Strategy Meeting! | 4 | cute | Pulling Off The Best Solo Show | Dear Me, From Back Then | https://storage.sekai.best/sekai-en-assets/character/member/res007_no019/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no019/card_after_training.png |
+| 559 | 2023-12-21 | Intro To Tea Ceremony | 3 | mysterious | Trying Tea Ceremony Together♪ | Raise Your Bow in a Snow-White World | https://storage.sekai.best/sekai-en-assets/character/member/res007_no021/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no021/card_after_training.png |
+| 591 | 2024-02-10 | Don't Push Yourself | 4 | happy | Unwavering Admiration | At The End of The Unraveled Thread | https://storage.sekai.best/sekai-en-assets/character/member/res007_no022/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no022/card_after_training.png |
+| 630 | 2024-04-21 | Growing Distance | 4 | cute | Promised With Unchanging Feelings | Friendship Rebuilt | https://storage.sekai.best/sekai-en-assets/character/member/res007_no024/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no024/card_after_training.png |
+| 665 | 2024-06-20 | For A Bigger, Better Stream | 4 | cool | Fellow Dream Chasers | Step by Step! | https://storage.sekai.best/sekai-en-assets/character/member/res007_no025/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no025/card_after_training.png |
+| 676 | 2024-06-30 | I'm Excited Too | 2 | pure | Tales From The Road | An Unmissable Spirited Affair | https://storage.sekai.best/sekai-en-assets/character/member/res007_no026/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no026/card_after_training.png |
+| 718 | 2024-09-10 | Lots Of Love For My Junior | 2 | cute | Now It's My Turn! | Our Precious Memories | https://storage.sekai.best/sekai-en-assets/character/member/res007_no028/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no028/card_after_training.png |
+| 730 | 2024-09-30 | Brand New Style | 2 | mysterious | Senior Of Seniors |  | https://storage.sekai.best/sekai-en-assets/character/member/res007_no029/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no029/card_after_training.png |
+| 876 | 2025-02-20 | Service With A Smile | 3 | cool | Making Your Dreams Come True | From the Marks Left Behind | https://storage.sekai.best/sekai-en-assets/character/member/res007_no032/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no032/card_after_training.png |
+| 882 | 2025-02-28 | Even If Just With Words | 2 | happy | A Gift From MORE MORE JUMP! | Relaxing Tea Time | https://storage.sekai.best/sekai-en-assets/character/member/res007_no033/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no033/card_after_training.png |
+| 941 | 2025-06-10 | Pro Give And Take | 3 | happy | A Senior's Dignity | Lead to Shine More | https://storage.sekai.best/sekai-en-assets/character/member/res007_no036/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no036/card_after_training.png |
+| 1049 | 2025-12-11 | One Of The Fans | 2 | cool | A Secret Between You And Me | Grow Glorious Glow | https://storage.sekai.best/sekai-en-assets/character/member/res007_no039/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no039/card_after_training.png |
+| 1114 | 2026-02-10 | Cooking Stream Prep | 2 | mysterious | Simple & Nutritious Recipes | Rise and Strive | https://storage.sekai.best/sekai-en-assets/character/member/res007_no042/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no042/card_after_training.png |
+| 1134 | 2026-03-10 | Cat Sister Mischief! | 4 | mysterious | The Thrilling Carnival Plan | You Are My Hero! | https://storage.sekai.best/sekai-en-assets/character/member/res007_no043/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no043/card_after_training.png |
+| 1174 | 2026-05-23 | It Wasn't Enough | 4 | happy | A Gift Of Gratitude | Cheer With My Heart! | https://storage.sekai.best/sekai-en-assets/character/member/res007_no045/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no045/card_after_training.png |
+| 1210 | 2026-07-23 | Airi's Beauty Salon | 3 | mysterious | MORE MORE TOUR! | Start Rolling! Stars' Crossing | https://storage.sekai.best/sekai-en-assets/character/member/res007_no046/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no046/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

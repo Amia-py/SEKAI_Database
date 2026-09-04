@@ -1,0 +1,21 @@
+# MEIKO - 生日
+
+## 基本信息
+
+- **角色**：MEIKO
+- **分类**：生日
+- **数量**：4
+
+## 数据
+
+| 卡面ID | 实装日期 | 卡名 | 星级 | 属性 | 技能 | 关联活动 | 特训前图片 | 特训后图片 |
+|---|---|---|---|---|---|---|---|---|
+| 312 | 2025-11-04 | Happy Anniversary！！Flower | bd | pure | 可靠的姐姐 |  | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no014/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no014/card_after_training.png |
+| 533 | 2025-11-04 | Happy Anniversary！！Stamp | bd | mysterious | 今后也要度过快乐每一天 |  | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no021/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no021/card_after_training.png |
+| 784 | 2025-11-04 | Happy Anniversary！！Dessert | bd | cool | 主办者是MEIKO？！ |  | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no031/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no031/card_after_training.png |
+| 1027 | 2025-11-04 | Happy Anniversary！！2025 | bd | cute | 至今最优秀的自己 |  | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no041/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no041/card_after_training.png |
+
+
+## 数据来源
+
+数据来源：SEKAI master database 卡面数据（官方文本）；图片来自 SEKAI Viewer 资源库 storage.sekai.best。

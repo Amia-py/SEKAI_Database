@@ -1,0 +1,21 @@
+# Asahina Mafuyu - Birthday
+
+## 基本信息
+
+- **Character**：Asahina Mafuyu
+- **Category**：Birthday
+- **Count**：4
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 366 | 2023-01-27 | Happy Birthday! | bd | mysterious | Even If I Can't Feel It |  | https://storage.sekai.best/sekai-en-assets/character/member/res018_no016/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no016/card_after_training.png |
+| 581 | 2024-01-27 | Happy Birthday! 2024 | bd | happy | The Gentle Passage of Time |  | https://storage.sekai.best/sekai-en-assets/character/member/res018_no023/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no023/card_after_training.png |
+| 859 | 2025-01-27 | Happy Birthday! 2025 | bd | cute | A Different Birthday From Usual |  | https://storage.sekai.best/sekai-en-assets/character/member/res018_no033/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no033/card_after_training.png |
+| 1102 | 2026-01-27 | Happy Birthday! 2026 | bd | cool | Songs Full Of Feeling |  | https://storage.sekai.best/sekai-en-assets/character/member/res018_no042/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no042/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

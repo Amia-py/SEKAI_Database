@@ -1,0 +1,62 @@
+# Asahina Mafuyu - Cards
+
+## 基本信息
+
+- **Name**：Asahina Mafuyu
+- **Card Count**：46
+
+## 数据
+
+| Released | Card Name | Rarity | Attribute | Skill | Event |
+|---|---|---|---|---|---|
+| 2021-12-07 | The Honor Student | 1 | cool | Just Like... Me? |  |
+| 2021-12-07 | Nightcord at 25:00 | 2 | happy | Never Mind Reality |  |
+| 2021-12-07 | The "Good" Me | 3 | cute | Where Is The Self? |  |
+| 2021-12-16 | Captive Masquerade | 4 | cool | First Feeling | Imprisoned Marionette |
+| 2022-01-09 | Super Exciting Three-Legged Race? | 3 | happy | Still In My Heart | Run! Sports Festival! Committee Rush |
+| 2022-03-22 | Thrown Words | 4 | happy | There Is No "I Can't" | Insatiable Pale Color |
+| 2022-06-07 | Dive Into Me | 4 | pure | Touching Knowledge |  |
+| 2022-05-01 | Encounter At A Closed School | 2 | pure | Gratitude From A Little Girl | Secret Distance |
+| 2022-06-26 | Break Into A Smile | 4 | mysterious | Caramel Chocolates | Carnation Recollection |
+| 2022-08-30 | Looking Up At The Same Moon | 2 | cute | A Modest Moon Viewing | The Moon Rabbit & Us |
+| 2022-09-20 | Memories Of Warm Affection | 4 | happy | So That I Never Forget Again | Mirage of Light |
+| 2022-10-28 | The Staff Of Guidance | 2 | cool | To Move Forward | What lies behind. What lies ahead. |
+| 2022-11-29 | Under The First Snow | 4 | cute | What Miku Means To Me | The Warmth of Intersecting Melodies |
+| 2023-01-21 | Elpis At The Depths Of Despair | 4 | pure | Keeping That Promise | Someday, From the Depths of Despair |
+| 2023-01-27 | Happy Birthday! | bd | mysterious | Even If I Can't Feel It |  |
+| 2023-03-20 | Colorful Recollection | 3 | pure | No One Has The Right Answer | On This Blank Canvas, I Paint |
+| 2023-06-10 | In The Warmth Of Glowing Dusk | 4 | cool | A Blinding Sight | What Lies Beyond Guiding a Lost Child |
+| 2023-08-20 | Distant Warmth | 4 | cute | Being The "Older Girl" | And Now, I Wear This Ribbon |
+| 2023-09-30 | Gentle Magic Words | 4 | pure | Eating Crepes Together | At This Festival Bathed in Twilight |
+| 2023-11-20 | A Somewhat Different Dinner Table | 4 | mysterious | I Want To Stay A While... | Hope Will Someday Go Beyond the Morning |
+| 2023-12-21 | A Stillness Only You Know | 4 | cute | What Grows In Silence | Raise Your Bow in a Snow-White World |
+| 2024-01-27 | Happy Birthday! 2024 | bd | happy | The Gentle Passage of Time |  |
+| 2024-03-21 | Unstoppable Feelings | 2 | mysterious | The Place That Comes To Mind | Immiscible Discord |
+| 2024-04-30 | Walls Closing In | 4 | cool | Late Nights, But Alone | We Escape to Survive |
+| 2024-06-30 | A Time Of Rest | 3 | cool | By Your Side, No Matter How Far | An Unmissable Spirited Affair |
+| 2024-07-11 | How I Really Feel | 4 | mysterious | Walk Of Resolve | Farewell, My Mask |
+| 2024-09-30 | Brand New Style | 2 | cool | Brief Lunch |  |
+| 2024-11-08 | Like A Heart In My Hands | 4 | mysterious | A Hot Meal | Searching for Sunken Shadows |
+| 2025-01-07 | Featuring Cogimyun | 2 | happy | To Keep From Falling Apart |  |
+| 2024-12-20 | The Truth Comes Out | 4 | happy | Believing It's For The Best | The Way I Played That Day |
+| 2024-12-31 | Stretch Our Legs A Little | 3 | mysterious | A Lively New Year's Party | Beside Unchanging Warmth |
+| 2025-01-27 | Happy Birthday! 2025 | bd | cute | A Different Birthday From Usual |  |
+| 2025-02-28 | Bubbles Of Solace | 4 | happy | Lingering, Fleeting Feelings | Relaxing Tea Time |
+| 2025-04-10 | Leisurely Preparations | 4 | pure | Lingering Light | Knowing the Unseen |
+| 2025-06-20 | A Warm Hand | 4 | pure | The Gift Of A Simple Moment | A Light Drawn Closer |
+| 2025-08-09 | Ticket Serendipity | 3 | pure | The Peace Music Brings | Play That Beautiful Sound! |
+| 2025-08-31 | Cat-Eared Guide | 4 | cool | Another Participant | Wonderhorror?! A Test of Courage! |
+| 2025-10-12 | Tasting Some Serious Squid | 3 | cool | A Relaxed Moment | Whither This Path of Thorns |
+| 2025-11-30 | Delayed Reunion | 2 | pure | Where Escapism Leads | With Our Wounded Hands |
+| 2025-04-28 | Let's Enjoy The Movie! | 2 | cute | The Doors Are About To Open |  |
+| 2026-01-27 | Happy Birthday! 2026 | bd | cool | Songs Full Of Feeling |  |
+| 2026-01-31 | In A Silent Library | 4 | happy | To Show Appreciation | Warmth in Every Stitch |
+| 2026-03-20 | Desolate Kitchen | 4 | cool | Internal Turmoil | Unreliable Notes |
+| 2026-04-30 | A Period Of Warmth | 4 | mysterious | Here In Spirit | The Stopped Hand Moves Once More |
+| 2026-06-09 | A Pair Of Smiles | 4 | cute | Putting The Pieces Together | In an Ephemeral Embrace |
+| 2026-08-22 | Finding A Way To Repay | 2 | mysterious | Our Answer, Not The "Right" One | Tying Tomorrow's Ribbon |
+
+
+## 数据来源
+
+数据来源：SEKAI master database（en 服官方文本）、各服官网。

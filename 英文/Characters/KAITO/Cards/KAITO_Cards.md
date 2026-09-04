@@ -1,0 +1,65 @@
+# KAITO - Cards
+
+## 基本信息
+
+- **Name**：KAITO
+- **Card Count**：49
+
+## 数据
+
+| Released | Card Name | Rarity | Attribute | Skill | Event |
+|---|---|---|---|---|---|
+| 2021-12-07 | Cool Blue Melody | 1 | cute | A Song's Presence |  |
+| 2021-12-07 | Wonderland SEKAI | 2 | cute | Strive For The Greatest Show |  |
+| 2021-12-07 | Troupe Positions Open! | 3 | cool | Troupe Leader In Trouble! |  |
+| 2021-12-24 | A Chat With The Lost | 4 | happy | A Guiding Hand | It's On! Wonder Halloween! |
+| 2022-01-25 | Secret Guidance | 4 | mysterious | To Be Moved Once More | KAMIYAMA HIGH FESTIVAL! |
+| 2022-05-17 | A Lively DJ Appears? | 4 | happy | Obsession And Passion | STRAY BAD DOG |
+| 2022-06-18 | A Cheshire Smile | 2 | cool | Smiles Tied Together | Wonder Magical Showtime! |
+| 2022-08-20 | The Troupe Leader's Day Off | 3 | happy | A Wish Granted | Mermaid Admiration |
+| 2022-09-09 | Conversing Through Sound Alone | 4 | mysterious | Opening A New Door | A Bright Future!! |
+| 2022-12-10 | Idol / Manager?! | 3 | pure | The Dependable Gentleman | MORE MORE Making Christmas |
+| 2022-12-14 | The Greedy Judge | 4 | cool | Get Rich Or Burn Trying |  |
+| 2023-02-17 | Happy Anniversary! | bd | cute | Ask Me For Anything |  |
+| 2023-02-18 | An Unfamiliar Liveliness | 4 | pure | A Comfortable Closeness | That day, the Sky was Far Away |
+| 2023-03-30 | It's Okay, Everyone | 4 | happy | My Wish, Just For A Little Bit | Connected Through SEKAI's Cherry Blossoms |
+| 2023-05-20 | Delicious Pancakes For Everyone! | 4 | cute | VS Vivid BAD SQUAD?! | THE POWER OF UNITY |
+| 2023-07-21 | Facing Your Song | 3 | cool | The Most Musical Person? | No seek No find |
+| 2023-09-20 | It's About The Particulars, No? | 4 | cool | Everything's A Challenge | Walk on and on |
+| 2023-10-11 | Mentors We Can Count On | 2 | pure | Indelibly Incandescent | Dear Me, From Back Then |
+| 2023-11-10 | Strumming Supporter | 2 | mysterious | Spitballing Music Videos | Echo My Melody |
+| 2023-12-21 | What Style Would Be Good? | 4 | cute | Giving Costume Design A Shot | Raise Your Bow in a Snow-White World |
+| 2024-02-17 | Happy Anniversary! 2024 | bd | cool | Our Uplifting Ally |  |
+| 2024-02-29 | It's All In The Mixing! | 4 | mysterious | Subtle Flavors, Subtle Support | Never Give Up Cooking! |
+| 2024-03-21 | Fury Incarnate | 3 | cute | The Reason I Was Called | Immiscible Discord |
+| 2024-04-21 | Faith In Unfading Feelings | 3 | happy | A Cheer For One So Kind | Friendship Rebuilt |
+| 2024-05-20 | Trust In Your Acts Of Support | 4 | pure | A Special Celebration Show | The Song of a Canary in Crisis |
+| 2024-07-21 | Their Journey That I've Watched | 4 | cool | Entrusted Feelings | Our Constellation of Song |
+| 2024-08-31 | Ulterior Motive | 2 | happy | Never Forget This | Let SEKAI Hear Your Song! |
+| 2024-09-30 | Original Style | 2 | pure | Happiness In Their Cheers |  |
+| 2024-09-30 | Brand New Wonderland | 2 | happy | KAITO Appreciation Party |  |
+| 2024-09-30 | A Song For The Restless | 4 | cute | Your Struggle, My Song |  |
+| 2025-01-07 | Featuring AHIRUNOPEKKLE | 2 | mysterious | Let's Dance! |  |
+| 2024-12-20 | I Can't Sit Back | 4 | happy | Butting Heads | The Way I Played That Day |
+| 2025-02-10 | Pick A Side! | 4 | cool | A Talent For Analogies?! | Lead With Courage and Kindness |
+| 2025-02-17 | Happy Anniversary! 2025 | bd | mysterious | Singing With Feeling |  |
+| 2025-03-09 | The Feelings I've Watched Over | 2 | pure | Sudden News | With Your Sights on Stardom, Set Sail! |
+| 2025-03-22 | Supportive Through Struggles | 3 | mysterious | Wanting To Congratulate | The First Concerto |
+| 2025-03-30 | A Curious Rascal | 4 | cool | SEKAI's Animal Caretaker? | Rise as One! |
+| 2025-06-10 | The Ultimate Performance | 4 | cool | Are You All Ready? | Lead to Shine More |
+| 2025-08-17 | Wanting To Give A Push | 4 | mysterious | All For That Joyous Day | With You at SEKAI's Beginnings |
+| 2025-10-12 | Icy Quarrel | 4 | cute | A Fallen Flower | Whither This Path of Thorns |
+| 2025-10-21 | If You Want Heat | 3 | pure | The Path Beyond The Wall | Rekindle the Flame |
+| 2025-12-31 | Natural Juggler! | 4 | cute | One-On-One Lessons With KAITO | Unfading Wishing |
+| 2025-04-28 | Let's Enjoy The Movie! | 2 | cute | Saw It And Had To Have It |  |
+| 2025-09-04 | Dashing Idol | 2 | cool | Soothing Melody |  |
+| 2026-02-17 | Happy Anniversary! 2026 | bd | happy | To Express Unfaltering Gratitude |  |
+| 2026-04-22 | A Reassuring Smile | 4 | mysterious | Believing In Her Hard Work | Choices for the Future |
+| 2026-07-07 | The Ones Close To Me | 4 | happy | Differing Relationships | Deeper and Deeper |
+| 2026-07-23 | Idol Fan In SEKAI | 2 | cool | Feeling My Excitement | Start Rolling! Stars' Crossing |
+| 2026-09-06 | At The Mercy Of The Mysterious | 4 | pure | Tree Versus Roof? | Link the Beats! |
+
+
+## 数据来源
+
+数据来源：SEKAI master database（en 服官方文本）、各服官网。

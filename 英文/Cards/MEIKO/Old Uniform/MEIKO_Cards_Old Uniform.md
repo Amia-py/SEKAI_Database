@@ -1,0 +1,33 @@
+# MEIKO - Old Uniform
+
+## 基本信息
+
+- **Character**：MEIKO
+- **Category**：Old Uniform
+- **Count**：16
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 101 | 2021-12-07 | Red Melody | 1 | cool | Clap To The Beat! |  | https://storage.sekai.best/sekai-en-assets/character/member/res025_no001/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res025_no001/card_after_training.png |
+| 102 | 2021-12-07 | Street SEKAI | 2 | pure | It's Good To Be The Boss |  | https://storage.sekai.best/sekai-en-assets/character/member/res025_no002/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res025_no002/card_after_training.png |
+| 103 | 2021-12-07 | A Quality Blend | 3 | mysterious | Here's Your Drink |  | https://storage.sekai.best/sekai-en-assets/character/member/res025_no003/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res025_no003/card_after_training.png |
+| 138 | 2022-01-01 | Warm Gaze | 2 | happy | Opening Shop Together! | Singing in Sync | https://storage.sekai.best/sekai-en-assets/character/member/res025_no005/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res025_no005/card_after_training.png |
+| 146 | 2022-02-02 | Tell Me About Your Christmas♪ | 4 | cute | Wonderful Idea! | On This Holy Night, I Sing | https://storage.sekai.best/sekai-en-assets/character/member/res025_no006/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res025_no006/card_after_training.png |
+| 156 | 2022-02-18 | Third Senpai | 4 | happy | Sparkling Melody | Don't Let Doubts Hold You Back | https://storage.sekai.best/sekai-en-assets/character/member/res025_no007/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res025_no007/card_after_training.png |
+| 203 | 2022-05-01 | Necessary Distance | 4 | cute | Under Observation | Secret Distance | https://storage.sekai.best/sekai-en-assets/character/member/res025_no008/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res025_no008/card_after_training.png |
+| 211 | 2022-05-09 | Looking For Answers | 2 | pure | As One Of Your Seniors | Resonating with you | https://storage.sekai.best/sekai-en-assets/character/member/res025_no009/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res025_no009/card_after_training.png |
+| 225 | 2022-06-02 | A New Face Who Looks Good In Red! | 3 | pure | Ketchup Art Service♪ | You deserve it! Break Time! | https://storage.sekai.best/sekai-en-assets/character/member/res025_no010/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res025_no010/card_after_training.png |
+| 251 | 2022-07-12 | Talking Coffee Time | 4 | cute | A Gentle Gaze | Awakening Beat | https://storage.sekai.best/sekai-en-assets/character/member/res025_no011/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res025_no011/card_after_training.png |
+| 276 | 2022-08-30 | Use A Rabbit As A Springboard?! | 4 | cute | MEIKO's Moon Viewing Show! | The Moon Rabbit & Us | https://storage.sekai.best/sekai-en-assets/character/member/res025_no012/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res025_no012/card_after_training.png |
+| 310 | 2022-10-28 | The Scales Of Justice | 3 | cool | A Red Guide | What lies behind. What lies ahead. | https://storage.sekai.best/sekai-en-assets/character/member/res025_no013/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res025_no013/card_after_training.png |
+| 358 | 2023-01-12 | Where Is The Crying Coming From? | 4 | cool | Lots Of Dreams | Popping in My Heart! | https://storage.sekai.best/sekai-en-assets/character/member/res025_no016/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res025_no016/card_after_training.png |
+| 408 | 2023-03-30 | Spring Menu Tasting | 3 | cute | Spring-Colored Crase Cafe | Connected Through SEKAI's Cherry Blossoms | https://storage.sekai.best/sekai-en-assets/character/member/res025_no017/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res025_no017/card_after_training.png |
+| 453 | 2023-06-20 | A Challenging Spirit! | 3 | happy | It's Always Good To Be Prepared | Desperate Times?! Island Panic! | https://storage.sekai.best/sekai-en-assets/character/member/res025_no019/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res025_no019/card_after_training.png |
+| 483 | 2023-08-10 | Let's Start With Some Sit-Ups | 4 | cool | The Rewards Of Special Training | Chasing The Sparkle Beyond the Blue Sky | https://storage.sekai.best/sekai-en-assets/character/member/res025_no020/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res025_no020/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

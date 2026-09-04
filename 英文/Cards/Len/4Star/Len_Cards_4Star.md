@@ -1,0 +1,41 @@
+# Kagamine Len - 4Star
+
+## 基本信息
+
+- **Character**：Kagamine Len
+- **Category**：4Star
+- **Count**：24
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 96 | 2021-12-07 | New Troupe Member! | 4 | cool | Part Of The Troupe From Now On! |  | https://storage.sekai.best/sekai-en-assets/character/member/res023_no004/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no004/card_after_training.png |
+| 150 | 2022-02-10 | Absolute Strongest Duo?! | 4 | pure | Worried About New Year's | SEKAI Happy New Year! | https://storage.sekai.best/sekai-en-assets/character/member/res023_no005/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no005/card_after_training.png |
+| 229 | 2022-06-10 | Sparkling Curiosity☆ | 4 | cute | Unseen Efforts That Pay Off | An Ode for the Pure of Heart | https://storage.sekai.best/sekai-en-assets/character/member/res023_no008/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no008/card_after_training.png |
+| 256 | 2022-07-21 | My Dancing Shoes! | 4 | cool | Let's All Dance Together! | The Sounds of a Summer Festival! | https://storage.sekai.best/sekai-en-assets/character/member/res023_no009/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no009/card_after_training.png |
+| 265 | 2022-08-10 | Prince Of The Stage | 4 | mysterious | Special Performance Invite! | Happy Lovely Everyday! | https://storage.sekai.best/sekai-en-assets/character/member/res023_no010/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no010/card_after_training.png |
+| 375 | 2023-02-09 | Uncontrollable Curiosity | 4 | mysterious | Special Training, Right Now! | The Legend Still Vivid | https://storage.sekai.best/sekai-en-assets/character/member/res023_no015/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no015/card_after_training.png |
+| 405 | 2023-03-30 | Surrounded By Spring-Colored Sweets | 4 | happy | Let's Find The Best Spot! | Connected Through SEKAI's Cherry Blossoms | https://storage.sekai.best/sekai-en-assets/character/member/res023_no017/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no017/card_after_training.png |
+| 447 | 2023-06-10 | Shyly Greeting While Hiding | 4 | cool | That Cheery Feeling | What Lies Beyond Guiding a Lost Child | https://storage.sekai.best/sekai-en-assets/character/member/res023_no018/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no018/card_after_training.png |
+| 471 | 2023-07-21 | A Moment After School | 4 | cute | Even If It Reaches No One | No seek No find | https://storage.sekai.best/sekai-en-assets/character/member/res023_no019/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no019/card_after_training.png |
+| 573 | 2024-01-10 | A Treasure Chest Of Fun | 4 | mysterious | To Cheer You Up | To The Gleaming Stars Halfway Through a Dream | https://storage.sekai.best/sekai-en-assets/character/member/res023_no023/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no023/card_after_training.png |
+| 618 | 2024-03-30 | My Cheer For You | 4 | cute | The Gift Of Courage |  | https://storage.sekai.best/sekai-en-assets/character/member/res023_no025/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no025/card_after_training.png |
+| 666 | 2024-06-20 | We Would Know | 4 | cool | A Straightforward Reply | Step by Step! | https://storage.sekai.best/sekai-en-assets/character/member/res023_no027/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no027/card_after_training.png |
+| 709 | 2024-08-31 | Heartfelt Performance | 4 | cute | For Our Brand New Pros | Let SEKAI Hear Your Song! | https://storage.sekai.best/sekai-en-assets/character/member/res023_no028/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no028/card_after_training.png |
+| 798 | 2024-11-30 | Ideal Protagonist | 4 | pure | I Wanna Play A Hero! | Picture Perfect! | https://storage.sekai.best/sekai-en-assets/character/member/res023_no032/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no032/card_after_training.png |
+| 905 | 2025-04-10 | An Intriguing Exhibition | 4 | pure | Restlessness Spreads | Knowing the Unseen | https://storage.sekai.best/sekai-en-assets/character/member/res023_no036/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no036/card_after_training.png |
+| 929 | 2025-05-23 | Joint Training! | 4 | cute | Let's Try A Period Piece! | Perspective for Smile | https://storage.sekai.best/sekai-en-assets/character/member/res023_no037/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no037/card_after_training.png |
+| 981 | 2025-08-17 | Always The Best Partners | 4 | happy | An Uneventful Day In SEKAI | With You at SEKAI's Beginnings | https://storage.sekai.best/sekai-en-assets/character/member/res023_no039/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no039/card_after_training.png |
+| 1000 | 2025-09-20 | Swimming In Cider | 4 | mysterious | What's Born From The Blend | This Moment With You! | https://storage.sekai.best/sekai-en-assets/character/member/res023_no040/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no040/card_after_training.png |
+| 1036 | 2025-11-20 | Cheers ☆ For ☆ You! | 4 | pure | SEKAI Acting Contest?! | The Power of Regret | https://storage.sekai.best/sekai-en-assets/character/member/res023_no041/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no041/card_after_training.png |
+| 1067 | 2026-01-11 | Big-Time Breakfast | 4 | happy | How Do You Spend A Flight? | Time to Take Off! | https://storage.sekai.best/sekai-en-assets/character/member/res023_no043/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no043/card_after_training.png |
+| 1106 | 2026-01-31 | Sending An Extra Special Heart | 4 | happy | From A Prince, With Gratitude | Warmth in Every Stitch | https://storage.sekai.best/sekai-en-assets/character/member/res023_no045/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no045/card_after_training.png |
+| 1164 | 2026-04-30 | In Her Time Of Need | 4 | mysterious | Watching From SEKAI | The Stopped Hand Moves Once More | https://storage.sekai.best/sekai-en-assets/character/member/res023_no047/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no047/card_after_training.png |
+| 1225 | 2026-08-22 | Sharing Deliciousness | 4 | happy | "Pretchels" For Everyone | Tying Tomorrow's Ribbon | https://storage.sekai.best/sekai-en-assets/character/member/res023_no048/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no048/card_after_training.png |
+| 1237 | 2026-09-06 | Arms Laden With Snacks | 4 | mysterious | Mysterious Things To Come? | Link the Beats! | https://storage.sekai.best/sekai-en-assets/character/member/res023_no049/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no049/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

@@ -1,0 +1,21 @@
+# Hoshino Ichika - Birthday
+
+## 基本信息
+
+- **Character**：Hoshino Ichika
+- **Category**：Birthday
+- **Count**：4
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 480 | 2023-08-11 | Happy Birthday! | bd | cool | Colorful Days |  | https://storage.sekai.best/sekai-en-assets/character/member/res001_no018/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res001_no018/card_after_training.png |
+| 699 | 2024-08-11 | Happy Birthday! 2024 | bd | pure | Studying On Your Birthday?! |  | https://storage.sekai.best/sekai-en-assets/character/member/res001_no026/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res001_no026/card_after_training.png |
+| 978 | 2025-08-11 | Happy Birthday! 2025 | bd | happy | Birthday Wonderland |  | https://storage.sekai.best/sekai-en-assets/character/member/res001_no036/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res001_no036/card_after_training.png |
+| 1222 | 2026-08-11 | Happy Birthday! 2026 | bd | cute | SEKAI Sleepover! |  | https://storage.sekai.best/sekai-en-assets/character/member/res001_no045/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res001_no045/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

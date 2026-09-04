@@ -1,0 +1,33 @@
+# Kagamine Rin - Old Uniform
+
+## 基本信息
+
+- **Character**：Kagamine Rin
+- **Category**：Old Uniform
+- **Count**：16
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 89 | 2021-12-07 | Bursting With Energy! | 1 | mysterious | Lustrous Performance! |  | https://storage.sekai.best/sekai-en-assets/character/member/res022_no001/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no001/card_after_training.png |
+| 90 | 2021-12-07 | Stage SEKAI | 2 | happy | Secret Practice Partner! |  | https://storage.sekai.best/sekai-en-assets/character/member/res022_no002/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no002/card_after_training.png |
+| 91 | 2021-12-07 | Sparkling Performance | 3 | mysterious | Adorable Pose♪ |  | https://storage.sekai.best/sekai-en-assets/character/member/res022_no003/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no003/card_after_training.png |
+| 92 | 2021-12-07 | Heated Argument | 4 | pure | Cuz' It's A Secret |  | https://storage.sekai.best/sekai-en-assets/character/member/res022_no004/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no004/card_after_training.png |
+| 131 | 2022-01-17 | All To See You Smile | 4 | cute | Shining Rainbow♪ | Time to RE:START! | https://storage.sekai.best/sekai-en-assets/character/member/res022_no005/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no005/card_after_training.png |
+| 171 | 2022-03-14 | Cupid Of Friendship | 4 | cute | Smile, Smile! | Musical Twilight Parade | https://storage.sekai.best/sekai-en-assets/character/member/res022_no006/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no006/card_after_training.png |
+| 178 | 2022-03-22 | The Reason We Met | 3 | mysterious | Even If Cursed... | Insatiable Pale Color | https://storage.sekai.best/sekai-en-assets/character/member/res022_no007/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no007/card_after_training.png |
+| 235 | 2022-06-18 | Smile Night Time! | 3 | mysterious | A Smile Delivered | Wonder Magical Showtime! | https://storage.sekai.best/sekai-en-assets/character/member/res022_no008/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no008/card_after_training.png |
+| 245 | 2022-07-04 | A Tomboyish Melody | 4 | happy | I Wanted To See You Smile | Unnamed Harmony | https://storage.sekai.best/sekai-en-assets/character/member/res022_no009/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no009/card_after_training.png |
+| 253 | 2022-07-12 | Pop Out SEKAI | 2 | cool | A Small Adventure | Awakening Beat | https://storage.sekai.best/sekai-en-assets/character/member/res022_no010/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no010/card_after_training.png |
+| 286 | 2022-09-20 | The Girl From The Album | 4 | happy | A Soothing Lullaby | Mirage of Light | https://storage.sekai.best/sekai-en-assets/character/member/res022_no011/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no011/card_after_training.png |
+| 371 | 2023-01-31 | Idol On Cake♪ | 3 | cool | My Special Surprise! | Secret Operation Valentine's Day | https://storage.sekai.best/sekai-en-assets/character/member/res022_no015/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no015/card_after_training.png |
+| 399 | 2023-03-20 | Sending My Singing Voice | 4 | cool | I Don't Want Her To Suffer, But... | On This Blank Canvas, I Paint | https://storage.sekai.best/sekai-en-assets/character/member/res022_no016/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no016/card_after_training.png |
+| 409 | 2023-03-30 | Bloomy Idol♪ | 2 | cool | A Spring Show On A Pink Stage♪ | Connected Through SEKAI's Cherry Blossoms | https://storage.sekai.best/sekai-en-assets/character/member/res022_no017/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no017/card_after_training.png |
+| 465 | 2023-07-11 | Be Quiet During The Movie! | 4 | mysterious | To Feel The Atmosphere | The Vivid Old Tale | https://storage.sekai.best/sekai-en-assets/character/member/res022_no019/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no019/card_after_training.png |
+| 496 | 2023-08-31 | Unspeakable Words | 3 | pure | Kindness Is So Tricky | Don't lose faith! | https://storage.sekai.best/sekai-en-assets/character/member/res022_no020/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no020/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

@@ -1,0 +1,24 @@
+# Asahina Mafuyu - 3Star
+
+## 基本信息
+
+- **Character**：Asahina Mafuyu
+- **Category**：3Star
+- **Count**：7
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 71 | 2021-12-07 | The "Good" Me | 3 | cute | Where Is The Self? |  | https://storage.sekai.best/sekai-en-assets/character/member/res018_no003/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no003/card_after_training.png |
+| 127 | 2022-01-09 | Super Exciting Three-Legged Race? | 3 | happy | Still In My Heart | Run! Sports Festival! Committee Rush | https://storage.sekai.best/sekai-en-assets/character/member/res018_no006/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no006/card_after_training.png |
+| 400 | 2023-03-20 | Colorful Recollection | 3 | pure | No One Has The Right Answer | On This Blank Canvas, I Paint | https://storage.sekai.best/sekai-en-assets/character/member/res018_no017/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no017/card_after_training.png |
+| 675 | 2024-06-30 | A Time Of Rest | 3 | cool | By Your Side, No Matter How Far | An Unmissable Spirited Affair | https://storage.sekai.best/sekai-en-assets/character/member/res018_no026/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no026/card_after_training.png |
+| 845 | 2024-12-31 | Stretch Our Legs A Little | 3 | mysterious | A Lively New Year's Party | Beside Unchanging Warmth | https://storage.sekai.best/sekai-en-assets/character/member/res018_no032/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no032/card_after_training.png |
+| 976 | 2025-08-09 | Ticket Serendipity | 3 | pure | The Peace Music Brings | Play That Beautiful Sound! | https://storage.sekai.best/sekai-en-assets/character/member/res018_no037/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no037/card_after_training.png |
+| 1014 | 2025-10-12 | Tasting Some Serious Squid | 3 | cool | A Relaxed Moment | Whither This Path of Thorns | https://storage.sekai.best/sekai-en-assets/character/member/res018_no039/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res018_no039/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

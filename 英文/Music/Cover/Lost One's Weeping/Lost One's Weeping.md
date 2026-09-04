@@ -1,0 +1,15 @@
+# Lost One's Weeping
+
+## 基本信息
+
+
+## 数据
+
+| Title | Artist | Lyricist | Composer | Arranger | Released | Event | Category | Jacket | Preview Audio | Vocal Version |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Lost One's Weeping | Neru | Neru | Neru | - | 2022-10-02 |  |  | https://storage.sekai.best/sekai-en-assets/music/jacket/jacket_s_098/jacket_s_098.png | https://storage.sekai.best/sekai-en-assets/music/short/vs_0098_01/vs_0098_01_short.mp3 | VIRTUAL SINGER ver. / VIRTUAL SINGER ver. / SEKAI ver. / Cover ver. / Cover ver. / Cover ver. |
+
+
+## 数据来源
+
+Source: SEKAI master database music data (official text). Audio/jacket assets from SEKAI Viewer (storage.sekai.best).

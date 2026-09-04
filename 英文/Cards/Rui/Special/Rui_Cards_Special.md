@@ -1,0 +1,27 @@
+# Kamishiro Rui - Special
+
+## 基本信息
+
+- **Character**：Kamishiro Rui
+- **Category**：Special
+- **Count**：10
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 228 | 2022-06-10 | Fantastic Planner | 4 | cute | The Best Cast Members | An Ode for the Pure of Heart | https://storage.sekai.best/sekai-en-assets/character/member/res016_no010/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res016_no010/card_after_training.png |
+| 349 | 2022-12-31 | Endless Imagination & Challenges | 4 | cool | The Right Moment To Believe |  | https://storage.sekai.best/sekai-en-assets/character/member/res016_no013/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res016_no013/card_after_training.png |
+| 514 | 2023-09-30 | Words Of Encouragement | 4 | pure | Everyone's On Chair Duty | At This Festival Bathed in Twilight | https://storage.sekai.best/sekai-en-assets/character/member/res016_no019/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res016_no019/card_after_training.png |
+| 601 | 2024-02-29 | A Sudden Trial | 4 | mysterious | It's The Thought That Counts | Never Give Up Cooking! | https://storage.sekai.best/sekai-en-assets/character/member/res016_no022/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res016_no022/card_after_training.png |
+| 672 | 2024-06-30 | Sentimental Snapshot | 4 | happy | Leaving Room For Memories | An Unmissable Spirited Affair | https://storage.sekai.best/sekai-en-assets/character/member/res016_no026/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res016_no026/card_after_training.png |
+| 887 | 2025-03-08 | A Greeting In Return | 4 | cute | New SEKAI Expedition! | With Your Sights on Stardom, Set Sail! | https://storage.sekai.best/sekai-en-assets/character/member/res016_no033/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res016_no033/card_after_training.png |
+| 1003 | 2025-09-30 | Admiring My Treasures | 4 | cute | Because Of That Time | Here on Our Dream Stage | https://storage.sekai.best/sekai-en-assets/character/member/res016_no038/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res016_no038/card_after_training.png |
+| 1172 | 2026-05-09 | A Step Closer To My Dream | 4 | cute | Endless Ideas | Dear My Fellows | https://storage.sekai.best/sekai-en-assets/character/member/res016_no045/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res016_no045/card_after_training.png |
+| 1196 | 2026-07-07 | How Far I Have To Go | 4 | happy | Grateful For My Friends | Deeper and Deeper | https://storage.sekai.best/sekai-en-assets/character/member/res016_no047/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res016_no047/card_after_training.png |
+| 1231 | 2026-08-30 | Passionate Prop Making | 4 | cool | A Step Closer To Our Dreams | Deep Dark for Light | https://storage.sekai.best/sekai-en-assets/character/member/res016_no048/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res016_no048/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

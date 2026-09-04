@@ -1,0 +1,27 @@
+# Kiritani Haruka - Special
+
+## 基本信息
+
+- **Character**：Kiritani Haruka
+- **Category**：Special
+- **Count**：10
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 242 | 2022-07-04 | Someday, I'll Deliver | 4 | cool | Hope In Flight |  | https://storage.sekai.best/sekai-en-assets/character/member/res006_no010/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no010/card_after_training.png |
+| 350 | 2022-12-31 | The Future We're Wishing For | 4 | cute | Welcome To The Kiritani Shrine? | The Tomorrow We Hope For | https://storage.sekai.best/sekai-en-assets/character/member/res006_no015/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no015/card_after_training.png |
+| 422 | 2023-04-30 | Perfect Premonition | 4 | cool | Deluxe Parfait Time♪ | Tied By Painful Hope | https://storage.sekai.best/sekai-en-assets/character/member/res006_no017/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no017/card_after_training.png |
+| 545 | 2023-11-30 | The World's Best Smile | 4 | pure | In Pursuit Of My Past Self | Beyond The Dream of That Day | https://storage.sekai.best/sekai-en-assets/character/member/res006_no022/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no022/card_after_training.png |
+| 780 | 2024-10-31 | A Lavish Feast | 4 | cool | Ghost Guide | The Warmth of a Guiding Hand | https://storage.sekai.best/sekai-en-assets/character/member/res006_no030/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no030/card_after_training.png |
+| 862 | 2025-01-31 | Dark Colors For A Mature Look | 4 | mysterious | Little Commonalities | Take the Best Shot! | https://storage.sekai.best/sekai-en-assets/character/member/res006_no033/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no033/card_after_training.png |
+| 922 | 2025-05-09 | Hope Delivered | 4 | pure | SEKAI Picnic♪ | To One Day Reach that Flowery Stage | https://storage.sekai.best/sekai-en-assets/character/member/res006_no035/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no035/card_after_training.png |
+| 969 | 2025-07-31 | Cheeky Junior! | 4 | cute | Lingering Embers | Chase My Ideal Idol! | https://storage.sekai.best/sekai-en-assets/character/member/res006_no037/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no037/card_after_training.png |
+| 1057 | 2025-12-31 | An Idol To Be Proud Of | 4 | happy | What An Idol Can Do | Unfading Wishing | https://storage.sekai.best/sekai-en-assets/character/member/res006_no041/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no041/card_after_training.png |
+| 1219 | 2026-08-08 | Brought Together | 4 | cute | Supporting Each Other | All Ways Jump! With You | https://storage.sekai.best/sekai-en-assets/character/member/res006_no047/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no047/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

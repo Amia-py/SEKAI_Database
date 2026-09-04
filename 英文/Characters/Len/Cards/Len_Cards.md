@@ -1,0 +1,65 @@
+# Kagamine Len - Cards
+
+## 基本信息
+
+- **Name**：Kagamine Len
+- **Card Count**：49
+
+## 数据
+
+| Released | Card Name | Rarity | Attribute | Skill | Event |
+|---|---|---|---|---|---|
+| 2021-12-07 | Bursting With Power! | 1 | happy | Mic Relay! |  |
+| 2021-12-07 | Street SEKAI | 2 | mysterious | I'm A DJ! |  |
+| 2021-12-07 | Reluctant Reconciliation | 3 | happy | Should Have Said So Sooner |  |
+| 2021-12-07 | New Troupe Member! | 4 | cool | Part Of The Troupe From Now On! |  |
+| 2022-02-10 | Absolute Strongest Duo?! | 4 | pure | Worried About New Year's | SEKAI Happy New Year! |
+| 2022-03-06 | Sentimental Melody | 2 | cute | Unbroken Feeling | Nocturne Interlude |
+| 2022-03-30 | In The Best Way Possible! | 3 | happy | Pom Pom Po♪ | Smile of a Dreamer |
+| 2022-06-10 | Sparkling Curiosity☆ | 4 | cute | Unseen Efforts That Pay Off | An Ode for the Pure of Heart |
+| 2022-07-21 | My Dancing Shoes! | 4 | cool | Let's All Dance Together! | The Sounds of a Summer Festival! |
+| 2022-08-10 | Prince Of The Stage | 4 | mysterious | Special Performance Invite! | Happy Lovely Everyday! |
+| 2022-10-14 | Even Though She's My Partner | 3 | cute | I Want To Be The Best Partner | Bout for Beside You |
+| 2022-11-08 | Putting Feelings Into Action | 2 | happy | Easy On The Special Training | Putting Feelings Into Words |
+| 2022-12-14 | The Twin Servant | 4 | happy | "Family" Discord |  |
+| 2022-12-27 | Happy Anniversary! | bd | pure | More Than Twice The Fun |  |
+| 2023-02-09 | Uncontrollable Curiosity | 4 | mysterious | Special Training, Right Now! | The Legend Still Vivid |
+| 2023-02-28 | Innocent Squire | 2 | cool | Communicating Through Gestures | A Gentleman Thief's Thrilling White Day?! |
+| 2023-03-30 | Surrounded By Spring-Colored Sweets | 4 | happy | Let's Find The Best Spot! | Connected Through SEKAI's Cherry Blossoms |
+| 2023-06-10 | Shyly Greeting While Hiding | 4 | cool | That Cheery Feeling | What Lies Beyond Guiding a Lost Child |
+| 2023-07-21 | A Moment After School | 4 | cute | Even If It Reaches No One | No seek No find |
+| 2023-09-10 | My Own Way Of Being Cool! | 3 | cool | Rock, My Bike, Late Nights & Coffee | Paint What I Love♪ Rainbow Canvas |
+| 2023-11-20 | Ways To Get Involved | 2 | pure | Watching Over Closely | Hope Will Someday Go Beyond the Morning |
+| 2023-12-27 | Happy Anniversary! 2023 | bd | happy | Instigator Of Fun |  |
+| 2024-01-10 | A Treasure Chest Of Fun | 4 | mysterious | To Cheer You Up | To The Gleaming Stars Halfway Through a Dream |
+| 2024-01-31 | Gifts Give Form To Feelings | 2 | cute | Aromas Chosen Together | Memories That Come With The Scent of Candles |
+| 2024-03-30 | My Cheer For You | 4 | cute | The Gift Of Courage |  |
+| 2024-04-30 | Kindness In A Ribbon | 3 | pure | Joined Feelings | We Escape to Survive |
+| 2024-06-20 | We Would Know | 4 | cool | A Straightforward Reply | Step by Step! |
+| 2024-08-31 | Heartfelt Performance | 4 | cute | For Our Brand New Pros | Let SEKAI Hear Your Song! |
+| 2024-09-30 | Original Style | 2 | mysterious | Let The Whole World Hear! |  |
+| 2024-09-30 | Brand New Street | 2 | happy | Let's Go Harder Than Hard! |  |
+| 2024-10-31 | Excited For The Journey | 3 | cute | A Manju Surprise | The Warmth of a Guiding Hand |
+| 2024-11-30 | Ideal Protagonist | 4 | pure | I Wanna Play A Hero! | Picture Perfect! |
+| 2025-01-07 | Featuring Little Twin Stars | 2 | cool | Cozy Dreams Kiki |  |
+| 2024-12-27 | Happy Anniversary! 2024 | bd | mysterious | Inspired Celebration |  |
+| 2025-01-10 | To Give Them Strength | 2 | pure | Hide And Seek In SEKAI! | Break Down the Wall |
+| 2025-04-10 | An Intriguing Exhibition | 4 | pure | Restlessness Spreads | Knowing the Unseen |
+| 2025-05-23 | Joint Training! | 4 | cute | Let's Try A Period Piece! | Perspective for Smile |
+| 2025-06-10 | Let Individuality Shine | 2 | pure | Watching TV! | Lead to Shine More |
+| 2025-08-17 | Always The Best Partners | 4 | happy | An Uneventful Day In SEKAI | With You at SEKAI's Beginnings |
+| 2025-09-20 | Swimming In Cider | 4 | mysterious | What's Born From The Blend | This Moment With You! |
+| 2025-11-20 | Cheers ☆ For ☆ You! | 4 | pure | SEKAI Acting Contest?! | The Power of Regret |
+| 2025-12-27 | Happy Anniversary! 2025 | bd | cute | The Telepathy Game! |  |
+| 2026-01-11 | Big-Time Breakfast | 4 | happy | How Do You Spend A Flight? | Time to Take Off! |
+| 2025-04-28 | Let's Enjoy The Movie! | 2 | happy | I Got Us The Best Seats! |  |
+| 2026-01-31 | Sending An Extra Special Heart | 4 | happy | From A Prince, With Gratitude | Warmth in Every Stitch |
+| 2025-09-04 | Energetic Idol | 2 | cute | Spirited Melody |  |
+| 2026-04-30 | In Her Time Of Need | 4 | mysterious | Watching From SEKAI | The Stopped Hand Moves Once More |
+| 2026-08-22 | Sharing Deliciousness | 4 | happy | "Pretchels" For Everyone | Tying Tomorrow's Ribbon |
+| 2026-09-06 | Arms Laden With Snacks | 4 | mysterious | Mysterious Things To Come? | Link the Beats! |
+
+
+## 数据来源
+
+数据来源：SEKAI master database（en 服官方文本）、各服官网。

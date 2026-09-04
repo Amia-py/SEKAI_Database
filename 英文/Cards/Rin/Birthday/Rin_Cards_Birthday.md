@@ -1,0 +1,21 @@
+# Kagamine Rin - Birthday
+
+## 基本信息
+
+- **Character**：Kagamine Rin
+- **Category**：Birthday
+- **Count**：4
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 346 | 2022-12-27 | Happy Anniversary! | bd | cool | A Dreamtime Show |  | https://storage.sekai.best/sekai-en-assets/character/member/res022_no014/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no014/card_after_training.png |
+| 561 | 2023-12-27 | Happy Anniversary! 2023 | bd | pure | Always Bringing Cheer! |  | https://storage.sekai.best/sekai-en-assets/character/member/res022_no022/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no022/card_after_training.png |
+| 838 | 2024-12-27 | Happy Anniversary! 2024 | bd | cute | Many Happy Returns |  | https://storage.sekai.best/sekai-en-assets/character/member/res022_no033/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no033/card_after_training.png |
+| 1055 | 2025-12-27 | Happy Anniversary! 2025 | bd | mysterious | Rin's Orders! |  | https://storage.sekai.best/sekai-en-assets/character/member/res022_no041/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no041/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

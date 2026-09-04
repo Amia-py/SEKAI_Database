@@ -1,0 +1,25 @@
+# Kusanagi Nene - Basic_Profile
+
+## 基本信息
+
+- **Name**：Kusanagi Nene
+- **Unit**：Wonderlands×Showtime
+- **Birthday**：Jul.20
+- **Height**：156cm
+- **Gender**：female
+- **Romanized**：KUSANAGI NENE
+- **Card Count**：46
+
+## 数据
+
+（暂无数据）
+
+
+## Introduction
+
+A girl dreaming of being an international musical star. Though Nene lost confidence in her ability to sing during a rehearsal for an important show, this led her to reaffirm her passion for singing. Together with the other Wonderlands×Showtime members, she is determined to take in the many experiences the world has to offer.
+
+
+## 数据来源
+
+数据来源：SEKAI master database（en 服官方文本）、各服官网。

@@ -1,0 +1,20 @@
+# Kusanagi Nene - Collaboration
+
+## 基本信息
+
+- **Character**：Kusanagi Nene
+- **Category**：Collaboration
+- **Count**：3
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 817 | 2025-01-07 | Featuring U・SA・HA・NA | 2 | cool | See You Onstage♪ |  | https://storage.sekai.best/sekai-en-assets/character/member/res015_no031/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no031/card_after_training.png |
+| 1084 | 2025-04-28 | Let's Enjoy The Movie! | 2 | pure | Movie Theater Must-Have |  | https://storage.sekai.best/sekai-en-assets/character/member/res015_no040/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no040/card_after_training.png |
+| 1245 | 2026-08-04 | Super Special Practice Session! | 4 | happy | Your Song, Your Feelings, Your Bond |  | https://storage.sekai.best/sekai-en-assets/character/member/res015_no048/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no048/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

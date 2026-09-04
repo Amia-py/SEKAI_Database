@@ -1,0 +1,25 @@
+# Tenma Saki - 3Star
+
+## 基本信息
+
+- **Character**：Tenma Saki
+- **Category**：3Star
+- **Count**：8
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 7 | 2021-12-07 | 100 Things I Want To Do | 3 | cool | Now And Forever |  | https://storage.sekai.best/sekai-en-assets/character/member/res002_no003/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res002_no003/card_after_training.png |
+| 153 | 2022-02-10 | Most Important Wish | 3 | cute | Winter Vacation Study Group | SEKAI Happy New Year! | https://storage.sekai.best/sekai-en-assets/character/member/res002_no007/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res002_no007/card_after_training.png |
+| 158 | 2022-02-18 | Unseen Assistance | 3 | mysterious | Desire To Be Helpful | Don't Let Doubts Hold You Back | https://storage.sekai.best/sekai-en-assets/character/member/res002_no008/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res002_no008/card_after_training.png |
+| 383 | 2023-02-18 | Lesson From A Future Star | 3 | happy | Just Stick With The Usual! | That day, the Sky was Far Away | https://storage.sekai.best/sekai-en-assets/character/member/res002_no016/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res002_no016/card_after_training.png |
+| 538 | 2023-11-10 | Kindness I Can Lean On | 3 | pure | The Night Before The Shoot | Echo My Melody | https://storage.sekai.best/sekai-en-assets/character/member/res002_no021/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res002_no021/card_after_training.png |
+| 645 | 2024-05-11 | Feeling Like An Incognito Idol | 3 | cute | Operation ☆ Idol ☆ Disguise | One Small Trip Before a Big Journey | https://storage.sekai.best/sekai-en-assets/character/member/res002_no026/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res002_no026/card_after_training.png |
+| 1031 | 2025-11-10 | Visibly & Audibly Asleep | 3 | pure | The Countless Wonders Of Fall | As the Leaves Change Once More | https://storage.sekai.best/sekai-en-assets/character/member/res002_no042/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res002_no042/card_after_training.png |
+| 1149 | 2026-03-30 | Fun Like A Dream | 3 | mysterious | Compliment Conference♪ | Find the Dream View | https://storage.sekai.best/sekai-en-assets/character/member/res002_no046/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res002_no046/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

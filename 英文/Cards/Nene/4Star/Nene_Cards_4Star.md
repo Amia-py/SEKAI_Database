@@ -1,0 +1,40 @@
+# Kusanagi Nene - 4Star
+
+## 基本信息
+
+- **Character**：Kusanagi Nene
+- **Category**：4Star
+- **Count**：23
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 144 | 2022-02-02 | Gift From Above | 4 | cute | A New Way To Play | On This Holy Night, I Sing | https://storage.sekai.best/sekai-en-assets/character/member/res015_no007/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no007/card_after_training.png |
+| 181 | 2022-03-30 | Messenger Of Feelings | 4 | mysterious | I Want You To Smile | Smile of a Dreamer | https://storage.sekai.best/sekai-en-assets/character/member/res015_no008/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no008/card_after_training.png |
+| 234 | 2022-06-18 | The Confidence You Gave Me | 4 | cool | Cherishing The Future | Wonder Magical Showtime! | https://storage.sekai.best/sekai-en-assets/character/member/res015_no009/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no009/card_after_training.png |
+| 269 | 2022-08-20 | Celebrate With Fireworks | 4 | pure | The Song That Encouraged Me | Mermaid Admiration | https://storage.sekai.best/sekai-en-assets/character/member/res015_no010/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no010/card_after_training.png |
+| 348 | 2022-12-31 | Dazzling Dream Stage | 4 | mysterious | Someday, I'll Find The Answer |  | https://storage.sekai.best/sekai-en-assets/character/member/res015_no012/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no012/card_after_training.png |
+| 411 | 2023-04-11 | The Little Squirrels' Invitation | 4 | cute | I Do Have Some Faith In You | On the Stage of Dazzling Light | https://storage.sekai.best/sekai-en-assets/character/member/res015_no014/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no014/card_after_training.png |
+| 450 | 2023-06-20 | Thank You For Playing With Us | 4 | happy | An Address Book In The Nick Of Time?! | Desperate Times?! Island Panic! | https://storage.sekai.best/sekai-en-assets/character/member/res015_no015/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no015/card_after_training.png |
+| 475 | 2023-07-31 | I'm Not Losing My Target | 4 | cute | Sharing The Things We Like | close game/OFFLINE | https://storage.sekai.best/sekai-en-assets/character/member/res015_no017/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no017/card_after_training.png |
+| 524 | 2023-10-21 | A Childhood Friend's Gaze | 4 | cool | An Adventure In Gift Giving | A Sad Farewell at the Curtain Call | https://storage.sekai.best/sekai-en-assets/character/member/res015_no018/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no018/card_after_training.png |
+| 584 | 2024-01-31 | Hold Them In Your Mind | 4 | cool | Will They Like It? | Memories That Come With The Scent of Candles | https://storage.sekai.best/sekai-en-assets/character/member/res015_no021/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no021/card_after_training.png |
+| 608 | 2024-03-11 | The Gap Is Laid Bare | 4 | cute | Still Not Enough... | The Phoenix in the Distant Sky | https://storage.sekai.best/sekai-en-assets/character/member/res015_no022/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no022/card_after_training.png |
+| 648 | 2024-05-20 | Because I'm Not Enough | 4 | pure | Take Strength From Their Support | The Song of a Canary in Crisis | https://storage.sekai.best/sekai-en-assets/character/member/res015_no025/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no025/card_after_training.png |
+| 701 | 2024-08-21 | Everything, Even Sorrow | 4 | happy | As Rivals, As Friends | Our Happy Ending | https://storage.sekai.best/sekai-en-assets/character/member/res015_no027/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no027/card_after_training.png |
+| 796 | 2024-11-30 | Determined Director | 4 | pure | Let's Have An After-Party! | Picture Perfect! | https://storage.sekai.best/sekai-en-assets/character/member/res015_no030/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no030/card_after_training.png |
+| 855 | 2025-01-23 | I'm Used To Setup Now | 4 | happy | Fated Filmmaker | Backlight, Lens Flare | https://storage.sekai.best/sekai-en-assets/character/member/res015_no032/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no032/card_after_training.png |
+| 886 | 2025-03-08 | Who We Want To Be | 4 | mysterious | Frustration And Fear | With Your Sights on Stardom, Set Sail! | https://storage.sekai.best/sekai-en-assets/character/member/res015_no033/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no033/card_after_training.png |
+| 934 | 2025-05-31 | Into A Magical Dress | 4 | mysterious | Nervously Waiting | Stream With Friends♡ Wedding Live! | https://storage.sekai.best/sekai-en-assets/character/member/res015_no035/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no035/card_after_training.png |
+| 1005 | 2025-09-30 | A Dream On A Melody | 4 | pure | You Can Get Used To Anything | Here on Our Dream Stage | https://storage.sekai.best/sekai-en-assets/character/member/res015_no038/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no038/card_after_training.png |
+| 1034 | 2025-11-20 | Unwavering Gaze | 4 | pure | Trust Comes In Many Forms | The Power of Regret | https://storage.sekai.best/sekai-en-assets/character/member/res015_no039/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no039/card_after_training.png |
+| 1123 | 2026-02-20 | A Tail On Screen | 4 | cute | The Fruits Of Hard Work | Yesteryear Read-Aloud | https://storage.sekai.best/sekai-en-assets/character/member/res015_no041/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no041/card_after_training.png |
+| 1157 | 2026-04-22 | Feeling In Each Step | 4 | mysterious | Small Signs Of Growth | Choices for the Future | https://storage.sekai.best/sekai-en-assets/character/member/res015_no043/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no043/card_after_training.png |
+| 1171 | 2026-05-09 | I Can't Rest | 4 | cool | The Joy Of Growing Together | Dear My Fellows | https://storage.sekai.best/sekai-en-assets/character/member/res015_no044/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no044/card_after_training.png |
+| 1198 | 2026-07-07 | Getting You Snacks | 4 | happy | Serious About English | Deeper and Deeper | https://storage.sekai.best/sekai-en-assets/character/member/res015_no045/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no045/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

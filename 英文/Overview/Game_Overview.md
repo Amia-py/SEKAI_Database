@@ -1,0 +1,49 @@
+# Game Overview
+
+## 基本信息
+
+- **Game Title**：HATSUNE MIKU: COLORFUL STAGE!
+- **Official Site**：https://www.colorfulstage.com/
+- **Tagline**：HATSUNE MIKU: COLORFUL STAGE! (Project SEKAI English version)
+- **JP Release**：Released in Japan on September 30, 2020.
+- **CN Release**：The Mainland China version launched on March 27, 2025, published by Nuverse.
+- **EN Release**：The English version launched in 2021 for North America, Europe, and about 130 countries/regions.
+
+## 数据
+
+| Date | Title |
+|---|---|
+| 2026-09-01 | Premium Mission Pass - September 2026 |
+| 2026-08-30 | Deep Dark for Light Event |
+| 2026-08-30 | Miku's Anniversary 2026 |
+| 2026-03-19 | Known Issue: Failure to Connect to Server on Startup |
+
+
+## 世界观
+
+[SEKAI]
+A mysterious world different from reality,
+reflecting people's "true feelings."
+As many SEKAI exist as there are feelings,
+and each changes its form according to those feelings.
+
+[Hatsune Miku and Friends]
+In the real world, they are virtual singers who
+perform songs created by creators around the world.
+In SEKAI, they change their appearance according to feelings,
+helping the holders of those feelings discover
+their "true feelings."
+
+[UNTITLED]
+A soundless song with no melody or lyrics,
+born at the same time as a SEKAI.
+It serves as a key leading to the SEKAI.
+When the holder of the feelings finds their "true feelings"
+and sings together with Miku and friends,
+the feelings turn into a song,
+and the song is given a name for the first time.
+(Translated from the official JP site STORY page)
+
+## 数据来源
+
+根据各服官网原文整理：https://www.colorfulstage.com/

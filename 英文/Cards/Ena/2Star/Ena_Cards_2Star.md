@@ -1,0 +1,26 @@
+# Shinonome Ena - 2Star
+
+## 基本信息
+
+- **Character**：Shinonome Ena
+- **Category**：2Star
+- **Count**：9
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 74 | 2021-12-07 | Nightcord at 25:00 | 2 | mysterious | Not Too Bad |  | https://storage.sekai.best/sekai-en-assets/character/member/res019_no002/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no002/card_after_training.png |
+| 118 | 2021-12-16 | Marionette Dress | 2 | pure | How To Be Honest | Imprisoned Marionette | https://storage.sekai.best/sekai-en-assets/character/member/res019_no005/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no005/card_after_training.png |
+| 241 | 2022-06-26 | Please, Put It Into Words | 2 | cute | We Both Hate Giving Up | Carnation Recollection | https://storage.sekai.best/sekai-en-assets/character/member/res019_no010/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no010/card_after_training.png |
+| 432 | 2023-05-10 | Behind The Scenes At The Sports Festival | 2 | happy | Catching A Glimpse Of Effort | The Climax! Kamiyama Cheer Squad! | https://storage.sekai.best/sekai-en-assets/character/member/res019_no017/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no017/card_after_training.png |
+| 640 | 2024-04-30 | Frustration, Regret and Gratitude | 2 | cool | In Return For Secret Sweets | We Escape to Survive | https://storage.sekai.best/sekai-en-assets/character/member/res019_no026/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no026/card_after_training.png |
+| 742 | 2024-09-30 | Brand New Style | 2 | happy | Memories Of Changing Classes |  | https://storage.sekai.best/sekai-en-assets/character/member/res019_no029/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no029/card_after_training.png |
+| 937 | 2025-05-31 | Secondhand Ticket | 2 | mysterious | Making Ring Pillows! | Stream With Friends♡ Wedding Live! | https://storage.sekai.best/sekai-en-assets/character/member/res019_no036/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no036/card_after_training.png |
+| 1063 | 2025-12-31 | The Year Starts With 25:00 | 2 | pure | Flower Fortunes | Unfading Wishing | https://storage.sekai.best/sekai-en-assets/character/member/res019_no041/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no041/card_after_training.png |
+| 1166 | 2026-04-30 | Matching Bracelets | 2 | cute | Nothing Changes | The Stopped Hand Moves Once More | https://storage.sekai.best/sekai-en-assets/character/member/res019_no045/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no045/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

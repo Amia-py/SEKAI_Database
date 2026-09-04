@@ -1,0 +1,34 @@
+# Kagamine Len - Old Uniform
+
+## 基本信息
+
+- **Character**：Kagamine Len
+- **Category**：Old Uniform
+- **Count**：17
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 93 | 2021-12-07 | Bursting With Power! | 1 | happy | Mic Relay! |  | https://storage.sekai.best/sekai-en-assets/character/member/res023_no001/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no001/card_after_training.png |
+| 94 | 2021-12-07 | Street SEKAI | 2 | mysterious | I'm A DJ! |  | https://storage.sekai.best/sekai-en-assets/character/member/res023_no002/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no002/card_after_training.png |
+| 95 | 2021-12-07 | Reluctant Reconciliation | 3 | happy | Should Have Said So Sooner |  | https://storage.sekai.best/sekai-en-assets/character/member/res023_no003/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no003/card_after_training.png |
+| 96 | 2021-12-07 | New Troupe Member! | 4 | cool | Part Of The Troupe From Now On! |  | https://storage.sekai.best/sekai-en-assets/character/member/res023_no004/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no004/card_after_training.png |
+| 150 | 2022-02-10 | Absolute Strongest Duo?! | 4 | pure | Worried About New Year's | SEKAI Happy New Year! | https://storage.sekai.best/sekai-en-assets/character/member/res023_no005/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no005/card_after_training.png |
+| 169 | 2022-03-06 | Sentimental Melody | 2 | cute | Unbroken Feeling | Nocturne Interlude | https://storage.sekai.best/sekai-en-assets/character/member/res023_no006/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no006/card_after_training.png |
+| 183 | 2022-03-30 | In The Best Way Possible! | 3 | happy | Pom Pom Po♪ | Smile of a Dreamer | https://storage.sekai.best/sekai-en-assets/character/member/res023_no007/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no007/card_after_training.png |
+| 229 | 2022-06-10 | Sparkling Curiosity☆ | 4 | cute | Unseen Efforts That Pay Off | An Ode for the Pure of Heart | https://storage.sekai.best/sekai-en-assets/character/member/res023_no008/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no008/card_after_training.png |
+| 256 | 2022-07-21 | My Dancing Shoes! | 4 | cool | Let's All Dance Together! | The Sounds of a Summer Festival! | https://storage.sekai.best/sekai-en-assets/character/member/res023_no009/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no009/card_after_training.png |
+| 265 | 2022-08-10 | Prince Of The Stage | 4 | mysterious | Special Performance Invite! | Happy Lovely Everyday! | https://storage.sekai.best/sekai-en-assets/character/member/res023_no010/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no010/card_after_training.png |
+| 299 | 2022-10-14 | Even Though She's My Partner | 3 | cute | I Want To Be The Best Partner | Bout for Beside You | https://storage.sekai.best/sekai-en-assets/character/member/res023_no011/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no011/card_after_training.png |
+| 317 | 2022-11-08 | Putting Feelings Into Action | 2 | happy | Easy On The Special Training | Putting Feelings Into Words | https://storage.sekai.best/sekai-en-assets/character/member/res023_no012/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no012/card_after_training.png |
+| 375 | 2023-02-09 | Uncontrollable Curiosity | 4 | mysterious | Special Training, Right Now! | The Legend Still Vivid | https://storage.sekai.best/sekai-en-assets/character/member/res023_no015/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no015/card_after_training.png |
+| 389 | 2023-02-28 | Innocent Squire | 2 | cool | Communicating Through Gestures | A Gentleman Thief's Thrilling White Day?! | https://storage.sekai.best/sekai-en-assets/character/member/res023_no016/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no016/card_after_training.png |
+| 447 | 2023-06-10 | Shyly Greeting While Hiding | 4 | cool | That Cheery Feeling | What Lies Beyond Guiding a Lost Child | https://storage.sekai.best/sekai-en-assets/character/member/res023_no018/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no018/card_after_training.png |
+| 471 | 2023-07-21 | A Moment After School | 4 | cute | Even If It Reaches No One | No seek No find | https://storage.sekai.best/sekai-en-assets/character/member/res023_no019/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no019/card_after_training.png |
+| 502 | 2023-09-10 | My Own Way Of Being Cool! | 3 | cool | Rock, My Bike, Late Nights & Coffee | Paint What I Love♪ Rainbow Canvas | https://storage.sekai.best/sekai-en-assets/character/member/res023_no020/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no020/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

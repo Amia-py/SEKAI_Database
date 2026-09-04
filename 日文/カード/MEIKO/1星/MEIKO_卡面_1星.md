@@ -1,0 +1,18 @@
+# MEIKO - 1星
+
+## 基本信息
+
+- **角色**：MEIKO
+- **分类**：1星
+- **数量**：1
+
+## 数据
+
+| カードID | 実装日 | カード名 | レアリティ | 属性 | スキル | 関連イベント | 特訓前画像 | 特訓後画像 |
+|---|---|---|---|---|---|---|---|---|
+| 101 | 2020-09-29 | 赤く駆ける旋律 | 1 | cool | 手拍子も大歓迎！ |  | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no001/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res025_no001/card_after_training.png |
+
+
+## 数据来源
+
+出典：SEKAI master database カードデータ（公式テキスト）。画像は SEKAI Viewer アセット（storage.sekai.best）。

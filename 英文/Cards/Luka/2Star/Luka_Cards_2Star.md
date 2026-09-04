@@ -1,0 +1,27 @@
+# Megurine Luka - 2Star
+
+## 基本信息
+
+- **Character**：Megurine Luka
+- **Category**：2Star
+- **Count**：10
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 98 | 2021-12-07 | School SEKAI | 2 | happy | For All |  | https://storage.sekai.best/sekai-en-assets/character/member/res024_no002/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no002/card_after_training.png |
+| 221 | 2022-05-25 | Fairy Lantern♪ | 2 | mysterious | Guidance That Always Glimmers | What's on your mind? Exciting Picnic! | https://storage.sekai.best/sekai-en-assets/character/member/res024_no010/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no010/card_after_training.png |
+| 420 | 2023-04-21 | Precise Advice | 2 | cute | A Bit Of Inspiration | Live with Memories | https://storage.sekai.best/sekai-en-assets/character/member/res024_no018/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no018/card_after_training.png |
+| 490 | 2023-08-20 | Choosing To Wait | 2 | cool | What's Changed Is... | And Now, I Wear This Ribbon | https://storage.sekai.best/sekai-en-assets/character/member/res024_no021/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no021/card_after_training.png |
+| 599 | 2024-02-19 | Resonating Roughly But Richly | 2 | cool | Let Me Hear Your Song! | Kick It Up a Notch | https://storage.sekai.best/sekai-en-assets/character/member/res024_no025/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no025/card_after_training.png |
+| 681 | 2024-07-11 | Growing Unease | 2 | happy | Getting Through To Her | Farewell, My Mask | https://storage.sekai.best/sekai-en-assets/character/member/res024_no027/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no027/card_after_training.png |
+| 747 | 2024-09-30 | Original Style | 2 | cute | Virtual Muses |  | https://storage.sekai.best/sekai-en-assets/character/member/res024_no029/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no029/card_after_training.png |
+| 755 | 2024-09-30 | Brand New School | 2 | pure | Our Opening Ceremony |  | https://storage.sekai.best/sekai-en-assets/character/member/res024_no030/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no030/card_after_training.png |
+| 865 | 2025-01-31 | Photo Contest in SEKAI! | 2 | mysterious | Posed To Capture Hearts | Take the Best Shot! | https://storage.sekai.best/sekai-en-assets/character/member/res024_no035/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no035/card_after_training.png |
+| 965 | 2025-07-18 | Starting Point | 2 | cool | What A Senior Hopes For | Our Starry Sky Leading to the Future | https://storage.sekai.best/sekai-en-assets/character/member/res024_no039/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no039/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

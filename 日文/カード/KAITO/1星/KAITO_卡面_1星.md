@@ -1,0 +1,18 @@
+# KAITO - 1星
+
+## 基本信息
+
+- **角色**：KAITO
+- **分类**：1星
+- **数量**：1
+
+## 数据
+
+| カードID | 実装日 | カード名 | レアリティ | 属性 | スキル | 関連イベント | 特訓前画像 | 特訓後画像 |
+|---|---|---|---|---|---|---|---|---|
+| 105 | 2020-09-29 | 涼やかな青い旋律 | 1 | cute | 歌の存在感 |  | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no001/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no001/card_after_training.png |
+
+
+## 数据来源
+
+出典：SEKAI master database カードデータ（公式テキスト）。画像は SEKAI Viewer アセット（storage.sekai.best）。

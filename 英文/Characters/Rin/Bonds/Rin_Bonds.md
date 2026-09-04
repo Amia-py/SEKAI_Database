@@ -1,0 +1,65 @@
+# Kagamine Rin - Bonds
+
+## 基本信息
+
+- **Name**：Kagamine Rin
+
+## 数据
+
+| Group ID | Partner |
+|---|---|
+| 10522 | Hanasato Minori |
+| 10522 | Hanasato Minori |
+| 10622 | Kiritani Haruka |
+| 10622 | Kiritani Haruka |
+| 10722 | Momoi Airi |
+| 10722 | Momoi Airi |
+| 10822 | Hinomori Shizuku |
+| 10822 | Hinomori Shizuku |
+| 12122 | Hatsune Miku |
+| 12122 | Hatsune Miku |
+| 12223 | Kagamine Len |
+| 12223 | Kagamine Len |
+| 12224 | Megurine Luka |
+| 12224 | Megurine Luka |
+| 12225 | MEIKO |
+| 12225 | MEIKO |
+| 12226 | KAITO |
+| 12226 | KAITO |
+| 10922 | Azusawa Kohane |
+| 10922 | Azusawa Kohane |
+| 11022 | Shiraishi An |
+| 11022 | Shiraishi An |
+| 11122 | Shinonome Akito |
+| 11122 | Shinonome Akito |
+| 11222 | Aoyagi Toya |
+| 11222 | Aoyagi Toya |
+| 11722 | Yoisaki Kanade |
+| 11722 | Yoisaki Kanade |
+| 11822 | Asahina Mafuyu |
+| 11822 | Asahina Mafuyu |
+| 11922 | Shinonome Ena |
+| 11922 | Shinonome Ena |
+| 12022 | Akiyama Mizuki |
+| 12022 | Akiyama Mizuki |
+| 10122 | Hoshino Ichika |
+| 10122 | Hoshino Ichika |
+| 10222 | Tenma Saki |
+| 10222 | Tenma Saki |
+| 11522 | Kusanagi Nene |
+| 11522 | Kusanagi Nene |
+| 10422 | Hinomori Shiho |
+| 10422 | Hinomori Shiho |
+| 10322 | Mochizuki Honami |
+| 10322 | Mochizuki Honami |
+| 11322 | Tenma Tsukasa |
+| 11322 | Tenma Tsukasa |
+| 11422 | Otori Emu |
+| 11422 | Otori Emu |
+| 11622 | Kamishiro Rui |
+| 11622 | Kamishiro Rui |
+
+
+## 数据来源
+
+数据来源：SEKAI master database（en 服官方文本）、各服官网。

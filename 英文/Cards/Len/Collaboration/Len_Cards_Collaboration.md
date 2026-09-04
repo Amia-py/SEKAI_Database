@@ -1,0 +1,21 @@
+# Kagamine Len - Collaboration
+
+## 基本信息
+
+- **Character**：Kagamine Len
+- **Category**：Collaboration
+- **Count**：4
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 336 | 2022-12-14 | The Twin Servant | 4 | happy | "Family" Discord |  | https://storage.sekai.best/sekai-en-assets/character/member/res023_no013/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no013/card_after_training.png |
+| 823 | 2025-01-07 | Featuring Little Twin Stars | 2 | cool | Cozy Dreams Kiki |  | https://storage.sekai.best/sekai-en-assets/character/member/res023_no033/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no033/card_after_training.png |
+| 1092 | 2025-04-28 | Let's Enjoy The Movie! | 2 | happy | I Got Us The Best Seats! |  | https://storage.sekai.best/sekai-en-assets/character/member/res023_no044/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no044/card_after_training.png |
+| 1119 | 2025-09-04 | Energetic Idol | 2 | cute | Spirited Melody |  | https://storage.sekai.best/sekai-en-assets/character/member/res023_no046/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res023_no046/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

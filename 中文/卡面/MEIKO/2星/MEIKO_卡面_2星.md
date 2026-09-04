@@ -1,0 +1,27 @@
+# MEIKO - 2星
+
+## 基本信息
+
+- **角色**：MEIKO
+- **分类**：2星
+- **数量**：10
+
+## 数据
+
+| 卡面ID | 实装日期 | 卡名 | 星级 | 属性 | 技能 | 关联活动 | 特训前图片 | 特训后图片 |
+|---|---|---|---|---|---|---|---|---|
+| 102 | 2024-01-01 | 街头「世界」 | 2 | pure | 这是我这个老板最大的幸福。 |  | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no002/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no002/card_after_training.png |
+| 138 | 2024-01-01 | 温暖的目光 | 2 | happy | 大家一起为开店做准备！ | 总有一天为你献上心连心的抒情诗 | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no005/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no005/card_after_training.png |
+| 211 | 2024-01-01 | 寻找答案 | 2 | pure | 作为一名学姐 | Resonate with you | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no009/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no009/card_after_training.png |
+| 593 | 2024-01-01 | 为了更好地支持大家 | 2 | cute | 今后为了她们 | 解开的心结之后 | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no023/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no023/card_after_training.png |
+| 610 | 2024-01-01 | 温柔才是力量的源泉 | 2 | mysterious | 在奇幻乐园跑马拉松 | 追寻翱翔于天际的凤凰 | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no024/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no024/card_after_training.png |
+| 748 | 2025-02-28 | Origin Style | 2 | happy | 心中充满自豪 |  | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no028/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no028/card_after_training.png |
+| 758 | 2025-02-28 | Brand New Street | 2 | cool | MEIKO的烦恼？ |  | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no029/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no029/card_after_training.png |
+| 853 | 2025-06-12 | 相同的激动心情 | 2 | mysterious | 一向可靠的组织者 | BREAK DOWN THE WALL | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no035/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no035/card_after_training.png |
+| 1131 | 2026-02-28 | 绝妙的点子 | 2 | cute | 传递心意的卡片精灵 | Connect hearts message | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no045/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no045/card_after_training.png |
+| 1205 | 2026-07-15 | 热血沸腾的主题 | 2 | happy | 为大家尽一份力 | Unsteady, still steady step | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no047/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no047/card_after_training.png |
+
+
+## 数据来源
+
+数据来源：SEKAI master database 卡面数据（官方文本）；图片来自 SEKAI Viewer 资源库 storage.sekai.best。

@@ -1,0 +1,21 @@
+# Mochizuki Honami - Birthday
+
+## 基本信息
+
+- **Character**：Mochizuki Honami
+- **Category**：Birthday
+- **Count**：4
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 306 | 2022-10-27 | Happy Birthday! | bd | mysterious | A Happy, Teary Birthday |  | https://storage.sekai.best/sekai-en-assets/character/member/res003_no013/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res003_no013/card_after_training.png |
+| 527 | 2023-10-27 | Happy Birthday! 2023 | bd | pure | Too Many Presents To Hold |  | https://storage.sekai.best/sekai-en-assets/character/member/res003_no023/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res003_no023/card_after_training.png |
+| 778 | 2024-10-27 | Happy Birthday! 2024 | bd | cool | Hona Gratitude Day |  | https://storage.sekai.best/sekai-en-assets/character/member/res003_no032/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res003_no032/card_after_training.png |
+| 1021 | 2025-10-27 | Happy Birthday! 2025 | bd | cute | A Pooch-itively Great Birthday |  | https://storage.sekai.best/sekai-en-assets/character/member/res003_no040/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res003_no040/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

@@ -1,0 +1,77 @@
+# Kusanagi Nene - Bonds
+
+## 基本信息
+
+- **Name**：Kusanagi Nene
+
+## 数据
+
+| Group ID | Partner |
+|---|---|
+| 11315 | Tenma Tsukasa |
+| 11315 | Tenma Tsukasa |
+| 11415 | Otori Emu |
+| 11415 | Otori Emu |
+| 11516 | Kamishiro Rui |
+| 11516 | Kamishiro Rui |
+| 11521 | Hatsune Miku |
+| 11521 | Hatsune Miku |
+| 11526 | KAITO |
+| 11526 | KAITO |
+| 11524 | Megurine Luka |
+| 11524 | Megurine Luka |
+| 11521 |  |
+| 11521 |  |
+| 11524 |  |
+| 11524 |  |
+| 11526 |  |
+| 11526 |  |
+| 10115 | Hoshino Ichika |
+| 10115 | Hoshino Ichika |
+| 11215 | Aoyagi Toya |
+| 11215 | Aoyagi Toya |
+| 11522 | Kagamine Rin |
+| 11522 | Kagamine Rin |
+| 11522 |  |
+| 11522 |  |
+| 11525 | MEIKO |
+| 11525 | MEIKO |
+| 11525 |  |
+| 11525 |  |
+| 11015 | Shiraishi An |
+| 11015 | Shiraishi An |
+| 11115 | Shinonome Akito |
+| 11115 | Shinonome Akito |
+| 11523 | Kagamine Len |
+| 11523 | Kagamine Len |
+| 11523 |  |
+| 11523 |  |
+| 10215 | Tenma Saki |
+| 10215 | Tenma Saki |
+| 10315 | Mochizuki Honami |
+| 10315 | Mochizuki Honami |
+| 10415 | Hinomori Shiho |
+| 10415 | Hinomori Shiho |
+| 10515 | Hanasato Minori |
+| 10515 | Hanasato Minori |
+| 10615 | Kiritani Haruka |
+| 10615 | Kiritani Haruka |
+| 10715 | Momoi Airi |
+| 10715 | Momoi Airi |
+| 10815 | Hinomori Shizuku |
+| 10815 | Hinomori Shizuku |
+| 10915 | Azusawa Kohane |
+| 10915 | Azusawa Kohane |
+| 11517 | Yoisaki Kanade |
+| 11517 | Yoisaki Kanade |
+| 11518 | Asahina Mafuyu |
+| 11518 | Asahina Mafuyu |
+| 11519 | Shinonome Ena |
+| 11519 | Shinonome Ena |
+| 11520 | Akiyama Mizuki |
+| 11520 | Akiyama Mizuki |
+
+
+## 数据来源
+
+数据来源：SEKAI master database（en 服官方文本）、各服官网。

@@ -1,0 +1,26 @@
+# Shinonome Ena - Special
+
+## 基本信息
+
+- **Character**：Shinonome Ena
+- **Category**：Special
+- **Count**：9
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 308 | 2022-10-28 | Hermit Searcher | 4 | cute | Just Start Small | What lies behind. What lies ahead. | https://storage.sekai.best/sekai-en-assets/character/member/res019_no013/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no013/card_after_training.png |
+| 460 | 2023-06-30 | This Claw's Too Weak! | 4 | happy | Straightforward Gaze | Let's Enjoy Together! SpoJoy Park | https://storage.sekai.best/sekai-en-assets/character/member/res019_no019/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no019/card_after_training.png |
+| 563 | 2023-12-31 | Regretful Pentimento | 4 | cute | Breathing Life Back In |  | https://storage.sekai.best/sekai-en-assets/character/member/res019_no023/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no023/card_after_training.png |
+| 621 | 2024-03-30 | Turn Feelings Into Art | 4 | happy | Edging Forward Little By Little | In This Singing City | https://storage.sekai.best/sekai-en-assets/character/member/res019_no025/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no025/card_after_training.png |
+| 787 | 2024-11-08 | Enjoyable Afternoon, Uncertain Future | 4 | cute | A Piece That Resonates | Searching for Sunken Shadows | https://storage.sekai.best/sekai-en-assets/character/member/res019_no030/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no030/card_after_training.png |
+| 863 | 2025-01-31 | Luxury Makeup Session | 4 | mysterious | Learning From Photography | Take the Best Shot! | https://storage.sekai.best/sekai-en-assets/character/member/res019_no033/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no033/card_after_training.png |
+| 1039 | 2025-11-30 | What Wounds Can't Break | 4 | cool | My Tranquility | With Our Wounded Hands | https://storage.sekai.best/sekai-en-assets/character/member/res019_no040/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no040/card_after_training.png |
+| 1187 | 2026-06-09 | You Never Fail | 4 | mysterious | Ms. Enanan's Art Class | In an Ephemeral Embrace | https://storage.sekai.best/sekai-en-assets/character/member/res019_no046/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no046/card_after_training.png |
+| 1194 | 2026-07-07 | That Drawing, Together | 4 | pure | Our Drawing | Deeper and Deeper | https://storage.sekai.best/sekai-en-assets/character/member/res019_no047/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no047/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

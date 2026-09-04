@@ -1,0 +1,40 @@
+# MEIKO - 4星
+
+## 基本信息
+
+- **角色**：MEIKO
+- **分类**：4星
+- **数量**：23
+
+## 数据
+
+| 卡面ID | 实装日期 | 卡名 | 星级 | 属性 | 技能 | 关联活动 | 特训前图片 | 特训后图片 |
+|---|---|---|---|---|---|---|---|---|
+| 146 | 2024-01-01 | 告诉我！大家的圣诞节♪ | 4 | cute | 绝佳的想法！ | 让歌声响彻，神圣之夜 | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no006/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no006/card_after_training.png |
+| 156 | 2024-01-01 | 第三位学姐！ | 4 | happy | 熠熠生辉的旋律 | 即使摇摆不定，但毅然勇往直前 | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no007/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no007/card_after_training.png |
+| 203 | 2024-01-01 | 保持必要距离 | 4 | cute | 静观全程 | Secret Distance | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no008/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no008/card_after_training.png |
+| 251 | 2024-01-01 | 喝杯咖啡聊聊天 | 4 | cute | 温柔的目光 | Awakening Beat | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no011/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no011/card_after_training.png |
+| 276 | 2024-01-01 | 策划会议的建议是兔子？！ | 4 | cute | MEIMEI面貌一新的赏月演唱会！ | 两人与月兔 | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no012/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no012/card_after_training.png |
+| 358 | 2024-01-01 | 哭声是从哪里传来的？ | 4 | cool | 数不清的梦想 | POP IN MY HEART!! | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no016/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no016/card_after_training.png |
+| 442 | 2024-01-01 | 赠予努力的你 | 4 | pure | 感受心意相通 | 向晴空许愿Your Happiness! | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no018/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no018/card_after_training.png |
+| 483 | 2024-01-01 | 先强化腹肌吧！ | 4 | cool | 特训的收获 | 在蓝天下追逐光芒 | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no020/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no020/card_after_training.png |
+| 547 | 2024-01-01 | 作为一个粉丝 | 4 | pure | 因为重视，所以想说 | 昨日梦想的延续 | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no022/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no022/card_after_training.png |
+| 626 | 2024-01-01 | 可靠的温暖 | 4 | pure | 守望的节拍，强劲又温柔 | Get over it. | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no025/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no025/card_after_training.png |
+| 702 | 2024-01-01 | 讲述幸福之人 | 4 | happy | 守护闪耀的梦想 | 我们的圆满结局 | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no026/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no026/card_after_training.png |
+| 760 | 2025-02-28 | 把那名字刻在心中 | 4 | mysterious | 独一无二的主角 |  | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no030/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no030/card_after_training.png |
+| 793 | 2024-01-01 | Let's☆三轮汽车 | 4 | mysterious | 在「世界」锻炼的驾驶技巧！ | 以你为主角的故事 | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no032/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no032/card_after_training.png |
+| 844 | 2024-01-01 | 教教我吧！志步老师 | 4 | mysterious | 秘密特训？ | 在不变的温暖旁 | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no034/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no034/card_after_training.png |
+| 892 | 2025-04-04 | 正因为重视 | 4 | happy | 因为关心才会严厉 | The first concerto | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no036/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no036/card_after_training.png |
+| 911 | 2025-05-05 | 我们存在的意义 | 4 | happy | 担任一天午餐值日生 | Parallel Harmonies | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no037/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no037/card_after_training.png |
+| 950 | 2025-07-05 | 感受“我”的心愿 | 4 | cool | 意想不到的一面？ |  | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no038/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no038/card_after_training.png |
+| 983 | 2025-08-13 | 与温和的香气一起 | 4 | pure | “我”的天职 | 和你在「世界」的起点 | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no039/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no039/card_after_training.png |
+| 1041 | 2025-11-30 | 我应该做的事 | 4 | cool | 为了将想法传达给你 | 用我们，布满伤痕的双手 | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no042/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no042/card_after_training.png |
+| 1124 | 2026-02-20 | 悄悄眨个眼！ | 4 | cute | 沉浸在温馨的故事里 | 昔日的Read-aloud | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no044/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no044/card_after_training.png |
+| 1176 | 2026-05-23 | 一起MORE MORE训练！ | 4 | happy | MEIKO的烦恼解决室♪ | Cheer with my Heart! | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no046/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no046/card_after_training.png |
+| 1239 | 2026-09-06 | 好多美食！ | 4 | happy | “我”们在那之后 | Link the Beats！ | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no048/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no048/card_after_training.png |
+| 1268 | 2026-10-21 | 献上特殊的助威！ | 4 | mysterious | 犒劳派对♪ | 交织的色彩一如当初 | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no051/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no051/card_after_training.png |
+
+
+## 数据来源
+
+数据来源：SEKAI master database 卡面数据（官方文本）；图片来自 SEKAI Viewer 资源库 storage.sekai.best。

@@ -1,0 +1,34 @@
+# Shinonome Ena - Old Uniform
+
+## 基本信息
+
+- **Character**：Shinonome Ena
+- **Category**：Old Uniform
+- **Count**：17
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 73 | 2021-12-07 | Social Media Obsessed Artist | 1 | pure | Come With Me Already |  | https://storage.sekai.best/sekai-en-assets/character/member/res019_no001/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no001/card_after_training.png |
+| 74 | 2021-12-07 | Nightcord at 25:00 | 2 | mysterious | Not Too Bad |  | https://storage.sekai.best/sekai-en-assets/character/member/res019_no002/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no002/card_after_training.png |
+| 75 | 2021-12-07 | The Best Angle | 3 | cool | This One's Perfect! |  | https://storage.sekai.best/sekai-en-assets/character/member/res019_no003/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no003/card_after_training.png |
+| 118 | 2021-12-16 | Marionette Dress | 2 | pure | How To Be Honest | Imprisoned Marionette | https://storage.sekai.best/sekai-en-assets/character/member/res019_no005/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no005/card_after_training.png |
+| 152 | 2022-02-10 | New Year's At The Shinonomes | 4 | pure | The Spoils Of War | SEKAI Happy New Year! | https://storage.sekai.best/sekai-en-assets/character/member/res019_no006/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no006/card_after_training.png |
+| 175 | 2022-03-22 | I Don't Want To Give Up | 4 | happy | Struggle And Strife | Insatiable Pale Color | https://storage.sekai.best/sekai-en-assets/character/member/res019_no007/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no007/card_after_training.png |
+| 204 | 2022-05-01 | Mystery Tour Baptism? | 4 | cute | A Hazy Feeling I Can't Shake | Secret Distance | https://storage.sekai.best/sekai-en-assets/character/member/res019_no008/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no008/card_after_training.png |
+| 217 | 2022-05-25 | Outstretched Hand | 4 | pure | I Still Don't Know Anything | What's on your mind? Exciting Picnic! | https://storage.sekai.best/sekai-en-assets/character/member/res019_no009/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no009/card_after_training.png |
+| 241 | 2022-06-26 | Please, Put It Into Words | 2 | cute | We Both Hate Giving Up | Carnation Recollection | https://storage.sekai.best/sekai-en-assets/character/member/res019_no010/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no010/card_after_training.png |
+| 255 | 2022-07-21 | Distant Summer Festival | 4 | cool | I Want To Know All About You | The Sounds of a Summer Festival! | https://storage.sekai.best/sekai-en-assets/character/member/res019_no011/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no011/card_after_training.png |
+| 287 | 2022-09-20 | A Cancelled Message | 3 | cute | Don't Be Afraid To Ask For Help | Mirage of Light | https://storage.sekai.best/sekai-en-assets/character/member/res019_no012/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no012/card_after_training.png |
+| 364 | 2023-01-21 | Creating Something Worth Seeing | 3 | pure | Me, Two Years Earlier | Someday, From the Depths of Despair | https://storage.sekai.best/sekai-en-assets/character/member/res019_no014/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no014/card_after_training.png |
+| 397 | 2023-03-20 | Through Pain And Misery | 4 | cool | As Long As There's A Chance | On This Blank Canvas, I Paint | https://storage.sekai.best/sekai-en-assets/character/member/res019_no015/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no015/card_after_training.png |
+| 432 | 2023-05-10 | Behind The Scenes At The Sports Festival | 2 | happy | Catching A Glimpse Of Effort | The Climax! Kamiyama Cheer Squad! | https://storage.sekai.best/sekai-en-assets/character/member/res019_no017/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no017/card_after_training.png |
+| 448 | 2023-06-10 | The Best Angle For The Perfect Pic | 3 | happy | A Three-Person After Party | What Lies Beyond Guiding a Lost Child | https://storage.sekai.best/sekai-en-assets/character/member/res019_no018/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no018/card_after_training.png |
+| 489 | 2023-08-20 | I Want To Make Something Good | 3 | mysterious | A DM From K | And Now, I Wear This Ribbon | https://storage.sekai.best/sekai-en-assets/character/member/res019_no020/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no020/card_after_training.png |
+| 499 | 2023-09-10 | The Animal From My Memory | 4 | mysterious | Sketching With Everyone♪ | Paint What I Love♪ Rainbow Canvas | https://storage.sekai.best/sekai-en-assets/character/member/res019_no021/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res019_no021/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

@@ -1,0 +1,23 @@
+# Kusanagi Nene - 3Star
+
+## 基本信息
+
+- **Character**：Kusanagi Nene
+- **Category**：3Star
+- **Count**：6
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 59 | 2021-12-07 | Backstage Operator | 3 | pure | Delightfully Ridiculous |  | https://storage.sekai.best/sekai-en-assets/character/member/res015_no003/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no003/card_after_training.png |
+| 142 | 2022-01-25 | Animal Cotton Candy♪ | 3 | mysterious | W-Welcome | KAMIYAMA HIGH FESTIVAL! | https://storage.sekai.best/sekai-en-assets/character/member/res015_no006/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no006/card_after_training.png |
+| 359 | 2023-01-12 | I Thought It Was Game Over | 3 | happy | Souvenirs For Everyone | Popping in My Heart! | https://storage.sekai.best/sekai-en-assets/character/member/res015_no013/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no013/card_after_training.png |
+| 568 | 2023-12-31 | Drive GO! GO! | 3 | cute | Key Goals For This Year | Happy New Year! Lion Dance Robot's New Year's Show! | https://storage.sekai.best/sekai-en-assets/character/member/res015_no019/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no019/card_after_training.png |
+| 623 | 2024-03-30 | To Become The Canary | 3 | pure | Powered Up And Glowing | In This Singing City | https://storage.sekai.best/sekai-en-assets/character/member/res015_no023/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no023/card_after_training.png |
+| 1136 | 2026-03-10 | Trying On Cuteness | 3 | cool | Lifelong Memories | You Are My Hero! | https://storage.sekai.best/sekai-en-assets/character/member/res015_no042/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no042/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

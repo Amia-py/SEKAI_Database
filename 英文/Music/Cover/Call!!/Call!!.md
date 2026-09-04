@@ -1,0 +1,15 @@
+# Call!!
+
+## 基本信息
+
+
+## 数据
+
+| Title | Artist | Lyricist | Composer | Arranger | Released | Event | Category | Jacket | Preview Audio | Vocal Version |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Call!! | Matsubi | Matsubi | Matsubi | Matsubi | 2026-03-31 |  |  | https://storage.sekai.best/sekai-en-assets/music/jacket/jacket_s_594/jacket_s_594.png | https://storage.sekai.best/sekai-en-assets/music/short/vs_0594_01/vs_0594_01_short.mp3 | VIRTUAL SINGER ver. |
+
+
+## 数据来源
+
+Source: SEKAI master database music data (official text). Audio/jacket assets from SEKAI Viewer (storage.sekai.best).

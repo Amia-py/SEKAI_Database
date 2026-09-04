@@ -1,0 +1,62 @@
+# Hinomori Shizuku - Cards
+
+## 基本信息
+
+- **Name**：Hinomori Shizuku
+- **Card Count**：46
+
+## 数据
+
+| Released | Card Name | Rarity | Attribute | Skill | Event |
+|---|---|---|---|---|---|
+| 2021-12-07 | Beautiful Active Idol | 1 | cute | Where Am I? |  |
+| 2021-12-07 | MORE MORE JUMP! | 2 | mysterious | To One Day Stand Tall |  |
+| 2021-12-07 | On A Flashy Stage | 3 | happy | The Idol I Want To Be... |  |
+| 2022-01-17 | What I Want To Become | 3 | cool | It Takes Four | Time to RE:START! |
+| 2022-02-26 | I'm Not Just Anyone, I'm "Me" | 4 | cool | Being Myself | My Color! |
+| 2022-04-15 | Meeoow~? | 4 | happy | May It Be Of Help To You | Hear Me! Hopeful Show♪ |
+| 2022-06-02 | An Invitation To Relax | 4 | mysterious | Shall We Take A Break? | You deserve it! Break Time! |
+| 2022-08-10 | Secret Negotiation | 3 | cute | Singing What I Couldn't Back Then | Happy Lovely Everyday! |
+| 2022-08-30 | The Same Dango As That Day | 4 | cute | Let Me Help You This Time | The Moon Rabbit & Us |
+| 2022-11-18 | A Night Date At PXL | 2 | cute | Many More Memories | Time to hang out♪ |
+| 2022-12-06 | Happy Birthday! | bd | cool | A Pair Of Close Sparrows |  |
+| 2022-12-10 | Have A Homemade Rice Ball♪ | 4 | mysterious | A Present For Everyone | MORE MORE Making Christmas |
+| 2023-01-31 | Lady Valentine | 2 | pure | A Great Detective's Deduction? | Secret Operation Valentine's Day |
+| 2023-03-11 | Feels Like Magic | 4 | pure | Costumes Born From "Feelings" | Cast a Spell on You |
+| 2023-04-30 | Completion Report! | 2 | happy | Observe Their Facial Features?! | Tied By Painful Hope |
+| 2023-05-31 | Keeping You From Falling | 4 | pure | How To Be The Perfect Chaperone? | Wishing to the Blue Sky for Your Happiness! |
+| 2023-08-10 | Did It Fall Over? | 4 | cool | You'll Always Be An Idol | Chasing The Sparkle Beyond the Blue Sky |
+| 2023-09-30 | Relaxing With Manjus♪ | 4 | pure | Sheer Dumb Luck? | At This Festival Bathed in Twilight |
+| 2023-10-11 | Excited Unboxing♪ | 3 | mysterious | An Enjoyable Inspection? | Dear Me, From Back Then |
+| 2023-11-30 | Focusing On What Lies Ahead | 2 | cool | Staring Down Passion | Beyond The Dream of That Day |
+| 2023-12-06 | Happy Birthday! 2023 | bd | cute | Shii's In Charge♪ |  |
+| 2023-12-21 | Make Every Shot Count | 4 | cute | The Mysterious Multiplying Snow Bunnies | Raise Your Bow in a Snow-White World |
+| 2024-02-10 | Graduating To Independence | 4 | happy | Speaking My Truth In My Words | At The End of The Unraveled Thread |
+| 2024-04-21 | Energetic On Location! | 4 | cute | Share The Fun Too | Friendship Rebuilt |
+| 2024-06-20 | Lunch Break Study Session | 3 | pure | Distant From Classmates | Step by Step! |
+| 2024-06-30 | Unseasonable Snowfall | 4 | happy | Memories & Mementos | An Unmissable Spirited Affair |
+| 2024-09-30 | Brand New Style | 2 | pure | Nosy Older Sister |  |
+| 2024-10-31 | By The Hand, To A Dream | 4 | cool | For You Who Have Supported Us | The Warmth of a Guiding Hand |
+| 2025-01-07 | Featuring WISH ME MELL | 2 | happy | Airheaded & Absent-Minded |  |
+| 2024-12-06 | Happy Birthday! 2024 | bd | mysterious | A Little Birdie Told Me |  |
+| 2024-12-31 | Butterflies Not To Forget | 4 | mysterious | Don't Lose A Single Piece |  |
+| 2025-02-20 | Fun With Layout Planning | 2 | cool | Who's The Lonely One? | From the Marks Left Behind |
+| 2025-05-09 | Reaching Out To Something | 4 | mysterious | Dilemmas Are Opportunities | To One Day Reach that Flowery Stage |
+| 2025-06-10 | Cooking To Give You Energy♪ | 4 | cool | Health Committee Duties! | Lead to Shine More |
+| 2025-07-31 | A Special Spell | 4 | cute | I Want To Be Strict! | Chase My Ideal Idol! |
+| 2025-08-31 | Careful Stitching | 3 | mysterious | Cold Hand, Warm Heart | Wonderhorror?! A Test of Courage! |
+| 2025-11-10 | A Blissful Moment With You | 4 | mysterious | What's A Fun Way To Eat Grapes? | As the Leaves Change Once More |
+| 2025-12-06 | Happy Birthday! 2025 | bd | happy | On A Mission! |  |
+| 2025-12-11 | Determined Brilliance | 4 | happy | Cozy Celebration | Grow Glorious Glow |
+| 2025-04-28 | Let's Enjoy The Movie! | 2 | cute | Four Friends In Florals |  |
+| 2026-01-31 | Enamored Of Flower Stitches | 4 | happy | We All Need Calm Moments | Warmth in Every Stitch |
+| 2026-02-10 | Trial Skin Care Routine | 3 | cool | MORE MORE Rehearsal! | Rise and Strive |
+| 2026-05-23 | Calm For The Hard Workers | 2 | mysterious | Passing The Baton | Cheer With My Heart! |
+| 2026-07-23 | A Comforting Breakfast | 4 | pure | Special Navigators | Start Rolling! Stars' Crossing |
+| 2026-08-08 | Giving The Perfect Smile | 4 | pure | A Stroll Down Memory Lane | All Ways Jump! With You |
+| 2026-08-04 | Featuring Furawatchi | 2 | pure | Flowery Dress-Up |  |
+
+
+## 数据来源
+
+数据来源：SEKAI master database（en 服官方文本）、各服官网。

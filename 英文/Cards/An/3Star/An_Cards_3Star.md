@@ -1,0 +1,24 @@
+# Shiraishi An - 3Star
+
+## 基本信息
+
+- **Character**：Shiraishi An
+- **Category**：3Star
+- **Count**：7
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 39 | 2021-12-07 | Top-Notch Server! | 3 | pure | Welcome! |  | https://storage.sekai.best/sekai-en-assets/character/member/res010_no003/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res010_no003/card_after_training.png |
+| 322 | 2022-11-18 | Peak Excitement! | 3 | mysterious | Who's Your Date? | Time to hang out♪ | https://storage.sekai.best/sekai-en-assets/character/member/res010_no011/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res010_no011/card_after_training.png |
+| 376 | 2023-02-09 | We're About To Open! | 3 | cute | Just Keep Moving Forward! | The Legend Still Vivid | https://storage.sekai.best/sekai-en-assets/character/member/res010_no013/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res010_no013/card_after_training.png |
+| 507 | 2023-09-20 | Nuanced Language | 3 | cool | Passionate Because It's This Song | Walk on and on | https://storage.sekai.best/sekai-en-assets/character/member/res010_no019/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res010_no019/card_after_training.png |
+| 697 | 2024-08-10 | Once In A While | 3 | happy | Practice Predictions | On Your Feet | https://storage.sekai.best/sekai-en-assets/character/member/res010_no026/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res010_no026/card_after_training.png |
+| 799 | 2024-11-30 | Assistant Screenwriter | 3 | mysterious | The Screening Starts Now! | Picture Perfect! | https://storage.sekai.best/sekai-en-assets/character/member/res010_no030/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res010_no030/card_after_training.png |
+| 954 | 2025-06-30 | What I Want To Tell You | 3 | happy | You'd Better Be Ready! | Over Rad Squad!! | https://storage.sekai.best/sekai-en-assets/character/member/res010_no035/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res010_no035/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

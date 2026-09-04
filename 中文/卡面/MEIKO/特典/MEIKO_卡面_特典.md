@@ -1,0 +1,25 @@
+# MEIKO - 特典
+
+## 基本信息
+
+- **角色**：MEIKO
+- **分类**：特典
+- **数量**：8
+
+## 数据
+
+| 卡面ID | 实装日期 | 卡名 | 星级 | 属性 | 技能 | 关联活动 | 特训前图片 | 特训后图片 |
+|---|---|---|---|---|---|---|---|---|
+| 442 | 2024-01-01 | 赠予努力的你 | 4 | pure | 感受心意相通 | 向晴空许愿Your Happiness! | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no018/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no018/card_after_training.png |
+| 547 | 2024-01-01 | 作为一个粉丝 | 4 | pure | 因为重视，所以想说 | 昨日梦想的延续 | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no022/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no022/card_after_training.png |
+| 760 | 2025-02-28 | 把那名字刻在心中 | 4 | mysterious | 独一无二的主角 |  | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no030/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no030/card_after_training.png |
+| 844 | 2024-01-01 | 教教我吧！志步老师 | 4 | mysterious | 秘密特训？ | 在不变的温暖旁 | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no034/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no034/card_after_training.png |
+| 950 | 2025-07-05 | 感受“我”的心愿 | 4 | cool | 意想不到的一面？ |  | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no038/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no038/card_after_training.png |
+| 983 | 2025-08-13 | 与温和的香气一起 | 4 | pure | “我”的天职 | 和你在「世界」的起点 | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no039/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no039/card_after_training.png |
+| 1041 | 2025-11-30 | 我应该做的事 | 4 | cool | 为了将想法传达给你 | 用我们，布满伤痕的双手 | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no042/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no042/card_after_training.png |
+| 1239 | 2026-09-06 | 好多美食！ | 4 | happy | “我”们在那之后 | Link the Beats！ | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no048/card_normal.png | https://storage.sekai.best/sekai-cn-assets/character/member/res025_no048/card_after_training.png |
+
+
+## 数据来源
+
+数据来源：SEKAI master database 卡面数据（官方文本）；图片来自 SEKAI Viewer 资源库 storage.sekai.best。

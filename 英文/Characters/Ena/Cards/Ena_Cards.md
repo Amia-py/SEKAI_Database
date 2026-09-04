@@ -1,0 +1,63 @@
+# Shinonome Ena - Cards
+
+## 基本信息
+
+- **Name**：Shinonome Ena
+- **Card Count**：47
+
+## 数据
+
+| Released | Card Name | Rarity | Attribute | Skill | Event |
+|---|---|---|---|---|---|
+| 2021-12-07 | Social Media Obsessed Artist | 1 | pure | Come With Me Already |  |
+| 2021-12-07 | Nightcord at 25:00 | 2 | mysterious | Not Too Bad |  |
+| 2021-12-07 | The Best Angle | 3 | cool | This One's Perfect! |  |
+| 2021-12-16 | Marionette Dress | 2 | pure | How To Be Honest | Imprisoned Marionette |
+| 2022-02-10 | New Year's At The Shinonomes | 4 | pure | The Spoils Of War | SEKAI Happy New Year! |
+| 2022-03-22 | I Don't Want To Give Up | 4 | happy | Struggle And Strife | Insatiable Pale Color |
+| 2022-05-01 | Mystery Tour Baptism? | 4 | cute | A Hazy Feeling I Can't Shake | Secret Distance |
+| 2022-05-25 | Outstretched Hand | 4 | pure | I Still Don't Know Anything | What's on your mind? Exciting Picnic! |
+| 2022-06-26 | Please, Put It Into Words | 2 | cute | We Both Hate Giving Up | Carnation Recollection |
+| 2022-07-21 | Distant Summer Festival | 4 | cool | I Want To Know All About You | The Sounds of a Summer Festival! |
+| 2022-09-20 | A Cancelled Message | 3 | cute | Don't Be Afraid To Ask For Help | Mirage of Light |
+| 2022-10-28 | Hermit Searcher | 4 | cute | Just Start Small | What lies behind. What lies ahead. |
+| 2023-01-21 | Creating Something Worth Seeing | 3 | pure | Me, Two Years Earlier | Someday, From the Depths of Despair |
+| 2023-03-20 | Through Pain And Misery | 4 | cool | As Long As There's A Chance | On This Blank Canvas, I Paint |
+| 2023-04-30 | Happy Birthday! | bd | mysterious | Shopping With Friends |  |
+| 2023-05-10 | Behind The Scenes At The Sports Festival | 2 | happy | Catching A Glimpse Of Effort | The Climax! Kamiyama Cheer Squad! |
+| 2023-06-10 | The Best Angle For The Perfect Pic | 3 | happy | A Three-Person After Party | What Lies Beyond Guiding a Lost Child |
+| 2023-06-30 | This Claw's Too Weak! | 4 | happy | Straightforward Gaze | Let's Enjoy Together! SpoJoy Park |
+| 2023-08-20 | I Want To Make Something Good | 3 | mysterious | A DM From K | And Now, I Wear This Ribbon |
+| 2023-09-10 | The Animal From My Memory | 4 | mysterious | Sketching With Everyone♪ | Paint What I Love♪ Rainbow Canvas |
+| 2023-11-20 | I Want To Capture That Expression | 4 | mysterious | The Intent Behind Those Words | Hope Will Someday Go Beyond the Morning |
+| 2023-12-31 | Regretful Pentimento | 4 | cute | Breathing Life Back In |  |
+| 2024-03-21 | Peaceful Moments, If Nothing Else | 4 | pure | A Problem Halved | Immiscible Discord |
+| 2024-03-30 | Turn Feelings Into Art | 4 | happy | Edging Forward Little By Little | In This Singing City |
+| 2024-04-30 | Happy Birthday! 2024 | bd | cool | Photogenic Birthday Girl, Go! |  |
+| 2024-04-30 | Frustration, Regret and Gratitude | 2 | cool | In Return For Secret Sweets | We Escape to Survive |
+| 2024-07-11 | A Shadow Out Of Sight | 4 | mysterious | Lost Contact | Farewell, My Mask |
+| 2024-09-30 | Brand New Style | 2 | happy | Memories Of Changing Classes |  |
+| 2024-11-08 | Enjoyable Afternoon, Uncertain Future | 4 | cute | A Piece That Resonates | Searching for Sunken Shadows |
+| 2025-01-07 | Featuring KUROMI | 4 | cool | A Spoiled Bunch? |  |
+| 2024-12-20 | Gloomy Afternoon | 3 | cute | Coffee Break In SEKAI | The Way I Played That Day |
+| 2025-01-31 | Luxury Makeup Session | 4 | mysterious | Learning From Photography | Take the Best Shot! |
+| 2025-04-10 | The Emotions In The Art | 4 | pure | Cheesecake Payoff | Knowing the Unseen |
+| 2025-04-30 | Happy Birthday! 2025 | bd | pure | I'm Surprised You Remember |  |
+| 2025-05-31 | Secondhand Ticket | 2 | mysterious | Making Ring Pillows! | Stream With Friends♡ Wedding Live! |
+| 2025-06-20 | Evident Emotion & Effort | 3 | cool | Lend A Hand, Carry An Umbrella | A Light Drawn Closer |
+| 2025-09-30 | Restock Time! | 3 | happy | Each Doing Our Part | Here on Our Dream Stage |
+| 2025-10-12 | In Excruciating Twilight | 4 | cute | A Smile Brings Relief | Whither This Path of Thorns |
+| 2025-11-30 | What Wounds Can't Break | 4 | cool | My Tranquility | With Our Wounded Hands |
+| 2025-12-31 | The Year Starts With 25:00 | 2 | pure | Flower Fortunes | Unfading Wishing |
+| 2025-04-28 | Let's Enjoy The Movie! | 2 | cool | My Go-To For Special Days |  |
+| 2026-03-20 | A Bag Full Of Care | 4 | cool | Take Care Of Yourself | Unreliable Notes |
+| 2026-04-30 | Happy Birthday! 2026 | bd | happy | Surrounded By Spring And Smiles |  |
+| 2026-04-30 | Matching Bracelets | 2 | cute | Nothing Changes | The Stopped Hand Moves Once More |
+| 2026-06-09 | You Never Fail | 4 | mysterious | Ms. Enanan's Art Class | In an Ephemeral Embrace |
+| 2026-07-07 | That Drawing, Together | 4 | pure | Our Drawing | Deeper and Deeper |
+| 2026-08-22 | An Overwhelming Welcome! | 4 | happy | Chatter On The Way Home | Tying Tomorrow's Ribbon |
+
+
+## 数据来源
+
+数据来源：SEKAI master database（en 服官方文本）、各服官网。

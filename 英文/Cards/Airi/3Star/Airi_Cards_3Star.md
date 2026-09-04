@@ -1,0 +1,24 @@
+# Momoi Airi - 3Star
+
+## 基本信息
+
+- **Character**：Momoi Airi
+- **Category**：3Star
+- **Count**：7
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 27 | 2021-12-07 | Follow Your Dreams! | 3 | pure | The Secret To Being An Idol! |  | https://storage.sekai.best/sekai-en-assets/character/member/res007_no003/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no003/card_after_training.png |
+| 257 | 2022-07-21 | That's So Unfair! | 3 | happy | A Delicious Summer Festival | The Sounds of a Summer Festival! | https://storage.sekai.best/sekai-en-assets/character/member/res007_no011/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no011/card_after_training.png |
+| 443 | 2023-05-31 | Captivated By Cuteness | 3 | cute | Different Kinds Of Happiness | Wishing to the Blue Sky for Your Happiness! | https://storage.sekai.best/sekai-en-assets/character/member/res007_no017/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no017/card_after_training.png |
+| 559 | 2023-12-21 | Intro To Tea Ceremony | 3 | mysterious | Trying Tea Ceremony Together♪ | Raise Your Bow in a Snow-White World | https://storage.sekai.best/sekai-en-assets/character/member/res007_no021/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no021/card_after_training.png |
+| 876 | 2025-02-20 | Service With A Smile | 3 | cool | Making Your Dreams Come True | From the Marks Left Behind | https://storage.sekai.best/sekai-en-assets/character/member/res007_no032/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no032/card_after_training.png |
+| 941 | 2025-06-10 | Pro Give And Take | 3 | happy | A Senior's Dignity | Lead to Shine More | https://storage.sekai.best/sekai-en-assets/character/member/res007_no036/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no036/card_after_training.png |
+| 1210 | 2026-07-23 | Airi's Beauty Salon | 3 | mysterious | MORE MORE TOUR! | Start Rolling! Stars' Crossing | https://storage.sekai.best/sekai-en-assets/character/member/res007_no046/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res007_no046/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

@@ -1,0 +1,40 @@
+# Hinomori Shizuku - 4Star
+
+## 基本信息
+
+- **Character**：Hinomori Shizuku
+- **Category**：4Star
+- **Count**：23
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 160 | 2022-02-26 | I'm Not Just Anyone, I'm "Me" | 4 | cool | Being Myself | My Color! | https://storage.sekai.best/sekai-en-assets/character/member/res008_no006/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no006/card_after_training.png |
+| 192 | 2022-04-15 | Meeoow~? | 4 | happy | May It Be Of Help To You | Hear Me! Hopeful Show♪ | https://storage.sekai.best/sekai-en-assets/character/member/res008_no007/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no007/card_after_training.png |
+| 223 | 2022-06-02 | An Invitation To Relax | 4 | mysterious | Shall We Take A Break? | You deserve it! Break Time! | https://storage.sekai.best/sekai-en-assets/character/member/res008_no008/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no008/card_after_training.png |
+| 274 | 2022-08-30 | The Same Dango As That Day | 4 | cute | Let Me Help You This Time | The Moon Rabbit & Us | https://storage.sekai.best/sekai-en-assets/character/member/res008_no010/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no010/card_after_training.png |
+| 332 | 2022-12-10 | Have A Homemade Rice Ball♪ | 4 | mysterious | A Present For Everyone | MORE MORE Making Christmas | https://storage.sekai.best/sekai-en-assets/character/member/res008_no013/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no013/card_after_training.png |
+| 391 | 2023-03-11 | Feels Like Magic | 4 | pure | Costumes Born From "Feelings" | Cast a Spell on You | https://storage.sekai.best/sekai-en-assets/character/member/res008_no015/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no015/card_after_training.png |
+| 441 | 2023-05-31 | Keeping You From Falling | 4 | pure | How To Be The Perfect Chaperone? | Wishing to the Blue Sky for Your Happiness! | https://storage.sekai.best/sekai-en-assets/character/member/res008_no017/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no017/card_after_training.png |
+| 482 | 2023-08-10 | Did It Fall Over? | 4 | cool | You'll Always Be An Idol | Chasing The Sparkle Beyond the Blue Sky | https://storage.sekai.best/sekai-en-assets/character/member/res008_no018/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no018/card_after_training.png |
+| 512 | 2023-09-30 | Relaxing With Manjus♪ | 4 | pure | Sheer Dumb Luck? | At This Festival Bathed in Twilight | https://storage.sekai.best/sekai-en-assets/character/member/res008_no019/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no019/card_after_training.png |
+| 556 | 2023-12-21 | Make Every Shot Count | 4 | cute | The Mysterious Multiplying Snow Bunnies | Raise Your Bow in a Snow-White World | https://storage.sekai.best/sekai-en-assets/character/member/res008_no023/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no023/card_after_training.png |
+| 589 | 2024-02-10 | Graduating To Independence | 4 | happy | Speaking My Truth In My Words | At The End of The Unraveled Thread | https://storage.sekai.best/sekai-en-assets/character/member/res008_no024/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no024/card_after_training.png |
+| 632 | 2024-04-21 | Energetic On Location! | 4 | cute | Share The Fun Too | Friendship Rebuilt | https://storage.sekai.best/sekai-en-assets/character/member/res008_no025/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no025/card_after_training.png |
+| 673 | 2024-06-30 | Unseasonable Snowfall | 4 | happy | Memories & Mementos | An Unmissable Spirited Affair | https://storage.sekai.best/sekai-en-assets/character/member/res008_no027/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no027/card_after_training.png |
+| 779 | 2024-10-31 | By The Hand, To A Dream | 4 | cool | For You Who Have Supported Us | The Warmth of a Guiding Hand | https://storage.sekai.best/sekai-en-assets/character/member/res008_no029/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no029/card_after_training.png |
+| 841 | 2024-12-31 | Butterflies Not To Forget | 4 | mysterious | Don't Lose A Single Piece |  | https://storage.sekai.best/sekai-en-assets/character/member/res008_no032/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no032/card_after_training.png |
+| 924 | 2025-05-09 | Reaching Out To Something | 4 | mysterious | Dilemmas Are Opportunities | To One Day Reach that Flowery Stage | https://storage.sekai.best/sekai-en-assets/character/member/res008_no034/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no034/card_after_training.png |
+| 939 | 2025-06-10 | Cooking To Give You Energy♪ | 4 | cool | Health Committee Duties! | Lead to Shine More | https://storage.sekai.best/sekai-en-assets/character/member/res008_no035/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no035/card_after_training.png |
+| 970 | 2025-07-31 | A Special Spell | 4 | cute | I Want To Be Strict! | Chase My Ideal Idol! | https://storage.sekai.best/sekai-en-assets/character/member/res008_no036/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no036/card_after_training.png |
+| 1029 | 2025-11-10 | A Blissful Moment With You | 4 | mysterious | What's A Fun Way To Eat Grapes? | As the Leaves Change Once More | https://storage.sekai.best/sekai-en-assets/character/member/res008_no038/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no038/card_after_training.png |
+| 1045 | 2025-12-11 | Determined Brilliance | 4 | happy | Cozy Celebration | Grow Glorious Glow | https://storage.sekai.best/sekai-en-assets/character/member/res008_no040/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no040/card_after_training.png |
+| 1104 | 2026-01-31 | Enamored Of Flower Stitches | 4 | happy | We All Need Calm Moments | Warmth in Every Stitch | https://storage.sekai.best/sekai-en-assets/character/member/res008_no042/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no042/card_after_training.png |
+| 1209 | 2026-07-23 | A Comforting Breakfast | 4 | pure | Special Navigators | Start Rolling! Stars' Crossing | https://storage.sekai.best/sekai-en-assets/character/member/res008_no045/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no045/card_after_training.png |
+| 1221 | 2026-08-08 | Giving The Perfect Smile | 4 | pure | A Stroll Down Memory Lane | All Ways Jump! With You | https://storage.sekai.best/sekai-en-assets/character/member/res008_no046/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res008_no046/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

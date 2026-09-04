@@ -1,0 +1,25 @@
+# Tenma Tsukasa - 2Star
+
+## 基本信息
+
+- **Character**：Tenma Tsukasa
+- **Category**：2Star
+- **Count**：8
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 50 | 2021-12-07 | Wonderlands×Showtime | 2 | cute | Clean Sweep! Go Team! |  | https://storage.sekai.best/sekai-en-assets/character/member/res013_no002/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no002/card_after_training.png |
+| 154 | 2022-02-10 | New Year's With All | 2 | pure | Cheer With Everything You've Got! | SEKAI Happy New Year! | https://storage.sekai.best/sekai-en-assets/character/member/res013_no007/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no007/card_after_training.png |
+| 184 | 2022-03-30 | Balloon Presenter | 2 | happy | Wrath Of The Universe's #1 Big Bro | Smile of a Dreamer | https://storage.sekai.best/sekai-en-assets/character/member/res013_no009/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no009/card_after_training.png |
+| 652 | 2024-05-20 | One Foot In Front Of The Other | 2 | mysterious | Showdown! Robo-Phoenix | The Song of a Canary in Crisis | https://storage.sekai.best/sekai-en-assets/character/member/res013_no024/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no024/card_after_training.png |
+| 704 | 2024-08-21 | Words Of Thanks | 2 | cool | The Last Morning | Our Happy Ending | https://storage.sekai.best/sekai-en-assets/character/member/res013_no026/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no026/card_after_training.png |
+| 736 | 2024-09-30 | Brand New Style | 2 | pure | Restoring My Reputation |  | https://storage.sekai.best/sekai-en-assets/character/member/res013_no028/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no028/card_after_training.png |
+| 1032 | 2025-11-10 | Souvenir Excitement | 2 | cute | What's The Snack Budget? | As the Leaves Change Once More | https://storage.sekai.best/sekai-en-assets/character/member/res013_no039/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no039/card_after_training.png |
+| 1160 | 2026-04-22 | Arresting Poise | 2 | cool | Passion All Around | Choices for the Future | https://storage.sekai.best/sekai-en-assets/character/member/res013_no044/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res013_no044/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

@@ -1,0 +1,34 @@
+# Kiritani Haruka - New Uniform
+
+## 基本信息
+
+- **Character**：Kiritani Haruka
+- **Category**：New Uniform
+- **Count**：17
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 518 | 2023-10-11 | Connect Even The Heart | 4 | cute | The Meaning Of Those Words | Dear Me, From Back Then | https://storage.sekai.best/sekai-en-assets/character/member/res006_no020/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no020/card_after_training.png |
+| 531 | 2023-10-31 | Drowning In Dazzlement | 3 | happy | Going Home With A Friend | Screaming?! Welcome to the Forest of Wolves! | https://storage.sekai.best/sekai-en-assets/character/member/res006_no021/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no021/card_after_training.png |
+| 592 | 2024-02-10 | This Place I've Returned To | 3 | pure | Since That First Day We Spoke | At The End of The Unraveled Thread | https://storage.sekai.best/sekai-en-assets/character/member/res006_no023/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no023/card_after_training.png |
+| 631 | 2024-04-21 | Things May Change | 4 | cute | Cherish These Unremarkable Days | Friendship Rebuilt | https://storage.sekai.best/sekai-en-assets/character/member/res006_no024/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no024/card_after_training.png |
+| 642 | 2024-05-11 | Donuts And Memories | 4 | mysterious | First-Name Basis | One Small Trip Before a Big Journey | https://storage.sekai.best/sekai-en-assets/character/member/res006_no025/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no025/card_after_training.png |
+| 668 | 2024-06-20 | Behind The Surprise | 2 | cool | What My Decision Gave Me | Step by Step! | https://storage.sekai.best/sekai-en-assets/character/member/res006_no026/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no026/card_after_training.png |
+| 716 | 2024-09-10 | Unbeatable Coordination! | 4 | happy | A Promise For The Future | Our Precious Memories | https://storage.sekai.best/sekai-en-assets/character/member/res006_no027/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no027/card_after_training.png |
+| 729 | 2024-09-30 | Brand New Style | 2 | cute | Inaugural Invitation |  | https://storage.sekai.best/sekai-en-assets/character/member/res006_no028/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no028/card_after_training.png |
+| 832 | 2024-12-10 | Plotting A Surprise | 2 | pure | Surprisingly Scheming | This Way! That Way! Zookeeper Day | https://storage.sekai.best/sekai-en-assets/character/member/res006_no032/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no032/card_after_training.png |
+| 874 | 2025-02-20 | Older Than It Looks | 4 | pure | Delighting In Disrepair | From the Marks Left Behind | https://storage.sekai.best/sekai-en-assets/character/member/res006_no034/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no034/card_after_training.png |
+| 938 | 2025-06-10 | Get Closer & Work Together | 4 | cool | Where Dreams & Convictions Meet | Lead to Shine More | https://storage.sekai.best/sekai-en-assets/character/member/res006_no036/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no036/card_after_training.png |
+| 993 | 2025-09-10 | You Give Me Wings | 4 | happy | Supply Hack? | Get Fit & Fly! Muscle Training! | https://storage.sekai.best/sekai-en-assets/character/member/res006_no038/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no038/card_after_training.png |
+| 1048 | 2025-12-11 | Pouring My Heart In | 3 | cute | The Gift Of Nutrients | Grow Glorious Glow | https://storage.sekai.best/sekai-en-assets/character/member/res006_no040/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no040/card_after_training.png |
+| 1108 | 2026-01-31 | MORE MORE HOUSE Surprise | 2 | happy | They're Too Cute | Warmth in Every Stitch | https://storage.sekai.best/sekai-en-assets/character/member/res006_no043/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no043/card_after_training.png |
+| 1110 | 2026-02-10 | Reality Hits Hard | 4 | mysterious | No Matter How Far | Rise and Strive | https://storage.sekai.best/sekai-en-assets/character/member/res006_no044/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no044/card_after_training.png |
+| 1177 | 2026-05-23 | Producer Studies | 3 | pure | Picturesque Poise | Cheer With My Heart! | https://storage.sekai.best/sekai-en-assets/character/member/res006_no045/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no045/card_after_training.png |
+| 1208 | 2026-07-23 | Fantastic Training Room! | 4 | pure | Producer & Interior Designer! | Start Rolling! Stars' Crossing | https://storage.sekai.best/sekai-en-assets/character/member/res006_no046/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res006_no046/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

@@ -1,0 +1,36 @@
+# KAITO - New Uniform
+
+## 基本信息
+
+- **Character**：KAITO
+- **Category**：New Uniform
+- **Count**：19
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 521 | 2023-10-11 | Mentors We Can Count On | 2 | pure | Indelibly Incandescent | Dear Me, From Back Then | https://storage.sekai.best/sekai-en-assets/character/member/res026_no020/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no020/card_after_training.png |
+| 539 | 2023-11-10 | Strumming Supporter | 2 | mysterious | Spitballing Music Videos | Echo My Melody | https://storage.sekai.best/sekai-en-assets/character/member/res026_no021/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no021/card_after_training.png |
+| 558 | 2023-12-21 | What Style Would Be Good? | 4 | cute | Giving Costume Design A Shot | Raise Your Bow in a Snow-White World | https://storage.sekai.best/sekai-en-assets/character/member/res026_no022/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no022/card_after_training.png |
+| 615 | 2024-03-21 | Fury Incarnate | 3 | cute | The Reason I Was Called | Immiscible Discord | https://storage.sekai.best/sekai-en-assets/character/member/res026_no025/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no025/card_after_training.png |
+| 633 | 2024-04-21 | Faith In Unfading Feelings | 3 | happy | A Cheer For One So Kind | Friendship Rebuilt | https://storage.sekai.best/sekai-en-assets/character/member/res026_no026/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no026/card_after_training.png |
+| 650 | 2024-05-20 | Trust In Your Acts Of Support | 4 | pure | A Special Celebration Show | The Song of a Canary in Crisis | https://storage.sekai.best/sekai-en-assets/character/member/res026_no027/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no027/card_after_training.png |
+| 685 | 2024-07-21 | Their Journey That I've Watched | 4 | cool | Entrusted Feelings | Our Constellation of Song | https://storage.sekai.best/sekai-en-assets/character/member/res026_no028/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no028/card_after_training.png |
+| 712 | 2024-08-31 | Ulterior Motive | 2 | happy | Never Forget This | Let SEKAI Hear Your Song! | https://storage.sekai.best/sekai-en-assets/character/member/res026_no029/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no029/card_after_training.png |
+| 749 | 2024-09-30 | Original Style | 2 | pure | Happiness In Their Cheers |  | https://storage.sekai.best/sekai-en-assets/character/member/res026_no030/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no030/card_after_training.png |
+| 759 | 2024-09-30 | Brand New Wonderland | 2 | happy | KAITO Appreciation Party |  | https://storage.sekai.best/sekai-en-assets/character/member/res026_no031/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no031/card_after_training.png |
+| 835 | 2024-12-20 | I Can't Sit Back | 4 | happy | Butting Heads | The Way I Played That Day | https://storage.sekai.best/sekai-en-assets/character/member/res026_no034/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no034/card_after_training.png |
+| 869 | 2025-02-10 | Pick A Side! | 4 | cool | A Talent For Analogies?! | Lead With Courage and Kindness | https://storage.sekai.best/sekai-en-assets/character/member/res026_no035/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no035/card_after_training.png |
+| 888 | 2025-03-09 | The Feelings I've Watched Over | 2 | pure | Sudden News | With Your Sights on Stardom, Set Sail! | https://storage.sekai.best/sekai-en-assets/character/member/res026_no037/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no037/card_after_training.png |
+| 893 | 2025-03-22 | Supportive Through Struggles | 3 | mysterious | Wanting To Congratulate | The First Concerto | https://storage.sekai.best/sekai-en-assets/character/member/res026_no038/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no038/card_after_training.png |
+| 940 | 2025-06-10 | The Ultimate Performance | 4 | cool | Are You All Ready? | Lead to Shine More | https://storage.sekai.best/sekai-en-assets/character/member/res026_no040/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no040/card_after_training.png |
+| 1013 | 2025-10-12 | Icy Quarrel | 4 | cute | A Fallen Flower | Whither This Path of Thorns | https://storage.sekai.best/sekai-en-assets/character/member/res026_no042/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no042/card_after_training.png |
+| 1019 | 2025-10-21 | If You Want Heat | 3 | pure | The Path Beyond The Wall | Rekindle the Flame | https://storage.sekai.best/sekai-en-assets/character/member/res026_no043/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no043/card_after_training.png |
+| 1158 | 2026-04-22 | A Reassuring Smile | 4 | mysterious | Believing In Her Hard Work | Choices for the Future | https://storage.sekai.best/sekai-en-assets/character/member/res026_no048/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no048/card_after_training.png |
+| 1211 | 2026-07-23 | Idol Fan In SEKAI | 2 | cool | Feeling My Excitement | Start Rolling! Stars' Crossing | https://storage.sekai.best/sekai-en-assets/character/member/res026_no050/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res026_no050/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

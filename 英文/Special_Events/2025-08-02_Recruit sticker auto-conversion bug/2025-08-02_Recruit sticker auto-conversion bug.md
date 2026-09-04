@@ -1,0 +1,15 @@
+# 2025-08-02 Recruit sticker auto-conversion bug
+
+## 基本信息
+
+- **Date**：2025-08-02
+- **Event**：Recruit sticker auto-conversion bug
+
+## 数据
+
+（暂无数据）
+
+
+## 数据来源
+
+A severe bug caused gacha recruit stickers to be automatically converted into wish fragments. On August 2 the operator issued a final announcement stating it would re-issue consumed stickers to affected players and would not recall the converted fragments, but no additional compensation was mentioned, drawing player discontent. (Source: TapTap community reports)

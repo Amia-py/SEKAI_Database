@@ -1,0 +1,27 @@
+# Kusanagi Nene - Special
+
+## 基本信息
+
+- **Character**：Kusanagi Nene
+- **Category**：Special
+- **Count**：10
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 181 | 2022-03-30 | Messenger Of Feelings | 4 | mysterious | I Want You To Smile | Smile of a Dreamer | https://storage.sekai.best/sekai-en-assets/character/member/res015_no008/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no008/card_after_training.png |
+| 348 | 2022-12-31 | Dazzling Dream Stage | 4 | mysterious | Someday, I'll Find The Answer |  | https://storage.sekai.best/sekai-en-assets/character/member/res015_no012/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no012/card_after_training.png |
+| 475 | 2023-07-31 | I'm Not Losing My Target | 4 | cute | Sharing The Things We Like | close game/OFFLINE | https://storage.sekai.best/sekai-en-assets/character/member/res015_no017/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no017/card_after_training.png |
+| 584 | 2024-01-31 | Hold Them In Your Mind | 4 | cool | Will They Like It? | Memories That Come With The Scent of Candles | https://storage.sekai.best/sekai-en-assets/character/member/res015_no021/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no021/card_after_training.png |
+| 796 | 2024-11-30 | Determined Director | 4 | pure | Let's Have An After-Party! | Picture Perfect! | https://storage.sekai.best/sekai-en-assets/character/member/res015_no030/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no030/card_after_training.png |
+| 886 | 2025-03-08 | Who We Want To Be | 4 | mysterious | Frustration And Fear | With Your Sights on Stardom, Set Sail! | https://storage.sekai.best/sekai-en-assets/character/member/res015_no033/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no033/card_after_training.png |
+| 934 | 2025-05-31 | Into A Magical Dress | 4 | mysterious | Nervously Waiting | Stream With Friends♡ Wedding Live! | https://storage.sekai.best/sekai-en-assets/character/member/res015_no035/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no035/card_after_training.png |
+| 1005 | 2025-09-30 | A Dream On A Melody | 4 | pure | You Can Get Used To Anything | Here on Our Dream Stage | https://storage.sekai.best/sekai-en-assets/character/member/res015_no038/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no038/card_after_training.png |
+| 1171 | 2026-05-09 | I Can't Rest | 4 | cool | The Joy Of Growing Together | Dear My Fellows | https://storage.sekai.best/sekai-en-assets/character/member/res015_no044/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no044/card_after_training.png |
+| 1198 | 2026-07-07 | Getting You Snacks | 4 | happy | Serious About English | Deeper and Deeper | https://storage.sekai.best/sekai-en-assets/character/member/res015_no045/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res015_no045/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

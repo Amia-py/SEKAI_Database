@@ -1,0 +1,45 @@
+# KAITO - 4星
+
+## 基本信息
+
+- **角色**：KAITO
+- **分类**：4星
+- **数量**：28
+
+## 数据
+
+| カードID | 実装日 | カード名 | レアリティ | 属性 | スキル | 関連イベント | 特訓前画像 | 特訓後画像 |
+|---|---|---|---|---|---|---|---|---|
+| 121 | 2020-10-31 | 迷い子達との語らい | 4 | happy | 導きの手 | 全力！ワンダーハロウィン！ | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no006/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no006/card_after_training.png |
+| 140 | 2020-12-10 | ヒミツの演技指導 | 4 | mysterious | あの感動をもう一度 | KAMIKOU FESTIVAL！ | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no007/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no007/card_after_training.png |
+| 214 | 2021-04-30 | 陽気なDJ現る？ | 4 | happy | こだわりと情熱 | STRAY BAD DOG | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no008/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no008/card_after_training.png |
+| 280 | 2021-09-10 | 音で語るセッション | 4 | mysterious | 新しい扉を開いて | Knock the Future!! | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no011/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no011/card_after_training.png |
+| 382 | 2022-02-18 | 少し慣れない賑やかさ | 4 | pure | 気まずくない距離感 | あの日、空は遠かった | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no015/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no015/card_after_training.png |
+| 407 | 2022-03-30 | 大丈夫だよ、みんな | 4 | happy | 僕の願いを、少しだけ | セカイの桜、つながる想い | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no016/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no016/card_after_training.png |
+| 436 | 2022-05-20 | みんなも美味しいパンケーキ！ | 4 | cute | VS Vivid BAD SQUAD！？ | THE POWER OF UNITY | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no017/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no017/card_after_training.png |
+| 506 | 2022-09-20 | こだわりじゃない？ | 4 | cool | 何事も挑戦 | Walk on and on | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no019/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no019/card_after_training.png |
+| 558 | 2022-12-21 | どんなアレンジがいいかな？ | 4 | cute | 挑戦！衣装アレンジデザイン | 弓引け、白の世界で | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no022/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no022/card_after_training.png |
+| 602 | 2023-02-28 | ふんわり感は混ぜかたにあり！ | 4 | mysterious | そっと後押し、隠し味 | Never Give Up Cooking！ | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no024/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no024/card_after_training.png |
+| 650 | 2023-05-20 | 応援の力を信じて | 4 | pure | お祝いはスペシャルショーで | カナリアは窮境に歌う | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no027/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no027/card_after_training.png |
+| 685 | 2023-07-21 | 見守ってきた軌跡 | 4 | cool | 想いを託して | つなぐ、星の歌 | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no028/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no028/card_after_training.png |
+| 761 | 2023-09-30 | 焦燥にそそぐ歌 | 4 | cute | 闘う君と歌う僕 |  | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no032/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no032/card_after_training.png |
+| 835 | 2023-12-20 | 座視できない想い | 4 | happy | とあるふたりの仲違い？ | あの日、奏でた音色を | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no034/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no034/card_after_training.png |
+| 869 | 2024-02-10 | どっちに賛成！？ | 4 | cool | “たとえ”の天才！？ | 導く勇気、優しさを胸に | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no035/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no035/card_after_training.png |
+| 900 | 2024-03-30 | やんちゃな発見者 | 4 | cool | セカイの飼育委員？ | Rise as ONE！ | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no039/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no039/card_after_training.png |
+| 940 | 2024-06-10 | 最高のステージにするために | 4 | cool | 心の準備はいいかい？ | Lead to shine more | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no040/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no040/card_after_training.png |
+| 984 | 2024-08-17 | 背中を押す想い | 4 | mysterious | あの日の喜びを想って | キミと、セカイの始まりで | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no041/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no041/card_after_training.png |
+| 1013 | 2024-10-12 | 零度の諍い | 4 | cute | こぼれ落ちた花 | 荊棘の道は何処へ | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no042/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no042/card_after_training.png |
+| 1061 | 2024-12-31 | お手玉だってお手のもの！ | 4 | cute | KAITOのスペシャルレッスン | Unfading wishing | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no044/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no044/card_after_training.png |
+| 1158 | 2025-04-22 | 寄り添う微笑み | 4 | mysterious | 努力の行方を信じて | Choices for the future | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no048/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no048/card_after_training.png |
+| 1195 | 2025-07-07 | 仲間の存在 | 4 | happy | それぞれの関係性 | Deeper and deeper | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no049/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no049/card_after_training.png |
+| 1240 | 2025-09-06 | “不思議”に振り回されて | 4 | pure | 木VS屋根？ | Link the Beats！ | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no051/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no051/card_after_training.png |
+| 1274 | 2025-10-31 | 迷いなき“らしさ”を | 4 | pure | 結果を見届けて | Colors of Pure Sense | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no052/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no052/card_after_training.png |
+| 1322 | 2026-01-21 | 全力で走るキミへ | 4 | pure | 新作コーヒーをお試しあれ | GO ALL OUT | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no053/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no053/card_after_training.png |
+| 1401 | 2026-05-31 | セカイのアイディアマン | 4 | happy | 溢れるプロデュース熱！ | 最果てへと飛ぶキミへ | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no057/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no057/card_after_training.png |
+| 1428 | 2026-07-19 | 空へと見送って | 4 | pure | 遠くない未来への期待 | 君の隣、君と見る明日 | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no058/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no058/card_after_training.png |
+| 1454 | 2026-08-29 | はやる想いをスプーンに乗せて | 4 | pure | 思い出を残そう！ | Mix&Make Party Time!! | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no060/card_normal.png | https://storage.sekai.best/sekai-jp-assets/character/member/res026_no060/card_after_training.png |
+
+
+## 数据来源
+
+出典：SEKAI master database カードデータ（公式テキスト）。画像は SEKAI Viewer アセット（storage.sekai.best）。

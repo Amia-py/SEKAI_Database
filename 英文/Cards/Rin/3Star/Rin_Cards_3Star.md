@@ -1,0 +1,25 @@
+# Kagamine Rin - 3Star
+
+## 基本信息
+
+- **Character**：Kagamine Rin
+- **Category**：3Star
+- **Count**：8
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 91 | 2021-12-07 | Sparkling Performance | 3 | mysterious | Adorable Pose♪ |  | https://storage.sekai.best/sekai-en-assets/character/member/res022_no003/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no003/card_after_training.png |
+| 178 | 2022-03-22 | The Reason We Met | 3 | mysterious | Even If Cursed... | Insatiable Pale Color | https://storage.sekai.best/sekai-en-assets/character/member/res022_no007/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no007/card_after_training.png |
+| 235 | 2022-06-18 | Smile Night Time! | 3 | mysterious | A Smile Delivered | Wonder Magical Showtime! | https://storage.sekai.best/sekai-en-assets/character/member/res022_no008/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no008/card_after_training.png |
+| 371 | 2023-01-31 | Idol On Cake♪ | 3 | cool | My Special Surprise! | Secret Operation Valentine's Day | https://storage.sekai.best/sekai-en-assets/character/member/res022_no015/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no015/card_after_training.png |
+| 496 | 2023-08-31 | Unspeakable Words | 3 | pure | Kindness Is So Tricky | Don't lose faith! | https://storage.sekai.best/sekai-en-assets/character/member/res022_no020/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no020/card_after_training.png |
+| 657 | 2024-05-31 | Mission Accomplished! High Five! | 3 | mysterious | A Vow Of Friendship! | To You, My Caring Companion | https://storage.sekai.best/sekai-en-assets/character/member/res022_no025/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no025/card_after_training.png |
+| 971 | 2025-07-31 | Adding My Message! | 3 | cute | Idols Are Great! | Chase My Ideal Idol! | https://storage.sekai.best/sekai-en-assets/character/member/res022_no037/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no037/card_after_training.png |
+| 1142 | 2026-03-20 | Unheard Voice | 3 | happy | Sympathetic SEKAI | Unreliable Notes | https://storage.sekai.best/sekai-en-assets/character/member/res022_no045/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res022_no045/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).

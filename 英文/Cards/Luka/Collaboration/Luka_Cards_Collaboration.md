@@ -1,0 +1,20 @@
+# Megurine Luka - Collaboration
+
+## 基本信息
+
+- **Character**：Megurine Luka
+- **Category**：Collaboration
+- **Count**：3
+
+## 数据
+
+| Card ID | Released | Card Name | Rarity | Attribute | Skill | Event | Image (Normal) | Image (Trained) |
+|---|---|---|---|---|---|---|---|---|
+| 337 | 2022-12-14 | The Madly Envious Tailor | 4 | cute | What The Violet Dream Showed Me |  | https://storage.sekai.best/sekai-en-assets/character/member/res024_no014/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no014/card_after_training.png |
+| 824 | 2025-01-07 | Featuring MY SWEET PIANO | 2 | pure | Making A Garland Together |  | https://storage.sekai.best/sekai-en-assets/character/member/res024_no032/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no032/card_after_training.png |
+| 1093 | 2025-04-28 | Let's Enjoy The Movie! | 2 | mysterious | Lovely Outing In Matching Outfits |  | https://storage.sekai.best/sekai-en-assets/character/member/res024_no043/card_normal.png | https://storage.sekai.best/sekai-en-assets/character/member/res024_no043/card_after_training.png |
+
+
+## 数据来源
+
+Source: SEKAI master database card data (official text). Images from SEKAI Viewer assets (storage.sekai.best).
