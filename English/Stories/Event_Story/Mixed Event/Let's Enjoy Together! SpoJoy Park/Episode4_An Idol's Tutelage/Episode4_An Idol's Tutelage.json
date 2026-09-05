@@ -1,0 +1,703 @@
+{
+ "title": "Mixed Event — Let's Enjoy Together! SpoJoy Park — Episode4 An Idol's Tutelage",
+ "meta": {
+  "Event": "Let's Enjoy Together! SpoJoy Park",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode4 — An Idol's Tutelage",
+  "Event Outline": "Kanade's fatigue has been catching up to her as of late. Worried that it might affect her compositions, she decides to put effort into building her stamina alongside Ena. They hear that a new sports facility called SpoJoy Park just opened near the station...",
+  "scenarioId": "event_63_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a004801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "SpoJoy Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "There's so much we can do.\nI'm not sure where to start...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, there really is a lot.\nSince we're here, why don't we try something that we don't usually get to do?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Something that we don't usually get to do...? Oh, how about this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Rollerblading...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Are you sure you can handle that, Kanade?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I think so...\nI remember doing some roller skating when I was little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Then, you should be fine.\nWhat do you two think?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That sounds good.\nI don't think I've done any roller skating since elementary school...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Same!\nAlright, let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Alright, they seem to fit okay.\nI should take a pic of them since they look so cute.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00075",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Alright...\nOh, I can still stand up okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_sports_2022_006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I was actually a little worried since it's been so long...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hehe. It's been a while for me too, so I know how you feel. I also used to do this a lot when I was a kid.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Luckily, muscle memory seems to be working in our favor. Now, where's Minori...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori's Voice",
+   "Line": "Sorry! Tying the laces is taking me longer than expected! Go ahead and start without me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "That's okay. Take your time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wait, where's Kanade?\nShe said she'd done this before when she was little...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "J-Just hang onto the wall... And slowly stand up...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "K-Kanade?\nYour knees are shaking... Is everything okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00015",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I-I'm fine... My body still remembers this part...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Remember what part?!\nHold on. Were you originally just not very good at this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I-I'm okay...\nThe wall... As long as I have the wall... I'll be... Huh?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh no! I lost my grip on the wall...!\nE-Ena...! Ena...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "N-No, wait! Kanade!\nI can't handle going that fast either...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "W-Wah...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00210",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "K-Kanade?!\nAre you okay? You tumbled like a cartoon character just now...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Did you get hurt?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm okay... Thankfully, I had my helmet on...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Thank goodness...\nBut this might not be the best way for us to increase our stamina...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori's Voice",
+   "Line": "Thanks for waiting, everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_sports_2022_005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_sports_2022_005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Alright, let's start skating!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Wait, huh?! Kanade, did you fall?!\nAre you okay?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Y-Yes... I'm okay, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Minori, how are you this good at skating...?! You even threw in a turn there just now, didn't you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That's incredible. I had no idea you were so good at this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Huh?\nHehe. My face is turning red from all this praise...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "This one audition I tried for a long time ago required us to be able to “dance while roller skating”, so I practiced a lot for it. As a result, I know the basics pretty well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Unfortunately, I didn't end up passing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Whoa...!\nYou did all that just for an audition?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah, you get asked to do different things depending on the audition. Some need you to speak English or be able to do martial arts or programming and other sorts of special skills...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Even programming...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wow, becoming an idol sounds really tough...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Practicing for auditions like that was never easy, and I couldn't pass any of them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But I'm really glad I tried.\nBecause I think everything I've experienced is all a part of learning how to “give everyone hope for a better tomorrow”!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Everything you've experienced...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see. That's really inspiring, Hanasato...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "What?! No, it really isn't!\nAnd I'm still just getting on my feet!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Speaking of which, Kanade, are you okay? Can you stand?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I-I'm okay, but...\nHow do I actually do that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hang on. Why don't you have Minori teach you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "She's really good at this, so I'm sure you'll be skating in no time once you learn some tips and tricks from her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Right...\nAs it stands, I'll be stuck clinging to the wall... And not actually able to stand on my own...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hanasato, would you mind teaching me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Understood...!\nIn that case, I'd love to!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Here, grab on!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Alright, let's give it a try together!\nFirst, we'll work on learning how to stand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "There's actually a certain posture you can take that makes it harder for you to fall while wearing these!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Wait, there is...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yup! I fell a lot in the beginning too, so I did some research.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Let's see... You can keep your hand on the wall, but try to spread your legs out a little. About shoulder width should work.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Shoulder width...? O-Okay, done...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Now, try bending your knees a bit, shift your weight a little forward and you should feel a lot steadier!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Bend my knees... Shift my weight forward...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, I do feel a little steadier...!\nMaybe I can let go of the wall now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_sports_2022_006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm up...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "You're doing great, Kanade!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What?! Already?!\nJust a second ago, you were wobblier than a newborn fawn...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Look at that.\nMinori, you're a really great teacher...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Alright, let's try walking now!\nYou've done well so far, so I'm sure you'll get the hang of this really quickly!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "O-Okay...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Hehe...\nHaving someone coach me like this is so nice.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Oh, that reminds me of when...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "Kanade, I'll teach you how to throw the ball now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(We did that together...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boys",
+   "Line": "Hey, quit pushing!\nIt isn't safe!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boys",
+   "Line": "Relax!\nIt's more fun if you're going fast, right?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boys",
+   "Line": "Whoa...! If you dodge so suddenly like that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh?!\nW-Wah...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00051",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Th-They ran into me...!\nI'm going too fast...!!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_sports_2022_005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh no! Kanade...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Kanade!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_sports_2022_005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I... I can't stop...!\nWhat do I do...?!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00026",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I'm going to crash into the wall...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_sports_2022_005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Kanadeeee!!\nI'm coming!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Y-You're not going to make it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_sports_2022_005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Oh no! I'm going to crash..!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Ena! I'm gonna grab Kanade and pass her to you! Please stay right there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "P-Pass her to me?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_sports_2022_005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Gotcha! And... Go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00210",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Whoa...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Uhh...\nHuh? Wh-What just happened?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Minori saved you, Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000096",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Haha... But I ended up taking a tumble in the end...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I-I'm so sorry, Hanasato...!\nAre you hurt? Is everything okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I'm okay!\nI trip and fall a lot during dance practices, so this is nothing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I-Is that really the issue here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Still, thank goodness you weren't hurt too bad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Alright, let's take a quick break and give it another try!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I think you got the hang of walking just now, Kanade, so you should be skating on your own really soon!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hanasato...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Thank you.\nI'll keep trying my best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,883 @@
+{
+ "title": "Unit Event — Over Rad Squad!! — Episode8 On to the Next World",
+ "meta": {
+  "Event": "Over Rad Squad!!",
+  "Event Type": "marathon",
+  "Episode": "Episode8 — On to the Next World",
+  "Event Outline": "The time to surpass RAD WEEKEND has come at last. Kohane is nervous about the task ahead, but musters up her resolve as she looks back on everything she's overcome to get this far. Will Vivid BAD SQUAD finally do it?!",
+  "scenarioId": "event_135_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Vivid Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Owner of COL",
+   "Line": "Hm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "♪————————————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "♪————!! ————!! ————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of COL",
+   "Line": "They getting another early start today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Record Shop Owner",
+   "Line": "Oh, hi!\nOut for your morning walk?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of COL",
+   "Line": "Yeah, but I also wanted to take a look around to see what's going on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Attractive Lady",
+   "Line": "Hehe. I know what you mean...\nIt really is a beautiful sight.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00134_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Young People",
+   "Line": "Guys, bad news...!\nAll the spots are taken!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young People",
+   "Line": "Seriously...?!\nHey, you can't hog all the space like this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "You should get here earlier instead of acting so salty! You gotta do at least that if you're actually serious about surpassing RAD BLAST!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young People",
+   "Line": "What?!\nThere's no way a bunch of kids like you are gonna surpass it! Let's practice over there, fellas!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00134_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Owner of COL",
+   "Line": "They really turned this place on its head, huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00035",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend Garage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Back to the airport already?\nYou could stay a little while longer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Unlike a certain someone who's shut down his business, I'm extremely busy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Hey, cut me some slack.\nWe used to be partners, remember?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Am I wrong?\nAlso... I need to get back and start improving on my game.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "I was supposed to be the one who saw what was waiting beyond her dream, but now I have more rivals to deal with.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "...\nIs that so?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Anyway... Thanks, Ken.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "I'm not holding back against them next time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Haha. You're always so eager to fight.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "We should team back up again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "They're going to carry Nagi's dream forward now. Also...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "The kids who saw them have already begun the next chase.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "I've finished my task of raising the next generation, which means I can become an artist again. So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "How about it, Taiga?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "What about your business?\nYou're never going to hear the end of it from your wife if you abandon it, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "I've already talked to her about that. She said to not come back until I'm standing on top of the world.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Also, unlike you, I'm responsible with my money. RADder fortunately did well enough that An should be fine until she becomes an adult.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "My wife agreed to opening up shop again and having someone trustworthy run things while I'm gone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "As for An, she just smiled and said, “I guess this means we're rivals now, Dad.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Geez, do you know how lucky you are to have a wife and daughter that understanding?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "You can still sing, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00222",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Do you think I'd be asking if I thought I'd be holding you back?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Despite knowing that there's a long gap on your resume... You're on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Haha. I'm glad I won you over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Anyway, welcome back. Partner.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "What should we call ourselves?\nDo you want to pick our team name this time...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Sure, then...\nHow about something like GODS? That'd make us sound pretty strong.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Wow, you still have the worst taste...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Huh?\nIf you don't like it, then come up with a better name.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "I will.\nWe'll be called...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a006401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00183",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Cemetery",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "There.\nAll that's left is to clean up the incense ashes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "How's that, Aunt Nagi? Sparkling clean, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "We've finished cleaning this side too, An!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Thanks!\nAlright, that should be everything!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "To be fair, it was already pretty clean.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It was.\nAnd there were so many offerings.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm guessing a lot of other people have come by to pay their respects to Nagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...\n*Nod*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00173_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Hey, I fetched us some more water!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Apologies for the wait.\nThe spigot was further away than we thought.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "I'm also really sorry!\nI'm still not used to moving around in a wheelchair.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "No, that's okay!\nWe actually just finished cleaning!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Anyway, now let's pay our respects.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "And lemme introduce you all to her!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Look how far we've made it, Aunt Nagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00268",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "And now we're gonna go see what lies beyond your dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We're gonna go to all the places and see all the sights you didn't get to.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thank you very much, Nagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "We wouldn't have been able to come this far without you. So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "You can leave your dream to us now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We're going to stand on top of the world. We're going to take on your biggest wish.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So, I hope you'll keep watching over us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay!\nThat should be enough!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Hm? Are you sure?\nI thought you'd want to tell her more, like how hard your training was and stuff.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "She doesn't need to know about any of that! I wanna look cool in front of her!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Plus, my goal for today was to introduce all of you guys to her!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Right...\nAnd we're definitely glad we came.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Yeah, me too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, before I forget...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "Hm? What's up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What are you all going to do now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "That's right...!\nI never said!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I want more people to hear me rap, so I'm thinking about uploading some videos online.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Really...?!\nI had no idea.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I mean, I don't have any money, so I'll have to work somewhere around here in the meantime.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I've already set up my channel, so you guys need to subscribe to it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "Haha. I'll do the next chance I get.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "What are your plans, EVER?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "We're signing with a major label.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "A major label?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "Yeah.\nWe got an offer a little while back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "We thought about sticking to the street, but we want to take this opportunity to spread this neighborhood's music around the world...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "EVER Member A",
+   "Line": "Because it's the best music in the world!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "EVER Member B",
+   "Line": "I mean, it's a shame that more people don't know about it already.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wow, a major label...!\nWe'll definitely be looking forward to your big debut!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So, Tono, what are you gonna do...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Soma and I will be reforming our team.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I had a feeling.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "That's right!\nWe're getting our team back together. I'm gonna make the tracks and Arata's gonna sing them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm glad to hear that.\nCongratulations, both of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Signing with a label is an option, but so is staying independent or even going overseas to train. We still have some decisions to make...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "As for the dream Nagi entrusted us with, we'll be chasing it too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "You aren't the only ones who want to conquer the world. So do we, which means we'll be rivals from here on out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Is that so?\nThen, we'll be looking forward to meeting you again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Yes, so will we.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Anyway, what are your plans, Vivid BAD SQUAD?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You already know the answer to that question.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "To stand on top of the world!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00287",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We're gonna see what lies beyond Aunt Nagi's dream!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "She entrusted her dream to us...\nBut we also want to go see the world beyond it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "To stand on top of the world, huh...?\nI have no idea how you guys are actually gonna do that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "But I have a feeling that you'll succeed.\nI mean, you've got the singing skills to do it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Us standing on top of the world...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Mita has a point...\nI have no idea how we're actually going to do that...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(But I'm not worried.\nI'm sure we'll figure out a way.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I mean...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000033",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000048",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000069",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000085",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a006401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I mean...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000239",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000294",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000307",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000326",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a006401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(We've been able to overcome all the obstacles that have stood in our way.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(And...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Standing on top of the world...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Just thinking about what that view's going to look like fills me with so much excitement!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "An! Shinonome! Aoyagi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, Azusawa?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I want to see what it's like from up there as soon as possible!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You said it, partner!\nThat's what I like to hear!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So, let's start heading towards our next goal!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito, Kohane & Toya",
+   "Line": "Okay!\nYeah!\nYes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Hehe...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I can't wait to see what we get to see next!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "03_street_ed3",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "???",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Nagi could definitely trust those guys with her dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Yeah...\nIt was a good event.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Vivid BAD SQUAD, huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

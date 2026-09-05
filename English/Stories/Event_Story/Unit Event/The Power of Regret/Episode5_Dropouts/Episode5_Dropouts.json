@@ -1,0 +1,818 @@
+{
+ "title": "Unit Event — The Power of Regret — Episode5 Dropouts",
+ "meta": {
+  "Event": "The Power of Regret",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — Dropouts",
+  "Event Outline": "Nene and her friends have made it to their final training destination, the Morinomiya Revue. While Nene goes into the experience excited to further grow as an actress, the boys' separate training and Emu's focus on business studies leave her attending practices on her own...",
+  "scenarioId": "event_149_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Morinomiya Music Academy - Rehearsal Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Alright, beginning today, we will be holding auditions for “Luca”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Starting with the protagonist. We ask all those interested in playing Luca to please step forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Understood!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_005_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "This is it, Kusanagi.\nLet's both do our best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yes, let's...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Seven, eight... Nine people.\nI guess that's only natural.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(My portrayal of Luca has to be better than all of theirs, or I'll lose my chance...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I have to perform like my life depends on it...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "We'll start from the top, to the parting in the rose garden. Rehearsal format.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "So, the Luca in this scene will be played by Ms. Byakkomachi. And you'll be playing Princess Louise, Ms. Komiyama.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Thank you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "That's enough, Ms. Taguchi. Next person.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taguchi",
+   "Line": "What? B-But...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Did you not hear me?\nYou're done. Next person!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taguchi",
+   "Line": "U-Understood...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(We've already gone through three Louises...\nAnd it hasn't even been ten minutes since we began.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I thought they all did really well, but they've all been getting pulled. This is rough.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(As for Luca...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "“Pardon me!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "“Could... Could I ask your name?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "“Oh...\nI-I'm sorry! Where are my manners? M-My name is Luca!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "“Luca Roussel...\nI... I would feel so honored if you remembered...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "She really is good...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(This is the moment when the young and timid Luca falls in love with Louise.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Luca wants to absorb all of Louise's beauty, but he has trouble looking directly at her. At the same time, he's worried that she's going to see him as behaving oddly.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Byakkomachi's providing such a natural depiction of his nervousness and anxiety.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Not only that...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "“Louise...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "“I see... Your name is Louise...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(She's capturing Luca's pure spirit really well.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Okay, that should be enough.\nLet's move to the next scene.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "The next Luca will be... Ms. Kusanagi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Th-Thank you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(The next scene starts with a song...!\nI have to do everything I can to match up against her acting!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "We'll stop here for today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "*Sigh*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I managed to get through the singing scene... But they pulled me not even a minute afterward...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(And once more after that when I hesitated... At this rate, I...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Now then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "To cap the day, we'll be announcing today's cuts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Also...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "At the end of each day, those who have been judged to lack what it takes will be barred from auditioning further.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(What do I do if they cut me on the first day...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I thought I did everything that I could just now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "For the role of Luca, Ms. Sawada.\nFor the role of Louise, Ms. Nomura.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "For the role of Chancellor Bernal, Ms. Kumaki.\nThat is all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Thank goodness...\nI made it through...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sawada",
+   "Line": "...\n*Sob*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Oh...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Yeah, I can't blame her...\nIt must be frustrating...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Luca Candidate A",
+   "Line": "“Ah, Louise!\nFor you, I am willing to do anything. My life is yours!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Next!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luca Candidate B",
+   "Line": "“We must not leave a single rebel standing...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Next!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luca Candidate C",
+   "Line": "“Louise...\nI just... Wanted to be by your side...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Do you honestly believe an audience is going to be moved by that kind of performance? Next!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(The air feels so heavy...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(It's a struggle even to breathe...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Ms. Imura...\nDid you actually practice for this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "Y-Yes, I did!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Then, tell me more about this line.\nWhat is Luca feeling at this very moment?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "Th-This line...?\nH-He's trying to profess his love for...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Is that all?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "Uhh... I mean...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "We cannot allow someone with such a shallow understanding of her character to play the lead.\nYou are excused.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_005_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_005_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00046_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "*Gasp*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(That wasn't good enough...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Yeah, she wasn't able to answer that teacher's question... But I thought she did a really good job of capturing Luca's delicate personality...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Next, Ms. Kusanagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...!\nU-Uhh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Too slow.\nDo you plan on dragging your feet like this during the real thing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I-I'll start now...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_005_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00016",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Afterwards",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(This is an audition, so I was prepared for some degree of tension. But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Sawada",
+   "Line": "...\n*Sob*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(This is rough...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(But I have to stay focused...\nWe've finished cleaning the rehearsal room, so I just have to go over what I was told today, and...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? There's a notebook on the ground.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, it's Imura's...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(But she just...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "We cannot allow someone with such a shallow understanding of her character to play the lead.\nYou are excused.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_005_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_005_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00046_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I remember someone saying that she lives in this dorm...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I should deliver this to her.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d004001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Let's see... I have to take the south corridor to get to her dorm, so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00046_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "Oh...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, Imura, thank goodness...\nYou came back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "*Nod*\nI left my notebook behind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, do you mean this one?\nI was on my way to deliver it to you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "Thanks, Kusanagi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Umm... If you have time, would you like to go to the school store together? It's hard not to feel hungry after a tough practice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(She looks really sad...\nHer eyes are all red...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "No, sorry... Not today...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "Anyway, I'll see you tomorrow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "No...! W-Wait, Imura!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I, uhh...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I actually really liked your portrayal of Luca...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "So, umm... During tomorrow's lesson—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "Stop it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "I don't want your pity....",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "I don't want to hear any empty words! Not from someone who didn't get cut today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What...? Pity...?\nI was just trying to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(It's true, I did feel like I needed to say something...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Nene...? Is everything okay?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Len...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,613 @@
+{
+ "title": "Unit Event — Halt! Tenma's on the Case — Episode3 The Show Can't Go On?!",
+ "meta": {
+  "Event": "Halt! Tenma's on the Case",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — The Show Can't Go On?!",
+  "Event Outline": "At Kijima's suggestion, Tsukasa has been putting on muscle to increase his acting chops. He and the others arrive at the Jidaigeki Studio Park with the Mikazukigumi troupe, but news of a theft puts the new production on hold...and that's when Tsukasa spots a suspicious ninja on the lot!",
+  "scenarioId": "event_136_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a003701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wh-Wh-Wh-Whaaaaaat?!?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Our performances might get canceled starting today?! I-Is that true?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "N-Not sure...\nI just happened to overhear some people saying that while walking by the warehouse...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Canceled?!\nI don't want that to happen!!! We practiced so much for it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...\nLet's all take a deep breath first.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "There haven't been any official announcements yet. We'd be hearing about it from Mr. Kijima if something as serious as that were to occur.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "So for now, let's keep preparing for the next showing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Y-Yes, you're right...!\nThese are the moments when we need to stay strong...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Sorry to do this all of a sudden, but I need everyone to gather up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!\nMr. Kijima!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Looks like we get to hear the news right away...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Some of you may've already gotten wind of this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Until further notice, we won't be doing any more performances starting today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I-It's really happening...!\nThose people were right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mikazukigumi Members",
+   "Line": "Why are they getting canceled?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mikazukigumi Members",
+   "Line": "You said “until further notice.”\nDoes that mean there's a possibility of us resuming?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "No, not at the moment.\nThe reason behind this cancellation is rather serious...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "May we ask what that reason is...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Yes, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "The Jidaigeki Studio Park has been faced with a string of thefts recently.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Th-Thefts?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Mostly involving people's belongings disappearing after being placed down somewhere. Everything from their bags to souvenirs they bought here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "The most recent incidents apparently involve directly stealing from the souvenir shops, probably because the other thefts have gone well. The park staff has been patrolling around and warning guests, but they've yet to catch whoever's responsible...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Th-That's terrible!\nWho would steal the guests' valuables like that?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Unacceptable! It's pure cowardice...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Yeah, I feel the same way...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "But first, we need to talk about our show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "The park decided that it's not a good idea to let it continue since it's about catching a thief.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "So, we won't be doing any further performances until we see a cease in these thefts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Which means this could be it for us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Excuse me, Mr. Kijima?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Yes, Otori?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I understand that we're probably supposed to keep practicing until whoever's behind these thefts is caught...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But would it be possible for us to use some of that time to put on performances warning the guests about what's been going on?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm? So, we'd be warning them to be careful...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Excellent idea...!\nIn other words, we'd be raising guests' level of awareness through street performances!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah! They're here to smile and have fun, but having your things taken is always really sad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Which is why I thought it'd be good for us to warn everyone about these thefts!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. It's very like you to suggest an idea such as this, Emu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Yeah.\nNot performing means having a lot of free time on our hands.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Let's go ask the park to see if they'll accommodate your idea. I have a feeling that they will since they also feel compelled to warn all the guests.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yay!\nThank you so much!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "I know you're all feeling disappointed about this situation...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "But we haven't been canceled outright.\nSo, let's try to stay positive.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Right...!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00282",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Hiori Jidaigeki Studio Park - Main Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“Did you all hear?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“A string of thefts has been occurring here lately!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "“Huh? Thefts?\nThat's so scary! What's been getting stolen...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“Apparently, people's belongings after they put them down for a second. They're there one second and gone the next!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“So, everyone's gotta keep a close eye on their bags and wallets!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "“We suggest you report any suspicious activity you see to the locals wearing name tags.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Yes, and don't be afraid! The famed constable and his right-hand man will come to your aid!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "They're staying in character while telling us all this, but I guess the rumors were true about people's things disappearing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Yeah, we gotta be careful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Okay...\nThey're responding well to our warning.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I hope this helps remedy the situation a bit.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(That being said...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Us not being able to perform because of these thefts is beyond infuriating!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I want whoever's behind them to get caught so that we can resume.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Alright, we've just about covered this area.\nWhy don't we try around the tea shop next?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay!\nHuh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Tsukasa? What's wrong?\nAren't you gonna come to the tea shop with us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm?!\nOh, sorry! I was just thinking to myself!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Let's hurry over to our next stop.\nAt the tea shop, Rui, you're going to steal Emu's dango and I'm going to catch you, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, our goal for this scene is to heighten everyone's senses by presenting them with a realistic theft.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Then, we should get our dango props ready... Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, sorry...\nI think I left them in the warehouse.\nGimme a second to go grab them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, in that case, I'll go instead.\nYou three wait here in the meantime.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? Are you sure?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes! My speed has increased greatly because of my training. It'll only take me a second to retrieve them from the warehouse!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Thanks. Then, if you don't mind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Of course! I'll be right back!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00349_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Warehouse",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hmm... The props should be somewhere around here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It's nice that the park's allowing us to store things in one of their warehouses, but it's hard to remember where anything is because it's so massive.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I could've sworn that we left them... Ah, here we are!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, back to the tea shop...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00675",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I thought I heard someone else just now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Was it one of the troupe members? Or the park staff...? In any case, I should go greet them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(That sound came from over here. Alright...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hello!\nHm...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shady Man in Ninja Outfit",
+   "Line": "...!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wh-What the...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Th-This man's dressed as a ninja...!\nAnd he's carrying a prop pot! But he's frozen completely solid...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Th-This is far too suspicious...!\nHe's neither a member of Mikazukigumi nor does he appear to have a staff badge.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(As far as I can tell, he's just a thief dressed as...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shady Man in Ninja Outfit",
+   "Line": "...!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_torimonothou_2024_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(H-He's running!\nWhich means...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thief!!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00496_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Halt, you coward! Stop right there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I was startled at first, but now I'm on his tail!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Tsukasa Tenma is going to get this collar!!!!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You're wanted for arrest!!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00349_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00496_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

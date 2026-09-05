@@ -1,0 +1,423 @@
+{
+ "title": "Kagamine Len — Sentimental Melody〔Part2〕Side Story (Part 2)",
+ "meta": {
+  "Character": "Kagamine Len",
+  "Card": "Sentimental Melody（2★）",
+  "Part": "Part2 — Side Story (Part 2)",
+  "Event": "Nocturne Interlude",
+  "scenarioId": "023006_len02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Crase Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Heya!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Welcome! What can I get you today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Today, we'll both have lemon soda!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Two lemon sodas, got it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "MEIKO, are Akito and the others coming today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Well, they haven't shown up yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "They're preparing for an event that's coming up, so they may be too busy with practice to drop by.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "An event?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "It's some kind of battle or competition.\nKohane's dad might go and see them...\nOh, Toya's dad too...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Wow, really? Then they must be training extra hard to make sure they do their absolute best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe. You're probably right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Let me pick some nice glasses for your drinks...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "(Huh? That shelf looks different...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hey, Rin...\nThat one cup's missing from that shelf...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Huh? Oh, you're right...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Hm? Is something wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Um... I noticed that...\nIt looks like there's a cup missing from that shelf...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, I know which one you mean.\nIt was cracked, so I had to remove it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Wait, cracked?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yes, I noticed when I was tidying up earlier.\nIt's such a pity, since MEIKO really liked it.\nShe seemed pretty sad.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "O-Oh, no...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Street SEKAI",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Len & Rin",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Was it was my fault that cup got cracked...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I don't think so, Len...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I should've found you a step stool instead of asking you to stand on your toes to reach that shelf.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "No, it's my fault. I should've said that wouldn't be safe, but I was too careless.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len & Rin",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "I'll go and apologize to MEIKO.\nYou wait here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "No, wait! I want to apologize with you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But you've done nothing wrong!\nIt was because of me...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "No, it wasn't!\nIt's like I set you up for that...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "I was the careless one!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "No, I was!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len & Rin",
+   "Line": "You're wrong...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len & Rin",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Haha! Rin, you're impossibly stubborn!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "What, me? Speak for yourself!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Okay, then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Let's go together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00054",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Crase Cafe",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "MEIKO...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh? Did you forget something?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh, no...! It's about that cup!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "We're the ones that probably cracked it and...\nWe're so sorry!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hold on, you two...\nWhy are you saying you did it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "It happened when we were helping you out the other day, you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "We were putting the tableware away, and I bumped a cup into that one while we were putting them back on that shelf...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "And I told him to stand on his toes to reach for it so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Ah, that's why you asked about the missing cup...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Well, I have news for you.\nYou two didn't do anything wrong.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "You were putting cups away on the shelf above the one that had the crack in it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Take a look... Was it this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Wait, yeah! That's the one!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "So that means...\nWe had nothing to do with that cup?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes.\nIt wasn't your fault at all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Phew...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah! That's a huge relief...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But I still feel bad that you lost one of your favorite cups, MEIKO.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Well, it'll be hard to use it as a cup but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh? Then what do you plan on doing with it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe. I don't know exactly what yet,\nbut Miku said she has an idea for it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, so you're keeping it?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "That's the plan, so stay tuned!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Len, what do you think she's gonna do with it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Beats me, but I'm curious to find out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

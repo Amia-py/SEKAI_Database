@@ -1,0 +1,613 @@
+{
+ "title": "Mixed Event — Carnation Recollection — Episode2 Luka's Words",
+ "meta": {
+  "Event": "Carnation Recollection",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — Luka's Words",
+  "Event Outline": "Despite Kanade's persistent efforts to save Mafuyu, none of the songs she composes seem to leave an impression on her. Feeling like she's reached a dead end, Kanade heads to SEKAI for advice...",
+  "scenarioId": "event_26_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kanade's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000108",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<K, are you okay?\nHave you been getting enough sleep?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Yes, I'm fine...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<But I still haven't managed to compose a song that resonates well with Yuki. I have to get it right this time...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Okay...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<I thought they were all good, but it's still not enough for Yuki, huh?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Who knows?\nWe don't have a clue as to what's going through her head.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<But that means we're at a complete dead end!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<And K's gonna collapse from exhaustion if she keeps this up. We have to think of something...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Like what...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Okay, well... Yuki's biggest reaction so far came from hearing “Marionette”, right...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000108",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Right. Yuki even put pen to paper by turning what she felt but couldn't describe into its lyrics...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Something you can't describe...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<So we're lacking that sort of inspiration...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Inspiration?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Yeah. That song's lyrics are all about describing something that you can't quite put into words, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Doesn't that mean if Yuki might actually feel something if she's inspired by K's song in a similar way?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<But by what...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000108",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I mean... There was that thing with me, remember?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I was ready to just give up on everything, but you made that song for me, K.... After listening to it, I felt a lot better and even decided to draw again.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Enanan...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<The songs you make, K... They sort of compel you to look at yourself in the mirror.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I'm sure that if Yuki can feel the same way, she'll come to some kind of realization...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<I see...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Oh...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I was so determined while making that song for Yuki after I found her in SEKAI. It was the same when I made that song for Enanan too.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Maybe that's it. I have to become completely immersed in the songwriting like I was back then...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm90040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Early the next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "*Sigh*...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(The new demo's done...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I tried to remember the way I was when I made “Marionette” for Yuki or that other song for Ena...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Will this finally be the one that reaches Yuki?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm not even sure myself at this point...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(A hint... Or even just someone to talk to... But I doubt anyone's going to be online right now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Oh, is everything okay? You have quite a serious expression on your face...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh? Wah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Luka? How...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Hehe. I was wondering how things were going for you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<So is everything okay?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "For now, yes.\nI made a new demo...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Um, Luka...\nWould you mind listening to it for me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I can't really reach anyone else right now so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Yes, of course. I'd love to hear it.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Empty SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Welcome, Kanade.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Shall we get started?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, please...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "What do you think?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "It's very you, Kanade.\nBut...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000081",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I'm not sure this song will be able to clear up what's on that girl's mind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I also suspect that you're still not sure where you're going with this song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Where I'm going with it...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "What is it that you want people to see or realize by hearing this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "You don't seem to have considered that and it'll end up meaningless if there's no goal to reach.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "This will just leave everyone wandering endlessly in the darkness...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "That's what I thought.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Does that mean...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "That is all I have to say regarding this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Promise to save her, okay...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Thank you, Luka.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'll try considering what you just said.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Luka...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, MEIKO. I was wondering where you were...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Don't play coy with me. You knew I was here the whole time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hehe. But you saw all of that just now, yes? You could've joined us and helped her out...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I'm doing everything I can to not do that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "What you just said may cause Kanade to rethink things quite a bit. It may even send her down the wrong path...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I'd prefer it if you didn't say anything that might upset people like that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh?\nI believe otherwise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "It's important to watch over them, but sometimes it's necessary to break something down or take it apart if it's stalled and won't start.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I believe that is why I'm here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Break it down...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Out of curiosity, MEIKO, what kind of song do you think she'll come to us with next?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Kanade's Room",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "What do I want her to see or realize...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm just not sure...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00083",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh?!\nOh, my alarm... But for what...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, right...\nI need to go visit dad at the hospital today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I have to start getting ready and... Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_carnation_2021_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It's raining again...\nThe weather's been so bad lately...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "No, I don't have time for that. I need to hurry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_carnation_2021_003",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

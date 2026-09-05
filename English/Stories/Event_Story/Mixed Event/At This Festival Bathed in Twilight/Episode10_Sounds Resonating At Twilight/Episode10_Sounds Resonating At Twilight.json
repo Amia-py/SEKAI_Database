@@ -1,0 +1,958 @@
+{
+ "title": "Mixed Event — At This Festival Bathed in Twilight — Episode10 Sounds Resonating At Twilight",
+ "meta": {
+  "Event": "At This Festival Bathed in Twilight",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode10 — Sounds Resonating At Twilight",
+  "Event Outline": "Mafuyu continues to study for her medical school entrance exams while developing some angst towards her mother. However, she ends up volunteering for a big festival called Shibuya Festa and...",
+  "scenarioId": "event_72_10"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a005102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shibuya Festa - Stage Area",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Alright, let's start exploring!\nWhere do you wanna start?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "We already went to the art exhibit, so I'm good with whatever...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Mafuyu, why don't we go take a look at the stalls since you've been around the stage all day?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Sure.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, there's a little less people now...\nThis should make it easier to walk around.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, way less than during the day.\nWe can go for a nice little stroll.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Is everything okay, Mafuyu?\nDo you feel tired...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "No, it's not that...\nI was just thinking about what happened today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "About what happened today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Yes.\nI saw Hinomori and her group perform, met Hoshino and her band... And I treated Kamishiro...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(Also...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'm inclined to believe otherwise...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "This is just my hunch, but I got the sense that there is something that you want to do, Asahina.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(What I want to do...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(I don't think I actually want to do...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Mafuyu...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "*Sob*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh no! What happened to that little girl? Do you think she's lost?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Looks like it.\nLet's try to help. We can't just leave her like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hi, are you okay?\nDid you get separated from your parents?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "*Cry*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Whoa! Wh-What did I do...?\nI didn't say anything weird, did I?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, Ena, look...\nShe scraped her knee. I think she's crying because it hurts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What?\nOh, you're right... And she must terrified since her mom's not around to help her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Then, why don't we take her over to the first aid tent?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Do you think she can walk? She's sort of planted herself onto the ground. And I don't think we're strong enough to carry her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I know! We can bring someone over from the first aid tent! Let's see... It was...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "*Sob*\nM-Mommy, it hurts...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(I...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a005102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Our shows mean quite a lot to me, so I can't even begin to express how grateful I am for your help.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Thank you so very much, Asahina!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(I...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Mafuyu...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Are you okay...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00109",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Do you think you can stand...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "I-It hurts...\nI fell over by the flower beds...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh, you poor thing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(It looks like just a scratch...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Do any of you have any water on you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, I do...\nHere, I just bought this a second ago. I haven't even opened it yet!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Mind if I borrow it?\nI'll pay you back later.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Sure thing!\nI mean, given the situation, you can have it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(First, I need to clean out her wound.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00167",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(Then, I'll dry it off using a handkerchief and place a bandage on it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(And finally...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000118",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Pain, pain, go away...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Does it still hurt?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "*Sob*\nHuh...? It doesn't hurt anymore...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "That's good to hear...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "That was amazing!\nThank you so much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Of course. You're very welcome.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Oh, it's Mommy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "What?\nOh, there's a lady running over...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00100",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "There you are! Thank goodness I found you! Wait, did you get hurt?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Yeah...\nBut this nice lady helped me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "I see...\nThank you very much. How do I repay you for helping my daughter...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "No, it was nothing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Thank you, nice lady!\nBye bye!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Bye bye....",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "What's the matter, everyone...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hehe. I think we're all just really happy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Happy? Why...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hang on...\nDon't you realize what just happened?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "You smiled ever so slightly when that little girl thanked you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(I smiled...\nWhy...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(Hang on...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a005102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(When Kamishiro and Otori thanked me just earlier...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(My chest felt light for some reason...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(Why is that...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Anyway, now that she's been reunited with her mom, let's get back to enjoying the festival.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah!\nMafuyu, you don't have much time left, so we should... Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Everyone!\nAre you enjoying Shibuya Festa?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Look! Miku's on the big screen by the Scramble Crossing! Well, to be fair, she's pretty different from our Miku...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<You came all this way, so I hope you all get to have fun today!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<And to make sure you all have a lovely day, I'm going to sing lots and lots for you!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, she's different...\nBut I also see some similarities.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Our Miku also likes to sing to get close to others.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, you're right!\nAnd we should take Miku's words to heart by trying to have as much fun as possible!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Agreed. Isn't there anything that you really want to see or do, Mafuyu? The rest of us have pretty much gone where we want, so feel free to speak up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(What I want to see or do...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(I want to...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hm? Is something the matter, Mafuyu?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Is somebody playing the piano...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, you're right.\nWhere's it coming from?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hey, isn't it that?\nThere's a piano sitting in the middle of the street, and I see someone playing it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "A piano...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000602",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I'll give up on music...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Mother",
+   "Line": "That means you don't need this synthesizer anymore, right? I'll hold onto it for now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(I haven't touched any musical instruments since then...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(I wonder what happened to that synthesizer. Did she throw it out already...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Mafuyu...\nWould you like to play the piano?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "You seem to be very interested in it. I was wondering if you wanted to play it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I do...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "*Nod*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I want to try playing it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hehe. Then, why not?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah!\nI totally wanna hear you play, Mafuyu!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, looks like it's free now!\nHave fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00164",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wait, isn't this one of Kanade's songs...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Not only that, it's the one that made Mafuyu smile for the first time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Mafuyu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Mafuyu, would you mind if I played with you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "If that's what you'd like, Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Thank you.\nI'll sit right next to you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00347",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Man, Shibuya Festa was so much fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hm? Those people playing the piano...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Isn't that Kanade and Asahina...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, they're playing the street piano.\nHehe. What a lovely song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Indeed!\nIt suits the melancholy feel of dusk perfectly!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That's so cool! I didn't know Asahina could play...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, Rui...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hm? Yes, Emu?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I hope she discovers what she truly wants to do someday.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, so do I.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Mafuyu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Are you having fun right now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...\nI'm not sure...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "But I'd like to keep doing this for a little bit longer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Then, let's keep playing a bit more.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

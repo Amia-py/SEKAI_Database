@@ -1,0 +1,588 @@
+{
+ "title": "Shinonome Ena — Restock Time!〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "Shinonome Ena",
+  "Card": "Restock Time!（3★）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "Here on Our Dream Stage",
+  "scenarioId": "019038_ena01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Ena's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Alright, I should probably get on Nightcord now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00084_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Anyway, Yuki, if you can keep working on those lyrics.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<Okay.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Oh, Enanan? Are you here now?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Yeah, how are things going?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000307",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Basically the same as yesterday.\nI'm making adjustments to the song, Yuki's working on the lyrics and Amia the assets.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<I'll send the assets I'm thinking about using for this song to you a little later, Enanan.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Thanks.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Oh, that reminds me. You guys were busy preparing for Shibu Schools Fest over at Miya Girls again today, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Yeah. I finished doing most of the line art for the backgrounds, so we started painting them in today.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I knew they'd be big, but each panel is just so massive. Painting even one takes a ton of effort.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000307",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Oh, are they really that big?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Well, they're taller than the teachers...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<Call it two meters, more or less?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000307",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Huh? That's specific. How did you know?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<The wooden panels you're using are the ones that were leaning up against the vending machines by the gym, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Oh, now that you mention it, they were up against those vending machines during our first prep day.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<Most vending machines apparently measure about 180 centimeters in height. And those panels seemed a little taller than that...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Which is how you arrived on two meters.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I see. Yeah, that definitely sounds about right.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Oh, then the panels that were brought over today were about three meters tall. They were bigger than those other ones.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Whoa, that's huge!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<To be fair, we're making a whole town, so they sorta need to be big.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Yeah, I get that...\nBut wow, painting all that sure must be tough on you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<You're welcome to come help us whenever.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Whoa, not so fast!\nI'm busy as it is designing costumes with everyone!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Don't push yourselves too hard, you two...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<It's okay for you both to focus on your show while I get this song more sorted.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000307",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Thanks, K, but I should be fine!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Ditto.\nWe plan on doing a good job both here and over there.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Okay...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Actually, if you need some extra hands, then why don't you have Yuki and K help?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Huh?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<I don't think I can. I'm already helping with a different show and the exhibition.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Oh, okay. How about you, K?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Umm...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<All students who attend a high school located in Shibuya are welcome to participate, yes?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Yeah, so you can...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Does that include correspondence schools?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Oh...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000307",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<So, my teacher was the one who told me about the festival... Did your school not send any notices?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<I didn't see anything when I looked through my emails the day before yesterday.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<That sounds like a no to me.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<You don't have to be so blunt!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<I'm just telling the truth...\nEach school is free to make its own decisions.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Still, the three of us are participating, K, so it'd be great to have you join us.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000307",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<I agree, but I don't think there's much we can do about it.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<It's really not much, but we could say that you played a small part in the festival, K.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Huh?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<You listened to the songs Hoshino and Tenma wrote in the diner, remember?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Yes, but...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Oh, right... They said those were written specifically for the Shibu Schools Fest musical.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000307",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Oh, you ran into them?\nDid you give them any advice?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Not really advice. Just my thoughts...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000407",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Cool! That means you're a part of the Shibu Schools Fest family now, K♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<I don't know about that...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<But I'm thinking about going to see the show now. So many of my friends are working on it, after all.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000307",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Really?! I don't think I'll have anything to do on the day of, so I'll probably be in the audience too. Wanna see it together?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Yes, that'd be nice.\nHow about you, Yuki?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<I probably won't be too busy. So I should be able to join you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<And you, Amia?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Hmm... They're gonna need a few of the costume designers to stay backstage, but I should more or less be free.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Okay! Then, let's figure out a time to meet when things get closer to festival day!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Okay.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Now that we know K and Yuki are coming to see the musical, we really gotta do a good job.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Thanks, Captain Obvious.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I was sure that working on this kind of event would be exhausting and a huge pain...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(But it's actually been kinda fun.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

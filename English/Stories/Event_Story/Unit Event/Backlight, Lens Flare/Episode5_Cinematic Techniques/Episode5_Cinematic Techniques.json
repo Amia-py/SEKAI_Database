@@ -1,0 +1,773 @@
+{
+ "title": "Unit Event — Backlight, Lens Flare — Episode5 Cinematic Techniques",
+ "meta": {
+  "Event": "Backlight, Lens Flare",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — Cinematic Techniques",
+  "Event Outline": "Wonderlands×Showtime's next step is to appear as extras in a film! Each of them is enthusiastic about this opportunity to work their magic on camera, and Rui is particularly eager to learn about a different type of directing. However, not everything goes smoothly...",
+  "scenarioId": "event_119_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Nonogi Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Assistant Director",
+   "Line": "Alright, let's take a break here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Film Crew",
+   "Line": "Nice work, everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Now then...\nWhile everyone eats, I should go over what we just took.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Mind if I join you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Whoa, Kamishiro!\nI don't mind, but you're going to miss lunch again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That's fine by me.\nLearning what I can from you takes priority.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "It is like you to say that.\nStill, I'm surprised you haven't gotten bored of watching what I do day in and day out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Anyway, since you're so eager, I have a little task for you today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "There's a way to make the scene we just shot a lot better. What do you think it is?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Does it involve use of light and shadow, like in that earlier scene?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In this scene, Katsuyuki and Hajime are still getting to know each other after, having only just met...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Because he still knows next to nothing about her, we could set up a light behind Hajime so that she appears as a mysterious figure from his perspective, while also hinting that she represents a glimmer of hope...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "That's not a bad idea, but lighting will only get you so far.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "There's something else you can use even more effectively. Not props or lights... Think about our surroundings.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Our surroundings?\nAre you talking about the weather?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Now that you mention it, we often used to make use of the weather since we performed on an outdoor stage... But in the case of film...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Anyway, it's a pain to explain, so just watch and learn. The idea is to make use of lines. By doing that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I'm happy for Rui, getting to learn about directing from Mr. Ohara.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I couldn't believe it when he said that he's going to be an assistant, but he seems really at home.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "How great would it be if he and Mr. Ohara working together ends up making this film even better?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(It's only been a few days since I started working as his assistant...but I feel like I've learned a lot already.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(It goes to show that nothing beats real-life experience.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But we have to wrap everything up in a few weeks, so I need to keep doing my best until then.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00232",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few weeks later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Airport",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The day's finally arrived...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We're shooting the climax today...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00209_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Wow, really...?!\nThat explains the tension in the air! Everyone looks so serious☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We'll likely be shooting into the evening, so this may end up being our longest day yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Getting to stay at a hotel for the night is also a first. We have to start early at the beach tomorrow morning, so we're probably in for a tough couple of days.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That being said, the focus of today will be on the first thing we shoot this afternoon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<You're talking about the scene where the protagonist and his sister say goodbye to each other at the airport, right?! I've really been looking forward to seeing that☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I really love it too!\nThe Katsuyuki in that scene is so different from how he was in the very beginning...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And he's come to care so much about Hajime... Just thinking about that gets me right in the heartstrings!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Yes, this climax scene is without a doubt the most significant scene in the film.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(In the beginning of the film, Katsuyuki has no hopes or dreams and simply works each day. He's lost the will to do anything else.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But meeting this woman who claims to be his long-lost sister, Hajime, changes all that. He starts living with this cheerful and free-spirited woman.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Katsuyuki begins to learn to enjoy life after seeing the way his sister lives hers.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But suddenly, she disappears without saying a word. Katsuyuki goes after her and confronts her in this scene.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "The truth is that a doctor told Hajime that she's sick and only has about six months left to live, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes. She wanted to use whatever time she had left to settle unfinished business by meeting her long-lost little brother...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But they end up becoming closer than she was expecting. That makes saying goodbye all the more difficult...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Which is why she disappears without saying anything to Katsuyuki. She didn't want him to feel sad or lonely after she was gone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But Katsuyuki still doesn't know the truth.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "He asks her why she left without saying anything, and they get into a big argument.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. The relationship they've been building up suddenly falls apart, which sends Katsuyuki's emotions spiraling out of control...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "What's more, for the first time in his life, he's overcome with the feeling that he doesn't want someone to leave him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Playing him isn't gonna be easy.\nI mean, all the complex emotions Katsuyuki feels during this scene...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Yes, I'm very much looking forward to seeing how Bakuno plays him.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Mr. Ohara even said how he asked Bakuno to play him specifically because his skills were suited to this scene.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Crew Member",
+   "Line": "The cameras are all set!\nReady to roll whenever!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, it looks like they're about to start.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Then, I'll head back over to where Mr. Ohara is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay!\nGood luck, Rui!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Crew Member",
+   "Line": "Okay, here we go! Scene 143!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Bakuno looks super serious.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "He does...\nBased on his expression, I suspect he's already in character.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I'm looking forward to seeing how he performs during this scene, but... I'm getting nervous just watching.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Crew Member",
+   "Line": "And...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Crew Member",
+   "Line": "Action!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_lensflare_2024_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(First, a shot of Hajime heading towards her boarding gate. She drops her handkerchief as she walks.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(We then cut to her kneeling down to pick it up only, to see...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hajime",
+   "Line": "“Katsuyuki...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Katsuyuki",
+   "Line": "“...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hajime",
+   "Line": "“You came, even though I didn't tell you anything... I guess I should've expected as much from you.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Katsuyuki",
+   "Line": "“But it isn't like you to do what you're doing now.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Katsuyuki",
+   "Line": "“Why'd you leave without saying a word?\nYou still haven't told me anything...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Katsuyuki",
+   "Line": "“I still don't even know why you came to see me in the first place...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hajime",
+   "Line": "“...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hajime",
+   "Line": "“No, I...\nI just felt like seeing you is all.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hajime",
+   "Line": "“So, please. Forget we ever met.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Katsuyuki",
+   "Line": "“What...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Katsuyuki",
+   "Line": "“H-How can you say that...?\nYou show up out of nowhere, mess with my feelings and...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Katsuyuki",
+   "Line": "“The truth is, I don't care about what's really going on with you... I just...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(He really is an amazing actor.\nThe way he's reciting these lines...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(If that were me, I'd be playing Katsuyuki as furious over how she just left without saying anything.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(But Bakuno's weaving in more than just anger and rage. His Katsuyuki is feeling a wild mix of emotions right now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Bakuno really was the perfect choice for this scene. Only he can do Katsuyuki justice...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(However...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Hajime",
+   "Line": "“I'm sorry.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Katsuyuki",
+   "Line": "“Hajime, wait!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Katsuyuki",
+   "Line": "“...\nI'm guessing that's not even your real name.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Katsuyuki",
+   "Line": "“I still don't know anything about you.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Katsuyuki",
+   "Line": "“Absolutely nothing...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Mr. Ohara can feel it too.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(This scene...\nThere's something off about it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Crew Member",
+   "Line": "Cut!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_lensflare_2024_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "I'm going to be honest...\nThat felt all wrong.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "In this scene, Katsuyuki isn't sure how to deal with Hajime leaving or with his attachment to her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "He should be feeling this torrent of emotions, but that wasn't clear just now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "A torrent of emotions...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Are you holding back for some reason, Bakuno?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Your performance just now wasn't what I saw when you were on stage. You lacked the power that made me want you to be the main character of this film.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "...!\nI was just...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(He's right. Bakuno's performance just now lacked the punch we saw when we were with Shunmeiza.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Which may be because—)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Yes, you're correct that I was holding back compared to when I'm performing on stage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "In the theatre, you have to exaggerate everything you say and do so that it reaches everyone in the back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "So, I was worried that I'd stick out like a sore thumb if I did the same thing for a film.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Please let me try that again.\nI'll make some adjustments based on what you just said.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "I promise to nail it during the next take.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Bakuno...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Understood.\nThen, take two.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Action!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_lensflare_2024_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "...\nHow was that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "No, still wrong.\nAs you mentioned earlier, Bakuno, what you just did would work well on stage, but it doesn't translate well to film.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "I'm sorry.\nI'll try to make more adjustments and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "No need...\nLet's move on from this scene for now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "That last take told me everything.\nIt's not a matter of you making minor fixes. There's something fundamentally wrong here that I'm not seeing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Which means there's no point in reshooting this scene. Not until I figure out what I'm missing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "O-Okay, I understand...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What do we do?\nAt this rate, this scene's gonna...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "We'll try again tomorrow.\nUntil then, I need to figure out what's wrong.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Tomorrow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(That may be the best option.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(This is the film's climax. No one here is going to be happy if we don't get it right...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(They have until tomorrow to figure out what's wrong, which may just be enough time to figure out what the director's missing.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "How are we looking for tomorrow? Can we squeeze in this scene?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Crew Member",
+   "Line": "Yes, if everything else we have on the agenda today goes smoothly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Then it's settled. We're done with this scene for now. Let's move on to the next one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(It must be hard for Bakuno to leave things unfinished like this.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But the director's right.\nWe can shoot retakes all we want, but that alone won't change anything.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(They only have until tomorrow.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I'll also try to figure out what the problem is.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

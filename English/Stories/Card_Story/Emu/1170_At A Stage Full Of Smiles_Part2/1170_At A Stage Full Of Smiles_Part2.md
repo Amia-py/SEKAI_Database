@@ -1,0 +1,83 @@
+# Otori Emu — At A Stage Full Of Smiles〔Part2〕Side Story (Part 2)
+
+- **Character**：Otori Emu
+- **Card**：At A Stage Full Of Smiles（4★）
+- **Part**：Part2 — Side Story (Part 2)
+- **Event**：Dear My Fellows
+- **scenarioId**：014045_emu02
+
+## 正文
+
+| Speaker | Line | _kind |
+|---|---|---|
+|  | bg_d001303 | Background Change |
+|  | Otori Household - Living Room | Caption |
+| Emu | That was so good!<br>Hehe. I'm totally stuffed! | talk |
+| Shosuke | Your appetite's as big as ever. | talk |
+| Emu | That's because Mr. Chef's so good at what he does. I really loved the Salisbury steaks he made for us today! | talk |
+| Keisuke | I'm sure it means a lot to a chef to see someone enjoy their dish so much. | talk |
+| Emu | I really want Sis to have some since she said before how she really likes the way these are seasoned. | talk |
+| Keisuke | She mentioned that she wouldn't be home until late since she made plans with her university friends today... | talk |
+| Shosuke | Huh. Guess she's making the most of her time as a student. | talk |
+| Emu | (I really wanted her to be here too...) | talk |
+| Shosuke | Oh, that's right. Are you free to talk for a minute after this, Keisuke? I need to ask you something regarding tomorrow's meeting. | talk |
+| Keisuke | Not a problem.<br>I believe we're all finished eating, so let's... | talk |
+| Emu | No, you guys, wait! | talk |
+| Keisuke | What's wrong? | talk |
+| Emu | Hehe. I've actually prepared a present for you guys! | talk |
+| Emu | Please come in, Mr. Chef! | talk |
+|  | se00305_b | Sound |
+|  | se00305_b | Sound |
+| Shosuke | Oh, a cake. This is a nice surprise. | talk |
+| Keisuke | It even has two layers. This looks quite extravagant. | talk |
+| Emu | I actually baked and decorated it with the help of Mr. Chef here! | talk |
+| Shosuke | Wait, you made this? | talk |
+| Emu | Yup! I know you guys love fruit, so I topped it with lots of them! I'm sure it turned out really yummy, so give it a try! | talk |
+| Keisuke | Then, let's talk after dessert, shall we? | talk |
+| Shosuke | A little sugar for our brains should help our conversation go more smoothly. | talk |
+| Emu | Woohoo!<br>Alright, Mr. Chef, please get the tea ready too! | talk |
+| Shosuke | Still, why prepare a cake...?<br>It's not like any of our birthdays are coming up. | talk |
+| Keisuke | Hmm...<br>Could it be that you want something from us? | talk |
+| Shosuke | Hey, it's going to take more than cake to win us over. | talk |
+| Emu | No, you've got it all wrong! I just wanted to do this to thank you guys! | talk |
+| Keisuke | Nothing more...? | talk |
+| Emu | Yup! Nothing more! | talk |
+| Shosuke | Hmm... | talk |
+| Emu | Anyway, which part do you guys wanna have? | talk |
+| Emu | Do you want a slice from the top layer, or does the bottom look better? | talk |
+| Keisuke | Yes, well...<br>Why don't you recommend a part to me, Emu. | talk |
+| Shosuke | Then, try to get me a slice with as many different fruits as you can. | talk |
+| Emu | Okay! | talk |
+| Emu | (I hope they know I appreciate them...) | talk |
+|  | se00053_b | Sound |
+| FlashbackIn |  | Effect |
+| Keisuke | It's okay for you to be a little more honest about how you feel... | talk |
+| Keisuke | So, if you're feeling sad, then you should say that you're sad. | talk |
+| Keisuke | To us... And your friends. | talk |
+| Shosuke | I can't say there's anything wrong with that, but... It's perfectly normal for you to feel sad. | talk |
+| Shosuke | After all, they're your friends, and you put on shows with them. | talk |
+| FlashbackOut |  | Effect |
+| Emu | (Even during that dream, they tried to encourage me.) | talk |
+| Emu | (They've always been really nice and showed me so much support...) | talk |
+| Emu | (Including when it came time for us to leave...!) | talk |
+|  | se00053_b | Sound |
+| FlashbackIn |  | Effect |
+|  | bg_d000202 | Background Change |
+| FlashbackOut |  | Effect |
+|  | bg_d001303 | Background Change |
+| Emu | How's the cake? Good? | talk |
+| Keisuke | Yes, it's just the right sweetness... | talk |
+| Shosuke | You did a pretty great job with this. | talk |
+| Emu | Yay! | talk |
+| Emu | (Thank you guys so very much, Keisuke, Shosuke...!) | talk |
+| Shosuke | Hey, quit staring at us like that.<br>You're making it hard to eat. | talk |
+|  | se00305_b | Sound |
+|  | se00305_b | Sound |
+| Keisuke | Ah, the tea's here. Emu, why don't you have some of this dessert as well? | talk |
+| Emu | Okay! | talk |
+|  | bgm00000 | Sound |
+
+
+## Outline
+
+https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）

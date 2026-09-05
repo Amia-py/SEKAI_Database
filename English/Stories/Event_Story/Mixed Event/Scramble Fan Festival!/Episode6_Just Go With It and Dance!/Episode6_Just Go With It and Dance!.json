@@ -1,0 +1,673 @@
+{
+ "title": "Mixed Event — Scramble Fan Festival! — Episode6 Just Go With It and Dance!",
+ "meta": {
+  "Event": "Scramble Fan Festival!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode6 — Just Go With It and Dance!",
+  "Event Outline": "Minori, Ichika, Kohane and Nene are all set to sing in the annual VIRTUAL SINGER Fan Festival. Kanade and the rest of N25 also attend, keen to witness their favorite creators. The curtains rise, uniting heartfelt emotions into a grand symphony!",
+  "scenarioId": "event_36_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Phoenix Wonderland",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonder Stage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Hm? What's everyone doing here?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Today's the day Nene brings her friends over for practice!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<I wanna see too! I can't wait to see what they're like!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<That's great and all, but try to keep it down, okay?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin & Len",
+   "Line": "<Okay!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Welcome to the Wonderlands x Showtime practice session! I am the troupe leader, Tsukasa Tenma. Allow me to introduce...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yay! Hi, Kohane!\nWon-Won-Wonderhoy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hi, Emu! It's been a while!\nThis feels so strange. I haven't had a chance to talk to you at the Wonder Stage like this before...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No, it's happening again...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I mean, Hoshino and Azusawa already knew about us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "True.\nHoshino came to see our show the other day and Azusawa's our number one fan.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "It's nice to see all of you like this again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "We've really been looking forward to today...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wonderful! We're glad to have you here today! And you're here to learn more about dancing, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But more importantly, Nene, why didn't you say that you're going to be in this event!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You really startled me when you said, “I want to have my friends join us for practice since we'll be performing in the Fan Festival together.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Because you'll want to come and watch.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Of course! We can adjust our schedule and find out where it's taking place! Not only that, we'll come up with some good cheers too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And if you run into trouble, Nene, we'll be ready to yell “Charge!”, and rush up to the stage to help!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "This is exactly why I didn't tell you guys...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Anyway, back to introductions...\nI guess that just leaves you, Hanasato.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "This is Minori Hanasato.\nShe's an idol.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hello! I'm Minori Hanasato!\nIt's nice to meet you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Nice to meet you too!\nI'm Tsukasa Tenma, the troupe leader for this stage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, that's right! You're Saki's big brother, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, you're one of Saki's friends!\nA friend of Saki's is a friend of mine!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Thank you very much! I'm glad to be here today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You're more than welcome!\nNow then, this is Emu and Rui!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Won-Won-Wonderhoy!\nNice to meet you, Minori! I'm Emu Otori!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "And my name is Rui Kamishiro.\nIt's a pleasure to meet you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yes, it's nice to meet you too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "So let's get down to business. The three of you are here to learn more about dancing, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "However, the dance routines we usually incorporate into our shows are meant to go along with a script. Would that still work?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, good response!\nSo, let's start by getting you some scripts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Today, we'd like you to participate in our show. You'll of course have a script in hand throughout.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "U-Us in your show...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, we believe that learn-by-doing works best for all of us. We'll start after you've had some time to prepare!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "And so, the princess, Nene, is sent to the dungeons after it becomes clear that she was meeting the prince...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "After that, Hoshino, the sorcerer, appears with her familiars, Azusawa and Hanasato, to free the princess.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "And that brings us to this scene's dance sequence. How do you see this scene unfolding, Hanasato?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "M-Me...?! Uhh... Maybe something that looks courageous? A dance that says, “We're here to save you, princess!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, wonderful idea!\nIn that case, it'll be good to include a step sequence which reflects their intentions.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, that makes so much sense!\nOkay, if we make this a two-step...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "So this is how dances are choreographed...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "That's so cool...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Usually, Rui comes up with some rough ideas and we polish them up as a troupe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hanasato seemed very keen to learn more about choreographing dances, so he may be feeling inspired to teach what he can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Way to go, Rui☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "*Nod*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Now it's time to put it into practice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Okay, let's give it a try!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "<At this rate, I won't be able to meet the prince... What should I do...? Oh, hello there...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "<P-Princess, I'm here to help...!\nWith my magic, I'll...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "<Oh, you broke the lock...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "<You're free now. Please, run.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Next is our dance scene.\nDon't forget to stay in character.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00059",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay, I'll try... L-Like this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, that's fantastic!\nYou're off to a great start!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, but keep your chin up.\nIt's important to exaggerate each move so that the audience knows what you're doing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "R-Right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Kohane, you're next!\nWe get to dance together☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "O-Okay, while in character too...\nHere goes nothing...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow, you're doing amazing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, but if you wave your finger all waggle-waggle, like this, it might make you look more like the sorcerer's familiar.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Waggle-waggle... Like this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah!\nYou were the perfect familiar just now, Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. Thanks, Emu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That just leaves Hanasato...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "——♪ ————♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. Your singing and dancing is excellent. I'd expect no less from an idol.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Th-Thank you very much!\nBut I'm having a bit of a hard time staying in character throughout this part...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, I see.\nFocusing on your fingertips may be one way to overcome that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "My fingertips...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. Each step of a dance, all the way down to the subtlest motions, are a reflection of the choreographer's intentions and how a character should behave.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In that sense, our fingertips allow us to express how we feel rather easily, no? From joy, anger, sadness and even how confident we are in something...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That is why I believe it's very important to focus on what your fingertips are doing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, you're right...!\nI remember being told the same thing during dance practices with my group...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. Be it idols or actors, we seem to share the same fundamentals when it comes to putting on shows, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "We really do...!\nOkay, focus on your fingertips. Expressing joy, anger, sadness, confidence...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I think we have a much better grasp of things now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, I'm glad we did this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh, I almost forgot. There's an effect involving large ensembles that I've been meaning to try out. Tsukasa, would you mind jumping over to the other side of the stage?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hold on, what do you plan on doing to them? Don't get too carried away...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "While Tsukasa draws away the audience's attention, Hanasato and the others can quietly appear! Wouldn't it be a nice surprise for everybody watching?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, that's it...\nYou had me worried for a second.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You're actually being considerate of them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hm? Did you say something, Nene?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "No, nothing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Oh, they must be Nene's friends☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Hehe. It's great to see how focused they are too.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Zzz...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<No, Luka, don't fall asleep on us here...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<They look like they're really having fun! I kind of want to try choreographing a dance too!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Oh, me too!\nWe should all dance together!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "<And so, the prince and the princess were able to live happily ever after...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Great work today, everyone!\nNot only did you make some big strides in terms of your dancing, I believe you're ready to perform in front of an audience!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Be sure to take what you learned today and make your performance the best it can be!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Thank you all so much for today!\nWe all got to learn so much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "You're very welcome. I believe we all had a fun time as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Promise to sparkle and shine as much as possible during your show, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Everyone",
+   "Line": "We promise!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The day before the Fan Festival",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "School SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "It's finally your big day tomorrow, Ichi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "It really is... I'm feeling a little nervous.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Just remember what you practiced and you'll be fine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "And we'll be there to cheer you on.\nWe know you can do it, Ichika!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Thanks, everyone.\nI hope that dance practice we had comes in handy somehow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wait, Ichi, you learned to dance?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes. I even got to practice singing some songs outside of our usual genre.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "To expand your horizons...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe. These sorts of experiences always end up helping in some way, so good for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I agree. I'm also looking forward to seeing how you've grown, Ichika.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Me too.\nWould you mind singing for us later?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay. I promise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "But tomorrow's the day...\nI can't wait.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

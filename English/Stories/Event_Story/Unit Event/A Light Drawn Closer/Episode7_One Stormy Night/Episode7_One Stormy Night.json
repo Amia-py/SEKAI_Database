@@ -1,0 +1,403 @@
+{
+ "title": "Unit Event — A Light Drawn Closer — Episode7 One Stormy Night",
+ "meta": {
+  "Event": "A Light Drawn Closer",
+  "Event Type": "marathon",
+  "Episode": "Episode7 — One Stormy Night",
+  "Event Outline": "Mafuyu has been stuck unable to move forward since coming to stay with Kanade. Her father asks her what happened that day she spoke with her mother, but though she tries, Mafuyu finds herself unable to answer.",
+  "scenarioId": "event_134_07"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000211",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00577",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few years earlier",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Mafuyu's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00749",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "Eep...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00296_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "(That thunder's getting louder...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00749",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "*Whimper*\n(I'm so scared...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "Mommy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "(I wanna be with her...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "(But she said I'm a big girl now, so I'm supposed to sleep by myself...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "(Still...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00749",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "...!\n*Sob*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "I'm really scared...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "Mommy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00043_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Mafuyu?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Are you asleep...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "Daddy...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Mafuyu...!\nYou're awake?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "*Sob*\nI-I'm sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00749",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "*Cry*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Mafuyu...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00577",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000324",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Are you having trouble falling asleep...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00245",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "I-I'm sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "But that thunder's so loud, and I'm really scared...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I had no idea...\nI'm sorry for not noticing sooner.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "It's okay, honey.\nI'll stay right here until you fall asleep.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "B-But Mommy said I'm supposed to sleep by myself now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Don't worry.\nI'll tell her that you went to sleep all on your own.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "You will...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Yes, so it's okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Here, I'll hold your hand like this.\nSee? That thunder isn't so scary, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "*Nod*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000211",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00749",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "(Daddy's hand is so warm...\nI feel a lot better now.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mafuyu",
+   "Line": "(Because I know he's here with me...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00577",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e002403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "To me, my dad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I don't remember very clearly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "But I think I was able to fall asleep because he made me safe by holding my hand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Really...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Then, I think it's okay for you to trust him...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<That story you just told me...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<It proved that you have some good memories about your dad...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<I can't guarantee anything just based on that...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<But I get the feeling that your dad is still just as kind as he was back then.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Which is why I think it's okay for you to tell him the truth.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Like back then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Mafuyu's Father's Message",
+   "Line": "<Are you okay? This thunderstorm's massive.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

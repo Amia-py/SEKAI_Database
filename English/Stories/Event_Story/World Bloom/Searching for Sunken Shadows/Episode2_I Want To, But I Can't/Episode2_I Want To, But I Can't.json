@@ -1,0 +1,718 @@
+{
+ "title": "World Bloom — Searching for Sunken Shadows — Episode2 I Want To, But I Can't",
+ "meta": {
+  "Event": "Searching for Sunken Shadows",
+  "Event Type": "world_bloom",
+  "Episode": "Episode2 — I Want To, But I Can't",
+  "Event Outline": "Mafuyu is now living with Kanade after running away, and all four members of Nightcord at 25:00 are working together again. As they each turn their thoughts to the future, something begins to shift in the Empty SEKAI...",
+  "scenarioId": "wl_night_01_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_night_op1",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I'm still not ready to go home.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I'm sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "How are you physically?\nI'll bring anything over that you need.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "That's okay. I have everything I need... Thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Alright...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Ms. Yoisaki, if you don't mind looking after Mafuyu for a little while longer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I'll come visit again next week, so let me know if anything changes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Here you are, Mafuyu.\nI made you some tea.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "It smells nice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm glad to hear that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It's umm... Bergamot.\nAccording to Ms. Mochizuki, it's supposed to help calm your nerves.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I do feel a little better now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I'm sorry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, no. It's alright, I don't mind. There's no need for you to apologize...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I'll get back to work now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm going to go visit my dad.\nI'll be back in a little bit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Okay, see you later.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm90040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kanade's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00590",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(If the melody here goes like this, then...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Stumbling over the string that's tangled around your foot...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000602",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Stumbling... My foot…",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(I'm stuck...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few weeks earlier",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00120_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, I think that's him...\nRight on time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Mafuyu... Are you okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I'm okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'll step in to help if anything happens...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Nice to meet you.\nMy name is Kanade Yoisaki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Nice to meet you, Ms. Yoisaki.\nI'm Mafuyu Asahina's father.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Thank you for looking after her these past few days. I really appreciate what you've done for her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I apologize for not coming by sooner. Unfortunately, I was away on a business trip.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Anyway, where's Mafuyu?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00043_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Dad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Mafuyu...!\nThank goodness. I was so worried.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I'm really sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "No, don't say that.\nI feel so much better now that I've seen your face.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "So, your mother told me everything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I can't condone what she did...\nTo think that she'd try to take your phone away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "However, I'm sure she had your best interests in mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "We can discuss this further when we get home.\nI'm sure we'll be able to figure something out after we sit down and talk it all out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000602",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I'm sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I don't want to go home.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Wh-Why not...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Your mother is feeling much better now.\nI've already had a chance to speak with her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I'm sorry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I really can't go back right now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "You can't...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I want to go home.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I know I need to talk to Mom...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "But I can't...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I can't go back to that place...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "A-Are you in pain, Mafuyu...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It's okay, Mafuyu.\nJust try to relax.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Mafuyu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Alright...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I still don't know what exactly happened, but it's clear that you need some time and space...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Ms. Yoisaki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...!\nYes...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "As her parent, I feel ashamed for not realizing how much pain my own daughter was in until now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I know this is asking a lot of you, but would you mind if Mafuyu stayed here for a little while?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Not at all. She's more than welcome...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Thank you very much...\nI'll have Mafuyu's things and other daily necessities sent over soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Mafuyu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I'll come visit again.\nWhen you feel ready, would you mind telling me what happened...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(Dad's been so worried.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(Ever since then... And including today.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(It's all my fault...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00016",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(And for as long as I keep staying at Kanade's house...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(I also have school and my exams to think about...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(I have to go home eventually...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(I have to, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu's Mother",
+   "Line": "Mafuyu, please.\nI was wrong, so... Let's go home and talk about this together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Mother",
+   "Line": "Please, Mafuyu!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(My chest... It feels so cold...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(It hurts so much...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Empty SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00460_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00460_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Miku, where are you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(This pain... I need someone to...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Mafuyu...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

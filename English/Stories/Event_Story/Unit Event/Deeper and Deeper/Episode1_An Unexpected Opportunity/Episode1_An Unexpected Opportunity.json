@@ -1,0 +1,628 @@
+{
+ "title": "Unit Event — Deeper and Deeper — Episode1 An Unexpected Opportunity",
+ "meta": {
+  "Event": "Deeper and Deeper",
+  "Event Type": "marathon",
+  "Episode": "Episode1 — An Unexpected Opportunity",
+  "Event Outline": "Wonderlands×Showtime agrees to participate in a workshop run by ArcLand. As Rui takes the directors' course, he is confronted with something he's never realized about himself before.",
+  "scenarioId": "event_172_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "???",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d007001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00326",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Announcement",
+   "Line": "<Welcome to Tokyo ArcLand.\nThe place where your most wonderful dreams come true.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Whoa...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow!\nThe ground's all sparkly and lit up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "They're using interactive projection mapping.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Sensors detect guests' movements, and project interactive images to follow them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hey, you're right.\nThe lights change colors as you walk.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "This is so cool! And if you go hop-hoppity-hopscotch, then you can get them to pop and shimmer!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00257_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00257_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wait, where are you going?!\nWe aren't here to enjoy the park, you know!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "*Gasp*\nI forgot!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Honestly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Still, we've been to a lot of amazing places until now... But I really wasn't expecting to get a chance to train here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Me neither. After all, ArcLand is one of the few world-class amusement parks that are able to compete against Riley Dream Park.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Naturally, its doors are not opened for very many at all...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We really must thank Keisuke and Shosuke again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We get to train with a fourth troupe?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Yes, at ArcLand.\nI'm sure you're all familiar.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "ArcLand? Where Asahi and his friends work?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes...\nBut ArcLand puts on some of the best shows in the world.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Why are we getting a chance to train there?\nWe have performed with them in the past, but even so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "We've actually been reaching out for quite a while now. Unlike last time, which both parties saw as a collaborative effort, this time we're asking them for a massive favor.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "They kept turning us away, but we managed to get their approval just recently.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I see.\nBut why now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "As you all know, ArcLand is home to many talented young actors and directors.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "They're going to be holding an internal workshop as a way to help them improve their skills.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "A workshop...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Could it be that... We've been invited to participate, as well?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "That's right.\nThey said that you'd be welcome to join if you're free.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But an internal workshop will naturally be designed for the cast members and directors of ArcLand...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I have to think they're going to be running some very demanding activities.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Yes, I agree.\nBut it should be a good experience for all of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "What do you say? The decision is yours.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Of course we're going!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d007001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(After turning down their offer last time, I didn't think we'd be asked to work with them again.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What's wrong, Nene? You keep looking all around.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "They said that someone would come and get us, so I was keeping an eye out for...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Hey!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, right on cue!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Thank you all for waiting! Long time no see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "And welcome to Tokyo ArcLand!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "A...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu & Nene",
+   "Line": "Asahi...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "You were sent to come and get us, Asahi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Yes! I volunteered when I heard that WXS would be coming to visit us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "The others also wanted to come...\nBut a big group would've been too conspicuous.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Oh, but don't worry! We decided by playing rock paper scissors, so it was all fair.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "R-Rock paper scissors...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You haven't changed at all, Asahi.\nEven though all the shows, movies and TV dramas must be keeping you really busy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah! You're still as smiley and cheerful as ever!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Today, we'll be having an orientation session regarding the workshop. So, let's head right over to where all the others are.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Excellent! Please lead the way!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Fun, fun workshop♪\nI wonder what we're gonna do☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Haha. You all sound very excited.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, that's because we are!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Will you also be participating in this workshop, Asahi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Yes, I'll be there for what I can when I don't have any work engagements.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "It's just been so long since we last got to work with WXS. And besides, this workshop is probably going to be our best one yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What do you mean?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "It's going to be led by ArcLand's most veteran actors and directors.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Not only that, we've also invited some special guests.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Special guests?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Yes.\nI'm sure you're also going to be surprised, Rui.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Me? Also...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Anyway, this is where it's taking place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "First, you all need to say hi to everyone.\nSome will be meeting Wonderlands×Showtime for the very first time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Hey, you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Orientation Venue",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Workshop Host",
+   "Line": "I think it's safe to say that never before has ArcLand put on such a grand workshop.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Workshop Host",
+   "Line": "Workshop courses will take place in the gaps between normally scheduled practices and work, so it will likely be a very intensive experience.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Workshop Host",
+   "Line": "But it should very much be worth it.\nAnd we promise to provide you with all the support we can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Asahi was right. They seem to be pulling out all the stops for this one.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(They have separate courses for actors and directors.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Plus, there will be a collaborative group assignment. I imagine the directors will devise shows, and the actors will perform them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Hehe. I'm getting excited just thinking about it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Workshop Host",
+   "Line": "Now, I'd like to introduce the special instructors we've invited to join us for this workshop. First, for the actors' course...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Workshop Host",
+   "Line": "We have Natalia Santi, Glen Barkin and Elio Sakurai.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Natalia Santi?\nShe's won several international awards for her performances in musical films.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I had heard that she's been helping young actors hone their skills lately... But I wasn't expecting to hear her name here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Me neither...\nAnd Glen Barkin's one of the most famous actors on Broadway right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "He doesn't usually play the lead, but he has an incredible talent for playing memorable, demanding roles. His acting skills are supposed to be peerless...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow, that means they're all really amazing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, and Elio Sakurai is a world-class dancer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "If I recall, he runs his own dance studio specifically tailored for performing in musicals.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Why do you know so much about him, Tsukasa?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "When we were taking ballet lessons at Morinomiya, I looked up videos on the subject. That was when I came across one of his explainer videos.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And he doesn't just cover ballet. He has videos covering everything from jazz to theatre dance. I ended up binge-watching them because they were so fascinating.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. They've gathered the best of the best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I can't wait to talk to them!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But you need more than just deep pockets to get guests like these to teach at your workshop.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(It's proof that ArcLand is just that invested in their shows, as well as the cast members who perform in them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Workshop Host",
+   "Line": "Next, I'd like to introduce the special guests we've invited for the directors' course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, Rui, it's time for the people who are gonna teach you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "After the names we just heard, my heart is kind of racing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Mine too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Getting to train here is a once-in-a-lifetime opportunity.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(We have to make the absolute most of it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

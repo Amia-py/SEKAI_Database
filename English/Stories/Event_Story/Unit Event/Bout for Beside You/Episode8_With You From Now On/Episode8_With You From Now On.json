@@ -1,0 +1,433 @@
+{
+ "title": "Unit Event — Bout for Beside You — Episode8 With You From Now On",
+ "meta": {
+  "Event": "Bout for Beside You",
+  "Event Type": "marathon",
+  "Episode": "Episode8 — With You From Now On",
+  "Event Outline": "Kohane has gained confidence and shown everyone a glimmer of her true potential. As happy as An is, she can't shake a growing feeling of unease. Meanwhile, the mysterious man who gave Kohane advice before makes an appearance before the group...",
+  "scenarioId": "event_37_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "So... Tired...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "You want to practice tomorrow too, right? It might be good to call it day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Sure... I'm exhausted...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Okay, good work today.\nYou showed real improvement. I think it was worth the effort.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Really?! You mean that?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I do. I'm sure Rin will want to sing with you now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "I sure hope so...!\nAlright, I've gotta keep this up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But for now, wanna head back to MEIKO's place? I'm parched...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Mind going ahead without me, Len...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh? Sure, but where are you gonna go?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "There's something I should probably take care of now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Vivid Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Kohane, what are you doing here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Aren't you supposed to be practicing with Uncle Taiga today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, I was with him all morning...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But we didn't work on singing today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Instead of singing, he told me to take another look at this city, and we spent some time walking around...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Around here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah. I wasn't really sure what he wanted me to see, but it was really fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. It even reminded me of when I first wandered into Vivid Street.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I remember being so scared at first, but you helped me realize that I was wrong, An. And I'm really happy that you did...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "And then I heard you singing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm still amazed by how cool your voice is! It still makes my heart race every time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hehe. You know it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I want to keep practicing, and learn how to be cool and sing like you, An.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Like me? But you're already super cool, Kohane! Enough to make my heart race!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Y-You think so...?\nHehe. Thanks, An.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yes, I know so. You're super cool, really amazing and always shine on stage...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Um, Kohane...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "If...\nJust if...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "If we end up being far away from each other, what would you do?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00016",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "If we actually manage to surpass RAD WEEKEND...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I mean, way in the future, if we end up becoming world famous like Uncle Taiga and really make it, but end up apart from each other...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "An, does this mean you're going somewhere...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "N-No, I'm not going anywhere now! I'm just asking, “What if?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "O-Okay... Well...\nWhen you become world famous...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Even then, I'd still want to sing with you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "It doesn't matter where you go or what you do, An. I'm pretty sure that I'd want to keep singing with you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, but that probably won't be easy either since I'd have to keep finding ways to get better...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Still, I want to keep singing with you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "And I'm gonna keep doing my best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Kohane...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Thank you so much...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Y-You're welcome...?\nIs everything okay, An...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Everything's perfect!\nSorry for dropping such a weird question on you like that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Really...?\nHehe. Then I'm glad.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, Kohane, since we're here...\nWanna sing something together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We had our first practice together here, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So I kinda feel like singing with you now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, you're right...!\nHehe. You really surprised me by just immediately singing that time too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay, An, let's sing, together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane & An",
+   "Line": "♪ ————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00098",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(It's just the two of us. I can hear Kohane's voice so clearly...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Every time I hear her sing, she makes my heart pound and think that something amazing's about to start.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(I absolutely love it. I genuinely love the way she sings...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Keep moving forward.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(I might have to deal with this kind of uncertainty again, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(For now, I just gotta keep going!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪ ————————",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane & An",
+   "Line": "♪ ————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<She isn't completely out of the woods yet...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<But she's decided to face what's bothering her.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<You can do it, An...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane & An",
+   "Line": "♪ ————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

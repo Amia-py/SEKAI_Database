@@ -1,0 +1,743 @@
+{
+ "title": "Mixed Event — Mermaid Admiration — Episode2 The Memorable Mermaid",
+ "meta": {
+  "Event": "Mermaid Admiration",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — The Memorable Mermaid",
+  "Event Outline": "Wonderlands×Showtime has begun working as ambassadors for Phoenix Wonderland. Their first visit will be to an outdoor stage on a beach. Hearing this, Nene remembers the performance of \"The Little Mermaid\" that she saw when she was little...",
+  "scenarioId": "event_32_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Mermaid",
+   "Line": "What a wonderful sight to behold. Such beautiful corals and so many adorable fish.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mermaid",
+   "Line": "Yet I still long for him.\nThe man I met during that storm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mermaid",
+   "Line": "But if I wish to meet him, I must go on land... The thought alone terrifies me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Nene",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Nene",
+   "Line": "(Going on land must be really scary for her since she's lived in the ocean her whole life...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Nene",
+   "Line": "(It's like when we moved into our new house. That was really scary for me too...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Nene",
+   "Line": "(Rui said he'd be my friend, but I'm not sure the other kids at school will...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Nene",
+   "Line": "(Going to a new school's really scary too...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Mermaid",
+   "Line": "No, I mustn't let my fears get the better of me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Nene",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mermaid",
+   "Line": "Diving into an unknown world is terrifying, but not being able to because of my own fears would be much worse!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Mermaid",
+   "Line": "'I'm going! I need to see him...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00059",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Mermaid",
+   "Line": "♪————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Nene",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Nene",
+   "Line": "(Her voice...\nIt's so pretty...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Nene",
+   "Line": "(My heart won't stop pounding...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Phoenix Wonderland",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonder Stage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hearing the Little Mermaid sing made me want to start doing plays and stuff.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. I remember how you were always reciting her lines, Nene. It's very nostalgic.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But you really surprised me when you started conversing with guppies in the river as part of reenacting that scene where she speaks with the fish.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Y-You don't need to talk about that...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hah hah hah!\nWhat a wonderful story! Such childlike wonder!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, I totally get it! Everybody wanted to talk to fishies and animals when they were little!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "A-Anyway, that show's what led me to acting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "After that, I even went to see some other shows starring that actress.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Really?\nDo you happen to remember her name?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, her name's Yuka Kazamatsuri.\nShe usually does musicals most of the time, but I might've seen her on TV first.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, I think I've heard of her!\nShe's in a theatre company overseas, right...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah. She lives in the United States now and has been performing in shows all around the world.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Unfortunately, you don't get to see her in Japan much anymore...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But she's scheduled to come back this year, so I'm really looking forward to seeing her again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, that's very exciting news.\nHold on... Isn't she supposed to perform at a venue near the Otori resort?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, you're right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What?! Does that mean we can all go see Nene's hero together?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, that's a great idea!\nI'm sure it'll be okay as long as it doesn't interfere with our work as ambassadorial duties.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "That'd be nice but...\nShe isn't scheduled to perform until after we're gone, so I don't think we'll be able to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Aww... Really?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But you know what, Nene, I feel like we should choose the Little Mermaid after hearing your story!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "After just that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I'm with her as well. It's the perfect show for a stage by the sea!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I agree. We even have access to a romantic beach that can serve as the stage for when the Little Mermaid meets her man.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Then the Little Mermaid it is! Wait, oh no!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wh-What is it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "In the fairytale version, isn't the Little Mermaid supposed to pass away in the end...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "True... That means it's technically a tragedy, which would be the opposite of what we should be performing as ambassadors...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, I guess you're right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Then, why don't we simply pay homage to the Little Mermaid...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Pay homage to her?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. We can think of a new story that's based on the Little Mermaid we all know and love.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Since it's so famous, we should be able to make adjustments to it rather easily while still being accessible to any children that may be in the audience.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, that sounds fantastic!\nEven those that come and join partway through should be able to understand what's going on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah! Let's do it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. I appreciate your enthusiasm.\nSo, Nene, how about it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I didn't say that we absolutely have to do the Little Mermaid or anything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But... Thanks...\nI'd like it if we did that too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Then it's settled!\nFor our first shows as ambassadors, we'll be paying homage to the Little Mermaid!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(The Little Mermaid, with this troupe...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Hehe. I can't wait to get started.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "If you're paying homage to the Little Mermaid, it may be good to include a scene such as this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, that would make for quite the twist! I'll be sure to consider it, KAITO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, if I were the Little Mermaid, I might flap around on the beach like a fish the first time I come ashore!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "She's a mermaid! Not a fish!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00032",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Wonder Stage",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The script's done!\nIt has to be one of Rui's best works yet! It even includes quite a few of your guys' suggestions!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Lemme see...!\nOh, wow! It's a super happy Little Mermaid story!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hehe. It's so different from what I'm used to and might even have a little too much going on...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But I think this is just the kind of show we were looking for.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. I'm glad you like it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Then let's get to work and give it everything we have!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene, Emu & Rui",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And so, the Little Mermaid and her friends all lived happily ever after!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "The end!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Bravo!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "That was such a cute story!\nIt was so fun and exciting too♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Thanks, Miku, Rin.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hah hah hah! Once again, we shall be performing a show worthy of a future star such as myself!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "All of you, that was a flawless rehearsal. I'm sure we'll be able to turn that beach into something very special.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I hope everybody that comes and visits the beach has lots and lots of fun♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Still, this is incredible! I can't figure out how you went from the Little Mermaid to this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yeah!\nI've never seen a rendition of the Little Mermaid before that was this happy and fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I'm sure the audience will enjoy it very much and don't forget to break a leg!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hehe. Thanks.\nI'm glad we asked you guys for suggestions.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Um, Luka, what if we also tried performing the Little Mermaid☆ I bet it'd be a lot of fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I think so too. Especially since mermaids can just glide so gracefully through the water. It must be such a wonderful sensation.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000098",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Just thinking about that is making me... Zzz...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hey, Luka!\nWake up!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Huh?\nOh, MEIKO, good morning♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "And you'll be performing by the sea, yes...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. We're scheduled to perform on a stage by the sea owned by a seaside resort.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "A white, sandy beach... The soft sound of waves... And the sun glimmering in the sky...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hehe. It must be such a relaxing place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Haha. I'm sure it is.\nHowever, they won't be there to vacation.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, but if you do get a chance to look around, would you mind showing me what it's like...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yes, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "The first two days are supposed to be the busiest, but we might be able to squeeze in from free time while we're cleaning up on the night of the third day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Really?\nThank you so much♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Good for you, Luka!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "By the way, are you all packed for tomorrow...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No, not yet.\nWe should get home and do that right away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay! See you tomorrow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, let's give it our best shot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00090",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00225",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Beach",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Whoa... It's beautiful...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, it really is.\nThe sea air has such a nice aroma to it as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yay!! It's the ocean!!\nOcean!! Ocean!! Ocean!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Okay, you're happy to be here! We get it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Also, weren't you just at the Seaside School not long ago with Saki and everyone else?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup! It was all pretty and sparkly and super duper fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But it's more sparkly and exciting when I'm with you guys because I know it's gonna be a super wonderhoy carnival...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hehe. You're exaggerating...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, that must be the stage. Excellent, it looks just like the illustration.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Shall we start unpacking our props and equipment? We're going live just after our morning rehearsal, so we'll need to work quickly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

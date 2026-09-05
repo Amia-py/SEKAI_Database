@@ -1,0 +1,543 @@
+{
+ "title": "Unit Event — Unreliable Notes — Episode5 Frustration",
+ "meta": {
+  "Event": "Unreliable Notes",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — Frustration",
+  "Event Outline": "Kanade delves into the \"warmth\" Mafuyu feels from her music, hoping to identify its nature. When she learns it relates to a memory of Mafuyu's mother, she starts working on a new song, but finds something isn't right.",
+  "scenarioId": "event_161_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00320_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "No, this still doesn't sound right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Mr. Asahina said that Mafuyu's mom is very loving...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "The warmth Mafuyu associates with those apple slices is likely an expression of her mother's love.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "So, I have to find a sound which represents that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e002101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I should start again from the beginning.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "What do you think...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I think it's a good song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Thank you, Mafuyu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'll try composing another one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(When I picture Mafuyu's mother, the sound ends up turning cold, no matter what I do...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I tried working in my own mother's warmth...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(But it just isn't what Mafuyu felt.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I can't lean on my own experiences.\nI have to focus on Mafuyu and what she felt.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Still no good...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm90040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It's the same as everything else I've come up with so far...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(What do I do?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(How do I capture that maternal love that Mafuyu felt?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Changing the melody or a few chords hasn't solved anything.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(There's something missing...on a more fundamental level?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I don't know. But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Again...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Start over. Try again...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000424",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00106",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "No...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I thought I had the right idea at the demo stage, but I feel like I'm stepping backwards each time I add a note or chord.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(How do I capture that warmth in sound?\nAm I using too many slashed chords? If I change the structure...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(No, this song may just be completely broken.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I feel like nothing I come up with is going to make it better.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Next...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "My next idea has to work.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00320_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00320_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I can't stop here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I have to keep composing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00048_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00043_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "You need to eat something, Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, you're right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'll have something once I've reached a good stopping point.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Anyway, I should get going.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "It's been getting warmer lately, but please continue to be mindful of your health.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I will...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Let's see... Ms. Yoisaki is composing her song in the other room, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I should at least say hello before I leave.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00048_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I'll be excusing myself now, Ms. Yoisaki.\nThank you for having me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00828",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "...!\nI-Is everything okay in there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00043_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Ms. Yoisaki...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I apologize for not sitting with you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I hope you get home safe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Th-Thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "But... Are you feeling okay?\nYou look rather pallid...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm okay...\nI didn't get enough sleep last night, that's all...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Then, you should rest for a bit.\nMafuyu, can you help Ms. Yoisaki to her bed?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh? But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "You look exhausted, so you should spend the remainder of the day resting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(My mind's still wide awake. I can't fall asleep...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Before I forget... I have to remember what I was doing for that song...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Start in a minor key...\nThen change to a major key, and...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Kanade...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "No, this is also wrong...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00210",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "No matter how hard I try, I can't find the answer...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "What's the right sound? Does it need more mid-bass? Which keys haven't I tried yet...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Think. Keep thinking...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Next, I'll try...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(Kanade...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00320_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00320_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

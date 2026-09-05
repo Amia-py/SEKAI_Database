@@ -1,0 +1,673 @@
+{
+ "title": "World Bloom — With Your Sights on Stardom, Set Sail! — Episode3 Return Of The Zombie Show!",
+ "meta": {
+  "Event": "With Your Sights on Stardom, Set Sail!",
+  "Event Type": "world_bloom",
+  "Episode": "Episode3 — Return Of The Zombie Show!",
+  "Event Outline": "Wonderlands×Showtime's training continues as they each pursue their dreams. When they're called over to SEKAI by Rin and the others one day, they find an expansive new land awaiting them!",
+  "scenarioId": "wl_wonder_01_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Outside the Inn",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Your past, Rui...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "There was a time when I'd also given up on wanting to be around others...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Right... Before you met everyone, you were putting on shows all by yourself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, because I'd fallen under the impression that no one would ever understand me or how I thought...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Rui...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In reality, I wanted to do shows with others.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But no one was able to understand my shows, which led me to think that I shouldn't even bother with them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "And then, I met...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Meeting all of you made me realize that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "And since then, I've changed quite a bit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "So much so that I looked for ways in which we could keep doing shows together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh...! Are you talking about Emu?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. In retrospect, what I did seems rather selfish.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "No, don't say that!\nYou guys get to keep chasing your dreams together because you worked up the courage to go talk to Emu's brothers.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "And here we are now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, you may be right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I honestly couldn't be happier about how we're able to keep doing shows together like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Me too...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "All this may also apply to our zombies. They act all prickly... But deep down, they seem to want to be friends with everyone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "So, I'd like to help them turn that wish into a reality.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Just like how you all did for me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yeah! I wanna help the zombies!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hmm... But how do we do that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe... In our case, I suppose there's always only one answer. We need to do...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Do what...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hello, my zombie friends!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "What?! You again?!\nLook, we're not telling you anything about that phoenix.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "No, I'm here to ask you about something else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Would you like to do a show with us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Plushies",
+   "Line": "Hm? Why are there so many plushies gathered here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushies",
+   "Line": "They're doing a show!\nAnd the plushies from Zombie Island are gonna be in it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushies",
+   "Line": "What?! The zombies?\nThat sounds scary... But what's it supposed to be about?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00624",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00624",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. We have quite an audience here now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "So, are you all ready?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup! Ready!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You really caught us by surprise when you said that we're doing a show...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But we all know exactly what to do since this is a modified rendition of Potato Ghosts!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Zombies, are you all ready?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "Y-Yeah.\nBut...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushies",
+   "Line": "Maybe this isn't such a good idea...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushies",
+   "Line": "We agreed to do this after you told us over and over that we'd be able to become friends with everyone if we did... But I still get the feeling that they're gonna be scared of us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Don't worry! I'm sure they'll all be smiling in the end!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, shows have that kind of power. Please trust me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushies",
+   "Line": "O-Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We also need to thank you for allowing us to put on a show here on such short notice, Mr. Innkeeper.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Gorilla Plushie",
+   "Line": "Nah, that's all good.\nI mean, shows and parties go hand in hand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Then, we'll get started.\nA real zombie show with our plushie friends here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Park Staff Member",
+   "Line": "“Director! We have a remarkably large audience today!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Park Director",
+   "Line": "“Oh? Excellent!\nLet's see what sort of demographic it is this time... Huh?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombies",
+   "Line": "“CHOMP CHOMP CHOMP.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Park Director",
+   "Line": "“Those look like...zombies!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Park Director",
+   "Line": "“No...!\nStay away. You're never going to catch me!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombies",
+   "Line": "“Wait. We just want to... Ow!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00210_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Park Director",
+   "Line": "“Oh, you went for quite the tumble.\nYour head and arms appear to have fallen off... A-Are you okay...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombies",
+   "Line": "“We're fine! I mean...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombies",
+   "Line": "“We're zombies!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Park Director",
+   "Line": "“I forgot! I need to keep running!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00349_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Plushies",
+   "Line": "Haha. The zombies are funny!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombies",
+   "Line": "“CHOMP.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Park Director",
+   "Line": "“No! I got bit!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Park Staff Member",
+   "Line": "“Director! A-Are you hurt?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Park Director",
+   "Line": "“Owwwwwwww...\nWait, no... It doesn't hurt...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Park Staff Member",
+   "Line": "“Huh?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Park Director",
+   "Line": "“Odd... That didn't hurt at all...\nAlso, they seem to have settled down all of a sudden...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombies",
+   "Line": "“CHOMP CHOMP. Nice to meet you... Greetings...don't hurt...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Park Director",
+   "Line": "“Wh-What?! Is this how zombies greet each other?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Park Staff Member",
+   "Line": "“Director... What if they just want to become our friends...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushies",
+   "Line": "Wait, is that true?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00624",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Plushie A",
+   "Line": "Hold on. That means when they bit me that other time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Park Director",
+   "Line": "“Yes, that appears to be the case...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Park Director",
+   "Line": "“Then, nice to meet you too!\nCHOMP!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombies",
+   "Line": "“Oh, thank you!\nHehe. Now we can nibble on each other as much as we like!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombies",
+   "Line": "“Yeah! CHOMP CHOMP CHOMP!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "And so, the zombies were able to spend Halloween at the amusement park and have a wonderfully fun time with all the guests.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "The end...\nThank you all for watching.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushie C",
+   "Line": "That was a great show!\nAnd the zombies were really cute!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00708",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00048",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Plushie A",
+   "Line": "Yeah. Also, I guess they just wanted to become friends with the rest of us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushie A",
+   "Line": "Now I feel bad about being scared of them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Then, why don't we finish things off by greeting all of you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushie C",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "As a way of showing thanks for watching our show until the end. Of course, zombie style.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushie C",
+   "Line": "O-Okay...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushie A",
+   "Line": "Oh, do it to me too!\nHere, I'm ready!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "O-Okay...\nUm, CHOMP!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Your show made it possible for everyone to become friends, Rui♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, I'm glad we were able to help them somehow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Also...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushie C",
+   "Line": "Now it's my turn to say hi!\nI'll bite you this time! CHOMP!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(The other plushies seem to be much less scared of the zombies now.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Hehe. Shows really are wonderful.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(They're able to wash away any misconceptions that the audience has lingering within their minds.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(And I'd like to keep putting on shows like this. Ones that transcend borders. Ones that can really bring people together.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(That kind of show.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "Hey, do you have a minute?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yeah, sure! What's up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "So, thanks for putting on that show for us. We were able to become friends with everyone because you did...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. No worries.\nIt was something I just felt like doing is all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "Still... Thanks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "Also, you said you were looking for a phoenix.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "We've heard a rumor that someone in the harbor knows a lot about them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Really?! Can you tell us who?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "Yeah. They're...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "We did it, Rui!\nWe got our next clue to finding that phoenix!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, we can finally take our next step forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "So, let's keep doing our best and find that phoenix.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_wonder_ed1",
+   "_kind": "Effect"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

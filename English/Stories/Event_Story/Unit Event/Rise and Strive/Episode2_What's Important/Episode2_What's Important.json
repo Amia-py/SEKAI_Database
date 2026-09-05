@@ -1,0 +1,443 @@
+{
+ "title": "Unit Event — Rise and Strive — Episode2 What's Important",
+ "meta": {
+  "Event": "Rise and Strive",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — What's Important",
+  "Event Outline": "Shizuku's commercial appearance made waves, and job offers for MORE MORE JUMP! are starting to trickle back in. At the same time, it's still unclear what caused the dry spell they experienced. Haruka steels herself and sets up a meeting with someone who may have an idea...",
+  "scenarioId": "event_157_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e002101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Hotel Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I haven't talked to Mr. Hiiragi since Idol Lovers...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I'm a little nervous about asking him for advice since he's the producer of our rival group...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But I have to try every lead that I can right now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi's Voice",
+   "Line": "Kiritani.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "It's been a while, Mr. Hiiragi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I apologize for making you wait.\nMy previous engagement took longer than expected.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "No, I should be the one apologizing for asking you to meet on such short notice. I know you're very busy, so thank you for making the time to meet with me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "The last time we spoke was at Idol Lovers, yes...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Yes, that's right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Thank you for collaborating with my group that time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "No, our group should be thanking you.\nWe learned so much by watching ReLight.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "They were the reason why we were able to perform at a higher level than normal that day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I see...\nYes, your group did put on a remarkable performance that time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I'm really glad you're saying that, Mr. Hiiragi.\nBut...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Something strange has happened since Idol Lovers... I'm here to talk to you about that today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "The thing is, for a time after that event, we stopped receiving offers for work altogether...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "We've slowly begun receiving offers again recently, but it's nothing compared to what we were getting before Idol Lovers...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Of course, we understand that it might've simply been an unlucky period for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But... It happened so suddenly.\nWe think there must have been a reason, and we're trying to figure that out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I'm sorry. I know this is our group's problem.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But I thought you would know something, Mr. Hiiragi, since you have your finger on the pulse of the industry. That's why I asked you to meet with me today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes, so... If you do happen to know of any rumors surrounding us, then would you mind telling me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I'm sorry to disappoint you, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I can't say I have heard anything.\nI'm not sure I can help you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(What if there's no root cause? We might be on a wild goose chase here...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(But based on what the other people who I've talked to have said—)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Doesn't your group employ staff?\nDon't you have anyone to take care of these things?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "It just seems strange that a member of your group would take it upon herself to go out and investigate.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh... Yes, we do have a manager.\nFor the most part, she takes care of all the scheduling and such.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "So, you don't have someone running the show behind the scenes...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "We generally come up with ideas for streams and plans for our appearances as a group.\nThat being said...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I've been asked to be the producer for our group.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "You?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes.\nI know I'm an amateur compared to you, Mr. Hiiragi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I see. That's certainly a surprise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I know. I was also surprised.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Especially since I once gave up on being an idol altogether when I was a member of ASRUN.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But I later decided that I wanted to keep spreading hope to others.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "That happened when I met the other members of MORE MORE JUMP!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Which is why I plan on doing everything I can for my group.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I want to lead us down the right path.\nJust like you did with ASRUN, Mr. Hiiragi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I understand how you feel...\nBut again, I'm sorry. I don't think I can help you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "No, that's okay.\nThank you for taking the time to talk with me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(If Mr. Hiiragi doesn't know anything, then I guess that means Airi was right. We may've just been on a lucky streak before now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Which means...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I'm sorry, but...\nCan I ask you one thing before you go?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "If a group you were responsible for found itself in a situation like MORE MORE JUMP! is in now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "If they weren't receiving any offers for unknown reasons, and you weren't certain whether things would ever go back to normal...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "What would you do, Mr. Hiiragi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Regardless of the situation, I wouldn't act differently.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I'd stick to my principles and keep moving forward. I'd continue to believe that they'd eventually break out of that situation.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Above all else, I would never lose sight of my goals.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Sorry, I didn't mean to ramble on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "But I need to get going.\nIf you'll excuse me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Of course...\nThank you again for taking time out of your busy schedule to meet with me today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "“Never lose sight of your goals”...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e002101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I remember being told the same thing when I was still in ASRUN.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(When you're trying to achieve something, those around you will say what they want. You might even get hung up on their words from time to time. But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(You can never lose sight of your goals.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Mr. Hiiragi hasn't changed at all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(And he's right...\nWe need to keep our eyes on the prize.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Which means we have to do what we can right now.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,688 @@
+{
+ "title": "Mixed Event — The BEST Summer Ever! — Episode1 We're Here! The Seaside School!",
+ "meta": {
+  "Event": "The BEST Summer Ever!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode1 — We're Here! The Seaside School!",
+  "Event Outline": "The Miyamasuzaka Girls Academy first years arrive at the Seaside School. Finding themselves allocated to the same group for the school's annual presentation event, Honami, Saki, Emu, and Kohane put their showmanship skills to the test by performing a song from a musical.",
+  "scenarioId": "event_30_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a003801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00225",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Beach",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yay, the beach!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "It's so beautiful...!\nThe waves are sparkling with sunlight and there's such a nice breeze too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hnnnng!\nWonderhoy!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We get to spend three whole days here!\nIt's gonna be so much fun☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah! Let's have as much fun as we can!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I hope you two haven't forgotten that this is the Seaside School. You'll only have so much free time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But, what do you actually do at Seaside School?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I remember that we get to do some really fun stuff, like doing group presentations or performances☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, I believe we're supposed to be split into groups of four and present something at the end together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "While we're here, we'll be practicing and showing everyone what we've come up with on the final day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, that sounds like a ton of fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "And we're allowed to present anything?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, I think we are. As far as I know, anything from a song to a skit will do as long as your whole group participates.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Even better!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What should we do?\nI wanna do something that goes all sparkle-sparkle-boom-boom♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Sparkle-sparkle-boom-boom?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I can't say for sure, but that sounds very ambitious.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wait, aren't we supposed to be a group of four? We're still missing one...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00228",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Um, excuse me...!\nSorry for being late...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Kohane!!\nWonderhoy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "W-Wonderhoy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Uh... Thank you, Otori.\nI'm happy that we're in the same group.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "You're Azusawa, yes?\nMy name is Honami Mochizuki.\nIt's nice to meet you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I'm Saki Tenma!\nWe're glad you're finally here, Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay, Mochizuki and Tenma...\nThank you for having me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, um... Shiho and Ichika have already told me a little about you, Mochizuki, Tenma...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You don't have to act so formal around us! You can just call me by my first name♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Me too. Would it also be okay if we call you Kohane as well?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Y-Yes...!\nTh-Thank you...\nHonami, Saki and Emu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But I didn't know that you'd already met Kohane beforehand, Emu. I wasn't expecting that since we're in different classes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah, when did that happen? Were you two already friends from before?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "No, we actually met and started talking to each other fairly recently...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Heh heh heh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We met for the first time at Phoenix Wonderland☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Wait, really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yes...!\nI just absolutely love Phoenix Wonderland and used to go there pretty often.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I even got to see Emu and her troupe perform on stage and really loved that as well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Kohane's our Number One Fan because she was there to see us perform as Wonderlands×Showtime for the very first time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Whoa, that's so cool! Your very first fan goes to the same school as you...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Your number one fan...\nThank you. I feel so honored.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "So does that mean you know about my brother too, Kohane...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?\nYour brother...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Tsukasa Tenma. He performs with Emu as a member of Wonderlands×Showtime!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, I didn't realize that...!\nDoes that mean you know Aoyagi too?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Aoyagi... You mean Toya?\nYeah, we've known each other since we were both really little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "This so amazing...!\nAoyagi always speaks so highly of your brother, Saki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, do you mean Tsukasa's friend that came to our Doll Festival party? We live in such a small world, don't we...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup yup☆\nOur other friends were already friends with each other. It's such a crazy coincidence♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But how is it that you know about him? You and him go to different schools, Kohane...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I actually sing with him as part of a team.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "There's four of us in total, and I've been performing at events and shows with them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Huh?! You and Toya? Singing together?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I didn't know that you've been performing at events. That's so great...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe... I'm starting to blush...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Ladies, it's almost time for swim practice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, already?\nWe need to get changed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I can't wait☆\nHey, let's have a race once we get in the water♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Um, I'm not much of a swimmer, but it would be nice if we could do it together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "*Sob*...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Saki, is something wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "S-Sorry!\nIt's just, I'm a little scared of swimming in the ocean...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, that's right. You didn't get to go in the pool much even during junior high.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wait, really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah...\nI was in the hospital for a little while during junior high.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I am honestly a little afraid of swimming in the ocean, but I wanna be able to swim with all of you...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Saki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You'll be fine☆\nI'm sure you'll figure it out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, and I'll be there to teach you! I took swimming lessons for a while, so I should be able to help you some...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wait, really?!\nThanks, Hona...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "You're welcome.\nWould you like it if I helped you as well, Kohane?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "M-Me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, of course! We can all try together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00090",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Okay, looks like we're all changed. Shall we begin practice?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe. This is gonna be so much fun!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00226",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Eep! The waves are so big!\nI... I don't think I can do this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Are you okay...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "If only we had a kickboard or an inner tube, then this wouldn't be nearly as scary...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh! I brought some just in case!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I was hoping that they'd come in handy when we did get to go swimming. I have two, so I'll let you borrow one☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Thank you so much, Emu!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe♪\nLemme go get them. Be right back!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00228",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Mr. Inner Tube, where are you? It should be in my bag... Oh, here we go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Emuuu!!!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Yay! Summer vacation♪\nHow's the Seaside School been so far?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, Miku!\nWelcome♪ We're actually just about to go swimming!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Really? I wish I could go with you!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Than how about this?\nWe can have fun some later when I get a break!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Yay!!\nI'm looking forward to it, Emu☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup! I can't wait either, Miku♪ Let's make the Seaside School as wonderhoy as it can be!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00090",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Saki, here you go!\nOne Mr. Inner Tube!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, Emu, thank you so much♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I won't let this go to waste! I'll do my best to get over my fears and learn how to swim!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe...\nThen, shall we get started...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000092",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Okay, Saki, grab onto both of my hands and try to stretch your legs out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Uhh... Like this?\nHow does this look, Hona?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, very good!\nYou're doing great, Saki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Now, try gently kicking with your legs. You too, Kohane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay...!\nGently kick... Like this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00229",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Lemme try too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Kick with my legs like... Oh, I think I got it! I'm swimming! I'm really swimming!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00229",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, you're both doing super awesome☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "You're doing incredibly well. At this rate, you won't need me to hold on to you next time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yay!! Thanks for doing this, Hona. And thank you for lending me your inner tube, Emu♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe. You're welcome.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Hey, everyone!\nThey said they're going to be smashing watermelon after swimming practice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Apparently, it's class versus class.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We get to smash watermelons?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "That sounds like way too much fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I've never done that before... Is it hard?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, you should be able to enjoy it even if it's your first time. We can both try together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "R-Right. Thanks...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Alright, let's go!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Hehe. It looks like this is going to be quite a memorable summer.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,988 @@
+{
+ "title": "Unit Event — Immiscible Discord — Episode3 Second Guesses",
+ "meta": {
+  "Event": "Immiscible Discord",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — Second Guesses",
+  "Event Outline": "Watched closely by her mother, Mafuyu's interaction with N25 continues to be limited. Focusing on what she can still do for her friend, Kanade is driven to keep composing, until she receives a mysterious message...",
+  "scenarioId": "event_89_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "25:00:00",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kanade's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Message",
+   "Line": "<Because she's preparing for entrance exams.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Message",
+   "Line": "<She is in pursuit of a different dream that doesn't involve music. If you truly are her friend, I'm sure you'd want her to focus on her studies.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Message",
+   "Line": "<Even if there's a chance that it places her future in jeopardy?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I can't honestly say if N25 will help her achieve her dream...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(But Mafuyu currently seems to want to keep making music with us...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Not only that, but I'm sure our work will help lead us to discovering who the real Mafuyu is.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(So, right now, I really don't want her to give up music or stop making it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00084_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki's Message",
+   "Line": "<Are you all here?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena's Message",
+   "Line": "<I am. I've already started working.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Message",
+   "Line": "<Oh, then let's go on voice chat!\nIs K also here?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, it's already 25:00...\nI should unmute myself and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00084_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Sorry, I'm here.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Hey, K!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00169",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000108",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Hi, K.\nI listened to the new demo. It's really good.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Thank you. I'm hoping that it helps Yuki with her work a little...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Yeah, I'm sure she'll love it!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<...\nThat'd be nice.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000108",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<K?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<What's wrong?\nYou don't sound very happy.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Oh, um... So...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00084_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<Sorry I'm late.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000209",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Oh, Yuki! Wasn't K's new demo amazing?! I can't wait to make the video for it!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<Yes, it was...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<But...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000207",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Yuki?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<I'm sorry...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<I don't think we'll be able to work together for a while...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000208",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<What...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<I can keep writing lyrics and such...\nBut I doubt I'll be able to log on.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000209",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Wh-Why?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<I think my mom found out...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Oh...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000208",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Wait, what do you mean?\nI thought you had everything hidden.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<I did...\nBut she must've found it while looking around inside my computer when I was out...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<I have to think that she also found my lyrics and Nightcord...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000409",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<So, did she tell you to stop...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000208",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<Not directly. But...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I had a feeling...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Mafuyu's mom definitely said something to her.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(If we don't do something, Mafuyu might...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000408",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<But she isn't making you stop, right...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000308",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<You're really okay with this? Honestly, you...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<I won't be able to join you all for a while.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<But...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<I promise to come back...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000308",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Yuki...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<However, I don't know when that's going to be...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Okay...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000408",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Then, we'll be waiting for you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<Thank you...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<K...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000107",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Huh...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<Thank you for the demo...\nIt may take me longer than usual, but I promise to write the lyrics for it.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Mafuyu...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Okay, I'll be waiting...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<Then, for now...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00098_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<She said her mom was just “looking around”, but I've gotta think she was trying to find us...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000409",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Yeah, I totally agree.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Remember how I took Mafuyu over to my house that other time? She asked me...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<“Mafuyu mentioned a friend who plays music. Is that you?”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000108",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<What...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<She's been keeping what we do a secret from her mom, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<That's probably why she began looking for who her daughter is playing or making music with...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Who...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000108",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<K, are you okay...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Y-Yes...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<I know you're worried about Mafuyu.\nSo are we...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<No, it's not that...\nI mean, I am worried... But...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Mafuyu's mom contacted me...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena & Mizuki",
+   "Line": "<What...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Sorry, I was hoping to discuss that with you today...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<No, that's totally fine!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<But Mafuyu's mom...?\nWhat's going on here? Can you tell us what she said?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<So...\nShe asked me to stop working on music with Mafuyu.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Also...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Message",
+   "Line": "<She is in pursuit of a different dream that doesn't involve music. If you truly are her friend, I'm sure you'd want her to focus on her studies.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000108",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Wait, what's wrong...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Oh, um... It's nothing...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Okay...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<So, what did you say to her?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<I said how I'm not in a position to ask her to do that as long as she wishes to keep working with us...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Then, she responded by asking me to meet with her in person...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<What?! You're gonna meet Mafuyu's mom...?!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000108",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<No way! When?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<This Sunday. So, the day after tomorrow...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<The day after tomorrow... That's so soon! I mean, are you gonna be okay?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<I doubt she's going to harm you in any way, but she's been trying to dig up a ton of info on us. Who knows what she's gonna say...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Yes, I understand that...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<I wasn't sure about meeting her until just now...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<I won't be able to join you all for a while.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<But...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<I promise to come back...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<But I feel that I need to meet her since this directly concerns Mafuyu...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Also, I want to hear what she has to say about us...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<About the future... For Mafuyu's sake.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<K...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Then, I'm going too!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000108",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<What...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I really don't wanna just sit around and wait. I feel like I'm gonna go crazy if I don't give her my two cents...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<I wanna go too. I'm worried sick about Mafuyu...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Thank you both very much...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<But I should be fine on my own.\nPlease don't worry. I promise to let her know how we all feel...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000108",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<But...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<I know you're worried about Mafuyu, but I don't think it'll be a good idea for you two to come...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<If things don't go well...\nI'm concerned that we won't be able to meet Mafuyu anymore.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Which is why I think I should go meet her alone...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<If she learns who you both are, Mafuyu may have no one else to turn to... She'd be all alone...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000108",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<K...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Okay... But let us know if anything happens. We'll be there before you know it..>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Yeah, because we all want what's best for Mafuyu...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Thank you. I will...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

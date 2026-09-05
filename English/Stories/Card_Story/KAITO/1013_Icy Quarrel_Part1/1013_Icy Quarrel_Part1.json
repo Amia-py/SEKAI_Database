@@ -1,0 +1,368 @@
+{
+ "title": "KAITO — Icy Quarrel〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "KAITO",
+  "Card": "Icy Quarrel（4★）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "Whither This Path of Thorns",
+  "scenarioId": "026042_kaito01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Empty SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "KAITO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I know I told you this just before, but I don't approve of your way of doing things...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Don't think that your solution is always the best one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Didn't I tell you to stop...?!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<You have no right asking such a question!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Hmph...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I never intended on seeking your approval.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "My stance is simply that standing around idly will change nothing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Our methods are fundamentally at odds with one another. That isn't going to change moving forward...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "However...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I appreciate the fact that you didn't forcibly try to learn what Mizuki is dealing with...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(That's rich, considering you looked like you were about to bite my head off if I broached the topic...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "If that's all you have to say, then I'll be going now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "MEIKO, KAITO, do you both have a minute?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "You two were having a rather animated conversation just now. Are you all finished?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "What are you talking about...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "You're not going to fool me.\nWe saw everything with our own eyes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "“We”?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Why are they hiding...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Because they're scared, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Scared?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh dear...\nMaybe it's time I scolded the both of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "They're scared because a certain pair of people have been shouting at each other without any regard for those around them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO & MEIKO",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "So, why are you at each other's throats...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I'm here to help broker a peace deal between you two, so please try to make up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "You're trying to get us to make up...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "There's no need for that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Because we're both done talking.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh...\nDoes that mean you two have already come to some sort of understanding?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Interpret it however you like.\nMore to the point, you seem like the worst person to be a diplomat.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Not true.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I'll fairly listen to what you two have to say and scold you both accordingly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "How is that being diplomatic...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "It's collective punishment for the involved parties, no...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I'm sorry for making everyone feel scared...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "However... We are done discussing this matter, as KAITO just said.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "If you say so, MEIKO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Then, why don't you two make it official by shaking hands?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Don't be ridiculous...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "KAITO.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Please don't forget what I just said.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(What a pain...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Looks like I'll be waiting for a while longer...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

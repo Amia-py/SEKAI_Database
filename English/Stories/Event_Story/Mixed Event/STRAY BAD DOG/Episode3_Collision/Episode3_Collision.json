@@ -1,0 +1,603 @@
+{
+ "title": "Mixed Event — STRAY BAD DOG — Episode3 Collision",
+ "meta": {
+  "Event": "STRAY BAD DOG",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode3 — Collision",
+  "Event Outline": "Vivid BAD SQUAD shows signs of growth, inspired by changes in Toya. One day, they'll be able to reach the heights of that legendary night. With that thought in his head, Akito learns of the man said to be the closest to surpassing RAD WEEKEND...!",
+  "scenarioId": "event_21_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c001103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Outside the Vivid Street live house",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Spectator A",
+   "Line": "Hey, are you free after this? A few of my musician friends are getting together, so wanna join us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Oh, sorry! I have a date with a chocolate parfait after this show! I sort of can't miss it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Apologies, but I'll be... Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hey.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Sorry to interrupt you, but are you Arata Tono?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I perform around here and have been hearing a lot of rumors about someone named Tono...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So, would you mind if we could have a little chat?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "Wait, is that Akito...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "You're right, it's him!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Hm? I feel like I've seen you before...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I'm Akito Shinonome.\nI sing for Vivid BAD SQUAD.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Oh, Vivid BAD SQUAD!\nI've been to one of your events!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Really? Thanks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00100",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Akito...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "And you're his teammate too, no? Nice to meet you, I'm Arata Tono.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, um... It's nice to meet you.\nMy name is Toya Aoyagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We're partners on the same team.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Partners, huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "I see.\nGood for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(What was that? Something's changed all of a sudden...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Would you mind us asking a quick question, Tono?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Of course, if it's something I can answer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Then... Is it true that your dream is to surpass RAD WEEKEND?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Yes, it is. Well, to put it into better perspective...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "I don't want to surpass RAD WEEKEND, I will surpass it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Tono, were you actually at RAD WEEKEND...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Oh, of course!\nMy best friend was really into music and dragged me along to go see it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "We sort of got caught up in the moment and decided that we'd put on an even bigger event together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "So in a way, it's not my dream to surpass RAD WEEKEND, rather my friend's...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But we heard that you've been participating in events on your own...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Yes, I have.\nWell, things happened.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Now, I'm working to surpass it all on my own.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Surpass RAD WEEKEND on your own...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You're being serious?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "If you were actually there, you'd know that it's not realistic for just one person to do that on their own...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Oh, I'm more than aware of that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "But I believe that I am more capable of doing that than you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Wait...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "You also wish to surpass RAD WEEKEND too, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So you knew...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Yes, I did. I started hearing rumors just after I came back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "That Vivid BAD SQUAD wants to put on an event that surpasses RAD WEEKEND.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "But you've honestly been a disappointment...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "I was hoping for more since Ken spoke so highly of your team.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh? What exactly do you mean by that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "My, what a scary face.\nExcuse that last comment.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "However, my declaration still stands. You do not have what it takes to surpass RAD WEEKEND.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "With time, I'm sure you'll go somewhere, but I'll have long since succeeded by then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I still haven't seen you perform, but I wouldn't get so cocky now either.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Oh, it's nothing like that.\nI'm just speaking my mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "It still hasn't gotten through to you yet, so let me explain it in simpler terms...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Aoyagi, was it?\nYou seem to have quite an ear and perfect pitch to match. Your incredible talents are going to waste.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "And that An girl has been doing well for herself too. Ken's daughter should be able to do as much, but she still needs more polishing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "And that other girl, I forget her name... She has some manner of singing talent, but still too amateurish during live performances.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "I would never have let her join in the first place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "And above all else...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I've heard enough...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "All this talk means you have to be that much better than us, right?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Oh, naturally.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Then let's find out who's actually better.\nYou or us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "If we can get this crowd more pumped up than you, you'll take back what you just said.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "Hey, does this mean Arata and Vivid BAD SQUAD are gonna duke it out...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "No way! That would be amazing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "So it's a battle you want?\nFine. Everybody here seems to be itching to see one too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Hey, you there.\nMind if we borrow some of your equipment?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Spectator A",
+   "Line": "Go for it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Um...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You can sing, right?\nYou sounded fine just now, Toya.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Are you sure you want to do this? What good can actually come out of this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Then what do you suggest we do?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We can't just let him rag on us like that...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Besides, you don't have to do it, because I will.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No, I'll sing too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm your partner. You're not doing this alone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Let's keep this simple. You can choose any song you like and the one that gets the crowd more pumped up is the winner.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Fine, so be it.\nWho goes first?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We are.\nWe're gonna end things before you even get a chance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Haha. Your confidence is commendable. But you'll need more than that to surpass RAD WEEKEND.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I know.\nThat's all we've been working towards this whole time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We're not doing this for fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Not doing this for fun, huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "Everything's all set!\nSo, who's going first?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We are.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "FYI, we're not holding back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Be my guest. Give it everything you have.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "song00008_off_s",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito & Toya",
+   "Line": "♪ ————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00019",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "Whoa...! Right out of the gates!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "Yeah, and this is the first BAD DOGS performance in a while too! This is awesome!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Yes, not bad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "But it's not enough.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito & Toya",
+   "Line": "♪ ————...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00019",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "*Huff*... *Huff*...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "How's that?\nYou still think you can win?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Oh, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Now, if you'll allow me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

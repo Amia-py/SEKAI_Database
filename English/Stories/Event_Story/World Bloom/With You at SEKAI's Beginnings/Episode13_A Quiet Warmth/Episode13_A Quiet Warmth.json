@@ -1,0 +1,688 @@
+{
+ "title": "World Bloom — With You at SEKAI's Beginnings — Episode13 A Quiet Warmth",
+ "meta": {
+  "Event": "With You at SEKAI's Beginnings",
+  "Event Type": "world_bloom",
+  "Episode": "Episode13 — A Quiet Warmth",
+  "Event Outline": "From their space between worlds, Miku and the others watch over everyone. Just then, a fragment appears before them. It takes them to see everyone at the moment their true feelings were born.",
+  "scenarioId": "wl_piapro_01_13"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00099_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Hmm?\nWhat's my computer doing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Looks like a music file.\nWho sent it to me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00092_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Huh?! Why did the screen just flash?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "???",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Where...am I?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Who are you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I'm Miku.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Miku, as in...Hatsune Miku?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "So this was how Mafuyu and this SEKAI's version of me met for the first time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(She doesn't know who the real her is, and desperately wants to find out...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(But that's much easier said than done...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(At this point in time, Mafuyu has no idea what her true feelings are.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(Simultaneously, this SEKAI's me wasn't really sure how she was going to help her.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(But still...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00175",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Miku.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Mafuyu, you're here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "*Nod*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I thought writing a song would help me discover my true feelings, but I'm still having trouble...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "This SEKAI really is empty.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "But I understand why...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Because it's based on my feelings...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Do you think I'll ever know...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Don't worry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I'll help you find the real you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Um, Miku...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Can I stay here for a little while longer...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "This is your SEKAI after all, Mafuyu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(That's right...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(This SEKAI ends up becoming a very important place for Mafuyu.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(Naturally, for this version of me as well...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm90040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00084_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "[K]",
+   "Line": "<I listened to your mix of that song, Yuki. Thank you for doing that.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00084_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000207",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<Thank you, K.\nWhat did you think...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "[K]",
+   "Line": "<It was much deeper than I was expecting. I thought I was being tossed into this dark and quiet chasm of despair.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "[K]",
+   "Line": "<But I also felt like I was searching for the light. That was really well done...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000207",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<Hehe. That was present in the demo you made, K. All I did was add a few more sounds on top of that...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "[K]",
+   "Line": "<Still, I believe you've helped make it a lot better. So, Yuki, thank you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<You're welcome...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(I felt something while listening to this song too, but I still haven't found what I'm looking for...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(But someday...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(Someday, I'll find...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "I really appreciate you always helping me, Asahina, but I feel bad about making you do this during your lunch break.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "No, this is nothing.\nYou needed me to carry these papers over to the classroom, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Yes, that would be incredibly helpful!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Also, if you have time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000602",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu's Mother",
+   "Line": "I heard from your teacher that you've decided to become a class representative, Mafuyu. Is that true?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Yes, it is...\nEveryone said that I should take the job.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Mother",
+   "Line": "Oh, I'm so proud of you.\nBe sure to do your very best, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Mother",
+   "Line": "But try not to be too helpful either, since those receiving your assistance won't be able to grow as individuals.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Hehe. I'll be careful.\nThanks for the warning, Mom.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Are you feeling okay, Mafuyu...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Miku...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I'm okay... I think...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "But I'm so tired...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I've looked and looked, but still haven't found any answers...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00227",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "This void inside of me just keeps growing and growing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Now... I just want to disappear...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Mafuyu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "But your true feelings...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "My true feelings...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "If I can't find them after searching this much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Then I can't help but wonder if they exist at all...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "B-But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I'm done.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "More to the point, Miku...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I just want to stay in this SEKAI forever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I want to help Mafuyu find her true feelings...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "But that won't happen at this rate...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "What do I do...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00119",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "This song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "It's the one by that person Mafuyu's been working with...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "This SEKAI is completely empty, with the exception of this song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "The person who made this song might be able to help find the real Mafuyu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I think I'll go see her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "For Mafuyu's sake...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000346",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "For trying so hard all by yourself in this empty SEKAI, just for her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "For doing your best to keep her feelings safe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I know you can...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I can't do anything to help...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "But I'll always be watching over you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Now and forever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "What happened...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Just now... I felt all this warmth...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_ppr_ed6",
+   "_kind": "Effect"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

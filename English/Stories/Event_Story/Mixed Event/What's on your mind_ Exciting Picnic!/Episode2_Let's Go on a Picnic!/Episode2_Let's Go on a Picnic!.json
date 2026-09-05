@@ -1,0 +1,693 @@
+{
+ "title": "Mixed Event — What's on your mind? Exciting Picnic! — Episode2 Let's Go on a Picnic!",
+ "meta": {
+  "Event": "What's on your mind? Exciting Picnic!",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — Let's Go on a Picnic!",
+  "Event Outline": "Noticing Mizuki's lackluster attitude following the mystery tour, Ena grows worried. Her apparent concern for her friend doesn't go unnoticed by Airi and Shizuku, who extend an invitation to a picnic to both of them in hopes of lifting their spirits.",
+  "scenarioId": "event_22_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000402",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Mizuki's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "*Sigh*\n(I got home way later than I was hoping to... I still have to keep editing the music video from where I left off yesterday too...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00137",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Hm? Ena's calling me...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Heya! What's up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000406",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Um, Mizuki, there's something I'd like to ask you...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<If you're free next Saturday, how would you feel about going on a picnic?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<A picnic?\nThat's rare coming from someone who hates going outside as much as you do. What's going on?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I was invited to go, and I thought a change of pace might be nice.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<My idol friends are the ones that asked me to go. You know, the ones I talked about before?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Yeah! Airi Momoi, right?!\nIt's pretty cool that you're really friends with actual idols.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I just happened to meet her in junior high and we've been friends since. Oh, this other girl from Airi's group, Shizuku Hinomori, is also coming.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<What?! Shizuku Hinomori as in THE Shizuku Hinomori?!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Wait, Mafuyu mentioned before that they go to the same school. Talk about a small world...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I met her for the first time the other day too. She seemed nice and pretty laid-back, but I doubt she's ever crossed paths with Mafuyu...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I mentioned you to them too and they said they'd like to meet you. How about it?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Seriously?! I totally want to meet them...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e001302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(But if I can't tell anyone about myself, how can I ever really be friends with them...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000406",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Actually, nevermind...\nI think I'll pass, sorry...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<I just remembered that I might have to work around that time next week.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<\"Might?\" That means you're not actually scheduled to yet, right...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Yeah, but...\nIt'd be their first time meeting me, and we might not have anything in common or a lot to talk about so...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<We're talking about idols here. It's their job to make people they meet for the first time feel welcome.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<And you're the one that's always talking about getting different perspectives on things. Seeing a pretty landscape might even give you some ideas for the video, you know?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Hmm... You might be right...\nBut why do you want me to go so much? Did something happen?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Hey, stay on topic. I'm the one that's asking you if you want to come on this picnic.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Well...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000402",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(She's really coming after me today. She'll probably start asking more questions if I'm not careful...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000406",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Okay, if you're gonna be that insistent, I'll go...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Yes, finally...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<The plan's to take a tour on a bus. We have to register as a group and stuff, so I'll send you more info about it later.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Got it. I can't wait!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Good. We'll talk again later.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Alright, later!!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00138",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000402",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(A picnic with Hinomori and Momoi does sound like fun, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Stage SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "You've improved so much, Shizuku. Your last turn there looked perfect too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Thank you! It's all because you taught me so well, Luka. Oh, these footsteps must be...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hey, you two!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Airi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Welcome, Airi. I heard from Shizuku that you wouldn't be able to make it today because of club activities.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We ended earlier than expected.\nLooks like I made it just in time too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "By the way, Shizuku, I just heard back from Ena. She said Akiyama's gonna come with us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Really? That's wonderful.\nI hope our little trip can help Akiyama feel a little better...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah.\nIt's pretty rare for Ena to worry about someone this much, so I want to help her out too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, are you going somewhere together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "We are. Airi, a couple of her friends and I are going to the highlands to have a little picnic.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "A picnic in the highlands? That sounds lovely!\nI'm sure it's going to be very beautiful...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I hope so too. I went quite some time ago as part of a shoot for an educational TV program, so I can't wait to go again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh, that show?\nWhoever edited that deserves an award. I was on the edge of my seat because you were being so clumsy that time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I never knew it was so hard to tie knots and start campfires... Still, I had quite a bit of fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "But that was then. I just hope we all get to have as much fun as possible...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hehe. I'm sure it'll be a wonderful picnic♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, Luka...!\nWould you like to come as well?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, you actually could if you jump onto one of our phones and have us carry you around!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, you would do that for me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, of course!\nThe hiking course is supposed to take quite a bit of time, so you should be able to take a look around as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Thanks, you two.\nIf you don't mind, I'd like to join you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I'm glad you are.\nYou being there will make our picnic just that much more fun, Luka.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Then I'll have to whip up and bring a special lunch for us to share too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The day of the picnic",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Outside Shibuya Station",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Whoa, it's the real deal!\nAiri Momoi and Shizuku Hinomori in the flesh!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hehe. Thank you for joining us today, Akiyama.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, sorry for just dropping this on you, but we're glad you came.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "No, I should be the one thanking you two. Hehe. I even ended up wearing my favorite outfit today♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Ena, they're really here! People you see on TV or in magazines! They're sooo cute too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Okay, Mizuki, calm down.\nAlso, keep it down...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. We should be fine with this many people around. I'm glad we're doing this, Shizuku.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Me too! I'm happy that Shinonome's friend is already enjoying everything so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh, also... Calling only you by your last name seems a bit strange, so mind if we call you \"Mizuki\" instead?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, I'd like that too. Please, feel free to call us by our first names as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wait, really? I can't say no to that♪\nThanks for having me today, Airi, Shizuku!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "You too, Shinonome...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Me? Oh, right... We have been calling each other by our last names. In that case, thank you for having me too, Shizuku.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "You're very welcome!\nLet's have ourselves a fun picnic today, Ena!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah! Thank you so much for doing this, Ena!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yes, yes, you're very welcome.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Airi, shouldn't the bus already be here?\nMaybe we should get going.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah. We're still a little early, but that might be a good idea.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Um, Airi...\nIs it just me or does Mizuki seem better than Ena let on?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Maybe. Mizuki does seem nice and might not be as bothered by whatever Ena was talking about...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hey, I brought some snacks too! We can all have some while we're on the bus!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "That's great but don't make a mess, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You got it!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi & Shizuku",
+   "Line": "Hm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "He's late...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Rui said, \"Wait by the station,\" but now I feel like it would've been better to go to his house to pick him up first...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Oh, that tour bus over there's going to the same place we are...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(We decided to take an express train, but a bus might've been easier since we wouldn't have to change trains...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(No, today's not about doing things the easy way. Today's all about...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hello, Nene. Sorry for making you wait.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Rui, there you are. You're late and... What's with the luggage?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh, I brought quite a few things just for today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I was happy to hear that you wanted to build up some stamina for our shows.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But at the same time, I was a little surprised that you'd want to do something like this, Nene.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "W-Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "If we want to make it so Phoenix Wonderland doesn't just change in front of our eyes, Rui, we have to keep thinking up new kinds of shows, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I'm hoping that this will help achieve that goal.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Emu and Tsukasa are way more athletic than I am too. I really don't how I'm the one that's always out of breath in the end.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. I understand.\nWe should be doing everything in our power right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I hope you're ready for some high-speed, high-altitude training!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "High-speed? Even though you're running this late? And why are we going all the way to the highlands to train?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Because it'll be more fun than just running around here, no? You get to see some beautiful landscapes under a great big sky...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "And above all else, you won't have to worry about any prying eyes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Don't tell me that you're lugging around some props that you can't test at the Wonder Stage...! Is this why we're going so far out of our way today...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "My, would you look at the time! We need to hurry if we're going to catch our train, Nene...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hey, wait...!\nYou don't get to treat me like Tsukasa! I'm not gonna be a guinea pig for your props!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

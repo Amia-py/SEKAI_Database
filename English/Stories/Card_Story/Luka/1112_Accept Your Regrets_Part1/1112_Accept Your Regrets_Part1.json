@@ -1,0 +1,338 @@
+{
+ "title": "Megurine Luka — Accept Your Regrets〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "Megurine Luka",
+  "Card": "Accept Your Regrets（4★）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "Rise and Strive",
+  "scenarioId": "024045_luka01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Stage SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Okay, one, two, three, four!\nFive, six, seven, eight!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len & Miku",
+   "Line": "One, two, three, four!\nFive, six, seven, eight!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Wonderful! You two are dancing in perfect sync♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Thank you for agreeing to help us practice, Luka! We couldn't have done this without you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Now we just gotta fine-tune the timing for each move and make sure we move our hands at the same angle.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yes! Let's keep doing our best, Len!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hi, you guys! We came to practice!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh! Welcome, everyone♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "We were also just having dance practice.\nCome join us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, we'd love to.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Is Haruka somewhere else today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yes, she's at the TV station.\nShe said she'd come join us if she has time, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "The TV station...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(She must be trying to find out why they stopped receiving offers.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I am happy that we've started receiving offers again...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But the reason why we stopped receiving offers after Idol Lovers still remains a mystery.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(I've been a little worried about her ever since she said that.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(But not enough to go tell the others about what happened right away. For now, I'll keep an eye on how things unfold.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Then, Miku, can you take Haruka's place?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Okay♪ I'll do my best to look as sharp as her when she dances!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Luka, let's watch them dance together!\nWhat do you say?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Yes, let's.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hello! Thank you for having us again today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes, thank you for coming!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, we want you all to see how we do that dance now♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "We've become so good that Miku and Len may have a hard time keeping up with us now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, we heard that MEIKO was a really tough coach! So, why don't you show us before we start practicing together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "No Haruka again today, I see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Unfortunately...\nBut she has been investigating very thoroughly for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Investigating? You mean how you stopped getting offers?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah. She's been asking basically everyone she knows to see if they can provide her with any clues.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "So, would it be alright for me to go see her?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Huh? That should be fine, but why do you ask now, all of a sudden?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Why...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Because it feels like I haven't spoken to her in ages♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh, Luka...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "It should be okay to talk to her whenever she's in her room or over at the MORE MORE HOUSE.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "You're acting all playful, but something tells me that you're actually worried about her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "What makes you say that?\nI really do just want to talk to her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. Then, when you do talk to her, see how she's doing for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "While we've been getting ready for our streams and show appearances, Haruka's been investigating nonstop.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Which probably hasn't been easy for her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "On top of that, I feel like she's been keeping her distance in order to allow us to focus on our own work.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I agree...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But if what you're saying is true, then that means we have to make the most of every second that she's giving us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "So, Luka, we feel a lot better knowing that you have Haruka's best interests in mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hehe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "In that case, when I do go talk to her, I'll try to see how she's doing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "And if it turns out she isn't having trouble, I'll have a long, long chat with her, for a change of pace♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "A change of pace for who?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, for Haruka, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "What? There's no way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi, Minori & Shizuku",
+   "Line": "Haha!\nHehe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

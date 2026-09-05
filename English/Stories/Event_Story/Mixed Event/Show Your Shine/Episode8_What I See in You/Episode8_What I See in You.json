@@ -1,0 +1,538 @@
+{
+ "title": "Mixed Event — Show Your Shine — Episode8 What I See in You",
+ "meta": {
+  "Event": "Show Your Shine",
+  "Event Type": "marathon",
+  "Episode": "Episode8 — What I See in You",
+  "Event Outline": "On her way to replace her torn jacket at the mall, Kanade has an encounter with Saki that leads to them setting up a teatime chat. That's when Saki asks her to be the model for her fashion project, of all things...!",
+  "scenarioId": "event_155_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_f000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Saki's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00822",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I'll have you wear this and this...\nAnd these accessories...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Wow, it's like she knows exactly what to pick now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(This must mean...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(She's figured out what she wants to do.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Thank you for waiting!\nEverything's all set, so can you change into this for me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Do I look okay...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Perfect! Next, can you take a seat here? I'll be doing your hair and makeup now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00347_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I'm going to use this iron to make your hair look wavy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "My goal is to make you look delicate and dignified... But kind and soft at the same time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It sounds like you know exactly how you're going to do my hair...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I do!\nAnd I have you to thank, Kanade.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "The more you told me about yourself, the clearer what I had to do became.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehe. I'm excited beyond belief right now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see. I'm glad I was able to help...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I know! You don't have to if you don't want to, Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But would you mind closing your eyes until I've finished doing your hair and makeup?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehe. It's hard not to look in the mirror when you're sitting in front of a dressing table...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I think it'd be more fun for you to wait and see what you look like once I'm all done!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay...\nThen, please tell me once you've finished.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Thank you♪\nI'll let you know when I'm done.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Just put on a bit of pale-colored lip gloss and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Alright, I'm done!\nOh, but don't open your eyes yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I'll hold your hand, so stand up and walk this way with me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Okay, you can open your eyes now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg00026",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000402",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00220",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What do you think...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Umm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It might be strange for me to say this, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I look...really pretty, I think.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I don't know the first thing when it comes to fashion...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "But I can tell that something is different about me compared to before.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I realized something while talking to you, Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "That the radiance I was looking for is the same as the songs you compose.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "My songs...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yes.\nYou said your goal is to compose songs that can help those who are in pain or feeling sad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You want to save them, so that they feel happy... That kindness is what makes your music.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, that's just what I felt!\nI'm sorry if I jumped to the wrong conclusion...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But I really was blown away by your kindness, Kanade. In a way, it was blinding...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Which is why I thought it was the source of the radiance I see in you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I see...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(This is what Tenma was trying to capture...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Now I feel really happy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It's nice to think that my song made you feel this way, Tenma.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, Kanade, do that again...!\nCan you make that face for me one more time?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You made such a great expression just now. I want to take a picture!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "W-Wait, just now...? What kind of expression did I make...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You smiled and glowed like crazy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm90040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kanade's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00001_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Phew... This seems like a good place to take a short break.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(That reminds me...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I haven't heard back from her since then. I wonder how her project went.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hm? A message...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki's Message",
+   "Line": "<Hello, Kanade!\nI'm sorry for not getting back to you sooner.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki's Message",
+   "Line": "<Thank you again for helping me before!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki's Message",
+   "Line": "<I was able to produce an amazing picture because of you, and my art teacher even gave me a ton of praise.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki's Message",
+   "Line": "<But the parts that made me the happiest were how I was able to fully capture what I was after...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki's Message",
+   "Line": "<And when you said that you looked pretty!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00193",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki's Message",
+   "Line": "<So, thank you so very much!\nI'll send my picture over to you now, so please take a look at it when you get a chance♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Here's her picture...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Again, I'm having trouble recognizing myself...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Still...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "“I'm glad I was able to help you, Tenma.” There.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh? She already replied...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki's Message",
+   "Line": "<I'd love to do more dress-up days now and again, if you're okay with it!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "“Maybe every once in a while.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

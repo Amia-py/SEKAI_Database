@@ -1,0 +1,533 @@
+{
+ "title": "Yoisaki Kanade — Faintly Glowing Elpis〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "Yoisaki Kanade",
+  "Card": "Faintly Glowing Elpis（4★）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "Someday, From the Depths of Despair",
+  "scenarioId": "017015_kanade01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kanade's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00011",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hmm... My stomach won't stop grumbling. I was so close to figuring out what I want to do for our next song too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, I almost forgot... Ms. Mochizuki made me some extra food that I just need to heat up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I can keep working while I eat that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(She cooks, cleans, brews tea and brings flowers for me... It almost feels like I'm being waited on hand and foot...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(She's even been saying that it's all a part of her job, and she's technically right...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "But I want to show her my appreciation somehow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, I know.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Yoisaki Household - Kitchen",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hello, Ms. Yoisaki!\nYour housekeeper's here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hello, Ms. Mochizuki.\nThank you for coming again today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "It's my pleasure! I'll start by cleaning as usual. Is there anything you'd like to eat today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Now that you mention it... That stew you made the other day was really good, so I'd like to have that again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'm glad you liked it so much!\nThat means I'll have to find a way to make it taste even better this time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Thank you. Oh, I also have another request...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, how can I help you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Um... If you don't mind, could you brew the tea a little later than usual?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Kanade's Room",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Oh, that must be the stew. It smells so nice...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(As excited as I am about her stew, I'm worried about what comes after that...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I should probably review what I need to do...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00048",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami's Voice",
+   "Line": "Ms. Yoisaki, your food's ready.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "O-Oh, okay. I'll be right there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Yoisaki Household - Kitchen",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "That was delicious...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "You're very welcome. Again, I'm glad you like it so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "You genuinely seem to enjoy having it each time, which makes me really happy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "W-Was I smiling too much or something...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, it's not quite that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I've been getting a little better at understanding how you feel based on your body language.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see.\nI didn't realize I was such an open book.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. Also, you mentioned that you wanted to put off tea until a little later...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, about that...\nI'd like to brew it myself today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "What? Are you sure, Ms. Yoisaki?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, I want to give back to you somehow since you're always here to make me this delicious food.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "But this is about the only thing I could come up with regards to what I can actually do for you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "So please, let me brew some tea for you today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Ms. Yoisaki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Understood. In that case, I'd love some.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay, I'll get everything ready now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "First... Get the kettle boiling...\nWhile that goes, get the tea leaves and pot ready...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00166",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, I only have the tea you brought me, Ms. Mochizuki, but what kind of tea would you like...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'd like some... Earl Grey.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Next... Oh, right, I need to warm up the cups, but I'm still waiting for the kettle to boil... I know. I can just add some extra water right now and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00166",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00015",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Should I tell her that it's okay to use the water from the kettle before it boils...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Now, the tea leaves... One scoop... Two... Three...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Oh no...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(H-Her scoops are too big...!\nB-But this is Earl Grey... It should taste just right by adding in some milk...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, the kettle's boiling.\nI need to warm up the cups...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hot...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "A-Are you okay?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, I was caught a little off guard when some boiled over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "All that's left is to pour it into the pot and wait for it to steep.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Now to serve them with the cups and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00212",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh...? This looks darker compared to when you make this, Ms. Mochizuki... ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(J-Just as I feared...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Wait... I can balance that out with a little more water...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "M-Ms. Yoisaki!\nWhy don't we have some milk tea this time?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Earl Grey and milk go very well together, so I recommend using that instead of hot water.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see.\nThank you. I'll do just that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Phew... Here you are, Ms. Mochizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, that smells nice.\nWithout further ado...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, let's have a taste.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh... It's been a while since I last had milk tea, but it's sweet in a very gentle way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. There's nothing wrong with adding sugar, but it's much more subtle when prepared this way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Still, you're much better at this than I am. Your tea always tastes and smells so much nicer, Ms. Mochizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I really appreciate your kind words, but this is actually very good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "After all, Ms. Yoisaki, this is your way of thanking me, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I can taste your kindness and warmth with each drop.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "You can? Thank goodness...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, so thank you very much for this wonderful gift.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "You're welcome.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "And again, Ms. Mochizuki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Thank you for always making such incredible food for me. I'm really looking forward to having more.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, of course! I'll be looking forward to that as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

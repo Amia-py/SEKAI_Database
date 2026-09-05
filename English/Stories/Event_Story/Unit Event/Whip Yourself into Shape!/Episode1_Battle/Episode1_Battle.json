@@ -1,0 +1,653 @@
+{
+ "title": "Unit Event — Whip Yourself into Shape! — Episode1 Battle",
+ "meta": {
+  "Event": "Whip Yourself into Shape!",
+  "Event Type": "marathon",
+  "Episode": "Episode1 — Battle",
+  "Event Outline": "An psyches herself up to work on the task she's been given, but there's hesitation in her singing. When she realizes that her unease over Kohane is causing the problem, An calls her out to Vivid Street to settle things once and for all.",
+  "scenarioId": "event_129_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Morning",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Vivid Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Umm... I think I'm supposed to take a left up here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(There's nobody else around.\nI guess I am here earlier than usual.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Still, why did she ask to meet me here today...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Morning, An!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Morning, Kohane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Sorry for asking you to meet me on such short notice when we're not supposed to have practice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "No, that's okay.\nI've actually been waking up early to practice projecting my voice on our days off.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Really? You really do have an amazing work ethic. Even on days off, you're raring to sing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. Thanks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Anyway, An, why did you want to meet with me today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "You said it was something important...\nShouldn't we talk at the cafe instead of on the street...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "No, we have to talk here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I actually need to ask you for a favor.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "A favor?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, it has to do with my task.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...\nThe one your dad gave you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "*Nod*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "After giving it a lot of thought, I finally realized what I needed to do in order to accomplish it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But... I don't think I can do it on my own.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Which is why I need your help, Kohane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "If that's the case, I'll be more than happy to help!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "So, what do you need me to do?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Thanks, Kohane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I need you to battle against me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Right here. Right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few months earlier",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend Garage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Alright, next is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "An, your task.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Lay it on me.\nI'll do whatever is it that I need to do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Good, that's what I like to hear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "However...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...?\nWhat's wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "No, never mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "An, I need you to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Get all the locals behind you.\nEveryone who watched you grow up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Get them all behind us...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "That's right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "I've mentioned this a few times before, but RAD WEEKEND attained its legendary status because of the emotion that went into it. Very strong emotion.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "And that emotion...\nIt developed over a long period of time here on Vivid Street.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "This place where true music lovers gather.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "If you're serious about surpassing RAD WEEKEND, then you'll need to get everyone around here involved.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Because their feelings are just that powerful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "If they hadn't wholeheartedly wanted to respect Nagi's last wishes and give her the send-off she wanted, then I doubt RAD WEEKEND would've become what it did.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "So, you'll need to find a way to get them on their feet. However...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "They're not paying attention to what you're doing right now. Or rather, there's no way for them to at the moment.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "They aren't?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "No.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Nagi's wish was for the next generation to carry on her dream. So, they do want you to go beyond her dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "But they're also still holding on to the memory of her, even without realizing it... I mean, they can't really help it since her shadow looms so large over this place...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Also, their guilt toward you may be keeping them from looking you in the eye.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "So, An...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Go give them that desire.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Not the desire to honor Nagi's wishes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "You need to get them to truly want to see the moment you achieve your goal.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Get them to truly want that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...\nI get what you're saying, Ken, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Why?! Why?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Why was I the only one who didn't know something this important?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "None of this makes any sense!\nI thought everybody was on my side! We were all like family!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Seriously, why?! I don't get it! Why only me...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "An's the one who has to do this, yes...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Yes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Only An can do this.\nLike Nagi, she grew up here, and the locals have always treated her like she was family.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Everyone around here has watched An grow up and chase after Nagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "And they're acutely aware of how she wanted An to carry on her dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Which is why she's the only one who can do this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Thanks for showing so much concern for me, Kohane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But I should be fine.\nI'll find a way to succeed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I still can't forgive them for not telling me about Aunt Nagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But... I also get why they did that.\nThey were just respecting her final wishes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Shiraishi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I actually had a chance to talk to them a little while back. A few of them came to me, including the owner of Crawl Green.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "...\nWe're sorry for staying quiet about her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00215",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Live House Manager",
+   "Line": "...\nWe're sorry, An! We kept something this important from you this whole time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Frizzly-Haired Record Store Clerk",
+   "Line": "Really... We're sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "We don't expect you to forgive us.\nWe don't deserve that. Not one of us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "But, yes... We really are sorry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Sorry...\nI'm not...sure what to say right now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "Right. We're sorry for ambushing you like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "Thank you for letting us talk to you, An.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I wasn't able to say anything to them that time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But I feel a lot better now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I know they cared about Aunt Nagi, just like I did.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "An...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Then, the rest is up to you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Go show them that you're just as passionate about what you're doing as we were.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, I will!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

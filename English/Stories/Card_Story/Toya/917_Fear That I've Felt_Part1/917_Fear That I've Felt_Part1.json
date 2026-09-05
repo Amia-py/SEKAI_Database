@@ -1,0 +1,403 @@
+{
+ "title": "Aoyagi Toya — Fear That I've Felt〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "Aoyagi Toya",
+  "Card": "Fear That I've Felt（4★）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "Whip Yourself into Shape!",
+  "scenarioId": "012034_touya01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a005701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I can see why you recommended this cafe so much, Azusawa. This place has a nice atmosphere to it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "And it feels so trendy!\nI'm glad we came! This feels like the perfect place for us to take our break!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. I'm glad to hear that you guys like it so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "While we're on the subject, this place's deluxe strawberry coffee's supposed to be really good, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yes, that's right! It was very good when I had it. They make it using a generous helping of real strawberries.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Interesting. That explains all the strawberries I saw in those photos. Also, Mita, it says here that the owner's family runs a strawberry farm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Really?! Now I'm getting jealous...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But it looks awfully sweet...\nAs curious as I am about it, I sort of wondering whether or not I should just order their regular coffee...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, actually!\nYou can order one to make it not too sweet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Barista",
+   "Line": "I can help whoever's next here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, that register's open.\nLet's go order!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "O-Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Barista",
+   "Line": "Welcome!\nWhat can I get for you today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Um, I'd like...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "A skinny deluxe strawberry coffee with white chocolate chips, please. Double whip, double vanilla.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya & Kotaro",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Wh-What did she just say...?\nWas that her order...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, umm... I ordered their deluxe strawberry coffee with white chocolate chips as a topping.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Some extra whipped cream and vanilla as well. Also, I asked for them to use fat-free milk instead.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Ah, I see...\nI think I have a better understanding now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "What...? After just that explanation?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes.\nI understood all those words separately, but I couldn't imagine what sort of drink they referred to.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "That being said... It may not be the best idea for me to repeat what she said due to my dislike of sugary things.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So, Azusawa, I'm sorry, but would you mind giving me a recommendation?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, okay! Let's see...\nSince you're looking for something unsweetened, then I suggest asking for “no syrup, no whip”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Ah, to take out the syrup and whipped cream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Exactly! Also, you could ask for extra espresso if you want to enjoy the taste of their coffee more.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But I'm not sure how much you should add. It might be good to ask them about that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Okay, thank you...\nI'll try ordering that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Excuse me. I'm ready to order.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'd like your deluxe strawberry coffee, please. No syrup, no whip. Some extra espresso as well, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "How much would you recommend putting in? I'm actually not all that fond of sugary drinks, and I was hoping to enjoy the taste of your coffee...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Barista",
+   "Line": "Got it.\nIn that case, I'd recommend three shots. That should allow you to enjoy both the strawberries and coffee at the same time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Then, three shots it is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Barista",
+   "Line": "Okay, it'll be right out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I was able to give them my order. Thank goodness.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Congratulations, Aoyagi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "That was amazing!\nAlright, now I've gotta get my order right...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Mind lending me a hand, Azusawa...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Sure. So, Mita, since you like strawberries so much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, this is very good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "On top of it being not too sweet, the rich taste of this coffee matches these strawberries incredibly well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Yeah, and these strawberries are so fresh!\nThanks for letting us know about this place, Azusawa!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Yes, this is delicious...\nBut I'm still astonished by the fact that I was able to get my order in properly.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I feel like I've taken another step forward by experiencing something new.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe...\nI'm glad you guys are enjoying this so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, but our break's almost over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "You're right.\nWe can finish these once we've met back up with the others.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00035",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend Garage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00170_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, welcome back!\nLooks like you three got your drinks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hm? Mita...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You had them swap out the dark chocolate chips for white ones, huh? A lot of people have been doing that, but they are pretty good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Huh?! Y-Yeah, they are...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, Kohane, extra whipped cream as usual?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Did you get extra espresso with yours, Toya?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "You too, Ken...?!\nAlso, how did you two know what we ordered just by looking...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...?\nI mean, we've been to that place a bunch of times already.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "These three asked me to guess what you'd order, Toya. I figured that that would be what you'd go for.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The fact that you've all visited that cafe multiple times already is astonishing to me. I still can't believe that I managed to get my order right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "But we just gotta remember what we did!\nWe shouldn't forget about what we experienced today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Because there's still more to come up ahead...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, you're right...\nWe need to keep our wits sharp.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I believe in you, Aoyagi, Mita!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Aren't you guys blowing things a bit out of proportion?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

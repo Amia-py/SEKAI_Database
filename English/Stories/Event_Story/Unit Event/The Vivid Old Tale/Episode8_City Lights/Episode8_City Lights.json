@@ -1,0 +1,708 @@
+{
+ "title": "Unit Event — The Vivid Old Tale — Episode8 City Lights",
+ "meta": {
+  "Event": "The Vivid Old Tale",
+  "Event Type": "marathon",
+  "Episode": "Episode8 — City Lights",
+  "Event Outline": "After successfully hosting their own event for the first time, Vivid BAD SQUAD is determined to ride that wave closer to the heights of RAD WEEKEND. As they're discussing that legendary event, the members start to want to know more about Nagi, the woman who played a central role.",
+  "scenarioId": "event_64_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Crase Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...is what happened.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin & Kohane",
+   "Line": "Wow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Nagi was so cool!\nShe went to rescue you from that construction site like a superhero!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah...!\nShe sounded so amazing! And really reliable!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, she did.\nYour story gave us a very clear picture of what she's like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, she seems like a really good person. I guess you've gotta be to sing alongside Ken and Taiga.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Still, your past self probably wouldn't believe that you ended up enrolling in the school you snuck into that time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Also, An, I vaguely remember hearing something about you being afraid of ghosts... Is that because...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Um, well... That's not important!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hehe. Yes, I suppose so.\nYou can tell us all about it later!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "No, we don't have to talk about it at all!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "In any case, it was nice to finally hear more about Nagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I understand now that she's very similar to you, An.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What?! Similar to me?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "A-Are you sure...?\nShe always seemed so much cooler and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "At the very least, she had a big influence on you growing up, right? That's what I took away from your story.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, I guess she did...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Even now, I feel like I'm chasing after trying to become a cool lady like her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Especially since she was the one who made me realize just how much I love everyone around town.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "And how I want to learn to love this city even more...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Learn to love...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "This city... Even more, huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Is something wrong, you two?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Not wrong, but... That reminded me of something Tono said when we talked the other day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What did it remind you of...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "What Taiga said to Tono after he lost to him in a battle.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "He said, “Take a look at this city.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Take a look at the city...?\nWhat's that supposed to mean?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Tono doesn't seem to know and neither do we... It's a total mystery...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Uncle Taiga said that to Arata?!\nThe city...? This city...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wait, Taiga told me the same thing when I was practicing with him...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "He did?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah. We even took walks around Vivid Street together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see... So Taiga believes that we need to at least “take a look at this city” if we actually wish to surpass RAD WEEKEND.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But what exactly are we supposed to be looking for...? I doubt he meant just literally looking at stuff around town.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Right. Based on what you've all said, physically looking seems to be a small part of a bigger picture.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hmm... Well, you can find live houses and record stores... Is there anything else that comes to mind?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Other than those things...? People, I guess...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "This may just be me, but everyone in Vivid Street's really friendly and loves music...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But if they weren't like that, we'd probably be talking about a pretty different place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah... I have to agree based on your story, An.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hang on. What does knowing what everyone's like have to do with music?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm not really sure, but Taiga talks about those kinds of “practices” a lot so they must be related somehow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, what if you're supposed to put on an event and invite all the locals to be in the audience?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Didn't they do precisely that during their last event?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, we did. Some weren't from Vivid Street, but most were local residents or musicians who've been performing there for a long time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hmm... Then, that's not the answer...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Still, “taking a look at this city” does seem really important...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Aunt Nagi also cared a lot about everyone around town...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Very true...\nLet's keep doing our best to unravel this enigma...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An & Kohane",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Vivid Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, it's getting pretty late...!\nWe've been brainstorming for a while now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, we have. We should head home soon before we all get scolded.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "At least we won't have the police coming after us like An.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Was that really necessary?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe.\nOh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Live House Manager",
+   "Line": "Hey, An!\nHow's it going?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Veteran Staff",
+   "Line": "Hi, everyone. Welcome back.\nI heard that the last VBS event was a huge hit. Way to go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hehe. You should both come see us next time! Oh, or should we just have here be our next venue?♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Live House Manager",
+   "Line": "That'd be great!\nOur place can be the site of your very own legend!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Everybody loves An so much.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Uh oh...!\nSorry, I really need to get home soon or else my dad's going to start worrying!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Same. Why don't we call things here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah.\nSee you guys later.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay, everyone! Bye bye!\nWe'll see you guys later too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Live House Manager",
+   "Line": "Yeah, see you tomorrow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00035",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend Garage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I'm back!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Hey, welcome back. You were out pretty late today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yup! On top of practicing, we spent a lot of time discussing our next event and talking about all sorts of other stuff.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, I even got to tell Kohane and the others about Aunt Nagi today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "About Nagi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah. They all seem to believe that she was central to making RAD WEEKEND what it was.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Haha. I mean, I know all three of you were key figures, but the way Aunt Nagi kicked things off left a huge impression on everyone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Her first song left me totally stunned too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "A few questions later, I was telling them a story about Aunt Nagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Remember when I was still in elementary school and ran away? I told them about how she found me that time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Yeah...\nI remember.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hehe. The worried look I saw on your face that time made me so happy too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "It felt really rare because you always seem so calm and collected, Dad!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Hold on.\nI worry about things just like anyone else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Are you sure about that?\nI haven't seen you like that ever since...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, speaking of which...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "After telling everyone about Aunt Nagi, I was told that I'm a lot like her... What do you think? Am I?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I really hope that I have made some progress since I've sorta been chasing after her...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "You and Nagi...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Yeah, you two are alike...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We are?\nHehe. Hearing that from you makes me so happy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Alright, I'm gonna keep doing my best to be like Aunt Nagi in order to surpass RAD WEEKEND!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "I'm not sure how I feel about you becoming that relentless...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Anyway, An, we shouldn't be getting any more customers, so can you start locking up for me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, sure!\nI'll switch the sign to closed!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay, the plate's flipped...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh wow... The sky's so clear tonight!\nAnd the stars look so pretty!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(The city lights seem even prettier for some reason. Why is that?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Through the eyes of someone not from here, this place can seem pretty rough or dangerous.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nagi",
+   "Line": "They all care about you just this much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Maybe it's because I know everyone from around town's here...and doing their best...)  ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "*Sigh*\nWhat are you up to right now in America, Aunt Nagi? I really wish you'd send a message or something every once in a while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, I can send her one!\nThat might take her by surprise!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I wanna tell her all about the others, the events we've been doing and lots more...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Alright, I'm gonna do everything I can for our next event! I'm gonna make it so I stun her the next time she sees me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "An",
+   "Line": "They all seem to believe that Nagi was central to making RAD WEEKEND what it was.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "(The time to tell them appears to be fast approaching...)",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,743 @@
+{
+ "title": "Unit Event — Whip Yourself into Shape! — Episode5 A Similar Feeling",
+ "meta": {
+  "Event": "Whip Yourself into Shape!",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — A Similar Feeling",
+  "Event Outline": "An psyches herself up to work on the task she's been given, but there's hesitation in her singing. When she realizes that her unease over Kohane is causing the problem, An calls her out to Vivid Street to settle things once and for all.",
+  "scenarioId": "event_129_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00142",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Live House",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Backstage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00019_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00019_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Alright, go show them what you've got!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An, Kohane, Akito & Toya",
+   "Line": "We will!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, let's begin our debrief.\nWe'll start like always by talking about what we could've done better.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay, so... I feel like we could've done a slightly better job today of building up anticipation during the pre-chorus...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few months later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Phew...\nAnother exhausting day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Tell me about it!\nI'm probably gonna collapse on my bed when I get home.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. I know the feeling.\nLike when you start nodding off while drying your hair after taking a nice bath.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Exactly!\nThen you sleep like a log, and all of a sudden you open your eyes and it's morning.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "In that sense, our lifestyle's been really hectic lately.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I can't thank your dad enough, An.\nI've been having a lot of fun improving so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "An... I promise to try harder.\nSo that we can surpass RAD WEEKEND together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...\n*Nod*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh no! The light's about to turn red!\nSee you later, An!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay!\nGet home safe!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002603",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "An's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "*Sigh*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(What am I doing...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Ever since that day, I've been trying to figure out what to do about these feelings.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(But it happened again today...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "An... I promise to try harder.\nSo that we can surpass RAD WEEKEND together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002603",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(I couldn't genuinely smile back at her...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(I couldn't...look her in the eye...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(I can't let things go on like this...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(But what am I supposed to do...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Why don't you just tell her everything?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002603",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Tell her...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(But if I did that...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "A message? But it's so late...\nWho's it from...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Thirty minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "He should be somewhere around... Aha!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Toya!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Sorry, Shiraishi.\nI know it's late.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "No, that's totally fine!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But what are you doing out so late?\nWe could've talked after practice, you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I wasn't sure it was the best time to do it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I was hoping we could talk when neither Akito nor Azusawa were around.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The truth is, there's something I realized I have to say to you regarding the problem you told us about a few months ago.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...!\nDo you mean...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Remember what Luka suggested when you talked to us? She said that you may want to try telling Azusawa what you've been feeling...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But you chose not to.\nAre you with me so far?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Uh... Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I couldn't get the way you looked that time out of my head.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Because it reminded me of someone else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "It did...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes.\nI wasn't sure...until now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But you're repeating the same mistake.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The one I made when I tried to leave BAD DOGS.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "That time, I tried to leave without actually telling Akito how I felt.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I was afraid of telling him that I didn't have a big dream like he did. I was afraid of telling him the truth.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Because...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I was afraid of disappointing him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I agreed to chase after his dream as his partner, so I didn't want to let him down... I was afraid of what he'd say.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You were afraid...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Don't you feel the same way, Shiraishi...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Um...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I have the feeling that you're afraid of what Azusawa is going to say if you decide to tell her the truth.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(I'm afraid...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Is that what's been going on with me...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Have I been...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, you might be right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "When you put it all together like that, it becomes obvious that I've been super scared.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Which means...\nI'm also afraid of letting Kohane down.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I mean...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00215",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Every time she looks my way, her eyes sparkle.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Plus, she always talks about how exciting the way I sing is, that I'm really cool... And how she looks up to me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But... I'm none of those things.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I'm really just scared and weak... More than I realized...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I know I just have to keep trying, but every time I hear Kohane sing, it brings back that anxiety...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Shiraishi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I'm pretty sure that Kohane won't feel disappointed or anything after she sees the real me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I have a feeling that she'll say she still looks up to me regardless of who I really am.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Which means I'm getting all scared over nothing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I don't want things to be that way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I don't want Kohane to see how lame I really am. I don't want her to know.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I want her to genuinely believe in me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Which is why... I don't want to tell her anything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "When I said how I didn't want to tell her...\nIt wasn't really for her sake.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I was just...trying to protect myself...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I understand what you're saying.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The more someone means to you, the greater the fear of disappointing them becomes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Which is why I also hid what I was feeling.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "However...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I only felt like I was Akito's real partner after I told him the truth.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, the thought of disappointing someone is scary.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But telling them the truth can lead to new doors opening.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "At least, that's what I believe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Toya...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...\nOkay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Thanks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Give me some time to think.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "About how I'm going to tell Kohane everything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

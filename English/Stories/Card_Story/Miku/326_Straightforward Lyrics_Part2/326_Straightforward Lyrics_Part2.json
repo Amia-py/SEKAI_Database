@@ -1,0 +1,493 @@
+{
+ "title": "Hatsune Miku — Straightforward Lyrics〔Part2〕Side Story (Part 2)",
+ "meta": {
+  "Character": "Hatsune Miku",
+  "Card": "Straightforward Lyrics（4★）",
+  "Part": "Part2 — Side Story (Part 2)",
+  "Event": "The Warmth of Intersecting Melodies",
+  "scenarioId": "021018_miku02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Empty SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Is it snowing, Mafuyu?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "No, I'm here to talk to Kanade in more detail about our song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Miku...\nI said this before, but it doesn't snow that often.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I know, so I'll keep waiting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Mafuyu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "It's not snowing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "It's not snowing, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "The weather forecast said that it may snow the day after tomorrow, so I came here to let you know.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "It's really going to snow?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Probably. Well, as long as the forecast is correct.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "The day after tomorrow. I'll be waiting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Two days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Mafuyu's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Did you call, Mafuyu...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Yes, welcome.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Oh, is Miku here?\nHey, can you hear me?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Mizuki's voice... Are you all working right now?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Yes. We're all here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Long time no see, Miku...\nI guess you can't actually see me in this call, but how have you been?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I'm good.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Glad to hear that.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Is Kanade here too?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<I'm here, Miku. I'm also glad that it snowed today.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Oh...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Let me show you.\nJust give me a second.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000107",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<I'll be on mute for a while.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Sure, take your time.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000308",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Yeah, it might not snow again for a while, so you should enjoy it while you can.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I will. Thank you, everyone.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00244",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00245",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Can you see it, Miku...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Yes, it's so white and fluffy...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<So this is snow... Oh...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I can't actually touch it...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh... You are a hologram right now...\nI'll try for you instead...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Here, this is snow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<It looks so white and fluffy in your hand... Oh...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<It's gone...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Yes, it turned into water.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Is snow cold?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "A little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Is it cold out...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I did open my window for this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I see...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(There's no way for me to tell...\nI don't know what it's like outside or how cold Mafuyu feels...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(And I was hoping to feel the same warmth that she did...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Do you want to see more snow...?\nIf so, here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Oh, you have more now...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "But it melts very quickly in my hands...\nHere's some more...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Aren't your hands cold, Mafuyu?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "A little.\nBut this doesn't bother me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "What Ena said about it snowing again in the future may be right, so here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Mafuyu...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(Oh... My chest...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(It feels warm...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(This might not be what Mafuyu felt that time, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(I felt it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Thank you, Mafuyu. That should be enough.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Are you sure...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Yes.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I'm glad I was able to keep my promise...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Mafuyu...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I'm glad we got to see it snow.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

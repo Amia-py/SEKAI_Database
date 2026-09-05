@@ -1,0 +1,708 @@
+{
+ "title": "Mixed Event — Picture Perfect! — Episode5 Action!",
+ "meta": {
+  "Event": "Picture Perfect!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode5 — Action!",
+  "Event Outline": "When Kamiyama High School's very first Arts Festival is announced, Class 2-A decides to produce a film! It falls to Nene to sit in the director's chair, but will her leadership cut it?",
+  "scenarioId": "event_114_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kamiyama High School - Class 2-A",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, um... Amisawa, do you have a minute? I want to ask you a few things about the film equipment...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hm? What are you watching...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Amisawa",
+   "Line": "Huh? Oh, this? It's drone footage.\nThe person took shots from a bunch of different angles instead of just from up above.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, and they took some really nice footage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Amisawa",
+   "Line": "Isn't it amazing how much technology has advanced? Did you know that people started making motion pictures all the way back in the 19th century? It began with this device called a “cinematograph”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Amisawa",
+   "Line": "Oh, sorry! I didn't mean to get sidetracked! Asking my dad about this stuff sorta lit this fire inside of me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "No, that's okay...\nI can tell that you like cameras very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I'm also really interested in that, but...\nMind if I ask about the equipment...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Soda",
+   "Line": "Hiyaaah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Soda, what are you doing...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soda",
+   "Line": "Oh, I was just practicing for the film!\nI've been going to this one judo dojo for a really long time, and the kids there said they wanted to see our film.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I see...\nThat explains why you sound so motivated.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soda",
+   "Line": "Yeah, I'm going to do whatever it takes!\nGet ready for some really cool fight scenes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "*Nod*\nI'll be looking forward to those...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "T-Tachibana...?\nYou've been staring at me for a while now. Is there something on my face...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tachibana",
+   "Line": "Hmm... No, it's not that.\nHey, Director, wanna go clothes shopping together sometime?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What?! Why...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tachibana",
+   "Line": "After watching you work, I kinda want to dress you up in some nice clothes, you know...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "U-Uhh, lemme think about it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, Kusanagi.\nWhat can I do to become a better actor?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? Wh-Why do you ask?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I tried recording a video of myself acting, but my delivery was a bit...no, really stiff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I wanna go all out, especially for the last part! Can you teach me how to sound more convincing?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, I wanna learn how to do that too.\nThe cast needs to be on top of their game for this film.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "O-Okay.\nI might not be the best teacher, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Don't say that!\nPlease teach us, Kusanagi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "A-Alright, so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(We finally start shooting tomorrow...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(We've been really busy until today, but I've had a chance to talk to everyone... I feel a lot more comfortable around them now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I hope our shoot goes well...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a006101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shoot Location",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wow... This is where we're shooting?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Students",
+   "Line": "This is awesome...!\nJust look at those cliffs! It's the perfect location!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Amisawa's group found it for us.\nIt really is an amazing location.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We finally get to start shooting!\nThis is so exciting! You memorized all of your lines, right, Akito?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Of course.\nI'm not about to make a fool of myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You sure are pumped up. But that checks out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Still, to think that you'd be chosen for the lead.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I mean, we didn't really have a choice...\nI'm the only one who's more or less the same height and build as Soda.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soda",
+   "Line": "Sorry, Shinonome...\nIf only my acting skills were a little better...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soda",
+   "Line": "My brain and body sorta need to be doing the same thing, you know? My muscles do all the talking for me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, I get that.\nAlso, no one's good at everything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "True... But the fight scenes are gonna be your time to shine. Do your best as my stunt double.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You're also playing an important role, Shiraishi... The girl who the hero saves... You have a lot on your plate, but I hope you'll give it your best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Will do!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tachibana",
+   "Line": "Alright, actors, once you've finished changing, please hurry on over here so I can start doing your makeup!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, gotta go...!\nSee you in a bit, Kusanagi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(We're really gonna start shooting soon...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I've had to learn a lot of new things for this, but I need to do my best as the director...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "Several minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Amisawa",
+   "Line": "The lights and camera are all set, Director!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "O-Okay, thanks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Now, the cast should be...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We're good to go whenever!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(All ready to go...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(We're starting with the scene where the girl gets attacked by the Dark Cooks and the hero comes to save her...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(It's also the opening scene, making it a really important one... Ideally, we'll get this right and set the stage for the rest of our shoot.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000254",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Okay, everyone... And...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Action!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00061_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a006101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00250",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Huff... Huff...\nI'm almost home...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“But I'm so hungry...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Maybe if I had just a little... No, stop!\nMom's sick! She needs this more than me!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“I'm almost there, Mom.\nYou'll get to have some food in a little bit...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Shiraishi's doing a really good job...\nShe's still a little stiff here and there, but she isn't hesitating. That makes her sound really natural...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00171_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Dark Cook A",
+   "Line": "“Hah hah hah!\nWhere do you think you're going, little girl?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Dark Cook B",
+   "Line": "“Oh, what's this?!\nYour bag is full of... Food!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Dark Cook C",
+   "Line": "“What a stroke of luck!\nI guess this is what they mean by a duck carrying a leek!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“N-No...! You're...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Dark Cook A",
+   "Line": "“Bad luck, darling.\nThis food now belongs to the... U-Uhh...\nThe Dark Culinary Society!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Cut!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Male Student A",
+   "Line": "S-Sorry, I forgot my line.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Student B",
+   "Line": "Yeah, and my voice sounded really shrill there for a second...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "N-No, that's okay...\nThis was our first take after all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Still, what should I say to them...?\nI don't think telling them to sound natural will help...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Um, so...\nAre you guys feeling nervous because we're actually shooting now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Student A",
+   "Line": "Yeah... We practiced a ton, but this is for real now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Student A",
+   "Line": "The thought of everyone at school seeing our film keeps overwhelming my brain...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a006101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Wait, what if...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Then, why don't we take some deep breaths and relax... After that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Let's try thinking about having more fun...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Fun?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah. A lot of you are acting for the first time, so I'm sure you're worried about how you're gonna do and stuff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But I believe the most important thing is to enjoy playing your characters...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Student A",
+   "Line": "We should enjoy playing our characters...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah... I know how you all feel since I lost sight of that once a long time ago, which didn't end well for me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Student A",
+   "Line": "Kusanagi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Student B",
+   "Line": "Yeah...\nI think I know what she's talking about. But for now... We should all try to have more fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Student B",
+   "Line": "Okay!\nThen, next take?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Amisawa",
+   "Line": "Break time!\nDon't forget to stay hydrated, everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Phew...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Our shoot's going pretty well.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I wasn't sure how things were gonna go at first, but it's been smooth. I really can't thank everyone enough for...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tachibana",
+   "Line": "Surprise!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Eep...!\nS-So cold...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Amisawa",
+   "Line": "Haha. We brought you some ice-cold juice. We had it chill specially for our dear director.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? This is for me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tachibana",
+   "Line": "Yeah, because you've been working the hardest out of all of us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I don't think that's true...\nBut thanks. I'll gladly have this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Amisawa",
+   "Line": "Great! Also...\nThis drink is a small token of our appreciation.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "It is...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Amisawa",
+   "Line": "Yeah, because...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Amisawa",
+   "Line": "We know our film's gonna be amazing now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Amisawa",
+   "Line": "We put you in a tough spot when we asked you to become the director, but it's coming along really nicely now, don't you think?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tachibana",
+   "Line": "Yeah, it totally is. Without her, this thing was probably doomed to become one of those really bad home videos or something.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Amisawa",
+   "Line": "Exactly. But you've been doing such an awesome job as the director... Our film's starting to look good, which is giving us even more motivation!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I-I've been doing a good job...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Amisawa",
+   "Line": "Yeah, so...!\nLet's see this through until the end and make our film an amazing one!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Let's keep doing our best. Together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

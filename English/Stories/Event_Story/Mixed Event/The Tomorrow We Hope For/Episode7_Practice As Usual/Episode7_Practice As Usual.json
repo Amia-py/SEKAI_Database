@@ -1,0 +1,568 @@
+{
+ "title": "Mixed Event — The Tomorrow We Hope For — Episode7 Practice As Usual",
+ "meta": {
+  "Event": "The Tomorrow We Hope For",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode7 — Practice As Usual",
+  "Event Outline": "When Haruka stops by the shrine along her usual running route, she sees the shrine maiden who was there for her in her time of need collapse. In order to repay her for her kindness, Haruka decides to help out at the shrine in her stead.",
+  "scenarioId": "event_45_07"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a002504",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Before dawn",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shrine Hall",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Phew... Things are finally starting to calm down.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Great work so far, Airi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Minori and Shizuku should be returning from their break soon, so let's take ours once they get back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Sounds good. I just got a new heat pack out, but I still feel pretty chilly. It'll be nice to rest somewhere that's actually warm.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Haruka...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Huh? That voice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Happy New Year, Haruka!\nNice shrine maiden outfit! It looks great on you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Happy New Year, Haruka!\nLet's make this year a good one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "An, Kohane...!\nI wasn't expecting to see you two here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Minori told me about how you'll be volunteering as a shrine maiden here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I still can't believe that An's best friends with Haruka Kiritani...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I understand how you feel, but is it really that strange...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I mean, she's someone you're supposed to see on TV and stuff instead of real life, you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh?\nAkito? Toya? You two are here too?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hm? Momoi?\nWhat are you doing here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Can't you tell? I'm a shrine maiden!\nWe've decided to help out by volunteering as a group.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "As a group, huh...?\nHm? That means Hanasato's here too, right...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh, you know Minori?\nBut you're spot on. She, Haruka, Shizuku and I are all in a group called MORE MORE JUMP!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh, An, I heard that you and your team gave Minori some pointers for singing at the Fan Festival.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, we did!\nAkito and Toya taught her a bunch of stuff.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I didn't know that.\nThanks a bunch, you two!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I'd like to thank you both as well.\nMinori said your advice helped quite a bit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You're welcome.\nIt was nothing, really.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Actually, teaching someone how to sing like that turned into a nice learning opportunity for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. You guys sound just as passionate as An when it comes to singing. It's no wonder you're on the same team.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "By the way, where's Minori...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "She's taking a break right now, but she should be back soon. Why don't you head over to the Omikuji booth later to let her know that you're here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thanks, I will!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But first, let's go make our wishes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_prayer_2022_006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Alright, it's our turn!\nYou guys know what you're wishing for?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes. I'm sure we'll all be wishing for the same thing... Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<I wanna make a wish too!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Me too!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Whoa, hold up. You guys can look around and stuff, but don't jump out like that. What if someone sees you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Okay!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Would it be alright if I made a wish as well...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, Miku!\nWould you like to join us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Hehe. I think we all should since we're here.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, we're up next!\nReady, everyone?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_prayer_2022_006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_prayer_2022_005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I'm going to do everything I can to surpass RAD WEEKEND. Please keep watching over all of us...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(They all look so serious...\nI'm guessing their wish has to do with that one event.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Good luck, you guys...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Alright, our year's officially started!\nWe just need to see Minori and it'll be mission accomplished!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Why don't we stop and take a break around here? Hm...? Looks like they're handing out amazake.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Doesn't amazake have alcohol in it?\nIs it okay for us to drink that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes. Some types of amazake are made like regular sake using sake yeast, while others are made from the remnants of the sake-making process.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The type of amazake that's handed out at shrines usually doesn't have any alcohol in it, so we should be fine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Way to go, Toya! I never knew that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I read it in a book.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Sake, huh...?\nThat reminds me of the time MEIKO recommended whiskey to me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What? Is that true, MEIKO?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<You didn't offer alcohol to a minor, did you?!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Wait, is that true?\nWhat kind of person are you?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wah! KAITO?! Luka?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<You're both getting the wrong idea. I didn't offer anything to him. That was entirely a story of “what if...?”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So... Have anything to say, Akito?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "A minor drinking alcohol is a very serious crime...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I didn't drink anything!\nIt turned out to be oolong tea!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "In that case, thank goodness.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Alright, breaktime's over.\nTime to get back to work!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Minori's back from her break!\nShe's supposed to be over at the Omikuji booth, so why don't we all head over there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Minori!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hi, Kohane!\nI didn't know you were coming!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "With all of Vivid BAD SQUAD too...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hi, Minori!\nIt's pretty chilly out. I hope your shrine maiden outfit's keeping you warm.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "It is! I even have hand warmers and heat packs to go along with it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Also, how does a fortune drawing sound? It's calmed down quite a bit, so now's your best chance!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Fortunes as in Omikuji...?\nSure, why not?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, it'll be a good test of luck.\nI'll give it a go too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Great! We'll go one at a time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Ready, guys?\nWe'll open them on three, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "One, two...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000037",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00116",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yay! A “great blessing”!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Really? That's great, An!\nMine was a “blessing”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I got a “good blessing”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hmm... Mine's a “minor blessing”...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "A “blessing” and “minor blessing” aren't that different, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "To be fair, most hierarchies naturally place “blessings” over “minor blessing”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, you can always draw another one if you're not happy with what you got!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Does anyone actually fall for that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002504",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. These always have such interesting suggestions written in them too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, like this one... “Follow your heart...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "“Follow your heart”...? So it's telling you to just do as you feel? That's pretty cool. It suits you perfectly, Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Follow your heart, huh...?\nAlright, how does practice sound after this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Interesting.\nI was just thinking the same thing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Haha! So much for our day off!\nWe'd be back on schedule sooner than expected...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "At the same time, I guess that's sort of how we are!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Let's make this year a good one, you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

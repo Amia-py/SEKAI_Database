@@ -1,0 +1,973 @@
+{
+ "title": "Unit Event — Find A Way Out — Episode3 Show Me The Illumination!",
+ "meta": {
+  "Event": "Find A Way Out",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — Show Me The Illumination!",
+  "Event Outline": "Tis the season to be jolly and Vivid BAD SQUAD is all gathered at Weekend Garage. They discuss performing at the live house where RADder debuted, but Akito seems to have some history with said venue...",
+  "scenarioId": "event_79_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend Garage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay, An, that's it for the tree!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, nice work!\nWe don't have that many ornaments, and it's not that big of a tree, so putting them up is usually a quick process.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But it's so pretty and cute!\nIt gives the shop a nice feel.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Thanks! My mom picked everything out for us. She'll probably be super happy when she hears that you like it so much, Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. You think so...?\nAnd it looks like the lights all turned on with no problems!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Thank goodness!\nAlright, lemme go tell my dad.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Thanks for helping out, Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "You're welcome! So, after this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Ah, so these are the decorations you all use...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane & An",
+   "Line": "<Huh?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Hello there!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Luka! What brings you here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<It's almost Christmas, no?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<I was just discussing with the others in SEKAI how we can transform MEIKO's cafe.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<So, I decided to come and see how you all decorate things during the season.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I see. Unfortunately, I'm not sure if we can help since we don't usually do much for our place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Nonsense. That adorable little tree will make a wonderful example!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Still, you're right...\nWe want to decorate a little more than this... I wish there were more here that I could use as reference...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Then, would you like to have a look outside?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Oh, are you sure?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yes. Main Street has all these really cute shops, so those might help...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Hey, An.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Uh oh... Kohane, hide that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "O-Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "What's wrong? You seem tense.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "N-Nothing's wrong!\nWait, actually. We finished decorating the tree!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Oh, that's good to hear.\nThen, can you start putting the outside decorations up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Fine. I guess I am better at this than you. Also, our customers really like it when I do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "I just don't have an eye for it.\nAlso, Kohane, thank you for helping out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "N-No, it was my pleasure. You've already done so much for me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Still, I feel bad about having you help out...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "I know. Why don't you two sing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wait, really?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Yeah, since I just replaced all the equipment. You're probably going to like it a lot more compared to before.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wow, thank you very much...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, but today...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Alright, let's sing for a little bit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Then, you two rest while I get everything set up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Thanks, Dad!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Sorry, Luka...\nWe were hoping to show you some shops with decorations that you can use for reference...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<No, don't mind me!\nI'm in no hurry whatsoever.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<I know. Why don't I try visiting Akito and Toya while you two sing?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, Toya said that he and his family are going to be throwing their Christmas party today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Oh, a party! That sounds lovely!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<I might just have to go over and take a peek at what it's like.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Thank you for the tip, An, Kohane!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Have... Oh, she's already gone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Did she leave to give us some time alone?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Haha. Maybe!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "At the same time, I've been wanting to sing ever since our after party...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I mean, Crawl Green...\nIt's where my dad and his team performed for the very first time. How can I not be excited?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Everyone's been saying just that, so it must be an amazing venue. It'd be great if I... If I could perform there with you guys...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "There's no way we're leaving you out, Kohane! Well, to be fair, we still haven't booked the place...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "For now, let's just sing our hearts out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm90040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Aoyagi Household - Living Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00166",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya's Mother",
+   "Line": "Toya, would you like some coffee?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I would. Thank you, Mom.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00423",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya's Mother",
+   "Line": "Here, I also baked some scones and cookies.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00314",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It should be around noon in Germany right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya's Mother",
+   "Line": "Yes, your brothers are probably getting ready for their concert.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya's Father",
+   "Line": "It's very rare for both of them to be performing in the same concert.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya's Father",
+   "Line": "By the way, Toya, how have you been lately...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "We've begun hosting our own events recently, and we got to sing the song I wrote for the first time at one the other day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya's Father",
+   "Line": "Oh? You wrote a song?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya's Father",
+   "Line": "That explains why you've seemed so busy and have been coming home so late recently...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, and our event ended up being very successful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But above all else...\nSeeing my friends all smile filled me with quite a bit of joy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya's Father",
+   "Line": "Why do you seem so satisfied...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya's Father",
+   "Line": "Of course those closest to you will be happy with what you create. There wouldn't be much point in writing a song if you couldn't do at least that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But it was a big step for me...\nI have a hard time calling my song pointless.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya's Father",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00347",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya's Father",
+   "Line": "Thank you. That was very good.\nI'll be returning to my room now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya's Mother",
+   "Line": "Okay, you're welcome.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm done as well.\nI'll help you with the dishes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya's Mother",
+   "Line": "You will? Thank you, Toya.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00166",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya's Father",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Toya's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "*Sigh*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, I have English homework to do.\nI'll do it before I take my bath and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Hello, Toya! I let myself in♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Luka...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see. You want to decorate MEIKO's cafe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Our parties are usually fairly quiet, and we don't put up decorations, so I'm not sure if I'll be able to help...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<I see...\nOh, but you must've had some delicious food. Mind telling me what you ate?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "We had roast chicken and rice gratin with fish. We also had some salad and pumpkin soup. My mom always puts a lot of effort into what we eat each year for this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Oh, those all sound delicious!\nI'll make sure to tell MEIKO... Thank you for sharing, Toya!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "You're welcome, but I wish I could help you more in terms of decorations...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Actually, you may want to pay Akito a visit...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "He usually goes out for runs at this time, so you may be able to catch some outdoor illuminations.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Oh, really?!\nThen, I'll do just that.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<But it's so late in the day to be training. I suppose we shouldn't expect any less from hard-working Akito.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I agree.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "He's been like that since before I even met him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<I see...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Then, I think I'll go watch Akito train for a bit. And maybe see some illuminations for myself♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<See you later, Toya!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Vivid Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Here we are! Hello, Akito!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Akito...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huff... Huff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00220",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(Wow, he's so focused. I don't think he heard me at all.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(I probably shouldn't interrupt him...\nMaybe I'll try again later when he decides to take a break.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00220",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Local",
+   "Line": "Hey, look! The mascot for that shop's all dressed up for Christmas!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(Uh oh... I need to hide before they see me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(Akito's probably blocking out all the sounds of this fun and vibrant city...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(You can do it, Akito...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(Oh, that shop's lights! They're such a beautifully enchanting blue color!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(And that shop over there... Is it supposed to be a snowman? Hehe. It's so cute!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Whew... Hehe...\nLucky for me, I was able to place a reservation for that limited-edition transformation belt.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I was worried that they'd run out after everyone started talking about it online... I hope he likes it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Hm? Isn't that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00220",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Hey, Akito! Hey, over here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00220",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hm? Mita...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What are you still doing here?\nI thought you went home.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I was reserving my little brother's Christmas present. He's been wanting it for so long now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Wait, you're all sweaty...\nYou haven't been training this whole time, have you?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, I have. I don't want to waste a second...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Akito...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "You never change, huh?\nBut we just had an after party. Can't you just take today off?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "No way.\nIf anything, I should be doing more if I actually want to surpass RAD WEEKEND.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "And perform at Crawl Green...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "If we really are gonna do an event there, we have to put on the best show we possibly can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Which means I need to build my stamina, and do everything else in my power.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Right...\nWe actually might get a chance to play where RADder made their debut...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Hey, Akito...\nCan I join you?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Join me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Yeah, because you're right! If we're gonna perform there, I've gotta do more too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Fine, whatever...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "*Cough* *Hack*\nHuff... Huff...\nW-Wait, I need to stop...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, let's take a break.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "S-Sorry, Akito...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "All good. This is usually when I take a break, so here, have some water. It's still unopened.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "You sure? Thanks...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_way_2022_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00298",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "*Sigh*\nThat hits the spot...\nStill, Akito, we ran for a while. How are you not tired?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Because I do this every day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Geez, that's unbelievable...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Then again, as far as I can remember, you've always had that sort of personality...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "How far back are you going...?\nTo be fair, I didn't expect to be part of your life for this long.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Haha. Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "When you decided to team up with Toya, I felt a sense of relief...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Because before you did, you tried to do everything yourself. I thought you'd be able to settle down a bit...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "By myself...? Yeah, I guess so...\nYou're probably one of the only people who really know what I was like back then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "A long time's passed since I began singing here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

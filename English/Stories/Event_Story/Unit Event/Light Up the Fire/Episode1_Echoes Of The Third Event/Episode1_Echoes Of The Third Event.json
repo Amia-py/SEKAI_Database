@@ -1,0 +1,758 @@
+{
+ "title": "Unit Event — Light Up the Fire — Episode1 Echoes Of The Third Event",
+ "meta": {
+  "Event": "Light Up the Fire",
+  "Event Type": "marathon",
+  "Episode": "Episode1 — Echoes Of The Third Event",
+  "Event Outline": "Vivid BAD SQUAD's explosive third event has roused expectations that the team might actually surpass RAD WEEKEND. That's when Taiga summons them for \"an important conversation\"...",
+  "scenarioId": "event_97_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend Garage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00541",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00166_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00541",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "(We're seeing their true capabilities here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "(A part of me has been wondering this whole time...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "If anyone's going to surpass what happened that night, I'd have to say...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00541",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00540",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00541",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "It's been three years since that night...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "(I guess it's about time I fulfilled my promise...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "(Once the cafe service ends, I'll close up the place and go find them...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "(Based on how Taiga was behaving, I bet he's also going to want to say something before he leaves...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Still...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Kids sure do grow up fast, Nagi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Regular",
+   "Line": "Hey, Ken!\nEverything okay? You look concerned.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Oh, I was just thinking about something.\nWhat'll it be? The usual?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00054",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Crase Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Alright, Akito, An!\nHere are your sandwiches and coffee.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Toya, here are your cookies and coffee.\nYou ordered the tea and pancakes, right, Kohane?! Enjoy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "This is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito & An",
+   "Line": "Delicious.\nAmazing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Way to go, Rin! You said you made this mustard sauce yourself? It's got a kick to it, and it goes so well with the ham!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I think you're all set to fill in for MEIKO whenever she's not around!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You definitely delivered on your words.\nThis is really good. Nice work.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000200",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Heehee! Of course it is!\nThis is a piece of pie for us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I wasn't sure how you'd do in MEIKO's place, but I guess my worries were misplaced.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Also, Len, this coffee you made is very good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, I agree!\nAnd my mouth can't believe how fluffy these pancakes are.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Heh. This was nothing!\nFeel free to order from me anytime!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Anyway... You guys are gonna watch the video of your third event after you eat, right?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh... That's right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Our plan was to watch it with everyone...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But it sounds like MEIKO and the others aren't gonna be back for a while. So, call it a little reward for making all this delicious food for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin & Len",
+   "Line": "Woohoo!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wow, look at Kohane's solo!\nYou sound amazing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe... Thanks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I was really nervous about it at first... But, everyone gave me the push I needed to stand up there on my own.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "You really did put on an outstanding performance, Azusawa. You had me transfixed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Same here.\nIt sorta reminded me of the way RAD WEEKEND began...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wh-What? Are you talking about Nagi...?!\nNo, what I did was nothing compared to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Relax. I said sorta.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But you did put on a pretty incredible performance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Th-Thanks...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Yeah, she sounded amazing...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Kohane just keeps getting better and better. In other words, she's getting closer and closer...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(To Aunt Nagi. To her level...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(But what about me...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(No, stop.\nDon't beat yourself up.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(I can get there too...\nNo, I will get there...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wooow!!!\nThat was such an amazing event!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "And when the four of you sang at the end...! That was so mind-blowingly cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yeah, that was probably the best performance you guys have ever put on!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hehe. Thanks, you two!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Next time, we'll put on another performance like this one... No, we're gonna do even better.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, I'm sure we can!\nI mean, all the locals seem really excited about seeing our next event...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Speaking of which, it seems like more of them have been coming to talk to us since our last one. Their expectations of us must've increased quite a lot...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh... Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "The guy from the record store even told me that everyone from around town thinks we might have what it takes to actually surpass RAD WEEKEND!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Really?\nHehe. That's so nice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It's nice that we're finally getting noticed, but it also means that we can't let our guard down.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Right. Let's keep doing our best moving forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "So, are you guys gonna practice here after this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No, we're meeting up with some people, so we actually need to get going soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Who are you meeting?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Uncle Taiga asked us to meet him with Arata and the others this evening.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Taiga did? Why?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We don't actually know exactly.\nBut he said it's something important...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Something important? Like what...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "He'll be leaving to go on his US tour soon, so he may be leaving us with some parting words...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "What?! A US tour?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, he's heading back to the US.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Really? But that's so far away...\nWhich is all the more reason to see him before he leaves!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "There could also be something else he wants to say. I mean, who knows what that guy's thinking most of the time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wait, it's almost time for us to meet up with Tono and the others. We gotta go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay.\nThanks again, you two! We'll be back soon!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "See you! Have fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Alright, let's start cleaning up!\nAfter all, MEIKO said that our job's not over until the cups and stuff are all back on the shelves.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Right!\nHuh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Isn't this An's handkerchief?\nDid she forget it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh... Well, I guess we'll just have to give it back to her next time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hmm... But what if we forget...?\nShouldn't one of us go let her know it's here before we do?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Good point! Then, wanna go tell her?\nJust don't get seen by anyone, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Got it!\nI'll be right back!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Vivid Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00173_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, there he is! Uncle Taiga!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00173_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Hey, sorry for asking you all to meet so suddenly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "No, it's our pleasure.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But we were a little surprised to hear that you have “something important” to talk about. Also, there's like no one else here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "It's nice, right? I come here occasionally when I need to get away from things. It's my little secret spot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "But you're not here to tell us about this spot of yours, are you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Haha. You're always in such a hurry.\nThere are a few things that I need to tell you all, so I'll cover them one at a time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "First, you may've already heard from Little Miss Diva here... But I'll be returning to the US to go on tour.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "The guys over there have been hounding me about not coming back sooner. To be fair, I have been here for a while now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Was that my fault...?\nDid teaching me keep you from going back...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "If so, I'm really sorry for taking up so much of your time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "There's no need for you to apologize.\nI stayed because I wanted to.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "And I was rewarded for doing so.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Rewarded...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Your third event.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "You guys put on a great event, and I'm genuinely glad that I was able to see it before I left.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Th-Thank you very much...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "And it seems like you know understand what it means to “take a good look at this city”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Y-Yes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I understand the importance of all the people who want to hear us sing, and wanting them to listen to our music...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Their support is the source of our strength... I think that's what you meant!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "*Sigh*\nA quick student takes all the fun out of it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh? No, I... I-I'm sorry!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "I was just kidding.\nAnyway, you put on a great event. I haven't felt a shiver down my spine like that in a long time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Which is why...there's something I need to tell you all now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh...?\nTell us all what...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "That as things are, your dream will never come true.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "As you all are now, even if you spend your whole lives trying, you'll never surpass RAD WEEKEND.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Never.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Uncle Taiga...?",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

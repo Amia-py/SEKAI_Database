@@ -1,0 +1,828 @@
+{
+ "title": "Mixed Event — Secret Operation Valentine's Day — Episode5 Let's Make Sweets♪",
+ "meta": {
+  "Event": "Secret Operation Valentine's Day",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode5 — Let's Make Sweets♪",
+  "Event Outline": "With Valentine's Day just on the horizon, Airi is planning a surprise for everyone to show them her gratitude. She happens to meet Saki and Emu, who both had similar ideas, and they form a Secret Valentine's Day Alliance.",
+  "scenarioId": "event_48_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours earlier",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Tenma Household - Living Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Airi, Emu, welcome to my house!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Thanks for having us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, thanks for inviting us over!\nStill, Saki, your house is so big!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh stop!\nBut...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "...?\nIs something the matter?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "It's just... I can't help but feel a little anxious since you're really here at my house, Airi...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. I'm glad you're so excited about having me over, but we have a busy day ahead of us and don't have a minute to waste!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "So let's make sure our chocolate cakes put a smile on everyone's faces!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu & Saki",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00122",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Tenma Household - Kitchen",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Wow, your kitchen's also pretty big!\nThere should be more than enough space for us to bake our sweets!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah!\nWhat are we gonna start with, Airi?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "The sponge cake base is gonna take up the most time, so we'll start by baking those. After that, we can start making decorations and stuff for them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Right, because it's the basis for everything we're doing! But it still seems really hard...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I know.\nBut there's no show without a stage, so we'll need to make ours before anything else can happen!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I get it!\nBecause there's no show without the Wonder Stage!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Alright, I'm gonna do my best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I need... One, two, three eggs...\nA pinch of sugar and... Done!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So we whisk the eggs now?\nThat sounds really fun! I wanna try!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Be careful when using an electric mixer. Things are gonna start flying all over the place if you don't keep a close eye on what you're doing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yes, ma'am!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Once you feel the dough's nice and mixed, can I have you start working on the cookies?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, I've made some before so I know how!\nExcept, I remember having some trouble kneading the dough...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Saki! Saki!\nI'll help you☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You will? Thank you so much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yay♪ I'll go get the flour and stuff!\nBe right back!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Okay, cookie cutting complete...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hey, those look really cute!\nWhy don't we start making the marzipan next?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Marzipan...? Isn't that the stuff they use to make the edible Santa Clause dolls you see on top of Christmas cakes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yup. My plan's to make dolls of everyone from MORE MORE JUMP! for the top of my cake.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You know how to make edible dolls? That's so cool, Airi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Um... Can I try helping with that?\nI know your cake means a lot to you, so I wanna lend a hand where I can...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Saki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Thanks!\nIn that case, we can work on it together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Okay! I promise to try my best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000045",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "So add a couple of drops of red food coloring to the marzipan and... Oh no! I put in too much! It turned bright red!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "That's okay. Marzipan's pretty easy to make, so you can just try again with a fresh batch.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "As for this red marzipan... Hmm...\nWhat if I turned them into hearts for us to use as extra decorations?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You'd do that?\nYou're a lifesaver, Airi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "The macarons seem ready too.\nAnd it looks like none of them broke!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow! They're perfectly baked!\nThey really look like plushies!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Emu, can you start piping the ganache onto the macarons? They don't need much so go a little bit at a time, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay!\nA little bit♪ A little bit♪ A little bit of love♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Haha♪\nOh, Emu. Singing while piping ganache!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe♪ I can't help it!\nEverything feels so sweet and delicious right now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I even talked about doing a really sweet show with everyone the other day♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "A sweet show...?\nI wonder what that would be like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Sweet♪ Sweet♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehe. Looks like our chocolate cakes are gonna turn out amazing, and it's all thanks to you, Airi♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But... I'd like to be able to bake one on my own next time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh, why's that?\nI'll always be willing to help, you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "A-As tempting as your offer is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I'm always relying on my friends for help, especially during band practice since I'll run out of stamina sometimes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Which is why I want to learn to be able to bake and make gifts like this on my own one day!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "You want to give back to others all on your own... There are times when I want to accomplish something by myself, so I totally get how you feel.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "But it's also okay to ask for help when things get tough.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Idols aren't exempt from that either. There are plenty of things that we can't do on our own, but we're able to grow because we have each other.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Things that you can't do on your own...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I'm not saying it's bad to set out on your own. I'm saying that you're not alone and you can always ask for help whenever you think you need it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Be it baking sweets or anything else, we can try everything together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Airi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah, you're absolutely right.\nI convinced myself somewhere along the way that I had to be able to stand on my own.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But this is why you're the best, Airi!\nYou're sparkling just the way you did on TV... No, I think you're even brighter than before!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I'm so happy that I got to meet you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. I'm not that great or anything, but thanks, I really appreciate it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Stand the cookies up like this...\nAnd add a couple of dragees...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hmm...\nHow should I line up all the plushies...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "They're so focused...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Rin, you can take a peek now, but try to be discrete, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<I'm here♪\nHehe. I snuck out of dance practice to see this♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Oh wow!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "So, what do you think? Baking looks fun, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Yeah! And your cake's adorable, Airi!\nIt looks just like a stage for idols!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<It even looks delicious.\nI'm sure everyone will love it!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. Thanks.\nI'll be making some for you too, so you'll have that to look forward to.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Yay♪\nThank you so much, Airi!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Scramble Crossing",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Is something the matter?\nYou two seemed awfully startled when you were by the intersection just now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Saki seems to be acting a little strange is all...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Saki is?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, I was told that Ichika and the others would be going over to our house...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But she seems to have told them that she won't be able to make band practice because she had a family outing to attend to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I see...\nBut why would Saki ever lie like that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I have no idea...\nNothing like this has ever happened before...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Oh, so yesterday...\nI may not have been imagining things. That really might've been Airi.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Arrgh! This isn't getting us anywhere!\nLet's just call her!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Tenma Household - Kitchen",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Phew... I'm done decorating mine!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Me too! Me too! That was so much fun☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Great work, you two.\nThose look really amazing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Now we just need wrap it in plastic after everything hardens and settles. Make sure not to touch it once we do that, alright?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Okay, I'll start doing the dishes in the meantime... Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00137",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Saki, your phone's ringing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah, it is.\nTsukasa's calling...\nBut why?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hello?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa's Voice",
+   "Line": "<Saki, where are you right now?!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What's wrong, Tsukasa?\nI'm at home like I said...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa's Voice",
+   "Line": "<What's wrong?!\nI bumped into Ichika just now and she said that she has band practice today...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa's Voice",
+   "Line": "<But she also said that you wouldn't be able to make it because we were going somewhere as a family. Why did you lie to us like that?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I, um.. Well...! It's just...\nSome things came up and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "What's going on, Saki?\nIs everything alright?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Shh! Not now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa's Voice",
+   "Line": "<Hm? Who was that just now?\nYou're with someone, aren't you?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "No, I'm just... Uhh...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku's Voice",
+   "Line": "<Is Airi there with you by chance...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika's Voice",
+   "Line": "<What? Momoi's with her?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(I-Ichi? And was that Shizuku?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Ts-Tsukasa!\nThere's nothing for you to worry about!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "We're... I'm not doing anything suspicious... Oh no!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_valentine_2022_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa's Voice",
+   "Line": "<Saki?!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Are you okay, Saki?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Y-Yeah. The bowl just fell and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa's Voice",
+   "Line": "<Are you in some kind of trouble?!\nI'm heading home right now, so sit tight!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wait, Tsukasa... H-He hung up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What happened, Saki?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "This is bad! What do we do?!\nTsukasa said he's coming home!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi & Emu",
+   "Line": "What?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Also, it sounded like Ichi and Shizuku were there with him...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Wait, that means they might all come here together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh no!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What do we do, Airi?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We have to hide our cakes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "B-But we're not supposed to move them, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Right. We can't box them up or put them in the fridge yet. If they do actually all come here, it's game over...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Noooo! Isn't there anything we can do?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(Sounds like they're in trouble...!\nIsn't there anything I can do to help them...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Oh, I know! Hey, Airi...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Rin...?",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

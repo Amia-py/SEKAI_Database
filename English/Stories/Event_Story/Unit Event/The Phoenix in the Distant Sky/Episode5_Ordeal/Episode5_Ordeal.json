@@ -1,0 +1,803 @@
+{
+ "title": "Unit Event — The Phoenix in the Distant Sky — Episode5 Ordeal",
+ "meta": {
+  "Event": "The Phoenix in the Distant Sky",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — Ordeal",
+  "Event Outline": "At the Otoris' suggestion, Tsukasa and the rest of WxS are set to perform in the Phoenix Stage's 30th Anniversary Show. What's more, they'll be performing a show starred in by Tsukasa's idol. Tsukasa leaps at the chance to audition for the same role as him!",
+  "scenarioId": "event_88_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Tsukasa's turn involves Rio conversing with the phoenix...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(They'd been running around until then, but slowly begin to understand each other's feelings...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“So, how does it feel...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“How does what feel...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“You know, living forever?\nDon't you ever get lonely? You have to watch all your friends and family pass on, right?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“I think nothing of it.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“I have long since gotten used to all that...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“So...\nYou do feel lonely...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“Ugh. Your mouth does not know when to stop, does it? If you have time to talk, you have time to catch me.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Hey, wait...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(They're on totally different levels in terms of acting...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I mean, Tsukasa's doing a really good job of showing Rio's timid and gentle nature.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(And yet...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000173",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“What is going on...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“As we converse...\nMy heart is being squeezed tighter and tighter for some reason.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“He is but a mere human.\nThey perish after only living a handful of years.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“And yet... Why?\nWhy...? Why?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“I have never felt this before...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I can't take my eyes off her...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Seiryuin's phoenix is just too captivating...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Can I do that...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Can I put on that kind of performance someday...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Stop there. Let's have our next candidate step in.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thank you very much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I felt powerless in her presence...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(In the face of her phoenix...\nMy Rio seemed completely lifeless...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Hmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "As I suspected, finding someone to play opposite Sakurako is not going to be easy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Okay, that concludes today's practice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Everyone",
+   "Line": "Thank you very much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Now, if you'll excuse me... I'll see you all tomorrow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "W-Wait...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00531",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00531",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Huh? Tsukasa?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00100_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Seiryuin!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "What is it?\nI still have to practice on my own, you know.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I know you're very busy and I do apologize, but could you spare a minute of your time to talk?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "*Sigh*\nOnly a minute.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Then, I'll get straight to it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "How in the world were you able to portray your character like that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "There's no way I can answer that quickly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Please! I have to know!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Your phoenix felt so real...\nIt felt like she was right here. Just watching you, I was able to clearly see the forest and hear the wind in my ears.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The star I look up to... He also put on that kind of performance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "So, please!\nI beg you! Even just a small hint!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Fine...\nIf you're willing to go that far.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Really?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Yes, really.\nHowever, it's not like I did anything that out of the ordinary.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "I simply wish to build the perfect character.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Build the perfect character...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "For example...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Before trying to portray a character, I read books on related subjects... For the phoenix, I read this one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It says... “The True Identities of Fantastical Beasts”...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "It's a book about history and folklore that discusses how people came up with phoenixes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "I also researched my role by watching videos of birds and how they move so that I can learn to be like them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Only after all that did I think about her feelings. The loneliness of never dying and endlessly being reborn from your own ashes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But it's only been one day since we were given our scripts. You've already done all that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Presenting myself, a human, as a bird is no small feat. Especially one that does not actually exist...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "In order to convince others that my phoenix does actually exist, I need to form a crystal clear image in my head of what I'm trying to portray.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Which is why I plan on reading at least fifty books before we open. I'll watch videos every day as well. I even asked one of my troupe mates to let me observe their pet bird at their home.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "I'm going to do absolutely everything I can in order to properly portray a real phoenix.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(She's doing all this research for this role...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(No wonder she's head and shoulders above the rest of us...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thank you, Seiryuin.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I'll put what you said into practice right away by forming a clear image of how I want to portray Rio.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "I commend your desire to follow in the footsteps of a superior person...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "However, Tenma, I doubt my method will actually work for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "This is just my feeling, but you and I don't seem like the same type of actor...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The same type...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. Actors come in all shapes and sizes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "For instance, some prefer to gradually get into character while others may try to imitate their foibles... Of course, there are prodigies who can immediately take full control of their characters, but let's set that aside for now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "From what I've seen, Tsukasa, I'd say you're someone who likes to gradually get into character. Seemingly the most popular archetype.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Gradually get into character...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In simpler terms, I believe you prefer to learn by doing since you and logical analyses of characters don't usually mix well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Right...\nRui's mentioned that before.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Based on what she said just now, Seiryuin is the type of person who prefers to take a more analytical approach to her characters.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(As for me...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "When you played Miles during the night show, I didn't get the sense that you broke him down into his fundamental components.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "So, I believe there is a better approach for you to take. What do you usually do when learning to play a new character...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ever since we did a rendition of “A Pianist Named Thorpe”, I've tried thinking about what my character and I have in common.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "You like to get into character by first establishing an emotional link with who you'll be portraying.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "In that case...\nThey might be your best teacher...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(They...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "I have a friend who's the same type as you, Tenma.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "They too like to establish an emotional connection with their characters and try many different things to achieve that goal.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Such as placing yourself in their environment or doing what you think they would do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Placing myself in their environment...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I have some experience with that.\nI remember attempting to understand how an impoverished shoeshine would feel by sitting along the side of the road.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Then, you have a basic understanding of what to do. However...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "This person would actually become one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Become one?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Yes, in other words...\nThey'd shine shoes until they're able to make a living of it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Of course, I don't mean that you should go around copying all of the roles that you play...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "But your characters should gain more presence as you do what is necessary to bring them to life and be on the same page as them emotionally.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, I agree with you there...\nI can understand that method.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "However, will it be possible for me to do all this in less than a week...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "What you do until the audition is entirely up to you. But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Tenma...\nYou've been going around claiming to be a future star, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "So...\nWhy don't you become the star of this show?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Of course...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I promise to make this the best show ever by surpassing even you...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Hehe... That's more like it.\nWell, I'll be looking forward to seeing what you come up with.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I made a fairly ostentatious claim there towards the end, but I'm very short on time...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Will I really be able to figure out this character in less than a week? To get on the same level as Seiryuin...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Tsukasa!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00134_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Seriously, why'd you run off like that? What happened...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, you're all here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Apologies...\nI had Seiryuin give me a few tips regarding how to get into character.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What...?\nThat's a pretty big ask. And she agreed to help you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes. Well, to be clear, not using her way, but her friend's...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "However, I'm worried that I won't be able to figure out my character in time if I go with that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Tsukasa...!\nIs there anything we can do to help?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I know we don't have much time, but we might be able to do something about that if we all work together...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Emu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "To be honest, getting on the same level as Seiryuin as she is now will be incredibly difficult...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But you still wish to go through with this regardless...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Tsukasa really amazes me sometimes...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Even after seeing such an incredible performance, he's not giving up. I was convinced that it'd be impossible to catch up to her...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I wanna help too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I have to learn more...\nI have to absorb what I can from Tsukasa and Seiryuin's performance...! So that I can also get better!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "All of you...\nThank you! I really appreciate it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

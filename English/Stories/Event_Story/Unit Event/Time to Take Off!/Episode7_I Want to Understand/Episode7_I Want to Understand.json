@@ -1,0 +1,403 @@
+{
+ "title": "Unit Event — Time to Take Off! — Episode7 I Want to Understand",
+ "meta": {
+  "Event": "Time to Take Off!",
+  "Event Type": "marathon",
+  "Episode": "Episode7 — I Want to Understand",
+  "Event Outline": "Vivid BAD SQUAD are just about ready to visit the US, where they'll attend the event Taiga and Ken are taking part in. An excited Toya is packing his things when he receives an unexpected message...",
+  "scenarioId": "event_154_07"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c003001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "New York Academy of Music",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Man, I wasn't expecting to hear that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I'm also a bit surprised.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "“Mr. Lloyd?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "“In your opinion, what kind of student was my dad?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“What kind of student was he? Well...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“Like I said a second ago, he was basically a monk.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“Oh, but also very stubborn.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Uhh... I didn't catch that last part.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. He was apparently very stubborn.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "“Yes, I can kind of see that!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Based on what you've told us about him, Toya, he's as hard-headed as they get.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“Haha. To be fair, I'm not one to talk.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“When it comes to music, there are certain things in which I'm not willing to compromise.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“But...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“Harumichi was a musician I respected very much. I feel like I learned something every time we played together.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "“Every time you played together...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“Yes, we swapped genres from time to time, and even played completely random music.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“Each time I stepped out of my area of expertise, I was given a chance to objectively assess my playing abilities.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“Not only that, I learned new ways of expressing myself through my music.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "“I see...\nThat does sound like a good way to learn.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(But it's also easier said than done.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(When I first started singing street music, my habits from playing classical music hindered me quite a lot.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Dad and Mr. Lloyd probably had no issue dipping their feet in other genres because they were both great musicians already.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“So, Toya, since you and your friends are here, would you all like to give it a try?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Give what a try...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“Ah, perfect.\nI see some students doing a session in the courtyard.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“Hey!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Student Ａ",
+   "Line": "“Hm? Is Professor Lloyd telling us to come over?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Student Ｂ",
+   "Line": "“Do you think that group's here to visit the school?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_003_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“Were you all just having a session?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Student Ａ",
+   "Line": "“Yes, we're done with our morning classes, so we decided to do one for fun.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(A violin, a cello and a saxophone...\nAs far as sessions go, that seems like a standard combination of instruments, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wow, I've never seen some of these instruments before...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah... Oh, what do you think that silver pan is called?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I believe it's a steelpan.\nI remember seeing it in a book once.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "They're apparently made out of steel drums, and you can produce different sounds depending on where you strike it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Really...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I'm having trouble imagining how we're gonna have a session using all these instruments...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Me too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(But Mr. Lloyd just asked if we'd like to give this a try.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Which means...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“Would you all mind letting these kids play with you? They'll be singing.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Student Ｂ",
+   "Line": "“We don't mind.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Student Ｃ",
+   "Line": "“That's perfect, since there aren't any vocalists around today.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Umm... Singing with them does sound fun...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But completely on the fly...? Is that gonna be possible for us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Yes, we aren't just dealing with street music here. We have a blend of genres...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I honestly can't imagine what our performance is going to sound like...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“Harumichi used to participate in these sorts of sessions back in the day.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...!\n“Is that true?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“Yes. When I first met him, he always had this serious and curmudgeonly expression on his face.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“But after he played in one of these sessions, I saw him smile for the first time. He seemed to genuinely enjoy himself.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "“Dad? Having fun...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“Yes, it was quite a surprise.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(To think these sessions could hold that kind of power...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Then...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'd like to give it a try.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Toya...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "If there's anything our trip to the United States has taught me so far, it's that I still know very little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm not just talking about the things I missed out on when I was little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I dreamed of playing like my dad...\nBut it's clear now that I knew nothing about the truth behind his music.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Which is why I want to know more.\nI want to participate in this session and try to experience what he did...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I want to know how his music evolved.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, why not?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We came all this way to America, so we should be making the most of every opportunity we get.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Right! And this session is sure to help us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Let's give it a try, Aoyagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you all very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,958 @@
+{
+ "title": "Unit Event — Whither This Path of Thorns — Episode3 A Friend's Wish",
+ "meta": {
+  "Event": "Whither This Path of Thorns",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — A Friend's Wish",
+  "Event Outline": "Mafuyu's big step forward in her own life inspires another member of N25. Before the School Festival, Mizuki resolves to open up to Ena...",
+  "scenarioId": "event_145_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000306",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "The day before the school festival",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Students",
+   "Line": "Hey, did you manage to drape that cloth over it?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Students",
+   "Line": "Yeah, we did!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Tomorrow's the day...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(And I didn't end up sending that message...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(The festival's tomorrow...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Ena seemed pretty busy, so maybe she won't...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Students",
+   "Line": "Then, we'll start decorating the entrance.\nAkiyama, can the puzzle team handle setting everything up inside?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Uhh... Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "We already have the prompts written down and all the props we need, so we should be able to get everything set up pretty quickly!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Students",
+   "Line": "Great!\nThen, you take it from here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Roger!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00047_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you for preparing these props for us, Akiyama. I feel a little bad for not helping out more.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "That's totally fine! You did a great job coming up with a bunch of puzzle ideas for us, Toya!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "And it was actually nice to be kept so busy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Hm? Did you say something just now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "No, nothing...!\nAnyway, we're short on time, so let's get everything set up on the double!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, let's.\nI'm looking forward to seeing how everyone solves the riddles in our escape room.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000506",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Let's see... It looks like everything's where it needs to be, so I think we're done!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm inclined to agree after double-checking.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Okay. Then, let's start heading out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Alright, I plan on stopping by the library before heading home.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, right. You've still gotta do library committee stuff.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "In that case, bye bye!\nSee you tomorrow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Tomorrow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Either way, I need to tell her...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(If Ena does decide to show up, then before she...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000506",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Mizuki?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Rui...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hey, what's up...?!\nYour class is doing that play, right? Are you guys all set up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes...\nWe just finished rehearsing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I had the cast go home in preparation for tomorrow, and was just handling cleanup.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I see.\nI might come check it out if I have time♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'm glad you got to do a play this year, Rui.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Me too.\nAnd I have my class to thank...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "How have things been on your end, Mizuki...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Us?\nOur class is all set to go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "We came up with a really elaborate escape room. Even you might have trouble solving all the riddles, Rui. You should totally stop by and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...\nI guess that's not what you were asking.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We have known each other for quite a while now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Why don't we talk in the courtyard...?\nI should be done cleaning up soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000105",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Courtyard",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It's still very warm, despite being fall.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah...\nIt's almost unbearable.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...?\nWhy are you giggling?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It felt like old times, is all.\nRemember how we used to chat while watching the sun set after school?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah... I mean, we didn't have much else to do back then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "True.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "All either of us was capable of back then was aimlessly watching as time flew by.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Anyway...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "What's bothering you, Mizuki?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Of course, if you don't feel comfortable telling me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "No...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I want to tell you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'm thinking about telling them everything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "About myself. To the others in my group.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "You are...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But I'm stuck...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "My mind is telling me to move forward, but I keep freezing up...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'm so afraid.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "What are you afraid of the most...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "A part of me is scared that they're going to reject me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But what I'm most afraid of is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "How things might change...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00215",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "My relationship with the others could morph drastically...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Including how we all spend time together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000105",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I don't want that to change...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I know the others aren't like that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'm sure they aren't going to reject me for who I am...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'm feeling all this because I'm overthinking things way too much... I know they'll be willing to accept me just for who I am like you guys, Rui...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "If I end up making them accept me for who I am.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "If I force them to talk a certain way or treat me like a delicate flower...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "If I start to feel like that's happening...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I... I don't think I can handle that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Mizuki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I know I sound really selfish right now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "No, don't say that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Change is a scary thing, particularly if it involves someone you really care about.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It's a very scary thing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Unfortunately...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I have no way of making the fear you're feeling disappear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "However...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I can hope.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That you'll get to be yourself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00175",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I can hope that you're going to experience true happiness.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That's my sincere wish as your friend.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Rui...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00005_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Let's start heading home...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Thanks, Rui.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Mizuki's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<I don't care if you decide to run or move forward...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<But just know this... In the midst of this pain, you need to choose the path that allows you to save yourself.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<In order to keep on living...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<I'll see this through with you.\nNo matter how things turn out.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Regardless of how the future unfolds, I'll be there with you until the end.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000105",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I can hope.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That you'll get to be yourself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I can hope that you're going to experience true happiness.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That's my sincere wish as your friend.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(This fear I'm feeling isn't going to just disappear...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00084_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(A Nightcord notification? Oh...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Amia, are you there?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "It's Ena...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Hey, Enanan!\nWhat's up? It still isn't time yet.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00001_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Sorry for not messaging you sooner!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<About the festival tomorrow...\nI'm thinking I'll go after all.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I was thinking about skipping, but I accidentally took home some of the spices and condiments we're going to use.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Just going to bring them back would be kinda lame, right? I also just finished my assignments, so I figure I'll actually stick around...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<K and Yuki sounded interested too, so why don't we all check it out together?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I see...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Then...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Okay!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00001_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Then, let's check it out as a group tomorrow.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Also, Enanan... Tomorrow...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00001_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Can we talk tomorrow during the night festival?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00001_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<I want to tell you...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Everything that I couldn't until now.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I finally managed to get that out...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Then, let's check it out as a group tomorrow.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I'm such a wimp, even though I'm this close...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(This might be the last time we get to hang out together like this...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(So...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,788 @@
+{
+ "title": "Unit Event — Kick It Up a Notch — Episode1 A Phone Call",
+ "meta": {
+  "Event": "Kick It Up a Notch",
+  "Event Type": "marathon",
+  "Episode": "Episode1 — A Phone Call",
+  "Event Outline": "Vivid BAD SQUAD is all set to perform at \"Crawl Green\" and are very excited about it. Kohane and the others are also looking forward to seeing Taiga there, but he happens to get a phone call which...",
+  "scenarioId": "event_86_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend Garage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "S-So, Shiraishi and Tono...\nDo you think they're still in talks with Crawl Green?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "It has been taking them quite a long time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "To be fair, that owner isn't gonna budge so easily. We just have to hope that their negotiations are going well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Everyone seems anxious about this. Even I'm uneasy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Today is the day we're supposed to find out whether or not we get to do our event there. Also...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Taiga said he'd come and watch.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Taiga's really coming to see our event?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah!\nThat is, if we manage to book Crawl Green...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(They all want to see Taiga there.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(And so do I... I really want to see how he reacts after seeing our event...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I want him to see where I'm at now in terms of singing...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, An, Tono! Welcome back!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, we're back!\nMan, that was nerve-wracking! I really hate doing these sorts of negotiations!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you for doing this, Shiraishi. You as well, Tono.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "S-So, how'd it go?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "*Nod*\nWe were given the green light.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We appreciate it, you guys.\nThanks for going over to talk to them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah! Thank you both so much, An, Tono!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "No, you're giving us too much credit. I believe our second event actually did most of the talking for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Totally! The owner sat there really quietly as he watched the video of it... And then, at the end, he asked, “When do you want to perform?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Really...?!\nThat's great since we all felt very good about it afterwards.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Exactly! So, this win was a team effort!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, also!\nWe made sure to remind the owner about that other thing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Remember what Arata said...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "I told him, “We're going to put on an event that's even better and more packed than the one RADder put on when they debuted!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "Yeah, I remember. So, you were serious about that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Of course I was. I mean, surpassing RAD WEEKEND will remain a pipe dream if we don't believe we can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But the owner quickly responded to that by saying, “Don't get ahead of yourselves!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "I can imagine...\nHe's always been a tough judge to please.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Also, Akito... He surprised us by asking that we relay a message to you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "To me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "“I remember you and what you look like. If you mess up again, that's it for you.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "He remembers...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But that doesn't matter...\nBecause we get to do our next event at Crawl Green!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah! Which means Taiga's going to come see us perform!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Hey, you all sound pretty excited today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Oh, Ken!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "I take it you just received some good news? Why don't you all have a round of drinks on me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Really? Thanks, Dad!\nI'll get everyone's orders now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you for always being so generous.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Don't mention it. You guys are regulars here after all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "By the way, I just overheard some of the conversation you were just having. Is it true...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Are you talking about us playing at Crawl Green?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "There's that, but...\nIs Taiga actually going to see your next event?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Hey, Ken. What's...? Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Uncle Taiga! Perfect timing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You gotta hear this! We just got the green light to do our next event at Crawl Green!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Oh? You actually managed to get that old geezer to listen? Not bad.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Which means I need to fulfill my promise...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...!\nThank you very much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thank goodness...! That means you're coming to see us...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Hey, relax.\nI'm just one extra spectator.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Still, having to go all by myself doesn't seem right... So, Ken...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Wanna come with?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Alright...\nI should every so often.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What?! Dad, you're gonna come see us perform...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Yeah, since it's pretty rare of Taiga to invite me like this. I feel that not accepting would be a bad idea.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Hah hah hah. You can thank the great Taiga for your thriving business!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Anyway, add two more to the guest list. Once you guys have hammered out all the details... Tell Ken.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "I'm looking forward to seeing your event.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Th-Thank you...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "Whoa, no way...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Taiga coming to watch is already scarcely believable, but Ken's joining him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Y-Yeah. I'm starting to get really nervous...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Anyway, An, mind taking everyone's orders...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh? R-Right! Gimme one sec...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Alright, Taiga, what'll you have?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Hmm... Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Oh, sorry. I need to take this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Never a dull moment...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Alright, here's the pizza!\nMind moving your cups and stuff for me?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00314",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Wow, thanks!\nI'm taking a slice while it's still nice and hot!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "(Taiga still hasn't come back...\nI guess that call's taking longer than expected.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "(But it's going to be dark soon...\nI should turn the light on for the sign.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00316",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<————>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "(Hm...? That sounded like...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "So, start in Los Angeles and work our way across the country to New York? Not bad.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Alright, got it...\nI'll be heading back soon, so we can discuss contracts and all that then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00138",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Hey, Taiga.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Hey, Ken. Were you there the whole time?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "You're going back to the States?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "What's that? Were you eavesdropping on my call?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "A musician friend called to ask if I'd be interested in doing a US tour. I sort of can't refuse...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "But you just...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, there you two are...\nI need to head home soon, so I thought I should say bye before I did...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thank you very much.\nWhat you made for us was really good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "That's good to hear.\nCome back whenever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I will! Oh, also, Taiga...\nI'm looking forward to practicing again next week!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "You're so old-fashioned.\nAnyway, see you then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Dad, I'm gonna see Kohane out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Sure thing. It's getting dark, so be careful, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "(I've seen this look on Taiga's face before.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "(Taiga wants Kohane and her to...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Are you going to leave your student behind...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "What? Are you talking about us practicing...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "It was just an old man's whim.\nUnfortunately for her, that's all the time I've got.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "But you promised her that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "I promised her what...?\nMore importantly, I'm parched. A beer sounds great right about now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "*Sigh*\nPace yourself.\nI'm pretty sure it's going to rain tonight.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Scramble Crossing",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I should have remembered the forecast said it would rain tonight... Thanks for letting me borrow one of your umbrellas.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "No, don't worry about it! We keep these around just in case this sort of thing happens!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Still, today was packed full of surprises...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Not only is Uncle Taiga gonna come see our event, so is my dad now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah. I couldn't believe it... And I'm really happy. I want to make it a good event if they're both going to be there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Also, as prickly as you, your dad and the others said he is, I want the owner to acknowledge us as being good...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Which is why I want to make the most of my practice with Taiga next week...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

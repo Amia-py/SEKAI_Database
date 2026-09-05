@@ -1,0 +1,643 @@
+{
+ "title": "Unit Event — Putting Feelings Into Words — Episode5 Torn Apart",
+ "meta": {
+  "Event": "Putting Feelings Into Words",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — Torn Apart",
+  "Event Outline": "Leo/need has begun performing in earnest at the live house. Honami comes up with a schedule to ensure that they can all work on their performance without overexerting themselves, but then she notices that Shiho seems different from usual...",
+  "scenarioId": "event_40_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "School SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "————♪ ————♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Your new song's so cool.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah! I liked your other song, but this one's starting to sound really amazing too☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "How you all feel is evident based on the way you're playing too. I can't help but smile.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I'll have to keep doing my best to keep up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "What?! But you were here 'till really late last night, Miku-P! You're really gonna practice more?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, Miku, is that true?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "So diligent...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "R-Rin, you didn't have to blurt it out like that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Huh? Why not?\nI just think your work ethic is amazing and you look really cool when you're really focused like that♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Th-Thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe. Way to go, Miku.\nTo be fair, the girls are no slouches either.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Yes, not only that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "They don't seem happy with what they currently have.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I'm still not completely solid during the chorus. My voice keeps going in and out it seems...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, it still doesn't sound quite right. We could tone it down a little, but that might also make it sound dull. I'm really not sure what to do at this point.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hmm... We'll just have to keep making small adjustments, like how the song sounds during and around the chorus.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Right. It'd be nice if we could do that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "But it's getting pretty late.\nLet's save that for tomorrow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, you're right...\nAre you free later after you get home, Saki?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I'd like to make some changes to the lyrics and want someone to bounce ideas off of if you don't mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah, of course!\nI'll call you once I get home!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Don't work too hard, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "We'll be fine, Shiho!\nI mean, it's my melody that needs work. I want to have everything ready for next time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "And I'll be there with her.\nI already feel pretty bad about how much you've been working with us one-on-one...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Okay, I understand...\nGood luck.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Honami, do we need to talk about our schedule?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Honami...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hona?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Huh? Oh... I-I'm sorry...\nMy mind must've wandered...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Is everything okay...?\nYou've sort of been acting like this all day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Is something bothering you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "It's nothing, really.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "If you say so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Sorry, I didn't mean to make you all worry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Um, Shiho...?\nCan we talk after practice?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "With me? Sure...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Bye, everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Okay, bye.\nSee you tomorrow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "So, what's up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Um, well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Remember how I saw you calling someone the other day? You seemed really worried about something and it's been on my mind since...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Oh, that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "If it's something you didn't want anyone else to know about, sorry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But I'd like to work with you and find a way to help if something really is bothering you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Thanks...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Shiho...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I kept this from the rest of you so that you could focus on practicing our new song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "But it's affecting practice now, so I guess I don't really have a choice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Please, tell me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Just don't tell Ichika or anyone else, alright...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "We have to sell a certain number of tickets for our next show...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Tickets...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Normally, bands that play at live houses have to sell tickets in order to be allowed to actually perform in a show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Until now, the manager and the owner have been giving us a free pass.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Three times in total now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "But I know how hard it is to operate a live house like that, and I felt bad about how we were being given special treatment.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I see...\nI'm sorry. I had no idea.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Why are you apologizing?\nIt's my fault for not saying anything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, wait...\nIf we have to sell tickets, then that means...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "No, it's not an issue.\nI should be the one apologizing to you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "But thank you. I hope things will work out next time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00138",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Another no...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Is that what you were doing, Shiho?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "That explains why you seemed so deflated...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "By the way, Shiho, how has it been selling tickets?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "We still have to sell more...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I thought so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "But you don't need to worry.\nThey'll all be sold in time for our show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Shiho, I understand that you don't want me to tell Ichika or anyone else about this, but wouldn't it be better to share the load...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Wouldn't it be a lot easier than having to do this all on your own?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I'm actually trying to avoid that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "We're still working on our new song, right? Based on what I saw today, it's going to take a few more days to hammer everything out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "And if we have to start selling tickets to play in shows, we won't have enough time to create, practice and finish any new songs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "So for now, I want all of you to keep working on our new song. You can leave selling tickets to me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Shiho...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, we'd be asking too much of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "We can keep making adjustments to the schedule. And if the others are too busy, I can help you. So, please...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "You need to keep practicing too, Honami. You don't have to worry so much about me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Don't worry...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I want our next show to be better than our last. Ichika and Saki made these amazing songs for us, so I also want us to really know how to play them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "And I'm doing this for us and Leo/need. Please, just let me handle it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, I don't want you to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "It's okay.\nI'll be fine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I'll see you later.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "She's gone...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(It's true that the rest of us have to practice much more than her, but we're already cutting it so close...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Shiho may be right in saying that we should focus on practicing...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Is this really the right way to go...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

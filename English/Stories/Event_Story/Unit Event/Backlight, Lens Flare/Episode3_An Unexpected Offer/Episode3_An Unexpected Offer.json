@@ -1,0 +1,683 @@
+{
+ "title": "Unit Event — Backlight, Lens Flare — Episode3 An Unexpected Offer",
+ "meta": {
+  "Event": "Backlight, Lens Flare",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — An Unexpected Offer",
+  "Event Outline": "Wonderlands×Showtime's next step is to appear as extras in a film! Each of them is enthusiastic about this opportunity to work their magic on camera, and Rui is particularly eager to learn about a different type of directing. However, not everything goes smoothly...",
+  "scenarioId": "event_119_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a005601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Yokohama",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Now I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "So, you're all training with different troupes in order to make your dreams come true, which is what led you to Shunmeiza and Bakuno.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, that's right.\nHe told us about the opportunity to be extras in this film...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We learned so much today!\nThank you very much for having us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Oh, that's wonderful to hear.\nHowever...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Hmm...\nAfter hearing your story, I'd like to ask you all something...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "How would you like to work as part of this film's production crew?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "As embarrassing as it is for me to say this, we've recently started feeling a bit shorthanded.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "You won't be able to perform as actors, but your help would be greatly appreciated. Of course, you'll be paid for your work.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "R-Really...?\nThis would be an unbelievable learning experience...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Are you sure about this?\nWe'll need some guidance since we've never worked on a film before.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Yes, I'm sure.\nYour tasks will be relatively simple.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Whoa...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Then, I wanna help!\nWe'd get to learn so much more about how films are made!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, I'd like to as well.\nI wanna spend more time watching the cast at work.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I agree...\nWe won't be visiting our next troupe for some time, so I'd like to take this opportunity to learn as much as I can about directing a film.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "So, if you don't mind having us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Yes, of course!\nI'm so glad that you're agreeing to join.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Then, can you all come tomorrow?\nThe rest of the crew will give you all the details. They should be just over there, so if you can give them your contact information for me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Understood!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Then, I'm off to look over everything we shot today. I'm looking forward to seeing you all back here tomorrow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "You too, Bakuno. Try to get some rest since I know the sea air gave your throat a tough time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Th-Thank you, I will...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Who saw this coming?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Luck be with us! Fortune has favored us!\nLet's come back tomorrow and continue to learn as much as we can!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Right. Opportunities like this don't come around often, so we need to try to make the most of it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wow! That's so cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I had no idea that this person was behind it all!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I didn't either!\nI mean, they seemed so friendly!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, that's right! If this person was behind it all, then that means the way he was so friendly to the hero was all an act!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wow...\nNow I wanna see that scene again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe. Oh, Rin.\nI love how fascinated you are by the movie the others brought over!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000275",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I mean, it's just so good!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Especially that car chase towards the end!\nMy heart wouldn't stop racing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Apparently, they closed down part of a real road to shoot that scene.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wait, really?!\nThen, those were real people zooming around in real cars?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes. It's common to use CGI these days, but that was all real.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wow...!\nYou can't do any of that stuff with stage shows...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "And now you guys get to work on a real-live film... That's so cool...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "It really is.\nStill, Nene, that film you made with your classmates was startlingly good!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "No, you're comparing apples to oranges.\nWe're talking about a professionally made film here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "The crew's huge, and the equipment they're using is on a completely different level.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "That's so cool...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Now I'm really interested!\nI wanna know what it's like to shoot a film.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. If you're that interested, then why don't you come visit us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wait, are you sure?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I'm sure it'll be an invaluable experience for all of you as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But you've gotta stay quiet so that the others don't see you, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Okay, thanks☆\nThen, I'll go take a peek sometime soon!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Still, talk about being lucky.\nI mean, you get to help produce a real film.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes... But we still don't actually know what we'll be doing yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "However, since the director was kind enough to invite us along, we won't be allowed to cut any corners!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'm ready to do the best I can!\nYou can leave all the heavy lifting to me♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Good luck, everyone!\nI'll be rooting for you☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I can't wait to see how the film turns out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Thank you all very much.\nWe'll do our best to make it a good one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a005401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few weeks later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Rental Room in Tokyo",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Phew...\nThis stand should be good here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(It's been about two weeks since we started helping with this film.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(The film itself has been coming along nicely, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Are the flowers all in place?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Y-Yes!\nI put them right where you said to!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "No, the light hits it all wrong with them faced this way!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "*Gasp*\nI-I'm sorry!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Forget it... Can I get a tech over here to readjust this light?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lighting Crew Member",
+   "Line": "On it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "*Sigh*\nI got yelled at again...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hanging in there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Bakuno warned us about the director being hard to please, but this goes a bit beyond that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Our “relatively simple” tasks turned out to be things like moving around heavy equipment and getting permission to film at various locations. “Relatively hard” is more like it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...\nYeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Is something wrong, Nene?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "No, it's just...\nI heard a rumor that a few part-timers stopped coming the day before he asked us to join...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I see. The way he treats his crew may've pushed them to leave...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Which means he needed us to replace them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, that's likely the case.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What?!\nRui, you knew?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "The way he said, “We've just started feeling a bit shorthanded,” when he invited us to join caught my attention.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "For that to have happened in the middle of the production process, I suspected that something must have happened.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "W-Wait, why didn't you tell us this sooner...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Because I had no proof.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Also...\nI didn't see any reason to refuse his offer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We've all learned quite a lot while working on this film these past couple of weeks, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, as hard as things have been, we have learned a lot...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We've gotten to watch all the actors perform up close, and see the director work with them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, I've learned a ton from the crew about the whole production process, like how proposals for films actually get off the ground!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "In that sense, everything we've done has been meaningful in some way...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "So, let's get back to work!\nI need to start preparing for the next scene!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Right!\nNene, let's go help the catering team with the lunches!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "*Nod*\nSee you later then, Rui.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Okay, see you later.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00170_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Alright, I should also get back to where I'm supposed to be.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I need to check over all the props we'll be using this afternoon... We'll be taking our break after the next scene, so I should try to finish before then.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(And if I finish early, I might be able to talk to Mr. Ohara about what's been on my mind.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I want to learn more about directing by actually being by his side, but I'm in no position to make such a request.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Okay, onto the next scene... Wait.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Hey, this script's old! What's it doing here?! I almost mistook it for the latest version!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "No, this is the right one.\nI put it there earlier.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "No, this isn't it.\nDidn't I say this morning that these lines needed fixing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, which is why I decided to also include the old script.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Wouldn't it be easier to have something to compare against?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "...\nOh, here it is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "If you don't need it, then I'll leave you with just the latest one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "No, I'll keep both.\nThank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "You're welcome.\nNow, if you'll excuse me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Assistant Director",
+   "Line": "He and his friends have been doing a good job... I wasn't sure how they'd do at first since you sort of begged them to join, but they've been a huge help.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Well, I figured that they'd take this seriously after hearing what they said about making their dreams come true.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Assistant Director",
+   "Line": "They've been filling in nicely for the ones who left after just three days. And they said something very similar.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "Point taken...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

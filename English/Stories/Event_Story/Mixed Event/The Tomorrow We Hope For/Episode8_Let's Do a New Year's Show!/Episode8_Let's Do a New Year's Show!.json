@@ -1,0 +1,723 @@
+{
+ "title": "Mixed Event — The Tomorrow We Hope For — Episode8 Let's Do a New Year's Show!",
+ "meta": {
+  "Event": "The Tomorrow We Hope For",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode8 — Let's Do a New Year's Show!",
+  "Event Outline": "When Haruka stops by the shrine along her usual running route, she sees the shrine maiden who was there for her in her time of need collapse. In order to repay her for her kindness, Haruka decides to help out at the shrine in her stead.",
+  "scenarioId": "event_45_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a002601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "1:00 pm",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shrine Grounds",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00159",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Mommy, I'm scared!\nThere's a weird monster running around!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Wait, isn't that the thing that bites people's heads?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lion Dance Robot",
+   "Line": "CHOMP...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_prayer_2022_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "The children seem scared of Lion Dance Robot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Unfortunately, it's natural for children to be scared since he looks like the actual thing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I wouldn't want to traumatize any of them, so I may have to have him wait here with you, Robo-Nene. We'll find a better role for him in one of our shows.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That's too bad...\nSorry, Lion Dance Robot, you're gonna have to wait here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lion Dance Robot",
+   "Line": "CHOMP...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You seriously thought you could take him with you to the shrine...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Well, this is his time of year to shine... But we wouldn't want to cause a stir, so he'll just have to sit out this one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Anyway, let's head in!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Okay, that's it for my second break.\nI should be able to make it through to the evening now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hm...? A dancing lion...?\nWhat's it doing over there...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002505",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shrine Hall",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_prayer_2022_006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_prayer_2022_005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Let's make lots and lots of people around the world smile!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Lots and lots and lots!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin & Len",
+   "Line": "<Yeah, lots and lots!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Aren't you supposed to say these kinds of wishes quietly? I guess it's too late now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_prayer_2022_006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_prayer_2022_005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "My shows are going to make the entire world smile ear to ear!!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That sounds more like a declaration than a wish.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Haha... I'd expect nothing less from Tsukasa.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Luka, wake up!\nYou still need to make your wish!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Mhm... But I'm so full...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<No, not that! Your New Year's wish!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Alright, we all made our wishes!\nNext, we can do... Omikuji!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, a test of luck to start off the year! Sounds good! Let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Yeah, let's go♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Tsukasa, wait!\nIt's not safe to run!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Oh dear... I'm seeing quite a few people. Are you sure they won't see us? I feel like we should stay hidden for this part.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, I agree... Would you mind remaining on standby for now? Oh, why don't we draw some fortunes for you in your place?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Ah, that would be perfect!\nThank you, Rui.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "You're very welcome.\nIt's the least we can do for all of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Emu, would you kindly draw fortunes for the others in their stead?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "For all of them? Okay, got it!\nIncluding me that's... Seven!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I got a “great blessing”!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, I got another one!\nAnd another!! And another!! Wow, this one's a “great blessing” too!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "H-How can anyone be this lucky...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Seven “great blessings” in a row. What are the odds? At this point, it may be better for Emu to draw our fortunes for us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "That'd completely defeat the purpose of coming here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hah hah hah!\nAll “great blessings”!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Th-That's unbelievable, Emu...!\nPlease try to share some of your luck with Honami if you can...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, that's a “great blessing” for all of you... That just leaves...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Huh? Tsukasa, is that you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm?\nWell, hello!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Huh...?! Was someone yelling just now...? Wait, what if it's an accident...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002505",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It's wonderful to see you, Shizuku!\nHow long has it been?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I thought it was you, Tsukasa!\nIt's been quite a while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh wow! She's so pretty!\nDo you know her, Tsukasa?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, her name is Shizuku! She's Shiho's big sister, and we used to play at the park together when we were little!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What?! Shiho has a big sister?!\nI'm Emu Otori! It's super nice to meet you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, you know Shii?\nIt's a pleasure to meet you. It's so nice to meet another one of her friends.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Shizuku...!\nWait, that voice... Huh? Otori?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hi, Haruka!\nYou're dressed as a shrine maiden too♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait, Haruka...? As in Haruka Kiritani...? Sure, she looks a lot like her, but there's no way the real deal would be running around as a shrine maiden like this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hello to you too.\nI heard someone yelling just now. Did something happen? Was there an accident...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That was Tsukasa hitting a zillion decibels on the meter!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hey, you could at least use a real number, you know?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh, I see... I'm glad as long as it's nothing serious. Thank you for letting me know, Otori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hold on... Are these the friends you've been telling me about? The ones from the Wonder Stage?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup! We all work super duper hard to make everyone smile♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. That's wonderful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh, where are my manners...\nHappy New Year. My name is Haruka Kiritani. I go to the same school as Otori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I-It's really her...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh...\nAnd the two with you are...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We met on that mountain sometime back. It's nice to see you again like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Kusanagi and Kamishiro, yes?\nI can't thank you enough for what you did for us then!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm? Hold on...\nYou already know each other?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "We do! They were there to save us when my friends and I got lost during our picnic.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, that's right...! I remember hearing a story like that when we were chatting at the Wonder Stage!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That means you're both friends of Tsukasa's friend!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "To be fair, we only met that one time. Also, I never would've expected to run into someone like Shizuku Hinomori while out hiking...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But that's great to hear...\nThank you for helping Shizuku out that time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Y-You're welcome but... W-We really didn't do that much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. Reality is stranger than fiction, no? Hm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Child",
+   "Line": "Waaah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh no! I hear a little girl crying! I think she just tripped and fell down the stairs!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "That's awful...!\nWe need to help them...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, would you mind leaving this to us...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Cheering up a crying child during New Year's is sort of our department, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, you definitely have a point...!\nThankfully, she doesn't appear to be hurt. I believe we can take it from here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00064",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "H-Hey, wait!\nE-Excuse us, Hinomori... A-And Kiritani...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hehe. There they go...\nTsukasa's friends seem like such wonderful people.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Shrine Grounds",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Child",
+   "Line": "Waaah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "There, there. That must've hurt so much... She won't stop crying... What should I do...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lion Dance Robot",
+   "Line": "CHOMP CHOMP!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00159",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Child",
+   "Line": "Huh?!\nWh-What's that...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "I-Is that a dancing lion...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“A long, long time ago, a certain shrine was the home of a Lion Dance Robot!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00052",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shrine Visitors",
+   "Line": "Hm? What's going on?\nAnd what's a Lion Dance Robot?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shrine Visitors",
+   "Line": "Is a show about to start?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“He loved children very much and wanted to make them smile, but they were all afraid of the way he looked and would run away every time he tried to go near them.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "“I heard that this dancing lion eats people!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "“What?! Everybody, run!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00064",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Lion Dance Robot",
+   "Line": "CHOMP...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_prayer_2022_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“However, somebody up above saw Lion Dance Robot's plight and decided to call out to him!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Hah hah hah! Chin up, my friend! I shall bestow upon you the power to make others smile and laugh!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lion Dance Robot",
+   "Line": "CHOMP?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Behold the power of the divine! Accept my gift!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00093",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Lion Dance Robot",
+   "Line": "CHOMP...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Alright, it's time to unveil its newest gadget! Let's start with something traditional by tossing out some mochi for everyone! ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_prayer_2022_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Child",
+   "Line": "Look, mochi!\nMommy, the lion's giving us mochi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hey, she's smiling now!\nYay! We did it!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. That's not all Lion Dance Robot Beta can do. By attaching a kite to its head...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hehe. I'm glad everything worked out.\nBut the shrine might not be happy with us if we keep making such a big fuss...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "A show at a shrine...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "That reminds me...\nI remember hearing some people wishing to be able to make everybody smile.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "That must've been Otori and her friends...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

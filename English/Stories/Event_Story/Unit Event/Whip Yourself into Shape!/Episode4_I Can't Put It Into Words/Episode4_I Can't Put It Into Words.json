@@ -1,0 +1,463 @@
+{
+ "title": "Unit Event — Whip Yourself into Shape! — Episode4 I Can't Put It Into Words",
+ "meta": {
+  "Event": "Whip Yourself into Shape!",
+  "Event Type": "marathon",
+  "Episode": "Episode4 — I Can't Put It Into Words",
+  "Event Outline": "An psyches herself up to work on the task she's been given, but there's hesitation in her singing. When she realizes that her unease over Kohane is causing the problem, An calls her out to Vivid Street to settle things once and for all.",
+  "scenarioId": "event_129_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...\nI didn't realize you felt that way about Azusawa, Shiraishi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "*Nod*\nSorry for not saying anything sooner. I wasn't sure if I should since it's to do with my own feelings.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "That's not a problem.\nEveryone has things that they don't wish to talk about.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Still... Shiraishi, it's strange to see you filled with so much doubt.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, Azusawa is an incredible singer.\nAnd she's been growing at a phenomenal rate.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But the same is true of you, Shiraishi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The way you sang when we battled against Taiga was remarkable. I don't see much of a gap between you and Azusawa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, I agree.\nYou two make for a pair of good rivals.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But... Me just saying that probably isn't going to make you feel all that much better. It's easy to start asking yourself, “What if someday...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, you're right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "By the way, what have you two been feeling as you watched Kohane grow?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Hm? Us...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yes.\nThe key to helping An may lie in any differences between the way you've been feeling compared to her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What we've been feeling...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I've...been viewing her as a reliable teammate.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The way her singing evolves with each passing day has allowed us to reach new heights.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "New heights, huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "In that sense, I also think she's been our fuel.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Fuel?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah. Every time she finds a new gear, it drives us to keep up with her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Yes, I see!\nI like your answer, Akito!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay...\nIt's good to hear you guys' opinions.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "How do you feel, An?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Uhh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I really get what you two were saying...\nEvery time I hear Kohane sing, I'm glad that she's on our team. I also think she's reliable, and that she motivates me to become better.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So much doubt has been welling up inside of me that it's starting to drown out those feelings...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "It's that bad...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But I sorta already know the reason behind that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I'd been watching my dad and his team sing since I was little, so I always dreamed of having a partner someday.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Someone with the same dream as me. Someone who'd chase after that dream with me. That's what I'd always wanted...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I struggled to find the right partner...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Then, Kohane appeared out of nowhere.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "The way she sang made my heart race like crazy. Not only that, she said that she wanted to help make my dream come true... I was so happy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So when I think about how I want to cherish her, I start feeling this need to stay together as partners and to make sure I'm her equal...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Shiraishi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So, I know the reason behind what I'm feeling... But I have no idea what I'm supposed to do about it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But how do you actually deal with something like this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hmm... How can we...? Oh, I know!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Was that a lightbulb?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Yes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "You haven't told Kohane about any of this yet, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh? Kohane...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Yes!\nShe doesn't know about this doubt you've been feeling, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "No, she doesn't...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Okay, so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000308",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Why don't you just tell her everything?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I understand why you believe this is your problem to deal with alone, An, but I actually believe otherwise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Obviously, telling her that seeing her improve so rapidly is unnerving for you may confuse her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "But if I were Kohane, I'd want you to tell me about anything that's bothering you. I'd want to help you if I could.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I should tell her...how I feel...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "That never would've crossed my mind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(But Luka might be right.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(The answer might just be that simple.\nTell Kohane so that we can figure this out together—)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So, umm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I still....kinda don't want to tell Kohane...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I feel like doing so would confuse her a lot...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Also...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(How do I put it?\nJust thinking about what's going to happen when I tell her...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(It gives me...a really bad feeling.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, Kohane just sent me a message...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Same here.\n<The train's running a little late, so I won't make it for a bit.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Right...\nIt's almost time for practice, so we should also get going...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Thanks for taking the time to talk with me, you guys.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I'll spend some more time giving this some thought on my own. Like Luka said, I'm sure there are plenty of other good solutions out there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Okay.\nPlease come back if you'd like to talk some more.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Thanks, I will!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,1308 @@
+{
+ "title": "Unit Event — A Sad Farewell at the Curtain Call — Episode4 Let Us Be Friends!",
+ "meta": {
+  "Event": "A Sad Farewell at the Curtain Call",
+  "Event Type": "marathon",
+  "Episode": "Episode4 — Let Us Be Friends!",
+  "Event Outline": "The next ambassadorial performance is going to be the last one?! Wonderlands×Showtime is staggered to hear the news, but is followed by an offer to do a joint performance with a highly regarded theme park that puts on the best shows in Japan. As chaotic practices ensue, Rui is approached by a certain person...",
+  "scenarioId": "event_74_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Phoenix Wonderland",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonder Stage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "An actual raid?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member B",
+   "Line": "What do you mean by that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. Maybe that wasn't the best way to put it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "My goal is to use the raid in the beginning to raise the excitement level for the show. That's why I'd like for it to be as real as possible.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I see...\nBut how do we do that exactly?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We'll be performing at the plaza in front of the museum, no? I noticed that a handful of lamp posts line the area.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We can use those to signal the start of the attack. Specifically, I'm thinking about having the commander stand on top of them as they give the order.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member A",
+   "Line": "On top of them?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes.\nI've already received permission from the museum.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "The lamps are wide and flat on top, so it's actually possible to stand on top of them. I'm planning on making a prop for support that can be attached to one's lower back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "However, they're about five meters tall, so we'll also need to prepare a lifeline and safety mats just in case the worst happens.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Five meters...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Rui...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member A",
+   "Line": "...\nOkay, can we test that out?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Test it out?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Yes, a test is a good idea!\nLet's see... Oh, that gate over there seems to be about five meters high.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Emu, can we try climbing on top of that gate over there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, no problem!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Alright, let's tie this lifeline onto you and... You're all set to climb!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "ArcLand Cast Member A",
+   "Line": "Okay...\nAsahi, mind reading the line before mine for me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Sure!\nThe security guard's line, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Th-They seem pretty used to doing stuff like this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Intruders!! All hands on deck!!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00058",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“They must be after the androids in the underground laboratory, Alfred and Bartlett!! Whoa!!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Geez, they've already made it this far...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member A",
+   "Line": "“The laboratory is ours!\nHowever, we don't appear to be alone...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member A",
+   "Line": "“No matter...\nProfessor Christopher Hawking! Surrender and bring those androids of yours to us at once!!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Whoa, that was so cool...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I-I'm staggered...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "It's a little dangerous, but I do agree that orders sound more compelling when literally given from up high!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "ArcLand Cast Member A",
+   "Line": "But we'll be in full view of the audience as we climb. We didn't exactly look cool while we did, so we should think of a way to cover for that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member B",
+   "Line": "We'll also want to look cool while dropping down. Remember those poles we used during that one show? What if we used them for this scene?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member C",
+   "Line": "Okay, let's ask to see if we can borrow them from the theater!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(So this is what ArcLand's cast members are capable of...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Even if a stunt is clearly dangerous, they're willing to consider the value in it instead of outright deciding against it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Not only that, but they're able to come up with ways to improve and implement it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I've never experienced anything like this before...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Okay, Rui, that should allow us to implement your idea!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Thank you very much.\nWith regards to this stunt, I'd like to keep polishing it while receiving input from all of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Alright, sounds like a plan!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Then, let's begin practicing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00052",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“What is the meaning of this?\nWhere are the laboratory's security guards?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Again, Tsukasa, you're an android!\nYou sound far too shaken! Act more robotic!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "I understand that it's an emotional scene, but it may be better to not give each word so much weight. Try saying your lines like you're saying A-E-I-O-U.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I see...\nLet me try that again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member A",
+   "Line": "“Sergeant Willis!\nHave you apprehended the Professor?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "“We still can't find him...\nThere's no sign of him in the lab!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member B",
+   "Line": "Hmm...\nAm I right in saying that you're more the stationary type, Nene?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? Y-Yes...\nCompared to the others, I don't tend to move around all that much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member B",
+   "Line": "I see. Then, let's try going over the scene where we're looking for the Professor together. We're soldiers, so we need to look the part.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "O-Okay!\nI really appreciate it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, what if we did something like this when we burst in through the doors?! Ka-pow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00446",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00447",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00448",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "ArcLand Cast Member A",
+   "Line": "Hey, that looks fun!\nLemme try it too! Ka-pow!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00446",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_curtaincall_2022_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Whoa! That was so cool!! How did you manage to go all twirly-whirly?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member A",
+   "Line": "Heh heh heh. It's supposed to be a trade secret... But if you really wanna know...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, I do! Please teach me!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huff... Huff... I'm exhausted...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Nice work, Nene.\nHow do you feel?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Tired... I've been using all my energy just to keep up with the others. They're too good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But they've also been giving me some advice here and there, which is really nice. Still, it's amazing how they can pull off all these crazy stunts. It's like they're all Seiryuin.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, I know what you mean...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(ArcLand's cast members are certainly very skilled.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Some are definitely as good as Seiryuin, the prima donna of the Phoenix Stage. On top of that, they have Asahi, who's in a league of his own.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I was afraid that the others would feel somewhat dejected when faced with such a skill gap...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But they seem to be taking it in stride...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Hmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Is something wrong, Asahi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Oh, I was just thinking about how to act out this part.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "During the raid, Alfred becomes unable to walk after being shot in the foot, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Since we'll be performing our show at a big plaza, I'm wondering if our audience will be able to actually see me if I'm on all fours... I'm thinking that we ask Rui to set up some sort of platform.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I see...\nBy the way, how do you plan to play him during that scene?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Oh, something like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Bartlett...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“I cannot move any further... Go on without me.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I thought this when his fellow cast member climbed on top of the gate...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(But Asahi and them all make full use of body language in their performances. It's a far cry from our abilities.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Not only do they have a deep understanding of their roles, but they can get into character at the snap of a finger. Even something as difficult as being an android...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Furthermore, despite being an emotionless android, he's able to make each scene incredibly impactful.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(It's as if we're on a real battlefield...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Such acting talent...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Okay, that should be enough practice for today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Everyone",
+   "Line": "Nice work, everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow, we practiced so much today!\nI'm super tired!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I can see why. We're dealing with roles that are more difficult than usual and involve quite a bit more action.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "As a result, my stomach is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00011",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Whose stomach just growled...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wait, Tsukasa, that wasn't you?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I thought it was you too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Nonsense!\nYes, I'm hungry, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00011",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Oh... P-Pardon my indiscretion...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00011",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It was you, Asahi...?!\nHow is your stomach able to produce such a violent sound?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Um, so... I get hungry somewhat easily...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Hey, I know!\nWhy don't we go out and grab some dinner?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh...!\nDoes that mean we get to eat food from the same plate?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I really hope you didn't take that literally...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Haha! That's the general idea!\nAnd since I suggested it, I'll pay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "So, let's take this opportunity to dine and chat! Okay, to be fair, I was thinking that we go to a diner or something.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(This may be our chance to learn some things that we can't necessarily while on stage...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, just give us a second to let our parents know!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Yes! That's what I like to hear!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? W-We're really going?\nI'm not sure if I feel confident enough for that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We shouldn't let this opportunity slip. Not when it means we may get to ask them about how they usually practice and such.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "R-Right...\nWe don't get many chances like this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I wanna go too!\nLet's have a big feast!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "How about you, Rui? Will you be able to join us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes...\nI'd also like to go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Diner",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, let's celebrate this wonderful union between us and the cast members of ArcLand...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What is this? A wedding toast?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Cheers!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Everyone",
+   "Line": "Cheers!\nCheers.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00163",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Let's dig in! This all looks so good♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait, Emu, you'll burn your tongue if you're not careful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'll be careful!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member B",
+   "Line": "Hehe. Your Salisbury steak looks delicious, Emu!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Now, today was the first rehearsal where we all used our scripts... How did everyone do in your guys' opinion?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Naturally, we were very impressed by ArcLand's cast members. You certainly are a world-class bunch...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "On top of being wonderful actors, you're willing to listen to others and provide suggestions for improvement in order to make the show as good as it can be. I couldn't be more grateful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I agree...\nAnd we all seemed to learn quite a bit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Practicing with all of you made me realize that I still have a lot of work to do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "There's so much that I still don't know... If I'm going to have any hope of becoming a world-famous star, I'll need to keep learning as much as I can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Tsukasa...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm? Ah, don't worry about me!\nI plan on using this experience to soar to even greater heights.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Especially since working with such skilled actors means we get to learn new things from one another. So, I hope we get to keep doing that until the curtains go up on the day of.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Of course! I'd like that as well!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Oh, Rui, there's actually something that I've been meaning to ask you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Is it just me or is your directing style heavily influenced by Tom Gray?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "What...?\nYes, that's right. How did you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "I knew it!\nThe way you had us do the raid scene today reminded me of the heist scene from “Acclamation of Anger”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member A",
+   "Line": "Yeah, I totally get what you're talking about! The way he made things more dramatic by drawing the viewer's eyes up was so Tom Gray.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Hah hah hah!\nI've seen all of Tom Gray's shows at least a hundred times!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member B",
+   "Line": "Yeah, we get that you're a huge fanatic. But I get the feeling that you're also a pretty big fan, Rui.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, I am...\nI suspect that I've also seen all his shows about that many times.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Ah, my comrade!\nNo matter how many times I see the shows he directed, I can never get tired of them! Am I right?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I know exactly what you mean.\nI was particularly taken aback by how “Acclamation of Anger” pays homage to three of his other works.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member B",
+   "Line": "Wait, three?\nI didn't know that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Do you want to become a director like Tom Gray, Rui?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes.\nJust like him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "“It doesn't matter if you're rich or poor, clever or foolish, among the majority or minority...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "“All people laugh, cry and feel anger in the same way...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "“That is what ties us all together after bearing witness to a truly marvelous spectacle.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I want to keep making those kinds of shows.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "That's what he said during an interview...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, I had a feeling that you knew.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Of course. I mean, what he said really hit home with me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "I had the honor of hearing Tom tell me that in person...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "There was a time when I lived abroad because of my parents' work, but we somehow found ourselves in the middle of a conflict.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "A conflict...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "This may be hard to believe, but we suddenly began hearing gunfire. Before long, my windows were being shot out...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "It was so scary.\nMy heart still races every time I think about what happened.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(That reminds me of...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "It's a hidden gem in terms of science-fiction stories. A friend of mine recommended it to me and read it for the first time at a library in Japan when I was in sixth grade.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Now I see. What he really meant was...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Oh...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(It's as if we're on a real battlefield...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(That's his lived experience...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Then, as my parents and I were trying to flee, I got separated from them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "I didn't know what to do, but this old lady helped me out by giving me a ride in her car... As luck would have it, I was able to make it to the border.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "I felt better after I saw that there were a lot of people waiting there, but that wasn't the end of it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "I didn't really know the local language since I was only in elementary school, and I hadn't heard any news about my parents. I really thought the world was ending.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "That was when I met Tom Gray.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "What was he doing there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "He was from the neighboring country and was volunteering to help refugees.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "I had no idea who he was.\nBut when he tried to hand me some bread, I said, \"I don't want that. I want a way to not be alone.\"",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Then, he suddenly stood up and replied, “Now is the perfect time to put on a show for children such as yourself.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "It was incredible. Alongside his volunteering duties, he somehow made costumes, props and even a stage out of the refuse and rubble that was lying around. After that, he made reflectors out of the pull tabs he'd taken off some cans and hung them from the roof. I remember how shiny they were.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "The show he did was about a child who'd become separated from everyone due to war and how these strange animals took care of him until he was able to reunite with his parents...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "It was so fun and exciting.\nI almost thought that it was about me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "It really felt like a dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "And thanks to Tom's show, I was able to find my parents.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "All because this photo of a certain child who looked completely entranced by his performance was printed in a newspaper.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That sounds like an unforgettable memory...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "It is!\nAfter all, Tom's my hero!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "That was when I decided that I wanted to work in show business, and began studying to become an actor...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Then, I learned about ArcLand and the Center Theatre.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "I'd already had some interest in ArcLand since it was famous for being a theme park that put on world-class shows.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "So, I came up with the idea of putting on shows at the Center Theatre that bring the world together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Shows that bring the world together...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Haha. I guess that needs more explaining...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "In other words, ArcLand is currently working to do shows like the one Tom showed me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "For all those people out there who are somehow surviving but are unable to smile...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "The cast of the Center Theatre plans to do shows around the world just for them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member A",
+   "Line": "Right now, we're sort of trying to build the foundation for that. Our goal is to perform at venues all over Japan.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member A",
+   "Line": "Once we've accomplished that, we want to travel around the world putting on charity shows and volunteer events.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member B",
+   "Line": "We know that not everywhere is safe, and we're trying our best to get a full understanding of that. But we want to do this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "So, in order to produce shows that transcend borders, we need to start by putting on shows in as many places as we can!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Members",
+   "Line": "Yeah!\nYes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Shows that bring the world together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I see...\nAsahi and the others have the same dream as me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But they're much closer to achieving it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Hehe.\nI can't help but feel somewhat anxious.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "I think I'm so enamored with your directing style, Rui, because you also look up to Tom. I mean, you guys' night show was just so spectacular.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Thank you very much.\nWe appreciate your kind words.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member A",
+   "Line": "But to think that you're still in high school. Yes, Tom's clearly had a big effect on you, but it's obvious that you've also developed your own style.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Heh heh heh!\nOf course he has!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What are you acting all high and mighty about?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But Rui really is amazing!\nAll his ideas always go BANG-ZOOM-BOOM!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Hahaha!\nHe definitely likes throwing in some flashy effects.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "I know!\nWhy don't you come join us and become our director?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member A",
+   "Line": "Whoa! Slow down!\nYou can't go asking the director of another troupe to just up and leave!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "W-Wait, I was joking!\nI couldn't help it. He's just such a good director...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You really had us going there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_curtaincall_2022_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe...\nThis sort of banter is nice every once in a while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "(It is meant in jest...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_curtaincall_2022_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "But I think it'd be really fun if you did join us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_curtaincall_2022_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_curtaincall_2022_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

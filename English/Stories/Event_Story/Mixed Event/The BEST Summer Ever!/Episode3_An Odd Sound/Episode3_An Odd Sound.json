@@ -1,0 +1,663 @@
+{
+ "title": "Mixed Event — The BEST Summer Ever! — Episode3 An Odd Sound",
+ "meta": {
+  "Event": "The BEST Summer Ever!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode3 — An Odd Sound",
+  "Event Outline": "The Miyamasuzaka Girls Academy first years arrive at the Seaside School. Finding themselves allocated to the same group for the school's annual presentation event, Honami, Saki, Emu, and Kohane put their showmanship skills to the test by performing a song from a musical.",
+  "scenarioId": "event_30_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a003901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Lodge Gym",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Okay, is this a good spot for our instruments?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yup. Drum on the left and the keyboard on the right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But who would've known that this place had a keyboard and a drum kit!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, it's a little old, but they seem like more than enough for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, I'll go grab some chairs and desks from one of the other classrooms. They might be nice to have while we're practicing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'll help you get them!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Lodge Classroom",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Hey, Emu. What are you up to right now?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We're practicing for our presentation. My group decided to do a musical.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Oh, that sounds like fun♪\nMind if I watch you practice?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, of course.\nI'd love it if you could see us perform!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane's Voice",
+   "Line": "Emu, can you lend me a hand with this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah! Coming!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Anyway, good luck, Emu!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup! Thanks, Miku☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Lodge Gym",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Honami, Saki, we're all ready over here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Is there anything you need help with?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "We just about ready here too!\nWe checked over the sheet music and everything seems fine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "It's nice that we were able to just buy the sheet music on our phones♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yes. We even got a hold of the song from that site, which I'm sure will be more than helpful while we practice it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay, since we're all set, wanna start?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, wait! One second!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Saki, what's wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Um, Kohane, I have a request for you... Can you sing a song for us?! Just once!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Y-You want me to sing...?\nAll by myself...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yes! I've already heard Emu sing during one of her shows.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, I wanna hear you sing too!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'd like to as well... That is, if it's alright with you, Kohane. You don't have to if you don't want to.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thanks, Honami.\nBut it's okay. I will.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "How about I give you a sampling of one of the songs my team usually sings at events.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪————",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "song00005_off_s",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Whoa...!\nHer voice is so pretty...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah. It's so clear and she's able to go across registers so effortlessly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "————! ——♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Her voice is like Ichika's, but something about it is a little different...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(It's cute, but also really cool...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Thank you for doing that, Kohane! I couldn't stop listening the minute you started singing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "R-Really...?\nI hope I didn't sound weird.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "No, you have such a pretty singing voice!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah!\nYou made it feel like we were at a live house just now♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Th-Thank you... I was a little nervous, so I wasn't sure that I'd be able to sing the way I usually do...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I also hardly ever sing for people that go to school with me... But I'm glad you liked it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Okay, now that we've had a chance to hear Kohane sing, shall we try it once from the top? I'll count us in.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Thanks, Hona!\nWe'll be counting on you too, Ms. Emu!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Roger!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Here we go...\nOne, two, three, four...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00088",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "——! ————♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪————! ——!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Emu as Dorothy and Kohane as Amy...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(I have a good groove going too. So does Saki. As long as we stay in rhythm like this, we should...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane & Emu",
+   "Line": "——♪ ————♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Huh? That's strange. I don't think this is how BEST SUMMER is supposed to sound...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(Something feels off. Almost like the music isn't syncing up with the song... Am I doing something wrong...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane & Emu",
+   "Line": "♪——! ♪——",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I can't put my finger on it, but it's like our voices don't match what Honami and Saki are playing at all.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "——♪ ————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Huh? This doesn't feel right...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(But why? I'm not sure how to describe it, but this doesn't feel like a musical for some reason...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Um... Nice work, everyone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "What did you think, Emu?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hmm... Hmmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "It's really hard for me to describe, but it's like we weren't doing a musical...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "You thought so too...?\nI felt the same way. Something didn't feel quite right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah, me too...!\nI did everything the sheet music said, but it's like I was doing something wrong for some reason.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "No, Saki, you didn't do anything wrong...! I felt that I wasn't singing right either, as if I was the one doing something wrong.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, I see...\nYet based on what I heard, you were pitch-perfect, Kohane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I... I think I know what's wrong! I get that it's important not to make mistakes, but we might be focusing on that too much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Musicals need to be more fun or more emotional, you know? We should focus more on bringing those emotions to the surface just before the climax.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Bring those emotions to the surface...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Um... I think staying in character is gonna be really important here. It's a musical, so we aren't just acting. We have to sing from our hearts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Whenever I perform at a live house, I usually make small changes to the way I sing to match what the crowd wants to see. Is that sort of what you're talking about...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We can't just go up there and sing. We have to sing as Amy and Dorothy while working with the music, I think?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Sing as Amy and Dorothy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Not missing a beat while the rhythm keeps changing... That almost sounds like freeform jazz.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "That may be a bit challenging, but I'd like to give it a try. Thank you for your insight, Emu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe. You're super welcome!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Shall we try that once more while keeping Emu's advice in mind?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane & Saki",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Okay, I'll count us in again.\nOne, two, three, four.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That was amazing!\nIt's really starting to feel like a musical now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thank goodness...! But I still feel like we could sync up with Honami and Saki better. I never realized it was so hard to sing while in character.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, we're singing and playing much better, but we're still not quite there yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah. But we're making good progress. For now, let's maintain this pace and just keep trying!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup! Let's make this a super wonderhoy performance!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hm? What?! We've already spent an hour doing this?! We need to clean up soon before the other groups get here...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, you're right...!\nWe should hurry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I wish we could practice more...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Me too. There just wasn't enough time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Right...\nI suppose we can all try to think of ways to get better in a short amount of time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, let's do that☆\nI'll go get the next group while I do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, okay...!\nThanks, Emu!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003803",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Beach",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Hnng...\nI can't find the right words to describe it to them...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Is everything okay, Emu?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Y-Yeah, I'm okay.\nSorry about that. I wish we could've done better for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<No, don't say that! I had fun, so chin up, Emu.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<No one ever gets it right the first time. You practice lots and lots for your shows too, don't you?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Miku...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<So there's no need to worry or feel rushed. You practiced a lot today too, so you should get a good night's rest and try again tomorrow!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Is what KAITO told me one time☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow, KAITO really does know what to say in these kinds of situations!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Thanks for everything today, Miku.\nI'm sure things will go better tomorrow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So will you come and watch us practice again?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Of course!\nI'll be cheering you on, Emu♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Thanks, Miku.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

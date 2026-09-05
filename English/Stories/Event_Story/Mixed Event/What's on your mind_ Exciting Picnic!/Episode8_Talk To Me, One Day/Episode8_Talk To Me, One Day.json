@@ -1,0 +1,558 @@
+{
+ "title": "Mixed Event — What's on your mind? Exciting Picnic! — Episode8 Talk To Me, One Day",
+ "meta": {
+  "Event": "What's on your mind? Exciting Picnic!",
+  "Event Type": "marathon",
+  "Episode": "Episode8 — Talk To Me, One Day",
+  "Event Outline": "Noticing Mizuki's lackluster attitude following the mystery tour, Ena grows worried. Her apparent concern for her friend doesn't go unnoticed by Airi and Shizuku, who extend an invitation to a picnic to both of them in hopes of lifting their spirits.",
+  "scenarioId": "event_22_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Mizuki's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000414",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "<You had quite an adventure today, Mizuki...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Yeah, but I'm glad we all came back in one piece. I owe you, Rui.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "<Oh, I didn't do anything.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "<On the other hand, I never knew you could make that kind of face, Mizuki.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<What face?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "<That look of desperation you had on your face when you were looking for help.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<That's how I looked?! Wipe that from your mind, will you? That was probably the opposite of the cute and fashionable me that you usually see...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "<Hehe. That may be difficult.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "<Also, was that girl the one you mentioned to me before? Your \"friend\"?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Maybe. Maybe not...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<*Sigh*... Anyways, I'm super tired. I'm gonna go to bed now. Bye, Rui.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "<Good night...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "<See you at school, Mizuki...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Later...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00138",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I have to find a way to save Ena and Airi...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Did I really look that desperate?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Huh? Ena messaged me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Thanks for today. Airi, Shizuku and I were thinking about having a group call. Wanna join?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(A group call...? That might be fun... I did like talking to Airi and Shizuku...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(But I...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Ena's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000410",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I just got a reply. Mizuki's tired and going to bed it looks like...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<Right. I'd be exhausted too if I had to run around like that...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Yeah...\nI need to thank you too, Shizuku.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000411",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "<No, Mizuki did all the work. I just sort of followed along...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000410",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<The other people from the tour were so understanding too...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I know, right? I'm glad everyone was so nice about what happened.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000411",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "<I was surprised to hear that it was actually Mizuki's friends who came to help us in the end.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Yeah, we're in different classes but go to the same school. I should thank them again if I get a chance to see them.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000410",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<That'd be great!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<But I also feel bad about losing track of why we went there in the first place...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000411",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "<Yes, helping Mizuki turned into something much more drastic...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<It's okay, really.\nI'm still glad we went.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You're safe now and that's what matters most.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000410",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Today was the first time in a while that I'd seen Mizuki genuinely having a good time...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<That's good then.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00065",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I learned today that I really do want to know more about what's bothering Mizuki.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I don't know if it's okay for me to keep pushing like this...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<But nothing's gonna change unless I do something about it.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Mizuki helped me today, so it's my turn to return the favor.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000410",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<Ena...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I doubt I'll really learn anything soon, but I want to know more about Mizuki...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I'll keep trying until things do start to actually change...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<Hehe. Looks like Ena's back to her usual self.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Look who's talking. You're the one that told me that not giving up is my best quality, Airi.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<Because it is. I really like that part of you, Ena.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000411",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "<And feel free to ask us again if there's something you'd like help with. We'll gladly lend you a hand.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b000803",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<Also, how would you guys feel about going out together again?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000412",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "<That sounds wonderful! I'm sure it'll be even more fun if both Ena and Mizuki come along!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<Mizuki does seem like a good kid. We might just go without you, Ena.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Airi... Shizuku...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<But in that case, how does shopping sound? I kind of ruined Mizuki's favorite outfit, so we should probably find something new to replace it.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000411",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "<Right. Mizuki's very cute and stylish too, so I'm sure we'll be able to find something good. We'll let you know when our practice schedule is all set.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Okay. Thanks, Shizuku.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b000803",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<*Yawn*... I'm getting pretty sleepy...\nI think I'll head off to bed...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000412",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "<Oh, it is getting late.\nI'll do the same then.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b000803",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<Bye, you two!\nAnd thanks again for today!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Okay, bye.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00138",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You're safe now and that's what matters most.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I want Mizuki to smile like that more...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I get that I might start being a nuisance...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(But I can't ignore this anymore.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Because Mizuki's my friend...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Because Mizuki's someone I really care about.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

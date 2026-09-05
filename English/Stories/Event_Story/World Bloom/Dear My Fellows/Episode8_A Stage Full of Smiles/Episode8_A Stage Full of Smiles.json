@@ -1,0 +1,763 @@
+{
+ "title": "World Bloom — Dear My Fellows — Episode8 A Stage Full of Smiles",
+ "meta": {
+  "Event": "Dear My Fellows",
+  "Event Type": "world_bloom",
+  "Episode": "Episode8 — A Stage Full of Smiles",
+  "Event Outline": "Having trained with three famous troupes, Wonderlands×Showtime has certainly grown. While checking for any changes in their SEKAI, they hear of a problem with the tree, and are shown a world where they are each chasing their own dreams.",
+  "scenarioId": "wl_wonder_02_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link2_wonder_op4",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00059",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Phoenix Wonderland",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Phoenix Stage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That's the schedule we currently have leading up to our next show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Thank you for that. I didn't see any major problems.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "However, considering the show's story, we may want to work out how to use the stage devices sooner rather than later...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Right! The director also told me about some things that he wants to try out...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So, I believe we should consider bringing in some new equipment for this show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We'll have to figure out how to work that into our budget...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But I plan on doing everything I can to make sure our show makes all the guests smile!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "I see. If discussions with the staff are coming along, then it sounds like we have nothing to worry about...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "That just leaves you having to talk to our stage manager.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Anyway, Otori, I'm counting on you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yes, I promise to do my best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Hehe☆\nSakurako said she's counting on me!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(She was so worried when I first told her that I'd be running things...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(But it feels like I'm slowly gaining her trust.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "No, I can't let my guard down and start acting all loosey-goosey!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I still have a lot of meetings left at the other stages, so I have to keep doing my best...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I need to do everything I can since Keisuke and Shosuke gave me this opportunity to run Phoenix Wonderland's stages!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few months earlier",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Otori Household - Living Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "A-Are you sure...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You guys are really gonna let me run the stages at Phoenix Wonderland...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Yes, but it's not like we're going to immediately let you run everything. It'll be a step-by-step process.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Obviously, we still have the final say and bear ultimate responsibility...\nBut some experience running stages should benefit you in the future.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "My future...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Ever since your friends left Phoenix Wonderland, you've been following us around and saying, “I wanna learn more about management and stuff”...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Shadowing someone is one way to learn, but experiencing what actually happens on the ground is also important for operators and managers.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "And you have an incredibly creative mind.\nAs the park's operators, we're happy to make use of such an asset.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Exactly. We think we can trust you with this, provided you have the drive. So, what do you say...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah!\nI wanna do it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I wanna learn as much as I can about management to help make my dream come true!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "To make your dream come true...\nYes, we had a feeling you'd say that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe... I actually made a really important realization while watching you guys work.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I honestly didn't know just how much thought and effort went into getting someone else to smile and laugh.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I thought I knew how hard that was...\nBut I realize now that my understanding was poor.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Emu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So, I wanna do this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "In order to make people all around the world smile, I'll start by filling the stages at Phoenix Wonderland with lots and lots of joy...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "We understand how you feel.\nSo, we'll do what we can on our end.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Again, we'll still have final say on what happens in the park.\nSo, you should come up with ideas for making everybody smile the way you always do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay, I will!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe. I'm gonna let the others know right away...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "You mean Tenma and them?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup! They're all working super hard towards making their dreams come true, so I wanna tell them that I'm doing the same!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "I see...\nI take it that means they're each doing well in their new environments?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "They are!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Anyway, Keisuke, Shosuke...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Thanks for doing all this for me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I promise to do my very best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Yes, we'll be expecting good results...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_006_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Towards making their dreams come true, huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "They're still high schoolers, so I feel like they should be stopping to smell the flowers a little more.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Even when they decided to disband their troupe, they didn't come ask for our advice until everything was basically set in stone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "True...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "In any case, we should support Emu however we can when it comes to giving her opportunities to learn more about business management.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Since that should help her make her dream a reality.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Yes, I agree...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "Alright, let's go with the budget and casting plan we outlined during the meeting we just had...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay! I'll come up with a schedule for auditions to fill out the cast and let you know once it's finished!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "Understood.\nThen, I'll be waiting to hear from you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Hehe. I'm almost done with the stage inspections and meetings I had scheduled!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(All that's left is the Wonder Stage.\nThey should be doing a show right now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Alright, in that case...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00032",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonder Stage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Big Bear",
+   "Line": "*Sob*\n“Everybody keeps running away because they're so scared of me...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Big Bear",
+   "Line": "“But I guess that's natural since I look so big and scary... I'm never going to be able to make any friends...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boy",
+   "Line": "“That's not true. I'm sure everyone will become your friends once they understand what you're really like. I mean, I've never met someone kinder than you! Also...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boy",
+   "Line": "“At the very least, I consider you my friend.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(They're all sparkling today too... In particular...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(The boy playing the protagonist, Shiratori, has really been on a roll lately☆ I know he's been practicing a lot...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "The guy playing the main character's so cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "I'm actually a huge fan of his.\nI've gotta get more great pictures of him today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boy",
+   "Line": "“Don't worry! They might be crying or feeling angry now, but I know a way to get them to become your friends.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Boy",
+   "Line": "“You just need to do a happy dance for them!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00089",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Boy",
+   "Line": "“Come on, everyone, join us!\nYou can even take the hands of the people next to you!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Oh, that sounds like fun...!\nLet's try, Dad!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "This is a little embarrassing...\nBut, umm... Like this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000445",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Wow...! They look like they're all having so much fun☆)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(The kids and the grown-ups. Their eyes are all sparkling.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(The crowd and everybody on stage are all smiling!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(This is so great...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(This reminds me of when we...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I have to keep at it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Tsukasa and the others played a huge role in saving this place. So...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Moving forward, I have to do absolutely everything I can to keep it going...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Especially with how hard the new troupe here is working...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I'm going to fill this park with smiles and laughter that spreads out to the entire world...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I've gotta keep doing more and more to make that happen.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Nice work, everyone☆\nYou guys put on another super duper wonderhoy performance today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Wonder Stage Cast Member A",
+   "Line": "Hello, Ms. Otori.\nWe didn't realize that you were watching!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup! I was actually dancing along with you guys backstage towards the end there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I really wish I could see you all perform at that other venue this weekend...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Wonder Stage Cast Member A",
+   "Line": "Haha. It is a bit far away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Wonder Stage Cast Member B",
+   "Line": "But we promise to do our best to make the audience smile when we're over there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Great! I'll be rooting for all of you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Wonder Stage Cast Member B",
+   "Line": "Thank you! Anyway, if you'll excuse us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Alright, that's it for all my on-site jobs! Now I need to go back and meet with Keisuke and Shosuke about...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Ms. Otori...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What's wrong, Shiratori?\nDid you forget something?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiratori",
+   "Line": "No, it's not that.\nI was actually hoping to discuss something with you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Discuss something?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(He seems really nervous...\nThis reminds me of—)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "It's okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You can tell me whatever it is that's on your mind!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiratori",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiratori",
+   "Line": "Thank you.\nUmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiratori",
+   "Line": "The thing is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiratori",
+   "Line": "I'm thinking about leaving the Wonder Stage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

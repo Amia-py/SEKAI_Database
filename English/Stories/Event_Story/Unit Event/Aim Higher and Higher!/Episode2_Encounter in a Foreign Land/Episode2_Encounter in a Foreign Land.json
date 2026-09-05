@@ -1,0 +1,808 @@
+{
+ "title": "Unit Event — Aim Higher and Higher! — Episode2 Encounter in a Foreign Land",
+ "meta": {
+  "Event": "Aim Higher and Higher!",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — Encounter in a Foreign Land",
+  "Event Outline": "The day of Taiga and Ken's event has finally arrived. The members of Vivid BAD SQUAD are looking forward to this world-class event, when an incident leads to an unexpected reunion.",
+  "scenarioId": "event_169_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Outside the hotel",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Sorry, I'm late, you two!\nI realized that I forgot my wallet when I was already in the elevator!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Seriously, good job forgetting your wallet when we're going shopping. You wouldn't have gotten much done.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm glad you noticed before we left.\nAnyway, now that we're all here, shall we?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm so excited for this flea market. It's one of the most famous ones in New York, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yup! We gotta thank our lucky stars that it's being held at the same time as SONIC NOTES! And it's right by the event venue too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The event begins in the evening, so we should be able to take our time browsing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Miku said she'd come visit later, so I hope she also gets to have some fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Me too.\nOh, a right at this corner and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Why are all those people gathered around?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hmm... I hear music. Does that mean someone's singing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But that's a huge crowd.\nWho's singing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "??? & ???",
+   "Line": "♪————! ♪————————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00075",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Wow...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(This power... I'm feeling their voices in my gut.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Not only that...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "“Hey, there they are! Over there!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "“You were right. I can't believe they're here. We really get to hear illys sing!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "??? & ???",
+   "Line": "♪————————————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "illys...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It sounds like they're pretty well-known around these parts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "They sound amazing...!\nWanna get a little closer, you guys?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hey, no need to rush...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But I also wanna hear more.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "♪——————...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "??? & ???",
+   "Line": "♪————————————",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(...!\nThat was a tricky transition, but they were in perfect unison!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "“They're totally in sync! You can tell that they're sisters!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "“Hey, being sisters isn't what makes them great. Elena and Rebecca are just on another level entirely.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "They're good...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes. We've seen quite a number of street artists since coming over to the United States.\nBut they're...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "They're something special.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "“Whew, I had a blast!\nThanks for listening, everyone!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "“Wait, don't tell us that you're done!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "“We wanna hear more!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "“Haha. Sorry, you guys!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "“We have plans after this.\nI promised Becky that we'd only sing for a little bit, so we have to call things here for today!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "“Please! We beg you!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "“Hmm... I don't know, guys...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Did we just make eye contact?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "“I've got a great idea...!\nHey, hey, Becky! Look!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Wh-What's going on?\nThose two seem really interested in me for some reason...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rebecca",
+   "Line": "“Oh, that is a nice idea...\nThat should let us end things on a high note.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rebecca",
+   "Line": "“But only if she says yes.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "“Okay! Then, I'll try asking her!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "“Hey, you there!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "“Huh? Me...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "“Yeah, you!\nYou're the girl who was singing earlier this morning, yeah?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "“You wanna sing with us?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Did she just invite Kohane to sing with them?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "U-Uhh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "S-Sorry, I didn't mean to startle you!\nMy name's Elena!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wait, you speak Japanese...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "The way you sang sent a jolt through me. I've been wanting to sing with you all day!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "Becky... Oh, umm... My little sister also wants to sing with you. So, what do you say?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Umm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(What do I do?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "“Huh? Is she gonna sing with them?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "“I've never seen her before...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Wait, everyone's looking at me now!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I was honestly a little startled at first, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Elena & Rebecca",
+   "Line": "♪————! ♪————————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I was really drawn to their singing style.\nIt was so powerful, but so free and fun too.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(How would it feel to sing alongside that?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Umm... Sorry, you guys.\nWould you mind waiting here for a minute?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay!\nGo have fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "Hehe. Then, let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "There she goes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah...\nWhat are they gonna sing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You've got this, Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rebecca",
+   "Line": "Thanks for agreeing to do this!\nI'm Rebecca. Call me Becky!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Nice to meet you! My name is Kohane Azusawa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Becky's Japanese is really good too...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rebecca",
+   "Line": "Kohane? Got it!\nWe can't sing the same song again, so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rebecca",
+   "Line": "Why don't we take turns singing to this beat?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay, that sounds good!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "Alright, then... Let's have a good time, girls♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪————————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00206",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "“Whoa, that girl... She looks all timid, but she's got some real pipes!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "“Haha. I can't wait to see how those two from illys respond!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena & Rebecca",
+   "Line": "♪————————! ♪————————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(...!\nThey really are amazing...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I knew it when I heard them earlier...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(But these two sing at such a high level!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena & Rebecca",
+   "Line": "♪——! ——! ——~~~~!\n♪————~~! ——————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(The way they create a rhythm and modulate their voices... What they're doing is really complicated, but they make it look so easy.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(It's proof of how refined their technique is!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Not only that...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena & Rebecca",
+   "Line": "♪————————! ♪————————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(They look like they're having so much fun!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I can tell that Elena and Becky both really love to sing.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(And I know how they feel.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Because I really love to sing too!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪————————~~~!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "“Oh, this is good!\nBut we're still just getting started!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena & Rebecca",
+   "Line": "♪————————————~~~!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00211_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...!\nTheir energy is insane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But Azusawa is keeping pace.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Do it, Kohane~~~!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena & Rebecca",
+   "Line": "♪————————! ♪————————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪————————————————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "Whew! That was so much fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rebecca",
+   "Line": "It's been a while since we got that pumped up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I couldn't resist going all-out, either!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "Haha. That's good to hear!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rebecca",
+   "Line": "Sorry about that, you guys.\nThanks for letting us borrow your teammate.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No, that's okay. We were moved by your heartfelt performance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "That was so awesome!\nIt was like you grabbed hold of my heart and shook it around like crazy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah. I was about ready to get up there with you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "Whoa, I wasn't expecting to get showered with so much praise! That's so kind of all of you♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rebecca",
+   "Line": "Let's sing again sometime if we get the chance.\nWe like to perform here from time to time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rebecca",
+   "Line": "Next time, let's all sing together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thank you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elena",
+   "Line": "Anyway, thanks again! See you later!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "They blew through here like a storm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah. But man, they were incredible singers.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Especially the older one...\nShe felt so free while she sang.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Becky's technique was also really amazing!\nShe did a bunch of tricky things, but made everything look so easy. I was totally entranced.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "And you looked like you had a blast too, Kohane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I did! I could tell exactly what they were feeling, and things just kept getting more fun as we sang.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I got to see something new again...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Those two said that they sing here from time to time, so I hope we run into them again before we leave the US...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,448 @@
+{
+ "title": "Unit Event — Choices for the Future — Episode6 A Chance Seized",
+ "meta": {
+  "Event": "Choices for the Future",
+  "Event Type": "marathon",
+  "Episode": "Episode6 — A Chance Seized",
+  "Event Outline": "Emu continues studying management with the Morinomiya Revue. While leading fulfilling days full of new connections, she learns that a threat is coming to bear on Morinomiya's Kikyogumi troupe.",
+  "scenarioId": "event_164_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e002101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Hotel Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "Hello, Suzu. Thank you for inviting me out to have tea with you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Thank you for taking the time out of your busy schedule to meet with me, Grandfather.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Thank you very much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "Hahaha. There's no need to be so formal with me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "Anyway, have you two already ordered?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "I recommend this cafe's seasonal parfaits. They're absolutely superb, and I've fallen completely in love with them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Parfaits...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Didn't your doctor tell you to keep an eye on your sugar intake, Grandfather...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "Yes, and...\nI am doing my best to treat myself to dessert only every so often...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(This is Suzu's grandpa...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(He seems a lot nicer than I was expecting.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "I heard that you've been studying management while at Morinomiya, Emu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...!\nY-Yes, that's right. Also, you know about me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "Of course. The Otori children have always been a studious and hardworking bunch in my mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "So, I couldn't feel more honored that you chose Morinomiya as your place of study.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "Now... You're here to discuss the Kikyogumi matter today, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Yes.\nFirst, we ask that you take a look at this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "Hmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "Did you put this together with Emu here, Suzu?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Yes. Otori came up with the base idea, and we worked out the details together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "Yes, I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(He seems like a nice person...\nBut things feel so tense when he stares into your eyes like this.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(No, don't look away...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Suzu and I need to convince him that we're serious about this...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "Hehe. Intriguing...\nThis one could turn into something truly special.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "Ah, I was just talking to myself.\nI only took a quick glance, but the idea has promise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "...!\nDoes that mean...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "Yes. The board is set to meet one week from now, so you should try presenting it to them then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "If you manage to convince them, then we'll put it into practice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Th...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Thank you very much!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "However, this is all I can say.\nThe onus will be on you both to convince the rest of the board.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Yes, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Um, Grandfather?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "Yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "I love Morinomiya very much.\nI want it to keep putting on the best shows a hundred years from now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "In that respect, my feelings are no different from yours or those of anyone else on the board. So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "I promise to convince them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chairman",
+   "Line": "Good. I'll be looking forward to your presentation.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(We're going to present our idea to the board...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(We have to explain our idea to them and convince them that it's a good one.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Have you ever encountered situations where you had trouble conveying what you were thinking or feeling to someone else?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e002101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Just trying my absolute best won't be enough...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(So...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I have to practice communicating my ideas!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Otori Household - Living Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Wait, say that again...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I need you to teach me how to give good presentations!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Like the ones you guys give for work!\nI wanna learn how to do that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Like the ones we give for work...?\nWhen do you have to present your idea, anyway?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "In a week!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "A week...?!\nYou're joking, right...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I absolutely have to figure out how to convince everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I need to speak effectively and make the right gestures... If I don't take how people will see me into consideration, then they're probably not going to understand how I feel.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I know this is really hard and that I'm asking a lot...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But I'm sure that I need to do this if I'm gonna turn this dream into a reality! I want to give a good presentation!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Emu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "*Sigh*\nSounds like you're serious...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "If you're that motivated, then there's no harm in acquiring some public speaking skills.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Yeah, this is a good chance to do that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "We'll teach you everything you need to know, and you'll be giving presentations that can change any naysayer's mind in no time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Yes. So, let's get started.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay! Thanks, you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

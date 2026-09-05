@@ -1,0 +1,733 @@
+{
+ "title": "World Bloom — With Your Sights on Stardom, Set Sail! — Episode8 We're Capturing It?!",
+ "meta": {
+  "Event": "With Your Sights on Stardom, Set Sail!",
+  "Event Type": "world_bloom",
+  "Episode": "Episode8 — We're Capturing It?!",
+  "Event Outline": "Wonderlands×Showtime's training continues as they each pursue their dreams. When they're called over to SEKAI by Rin and the others one day, they find an expansive new land awaiting them!",
+  "scenarioId": "wl_wonder_01_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_wonder_op4",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00264",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Harbor",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hmmmmm... Still no phoenix...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rion",
+   "Line": "Yes...\nBut I still believe this is where it will most likely appear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rion",
+   "Line": "That phoenix seems to prefer quiet places such as this hill. No plushies will disturb it since none live here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I see...\nThen, we'll just have to keep waiting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rion",
+   "Line": "Thank you...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rion",
+   "Line": "We have to find it so that we can ask it to let me sit on top of its back...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(He seems much more confident compared to a little while ago. What Emu said must've lit a fire underneath him.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Still...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Rion",
+   "Line": "I really admire it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(He admires it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(The details of our dreams may differ, but what Rion and I have in common is looking up and aiming high...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(So, I'd like to do everything I can to help make his dream come true.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "You two have been standing for quite a while now. Aren't you tired? Why don't I watch instead? You can take a break and—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Whoooaaaa!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Look, everyone! Over there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00705",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Isn't that...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I-I-I-I-It's...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It's here! The phoenix actually came!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rion",
+   "Line": "R-R-R-R-R-R-R-R-Really?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "Incoming from the northwest.\nIt is the same bird we saw from the ship.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rion",
+   "Line": "Yes, you're right... That is it.\nI can't believe it's actually here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Your prediction was spot on, Rion.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes! I'm so happy for our phoenix expert!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rion",
+   "Line": "I-I'm no expert...\nBut I am glad that my research ended up helping!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Now we need to try talking to it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rion",
+   "Line": "What? But it's so high up. How are we going to...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, no worries there. As it so happens, Tsukasa can...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Heeeeeey, Phooooeeenix!!!!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...project his voice very far.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rion",
+   "Line": "W-Wow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00352_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "110 decibels. On the order of a car honking its horn.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "H-How is it possible for anyone to be this loud?! I thought I was gonna go deaf there...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But I think he got its attention!\nLook, it's coming towards us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00706",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00080_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Whoa! It's so gusty!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Its enormous wings must allow it to move an inordinate amount of air...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Phoenix",
+   "Line": "So it was you who made that obnoxious sound just now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00219",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Phoenix",
+   "Line": "Humans, plushie, what business do you have with me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I'm very sorry, Phoenix, but we have a big favor to ask of you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Phoenix",
+   "Line": "A favor?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rion",
+   "Line": "E-Excuse me...!\nBut... Would it be possible for me to sit on your back as you fly?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "This is Rion! He really admires you and has been dreaming of flying through the skies on your back...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So, please...!\nWill you let him fly with you?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I beg you as well!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Phoenix",
+   "Line": "No.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Phoenix",
+   "Line": "Under what obligation am I to listen to your pleas?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Phoenix",
+   "Line": "Now, begone from this place.\nEven from the sky, you looked like pathetic ants.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Grr...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, you are under no obligation to listen to our pleas...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But Rion's been dreaming of this moment for a very long time! So, once again, I beg you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rion",
+   "Line": "P-Please...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Phoenix",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Phoenix",
+   "Line": "Fine. I may be willing to oblige if you are willing to beg in such a manner.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What...? R-Really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Phoenix",
+   "Line": "Yes. However, I have one condition.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "One condition? What would that be...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Phoenix",
+   "Line": "First, you must capture me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What?! Capture you?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Phoenix",
+   "Line": "If you can catch me while I fly through the air, then I shall do as you say.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Catch it... All the way up there...\nHow are we supposed to...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(No, we can do this...\nRegardless of how impossible this challenge may sound, we'll figure out a way.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And we have your word?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Phoenix",
+   "Line": "Yes, but I doubt you will succeed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Fine, you're on!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Rion, are you ready?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rion",
+   "Line": "Y-Yes, of course!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, we're going to catch that phoenix one way or another! Are you all ready to do that?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Phoenix",
+   "Line": "You have until the sun sets into the sea.\nI promise to remain here until it does. So, good luck.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Phoenix",
+   "Line": "We shall see how you fare.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00367_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We're going to catch that phoenix and help make Rion's dream a reality...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, let's do everything we can for that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Even though we're likely going to face countless obstacles along the way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Starting with... How in the world are we going to catch something of that size?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh, what if we used one of those giant nets?! Like the one we used to catch Lion Dance Robot!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, excellent idea!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Which leads into our next question... Verticality. How do we reach the heights it can...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hmmm... Oh, I know!\nCan you fly, Robo-Nene?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What? You're kidding, right...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "Unfortunately, no.\nI do not possess the ability to fly so high.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hm? Is something wrong, Rui?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh, I was just thinking how “flying” may be the way to go...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What?! Can you make it so Robo-Nene can fly?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. No, I won't immediately be able to get Robo-Nene to fly as high as that phoenix...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But flight could be achieved by jumping high.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Several dozen minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Rui! We got that thing you asked for!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Thank you both very much.\nI'm also just about finished working on Robo-Nene.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00057_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Whoa! Her eyes are glowing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "Checking systems... No issues detected.\nChecking sensors and monitors. All normal.\nMy new “super jump” function is fully operational.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Is that so? I don't know what that actually involves, but it sounds powerful...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "So, we'll be able to reach that phoenix now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. I've upgraded Robo-Nene's legs in a way that will now allow her to jump significantly higher than before.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Significantly higher? So, what about the landing...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I also have that covered.\nThe backpack I've attached to her will help break her fall by emitting a burst of air prior to impact.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We'll also have a landing pad ready just in case.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "However, all of that required quite a bit of power, so the battery will only be able to handle around three attempts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "There's also another problem...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Another problem?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "While super-jumping, Robo-Nene won't be able to do anything else. That means someone else will need to cast the net over the phoenix.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rion",
+   "Line": "The net...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rion",
+   "Line": "Then, I'll do it!\nYou've already helped me this much, so I should be responsible for the final step of making my dream come true...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Rion...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, in that case, I'll go with you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00249",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That phoenix frankly dwarfs you, so you're going to need some help casting this net.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rion",
+   "Line": "A-Are you sure?\nThis seems incredibly dangerous as it is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, after seeing your enthusiasm.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "As someone who is also chasing after a seemingly impossible dream... I feel compelled to help you make yours come true.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rion",
+   "Line": "Th-Thank you very much...!\nI really appreciate it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Okay, then...\nWe'll be counting on you both, Tsukasa, Rion.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Then, we'll get the landing pad ready.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We promise to catch you guys both no matter what, Tsukasa, Rion!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thank you!\nNow, let's go...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

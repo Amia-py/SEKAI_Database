@@ -1,0 +1,363 @@
+{
+ "title": "Kagamine Len — Innocent Squire〔Part2〕Side Story (Part 2)",
+ "meta": {
+  "Character": "Kagamine Len",
+  "Card": "Innocent Squire（2★）",
+  "Part": "Part2 — Side Story (Part 2)",
+  "Event": "A Gentleman Thief's Thrilling White Day?!",
+  "scenarioId": "023016_len02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a004401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Chocolate Factory",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Len, you can come out now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Okay!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Huh? Are we the only ones here?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes. The factory's closed today.\nNormally, they wouldn't be holding any chocolate-making demonstrations, but they’ve made an exception for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Some of the staff are also here to help prep all the ingredients. I believe they're doing that right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Oh, that's great!\nI can't wait to see how our chocolates turn out!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Wait, that reminds me! What happened to the designs we came up with?!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Excellent question!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The molds for those are right here!\nThese are the faces of Miku and the other, and this one is for my Pegasus!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Oh, with pigtails, cat ears and everything! This is exactly what I drew!> ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Whoa! That's the Pegasus you drew!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Hm? Hold on... What happened to its wings? Also, it seems kinda flat, you know...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "They made a separate mold for the wings. I'll have to put attach them to the body later.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<A-Attach them...?!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes. The body's actually divided into right and left halves, so I'll have to piece those all together at the end.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Whoa...!\nYour Pegasus is gonna look so awesome!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I'm also looking forward to seeing how it turns out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Now, where to put my phone. What would be the best vantage point for you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, the space for the extra cookware could work. This should let you watch without being noticed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "How's that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Sneakily...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yeah, this works great! I have plenty of room to hide too!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Excellent! All we need to do now is wait for the staff to return...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff's Voice",
+   "Line": "Thank you for being so patient...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, perfect timing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Here we go!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes. Time to make some absolutely amazing chocolates, Len!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yeah!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff",
+   "Line": "Alright, let's get started. Shall we?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, let's!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "(Yeah, let's!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Staff",
+   "Line": "In order to maximize the structural integrity and overall aesthetics of your Pegasus, it may be wise to avoid mixing in nuts or anything else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff",
+   "Line": "On the other hand, your Miku chocolates should be able to accommodate a few extra additions while still looking cute.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Len, what are your thoughts in terms of toppings?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "(Oh, Tsukasa trying to tell me something. What's he pointing at...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "(I know! He's asking which toppings I want to use! If that's the case...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "(The third one from the right!\nThe ones that look orange!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Let's see... His right hand's pointing to the right, and he's holding up three fingers with his left hand...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Got it! He wants three of the rightmost topping!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm? No?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "(I guess three fingers at once wasn't clear enough... How about this? From the right... One, two, three!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Now he has his right hand pointing right with his left counting one, two, three and sliding...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Now I understand! Three of the third topping from the right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hahaha! Roger, Len!\nComing right up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "(No, he's so close...! Third from the right, but not three of them...!!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Staff",
+   "Line": "That should be it.\nEverything turned out very nicely.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Staff",
+   "Line": "I recommend putting together the Pegasus just before you present it and leaving it as is in a safe place until then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Understood.\nThank you very much for your time today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Len, you can come out now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Great! Nice work, Tsukasa.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I could say the same for you, Len.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Hehe. Making chocolates was so much fun, including our little game of charades.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, that was a bit of a challenge, but you did a wonderful job of clarifying your message with each successive attempt.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Really? Thank goodness!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Now to wait for the big day!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes. I'm looking forward to seeing how everybody reacts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yeah!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "(Thanks to Tsukasa, I've been able to get a great return gift together. I have to make sure everyone loves what they get!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,638 @@
+{
+ "title": "Mixed Event — SEKAI Happy New Year! — Episode6 Hanetsuki Battle!",
+ "meta": {
+  "Event": "SEKAI Happy New Year!",
+  "Event Type": "marathon",
+  "Episode": "Episode6 — Hanetsuki Battle!",
+  "Event Outline": "Celebrate the New Year with Miku and the others in SEKAI! Get ready for a special episodic story featuring all group members!",
+  "scenarioId": "event_09_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "New Year's Day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Crase Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hello, everyone!\nHere's the special New Year's menu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, red bean soup with red and white dango, and amazake smoothies! Also, a matcha latte with flowers on the dango.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Your special menu is so extravagant! I don't know what to pick...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yeah! I want to try everything!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I've been looking forward to your special menu, MEIKO!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe, I went to town on this one.\nOrder anything you like!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Okay! Len, what are you getting?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Or how about we order everything from the New Year's menu one by one and share them all?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yeah, let's do that! I'll have the matcha latte then!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "And I'll have the red bean soup!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "One matcha latte and one red bean soup. Got it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "For my first order of the year, I'd like a cup of your original house blend, MEIKO.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe, sure.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Hanging out with everyone and just enjoying a relaxing day really is the best part of New Year's...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes. It is very nice, but don't get too lazy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yeah, we probably should find a way to work off all of this food...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Want to go jogging with me after this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Jogging?\nBut just running is so boring.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Aww... Fine, what do you want to do?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh, more customers...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, MEIKO! Happy New Year!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "And Happy New Year to you too, An.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wow, everyone's here today!\nHappy New Year!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Happy New Year!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hey, Akito and Toya are here too!\nHappy New Year!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Happy New Year. Thanks for all the help this past year.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Let's find the time to sing together again too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah, of course! We're looking forward to it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What's everyone up to right now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Just making the most of our New Year's in a really relaxed fashion.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe, that's the best way to spend it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Len and I were also talking about finding a way to burn off all the calories from MEIKO's extravagant menu too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Well, if you want to do that, I've got just the thing! Wanna try it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh, Hanetsuki paddles!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wait, what are those for...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "They're special paddles used as a New Year's decorations. Supposedly, they bring you good health for the entire year.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh, okay...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "And you can play a game with them too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You use the paddles like rackets to bounce a shuttlecock back and forth. The player that misses it loses...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "So it's a Hanetsuki battle!\nThat sounds really fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Count me in too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "This game's also supposed to ward off misfortune, so why not play doubles since you brought four rackets?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But there's one thing that hasn't been mentioned. The loser gets their face painted with ink, so you want to be careful not to get all graffitied.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Can't they just leave that part out...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Then we just have to win, right?\nDon't worry, we've got this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "That's right! Len and I make the perfect team, so we'll definitely win♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Then Kohane and I will play against you. The winners can scribble whatever they like on the loser's faces just as an added incentive!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wait, An...! Really?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Don't worry, Kohane!\nWe're an unbeatable team!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Says YOU!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "How about you, Akito? Toya?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I've never actually played Hanetsuki before...\nHave you, Akito?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Only once when I was a little kid.\nI'm happy just watching.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You guys are no fun! We're gonna have a blast without them in that case!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah! Let's go outside!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I'd like to see this too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "In that case, I'll get your orders ready and keep them in the back until you're done.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Cool, thanks!\nLet's go, guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "We've gotta win, Rin!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah, we'll win and prove to the world that we're the best team ever!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hehe, look at how cocky they are!\nLet's show them who's boss, Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah! Let's play our best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "We'll just watch from here then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wait, what about practice? Sigh... I guess we can do that later since it's New Year's and all...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Are you ready to begin?\nI'll be the referee!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "You score one point if your opponents fail to hit the shuttlecock.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "The first to five will be the winner. Is that okay with everybody?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yeah, sounds good!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Same here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Okay. Let's start the Hanetsuki Battle!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Here goes! Haaah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00150",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Len, it's on your side!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "I've got this... Huh? I missed...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Nice!\nThat's one point for us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "These paddles have a strange shape, so it's not easy to hit the shuttlecock with them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Well, that's unfortunate for Len! Guess what comes next...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Y-Yeah! Come on then, paint my face already...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "An, can you paint my face too?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Len and I are a team, so I think it's only fair we get the same treatment!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Hehe, you're really two peas in a pod.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay then....!\nI can do the same thing for both of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Just a little dab here, and done!\nOkay, your turn, Rin...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Eek, it tickles!\nThis is fun! I kinda like it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Haha! Okay, time to get serious and score some points for our team!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00150",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Kohane, get it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah! Got it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00150",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh no! A drop shot...!\nI won't reach it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "But I have to make it! Gooo!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00150",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00107",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "You got it!\nNice one, Rin!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "That was awesome, Rin!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "My turn, huh? You're next, Len!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Alright, I'm ready!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "(If Rin can pull that off, so can I!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "There!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00150",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "I'm on it! Yeah!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00151",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Whaaat?!\nI was sure Len would miss that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Good job, Len! We scored a point!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yeah! Let's keep this up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I-I'm sorry, An! It took me by surprise...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "That's all good. We'll get back at them!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "This should get interesting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Bring it on, ladies!\nYou can't beat me and Rin!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You're going to regret asking for it, Len!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Here you go!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00150",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hehe, I saw that one coming!\nGot it!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00150",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,783 @@
+{
+ "title": "Mixed Event — In This Singing City — Episode2 A Different Sound",
+ "meta": {
+  "Event": "In This Singing City",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode2 — A Different Sound",
+  "Event Outline": "With days to go before Leo/need's solo show, Shiho is on Vivid Street for an errand. When a powerful voice coming from an alley blows her away, she follows the sound to find An alone, singing intensely.",
+  "scenarioId": "event_90_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Vivid Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Wow, so this is Vivid Street.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<It's an interesting place, huh.\nSo full of singers and music.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah. There are a lot of musicians active in this area.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Even Shiraishi's place we're headed to is well-known for its live music.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I heard she herself sings there sometimes. It'd be great if we could hear her sing today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Hehe, I agree.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<You and Ichika had so much to say about this girl that I got really curious about her, so I'd be happy just to see her.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Thanks for bringing me along, Shiho.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Let's see now, we turn here and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Oh. I think that's the place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Alright, let's go. Be careful not to be seen, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Got it.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00035",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend Garage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Welcome!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, Hinomori!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Hello. I'm supposed to be meeting Kohane. Is she here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah! The flyers, right? Wait just a second!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Kohane! Hinomori's here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Sorry for having you come all this way, Shiho!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Don't mention it. Actually, we're the ones who asked you the favor, so I should be apologizing to you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hehe. Either way, we don't get many Miya Girls students among our customers. I'm glad you're here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Anyway, you two feel free to use that table over there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay! Over here, Shiho!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00170_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho & Akito",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You're the girl from the School Festival...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "You're the guy who was scared of the zombie wolf.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh?! Who said I was scared? I was just surprised.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It was a realistic zombie wolf after all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But... I see.\nSo the girl Azusawa was waiting for was you, Hinomori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yes! Actually Shiho, we all watched your band perform at Shibuya Festa. Your performance was really cool and exciting!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Thanks. We were pretty satisfied with our performance that day ourselves.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "And you were all amazing too. I liked how you sang with so much power.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehehe, that's good to hear!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Though, we all still need to put in the work!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Speaking of which, Shiraishi. Weren't you singing out there on the street the other night?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I didn't want to disturb you since you seemed to be concentrating... But you were singing with so much power. Like, enough to make my heart ache.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "To make your heart ache?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Ah... I guess that was when I stayed back after practice. I was pretty in the zone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I'd been wanting to sing with more emotion, so I was practicing that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...\nI see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Well, I get how you sometimes just feel the urge like that. But don't overdo it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, I know that. You worry too much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...\nBut yeah, thank you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Anyway, our last event was a big success thanks to Kohane, and we need to bring even more energy next time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Customers",
+   "Line": "Hey, An's all fired up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Customers",
+   "Line": "Now I wanna hear you sing.\nCan you do just one song?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh... Sure! I suppose I can spare you one song!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "On that note, sorry Hinomori! Please give your order to my dad.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Got it. Break a leg.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(What was with Shiraishi just now...?\nShe seemed a little off.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(Did I say something I shouldn't have?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh yeah, Shiho.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I left the flyer samples in the back, so I'll go get them now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Got it. Thanks again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "No problem! It looks like An's going to sing now, so why don't you listen while you wait?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00526_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00526_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Alright, looks like the mic's on!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(Who'd have guessed Shiraishi really would sing for us?\nMiku's gonna get to hear her after all.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Miku, it looks like Shiraishi's going to sing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<So it does. I think I'll listen in.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay, here I go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00142",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "♪————! ——————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00039_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000178",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(Wow, this girl's just like Shiho said. Her singing is so cool and powerful.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(And I think I can see how Ichika had so much to learn from her.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(Street music has a totally different kind of power from rock... This feels so new and exciting.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "♪————~~~~!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00039_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Customers",
+   "Line": "Way to go, An!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Customers",
+   "Line": "One more song!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(The customers are so into it. I can tell how much they love her singing... There's a great atmosphere here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(It's not quite the same as that time.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(I don't feel the same power that made my heart ache...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<She's just like you said, Shiho. She's cool and sings really well.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Shiho...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Oh, uh... It's nothing.\nI just—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00531",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00531",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thank you for waiting!\nHere are the flyer samples!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Oh, great. Thanks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I drew up a few different samples based on my discussion with Honami. What do you think?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Wow, the overall feel changes a lot with just a tweak to the balance of the text. Which should we go for...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huff...\nOkay, it's time to wrap it up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Customer",
+   "Line": "Thanks An!\nYou really got some pipes on you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00306_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hehe, that's sweet of you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(It's not enough... At this level, I'm still so far behind. I need to practice more.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Since you want to be someone she can “respect and be proud of”, An, you want her to like and be excited by the way you sing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You're worried about not being able to do that if Kohane keeps improving at her current rate, right...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(I need to practice more, to sing more. Right now, that's...all I can do...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "See you later, Hinomori!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "See you. And Kohane, thanks for all your help.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Of course! I'm glad to be of help. Good luck with your solo show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "It looks like the flyers will turn out well thanks to Kohane. And on top of that, I got to hear Shiraishi sing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Shiho, what's up?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Oh, Miku...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<You had something on your mind when you were watching Shiraishi before, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah. Her singing just now was incredible, but it was pretty different from when I heard it the other night.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Different? In what way?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Last time, her singing was so powerful that my heart ached. But I didn't really get that from her today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "She was singing so well...\nSo, why do I feel this way...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,593 @@
+{
+ "title": "Unit Event — Burn My Soul — Episode1 Ever Since That Day",
+ "meta": {
+  "Event": "Burn My Soul",
+  "Event Type": "marathon",
+  "Episode": "Episode1 — Ever Since That Day",
+  "Event Outline": "Vivid BAD SQUAD and Ken burn the candle at both ends figuring out how they'll surpass RAD WEEKEND. Tasked with reigniting fervor in the residents of Vivid Street, Akito tries to burn brighter than ever before, but will it go up in smoke?",
+  "scenarioId": "event_109_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Vivid Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "*Sigh*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro's Friend",
+   "Line": "Mita? Hey, Mita!\nYou listening?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Huh? Sorry, I didn't mean to space out... What's up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro's Friend",
+   "Line": "Our event. How many times are you gonna make us ask you? You wanna be in it...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro's Friend",
+   "Line": "You haven't done a single one since that day, right...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro's Friend",
+   "Line": "You're such a good singer, but you haven't been performing... It seems like a waste, you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "No...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Sorry, I need more time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro's Friend",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I'm really sorry...\nI really appreciate you inviting me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro's Friend",
+   "Line": "No, don't apologize!\nJust let us know if things change, okay?\nYou'll always be welcome.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro's Friend",
+   "Line": "Anyway, we gotta start getting ready for it. Catch you later!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Okay, see you guys.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(It has been a while since that day...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(I wonder what the others are doing...\nI heard that Ken's closing his shop temporarily...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00173_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "Hey, when do you think Weekend Garage is gonna open back up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "Yeah...\nThe curry there's so good. I wanna have it again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "It can't stay closed forever.\nI mean, everyone around here gathered there. Where do you think Ken's gone?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "Dunno...\nAnd he's not the only one who's mysteriously disappeared.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "I haven't seen Vivid BAD SQUAD anywhere recently. What do you think they're up to right now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "Wait, you haven't heard?\nApparently, Vivid BAD SQUAD broke up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "They quit singing after Taiga gave them that clobbering.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "Whoa, no way!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "I mean, this is Taiga we're talking about here. No one's gonna come out in one piece after going toe-to-toe with that guy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "Really?\nI heard a rumor that they'd gone somewhere else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(Vivid BAD SQUAD broke up...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "No, that's not possible...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "There's no way they'd quit so easily...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "Mita? Is that you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Oh, sir...!\nI-It's been a while!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "Yeah, long time no see.\nNot since that event.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Yes, that's right!\nAlso, you remembered my name...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "Of course I did.\nThe event you and your friends put on was really something.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "I heard about your battle against Taiga.\nHe didn't pull any punches, huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "No, he didn't...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "But you haven't upped and packed your bags. You're tougher than I thought.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "No... I-I'm really not.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Since that day, I haven't been hanging around here as much. I'm only here today because my friends basically forced me to. They said, “Quit beating yourself up and come join us.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "Regardless of the reason, I'm glad you've decided to come back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "Especially considering how no one seems to have seen Arata, EVER or Vivid BAD SQUAD lately.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Oh...!\nAbout that...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I dunno if this is true...\nBut I just heard a rumor that Vivid BAD SQUAD broke up. Is that possible?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "No, I'm pretty sure they're still at it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "You are...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "I don't know the details...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "A few months ago, I decided to head over to Ken's place with some old friends. Because... I wanted to talk to An.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "I only got to speak to her for a little bit...\nBut that can wait for now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "Based on what I saw, they're still singing and doing what they've always done.\nHowever...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "They appear to have gone to another area.\nIt could be that they've decided to base themselves elsewhere...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Elsewhere...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(Then, what about RAD WEEKEND...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "Mita, have you not been speaking with them...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "No, I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wait.\nThere's something we need to tell you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I'm sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wait, Kotaro!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "No...\nNot since then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "Still, this town feels so empty now...\nLike a venue after a crowd's left.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "I wish you'd all come back and stir things up again...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(He's right...\nIt hasn't been that long, but things have really changed around here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(There used to be more excitement.\nEveryone was singing on the street and giving this place such a unique flavor.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(But they're all gone now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(Where are they...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(Did they really give up on surpassing RAD WEEKEND and head somewhere else? No, that can't be right.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(Because they were the ones telling me to do the opposite. To not give up...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(At the same time...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(I wouldn't be surprised if they have given up...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(Stop, there's no point in thinking about stuff like that..)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(It's none of my business now anyway.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(I hung up my hat before them.\nI ran without listening to what they had to say. I have no right to say anything.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Ahh... Ahh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00444_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "Huh...?\nHey, check it out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "Someone's about to sing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "Hm? Isn't that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Akito...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

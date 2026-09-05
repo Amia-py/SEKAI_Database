@@ -1,0 +1,658 @@
+{
+ "title": "Mixed Event — Beyond The Dream of That Day — Episode3 A Surprise Request",
+ "meta": {
+  "Event": "Beyond The Dream of That Day",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode3 — A Surprise Request",
+  "Event Outline": "After putting on a successful solo show, MORE MORE JUMP! starts thinking about their next goal. During that time, they're offered a chance to appear on TV. Everyone is excited to hear the news, except Haruka, who doesn't quite share in their optimism...",
+  "scenarioId": "event_78_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka Girls Academy - Rooftop",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Okay, now that we've decided to try to become top idols in order to be able to perform at the Dome...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "We'll need to start thinking about how we're actually going to accomplish that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Right!\nPerforming at the Dome's way in the future...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Until then, we should probably perform in shows at increasingly bigger venues. Those should work as stepping stones, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, about that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "We were actually thinking that we may be able to put on a show at a slightly bigger venue.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah.\nFor example, Shibuya Hall.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "What? Shibuya Hall...? As in THE Shibuya Hall?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "That'd be amazing...!\nWe'd be able to perform in front of so many people!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "At the same time, if we think we can fill 2,000 seats, we could start aiming a little higher.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "H-Higher...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We have a big dream now, so if we are aiming to have 10,000 guests... That's about how many the Ryogoku Sumo Arena or Nonogi Gymnasium seat.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "15,000 would mean the Butokan.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "The Butokan...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Someone said that they want to see us perform there, right...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Us performing there would mean making their dream come true.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "So, I want to aim for that.\nIf we're going to perform at the Dome, we should try to perform at the Butokan first.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "15,000 people...\nIt's a huge number, but that's what we gotta go for if we want to be #1!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "But that means we'll need to figure out a way to increase our audience size from 700 to 15,000.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "How do we actually go about doing that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Our fan base should grow as long as we keep doing streams... However, 15,000 is going to be difficult to reach based on our current rate.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Does that mean we have to start rethinking how we do our streams? Especially since that one article gave us such a big boost!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We have a few options to choose from now, including magazines, radio...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "*Gasp*\nThat's right. We got some offers for work!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, we did...\nThose may benefit us quite a bit!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I agree for the most part...\nHowever, we should do some research on each company before we accept any offers.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Right.\nWe received a lot of messages, but some seemed pretty sketchy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Why don't we take this opportunity to go through them and get ourselves organized...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Okay...!\nThis is so exciting! I can't wait to see who's been trying to reach us since I haven't had a chance to look through all of them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I'll check the emails. Minori, can you take the DMs? Airi, if you could look through the comments for our streams...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "And Shizuku...\nWould you mind assisting Minori and Airi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, I get to be their assistant?\nThat sounds like fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah...\nAlright, Shizuku, I'm gonna need all the help you can give me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Then, let's get started.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi, Shizuku & Minori",
+   "Line": "Okay!\nYeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Several dozen minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Alright, the next DM says...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "<Dear MORE MORE JUMP!\nI'd like to congratulate you all for successfully putting on your first solo show! I was very impressed that you had put on the event all on your own!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "<As it so happens, my company produces a diet supplement called “Super Weight Loss Beauty DX” which allows you to lose 30 kg by taking it each day, and we'd like for you to all advertise it...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "L-Lose 30 kg?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Won't you vanish into thin air if you take enough of those...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "You know it's a straight-up scam, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "If you wanna lose weight, you gotta eat right and get plenty of exercise. There's no such thing as magic diet pills.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "R-Right...\nFor a second there, I was amazed by how a product like that might be out there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Unfortunately, from what I've seen, a lot of the messages we got are pretty shady...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Again, before we accept any offers, we need to know who's sending us these offers. If we're not careful, things could get ugly fast.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Us falling victim is one thing, but if we ended up advertising such unwholesome products... I'd really rather not bring harm to anyone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Me neither.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "*Sigh*\nGoing through all these messages is hard enough. Weeding out the bad ones is just extra work on top of that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Doing this makes me realize just how important managers are.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But it's not all bad!\nWe've gotten some good ones, so let's try to be optimistic!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "The next one says...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, mind if I also have a look?\nLet's see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "<I apologize for contacting you so suddenly like this. I work as the producer for “idol Hazard” which is currently airing on Tokyo NX.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Whaaat?!?!\nThe producer for iHaz?!?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, you scared me there...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "S-Sorry, Shizuku!\nI was so startled that...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Huh?\n“iHaz”...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Have you heard of it, Airi?!\nLike this person said, it's a show that airs on Tokyo NX late at night!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Its full title is “idol Hazard”, but everyone calls it “iHaz”! The MC changes each time since they ask various idols from all these different groups to lead the show...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "It only started airing recently, but a lot of people have been praising it because you get to see all these guest groups interacting with everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "So, the producer for this show contacting us must mean...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Y-Yeah...!\nWhat if...? Just what if...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Sh-Shizuku!\nPlease, keep reading!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "O-Okay, umm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "<I've actually been watching some of your streams, and my interest in your group has only grown since hearing how you successfully put on your very first solo show.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "<Since then, I've been watching the archive footage of your streams. The fun energy you all exude has become a great source of encouragement for me.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "<I'd really like it if you could share some of that energy with our viewers by appearing on our program.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "No way! It's a real offer to really appear on TV...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Mind if I take a look at that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I see...\nIn short, they want us to appear for their five-minute segment where they feature idols who are currently trending.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Th-Th-This is so cool...!\nWe might get to be on TV...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "More importantly, this is an amazing opportunity to get our name out there and have more people learn about us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I agree. I know it's just a five-minute appearance, but talk about hitting the jackpot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I'd like to accept as well!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "How about you, Haruka?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(This producer's pretty famous and sounds very sincere, so I think it's safe to say that it's a real offer.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Not only that, this is a huge chance for us. I was expecting to start with much smaller offers before tackling something so big...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(But a huge opportunity like this is...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I'd like some time to think about it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Care to explain why?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I'm not sure if appearing on TV is what we should be doing right now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes, a TV appearance may expand our fan base. We've gained a nice following online through our streams, but TV is on a completely different level.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Then...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But that has its drawbacks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Drawbacks...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "What I'm trying to say is that there may be unexpected consequences.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "What if something one of us says is taken out of context for the purposes of entertainment? Sure, the show may benefit from that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But we'd end up hurting our fans as a result.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Of course, I understand that not all TV programs are produced in such a way. There are many good things to be had...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But appearing on TV means being prepared for such things. That's why I'm having a hard time immediately accepting this offer...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, there's definitely a certain amount of risk involved...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Now that you mention it...\nI remember this one time when they took one of my quips and edited it to make it look like I was bad-mouthing this actor that appeared with us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "What?! No way!\nWas everything okay after that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, things got pretty hectic after it aired. Some of that actor's fans still bring it up from time to time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "But my fans claimed, “Airi would never say stuff like that,” which helped keep things from really getting out of hand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Thank goodness...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Still, despite what happened...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I think the benefits of us appearing on TV outweigh the costs, so I'm in favor of accepting this offer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Right...\nDespite having a really bad experience, Airi's still in favor...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh no! The bell rang!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Our lunch break's already over...\nThe time just flew by during this discussion.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, and we still haven't reached a consensus...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "So, let's all sleep on this and continue another time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Sorry...\nI didn't mean to rain on your parade. I know you're all excited about this opportunity.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "No, don't say that.\nYour opinions are just as valid as ours, so thank you for sharing with us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Shizuku...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "She's right!\nFor stuff like this, we should all be in agreement before we accept or reject...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Because it's all for one and one for all with MORE MORE JUMP!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Precisely...\nSo, Haruka, feel free to speak your mind. You don't have to hold anything back from us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "All of you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Thank you...\nI'll give what we discussed some more thought.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

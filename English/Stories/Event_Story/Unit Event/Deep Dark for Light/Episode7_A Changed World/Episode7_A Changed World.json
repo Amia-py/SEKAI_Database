@@ -1,0 +1,1383 @@
+{
+ "title": "Unit Event — Deep Dark for Light — Episode7 A Changed World",
+ "meta": {
+  "Event": "Deep Dark for Light",
+  "Event Type": "marathon",
+  "Episode": "Episode7 — A Changed World",
+  "Event Outline": "On the last day of the workshop, Wonderlands×Showtime learn about the upcoming ArcLand Show Contest, and they decide to compete. Faced with the challenging role of a prince beset by despair, Tsukasa becomes keenly aware of the gap between himself and Asahi.",
+  "scenarioId": "event_178_07"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d006001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Center Theatre",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Member of Other Troupe",
+   "Line": "“Let now this door be opened!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(As expected...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(The Araumi Troupe, Otome Productions... From household names to those best known by connoisseurs, all sorts are here for the contest.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00239_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wooow! That one was really good, too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah...! Honestly, I feel like any troupe could win this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. Every troupe has performed very well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "However... There are a lot of eyes on the next group up. We should expect something even better yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Asahi's team...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huh? What's this? Why is the theatre...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Prince",
+   "Line": "“Hmm, I just can't seem to find them!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Ah! Asahi's in the aisle!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Prince",
+   "Line": "“Is it you? Are you my fated one?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? M-Me?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Prince",
+   "Line": "“Or perhaps... Is it you, my brawny fellow?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Member of Other Troupe",
+   "Line": "M-Me?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Prince",
+   "Line": "“Hmm, still no luck... I've spent so long searching. Wherever could my princess be?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe, he's made his entrance perfectly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Right, Asahi's role was a prince searching for his fated princess.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I saw them practicing this next to us, but this is the first time we've seen the whole thing from the beginning.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I'm looking forward to seeing it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00326",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Prince",
+   "Line": "“Oh, why is it? I've looked almost everywhere, but I can't find my princess.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Prince",
+   "Line": "“Ah! What if they've been imprisoned by a wicked dragon?! I must rescue them!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Bird",
+   "Line": "“My prince, my prince! Do you even know what your princess is like?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Prince",
+   "Line": "“Of course I do! My princess is someone who will embrace me with deep love!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Bird",
+   "Line": "“Deep love... That's rather vague, isn't it?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Prince",
+   "Line": "“Is my princess truly even out there, do you think?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Wolf",
+   "Line": "“Hmm. What makes you say that, my prince?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Prince",
+   "Line": "“My old nanny always used to say that someday I'd find someone who would love me deeply, and I've always believed her, but...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Prince",
+   "Line": "“I may be a prince, but I'm not a very smart or useful prince. Is there really someone out there who could love me, even so?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Prince",
+   "Line": "“Ah... I see. I finally understand.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00017",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Prince",
+   "Line": "“I spent so long looking for someone to love me, when what I needed was to give love to others myself.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Prince",
+   "Line": "“If I can find someone I want to share my life with...and we can nurture love together...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Prince",
+   "Line": "“The truth is... Anyone could be my princess.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(His emotion is coming through.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I can feel the warmth spreading through the prince's chest as though it was my own.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00239_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Asahi never disappoints.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "He never does. All his castmates were impressive, as well. The script and direction were also clever. I found myself being drawn in.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We're not just going to let them have it, are we?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00192",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hey, don't steal my line.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Consider it payback for last time!\nEvery actor wants to take the best lines for themselves, after all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehehe♪\nEveryone is so motivated!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes. After all... We're about to put on an incredible show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The time has come.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Let's show everyone how Wonderlands×Showtime has evolved!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah! Here we go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Let's put smiles on all those faces!\nWon-won...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa, Emu, Nene & Rui",
+   "Line": "Wonderhoy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "(Hmm... Finally, the last one.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "(None of these performances have been terrible... But nothing much surprising, either.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "(About the only one worth remembering is Asahi Genbu, I suppose. He has the greatest acting range. He alone was enough to elevate the rest of the show.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "(He'll likely be the only one I can get any use out of.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“Big brother, big brother! Tell me that story again!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“Of course I will. You really love this one, don't you, Emily?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "Hm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "(Ah... The last group is Kamishiro's.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "(Let's see what they can do this time around.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Finally, here it is...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "(It was already looking pretty solid during our joint practices...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "(But the confidence in their eyes... We're going to see something special.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "(I just can't wait for this show...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Youth",
+   "Line": "“Once upon a time, in a faraway land, there lived a brave prince and a gentle princess.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00235",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Youth",
+   "Line": "“When the princess was kidnapped by the wicked Dark Lord, the prince overcame many trials...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Youth",
+   "Line": "“And defeated the Dark Lord to rescue her.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Prince",
+   "Line": "“Princess! The Dark Lord lies defeated. I have come to rescue you!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Princess",
+   "Line": "“Oh, my prince...! My beloved! Take me from this place, and I'll stay by your side, wherever you may go!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Youth",
+   "Line": "“And so the prince and princess were married. And they all lived happily ever after.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Youth",
+   "Line": "“However, this is where our story begins. What comes after 'happily ever after'?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Now, let's go!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“*Sigh*\nHow did it come to this?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00303",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“Of course I treasure Harte, but lately every time we meet, we fight. We say such cruel things...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“No... I know why. It's because my work as crown prince has been weighing on me so heavily.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“Harte knows how busy I've been, and she wants to help me. And yet, I...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“Now, now. I'm sure if we only speak to one another, we can find an understanding.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“When brother clasps hands with brother, kingdom with kingdom, both flourish. The same must surely be true for lovers!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“As soon as I finish my work, I'll go see Harte. We'll talk this all out!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00882",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00882",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Secretary Nidd",
+   "Line": "“Well... He has stamina, if nothing else.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Secretary Nidd",
+   "Line": "“What a headache. This kingdom would be in much better hands with his younger brother on the throne.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Secretary Nidd",
+   "Line": "“I suppose I'll have to...expedite matters.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“Harte, I think we should have a proper talk—\nUgh!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Harte",
+   "Line": "“B-Blesse? What's wrong?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“W-We...talk...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“Alright! That's all our work finished for the day!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Harte",
+   "Line": "“Huh? But... You have that meeting with the messenger from the neighboring kingdom to negotiate for peace.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“It's not as though that will actually help relations, right?\nI'd rather spend some quality time with you, Harte!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Harte",
+   "Line": "“Blesse! People have seen something unusual in the mountains. A spiraling black cloud. The people are uneasy, so let's send someone to...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“*Sigh*\nJust uneasy? Just leave it be, then. We can't chase after every tiresome thing they panic about.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“As long as we look like we're listening, that will satisfy the masses.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Harte",
+   "Line": "“Huh?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“No matter how hard we work to make them all happy, or rescue people who are suffering, they don't care, and they'll never understand our efforts.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“Laws that benefit them personally are popular. Laws that don't get endless complaining. There's no point in working ourselves to the bone for people like that.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Harte",
+   "Line": "“Oh...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Harte",
+   "Line": "“Something is wrong...\nYes, Blesse is spending more time with me now. But somehow...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00093_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Fairy",
+   "Line": "“Huff... Huff...\nPrincess Harte!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Harte",
+   "Line": "“Huh? Wait, you...!\nYou're the fairy who traveled with Blesse to rescue me?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Fairy",
+   "Line": "“Yeah! I can sniff out traces of evil magic, so I joined the prince on his journey!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Fairy",
+   "Line": "“Just now, I smelled something really bad coming down from the mountains, so I came here to tell the prince...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Fairy",
+   "Line": "“And the same smell is coming off of him! So I can't say for sure, but I think the prince may be cursed by something deep in the mountains...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Harte",
+   "Line": "“Huh?! Cursed?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Harte",
+   "Line": "“I see... So that's why...!\nOh, why didn't I see it sooner?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Harte",
+   "Line": "“No, that's not important. Good Fairy! How do we undo the curse?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Fairy",
+   "Line": "“There's only one way.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Fairy",
+   "Line": "“The one who's cursed has to personally destroy the source of the curse. So...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Fairy",
+   "Line": "“The prince has to go into the mountains, find the cursed object and destroy it!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "(WXS really is amazing.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "(There are only four of them, but the worlds they build feel so fleshed out.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "(That must be thanks to Rui's direction, I'm sure.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "(And I have to say... Tsukasa's acting has improved quite a bit. I'm really looking forward to what comes next!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "(I wonder how he'll portray the despair at the end...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Harte",
+   "Line": "“Phew... We've made it over all those rocks...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00106",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Fairy",
+   "Line": "“What a surprise that Nidd person was a bad guy! I put him to sleep, but we'll have to bring him back to the castle when we're done here!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“Yeah... Right...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(We're almost at the pivotal scene.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Don't worry. You've practiced so many times.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Harte",
+   "Line": "“We're so close to the cursed flower now! Blesse, just a little further up this path and we'll be at the summit!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“Yeah...\nThanks, Harte...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“Right. Just a little further...\nJust a little more, and this curse...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“Ugh...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00107_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Harte",
+   "Line": "“Blesse?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Fairy",
+   "Line": "“Ugh, that stink! The curse is getting stronger and stronger!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Harte",
+   "Line": "“But we're so close to the flower!\nBlesse!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Here it is.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Leap into the darkness!!!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(The moment I would fully despair would be the moment I lost my dream.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(But so long as I never give up on my dream, that would never happen. I would never despair.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(But... There is one way.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(If...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(If it wasn't me, but the world that changed...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(If, no matter how I struggled, I remained powerless...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d008001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00250",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "This is...the station?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What happened? Why is everything so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh...right. I remember now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Everything changed...in the blink of an eye.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "This world...became ruled by hatred.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "Curse them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "I just want to live a normal life...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "Why is everything so hard for me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "It's their fault. It has to be.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "If they...weren't around anymore...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "“We can just talk this all out”? That's just idealism.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "Yeah. The real world doesn't work like that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "It's all their fault I'm suffering like this.\nIf only they would all just disappear...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "Yeah! Then... All our problems will be solved!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That won't make a world where everyone is smiling. Someone will be left suffering as a result.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I want a world with a smile on every face! That's why I put on my shows!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Now, more than ever, I need to deliver smiles!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Come one, come all! The curtain rises!\nSee the hero Pegasus fight to protect everyone's dreams!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "A show...?\nWho's got the time for that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "I don't have time to waste clapping along to some made-up fairy tale. Just go already.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...\nThen what about this?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Send in the clowns!\nWatch as I balance on top of the entire Earth, all to make you smile!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "Whatever. Can't you find someone who can actually help me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "We know whose fault this is. We just need to beat them down!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No! I'm not done yet! I'll keep on trying as many times as I must!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I'll keep on trying until the world is filled with smiles!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huff... Huff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“This is a little tale of hope.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Hope that, even in spite of hatred, people can come together in peace. A little—”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "Just stop already.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "Your stories are pointless.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00334",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "Having fun and laughing for just a moment...over and over... What's the point of that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "It won't fill your belly or cure sickness.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "All your grand, sparkling tales of love and hope do...is remind us that we don't have any of that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "And...all your talk about making everyone smile?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "We need that least of all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "It's their fault we're suffering. They don't deserve to smile.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "I'm leaving. This whole thing has been a waste of time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "You can say that again. Better to find as many of them as we can and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "Stay away. Stay away from me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "Pointless. All of this is pointless...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00804",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00460_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00460_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hey! Wait!!!\nWhere are you going?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Please, wait!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I guess...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "It really is hopeless after all, Tsukasa...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Emu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "How cruel and ugly reality is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Who could have thought that humans could hate each other so much?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "A show that transcends borders was just a pipe dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In the end, shows are powerless.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Rui...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No... No! Not yet!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "If we give up, that's truly the end of everything! Their smiles will never return!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "So we just have to keep playing!\nIf we can do that, then—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But there's no one here to watch!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "People don't trust each other anymore. They're too afraid to leave their houses... Not even singing reaches them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Even so...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Even so, we can't just give up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That alone won't solve anything!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Without an audience... Without people who need our shows, theatre is pointless.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It's all...pointless.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(No one...needs us?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "Just stop already.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d008001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Our shows, their smiles... They don't want them anymore?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Voice",
+   "Line": "Your stories are pointless.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d008001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Then, I...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(What do I have left...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d006001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000485",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“No more...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“Thank you, Harte...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“But this is the end. There's nothing left for me.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Harte",
+   "Line": "“Blesse! Come on, Blesse!\nThis isn't like you!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“None of this matters.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“No matter what I do, humanity will still hate.\nCountries will still wage war.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“No matter how much we wrack our brains, no matter what we try to accomplish... Nothing ever changes.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Blesse",
+   "Line": "“Everything is...meaningless.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d006001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Tsukasa...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

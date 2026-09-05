@@ -1,0 +1,678 @@
+{
+ "title": "Unit Event — A Sad Farewell at the Curtain Call — Episode1 No More Ambassadorial Show?!",
+ "meta": {
+  "Event": "A Sad Farewell at the Curtain Call",
+  "Event Type": "marathon",
+  "Episode": "Episode1 — No More Ambassadorial Show?!",
+  "Event Outline": "The next ambassadorial performance is going to be the last one?! Wonderlands×Showtime is staggered to hear the news, but is followed by an offer to do a joint performance with a highly regarded theme park that puts on the best shows in Japan. As chaotic practices ensue, Rui is approached by a certain person...",
+  "scenarioId": "event_74_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000903",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Rui's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00319",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Okay, it's complete.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Hehe. We'll be able to use this miniature lighting mechanism to do projection mapping wherever we like, which should allow us to employ a wide variety of new effects.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I'm looking forward to seeing how everyone reacts when they see this.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Ah, if only it could be tomorrow now. Then I'd be able to show them immediately.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I have them to thank for being able to try putting on so many different kinds of shows.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "If we can keep putting on shows like this for as long as possible...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004703",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Y-Yes, we probably will have to go our separate ways in order to pursue our dreams...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "The thought of that happening is really sad and makes my heart sink...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But when that happens...\nI have a feeling that it'll be the moment when we take a big step towards achieving our goals...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Nene...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "And until that time comes, I want to cherish the shows that we're able to do together...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "All of us... Together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000903",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Until that time comes, eh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "She's right though.\nWe'll have to cross that bridge eventually.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "So, until then, I should keep doing my absolute best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Anyway, I should go to bed soon. They'll surely scold me if I show up with bags under my eyes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00032",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonder Stage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hmm...\nSoon... No, not yet... But they should be...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00143",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We're done cleaning over here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Good job, you two.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hm...?\nWhat's Tsukasa doing over there? He seems kinda anxious.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, he does. He seemed fine just a second ago...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, it may be because Emu's brothers are supposed to meet with us soon...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, right.\nThey usually tell us where we're going to do our ambassadorial performances in the morning on days off.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, I can't wait to hear about where we're going next♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hmm... They should be here soon...\nBut they're later than usual...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00143",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Good morning.\nYou all seem well, as usual.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, there you are!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Whoa!\nWhat's going on? There's no need to run...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I've been eagerly waiting to hear about where we'll be doing our next ambassadorial performance! Our show for Shibuya Festa went beyond splendidly, so I'm looking forward to producing similar results!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Ah, I see...\nWell...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hm?\nIs something wrong, Shosuke?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Um, so...\nShouldn't we tell them already, Keisuke...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Yes.\nIt'll make things easier to explain if we start with that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "What's going on?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "The thing is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Your next ambassadorial performance will be your last.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...\n...\n...Wh—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wh-What do you mean?!\nThis is so sudden! Why?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah! Why?!\nEveryone loves our shows and they always smile after seeing them! What's going on here?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Mind if we ask for more details regarding this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Yes, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "First...\nIt will be your last, but that is not actually a bad thing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Remember what our initial objective was... To attract guests from other parts of the country who don't normally get a chance to visit our park.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, I do remember you guys mentioning how this park is easy to access for the locals but not for people who live far away...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Precisely.\nOur main goal was to attract guests from the more far-flung regions of the country...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "However, we ended up accomplishing that goal much quicker than we initially expected. As a result, we've seen a high influx of those guests.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So, our shows really worked...?!\nWoohoo! Awesome!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, which is why we won't be doing any more shows!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "At the same time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "If they were so effective, why not keep doing them...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Point taken, but as it so happens, quite a few of our guests visit Phoenix Wonderland to specifically see your shows. More than you might expect.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I see. Now I'm starting to understand...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "They're visiting the park to see us perform, so not being here because of our ambassadorial duties would only serve to disappoint them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Yes, exactly.\nAs such, we need you to stay and perform at the Wonder Stage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Then, both the park and its guests will benefit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Right...\nI guess that makes sense if they want to see us that much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, we should be grateful.\nStill...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We learned so much from doing these performances. In that sense, this is rather unfortunate news...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah...\nYou, Nene and Rui smiled so much... And I learned a lot...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But I'm also happy that so many people from all over the country are coming to visit!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hehe. Me too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, these ambassadorial performances were definitely worth the effort, since we needed to come up with so many creative solutions for them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I agree...!\nAnd we'll do the same for everyone who comes to see us at the Wonder Stage by putting on magnificent shows for them!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But first, we'll need to cap off our ambassadorial performances with a big finale!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah!!\nLet's do our best to make that happen!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "We actually have a suggestion regarding your final ambassadorial performance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "A suggestion?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Yes.\nThis may feel a bit sudden, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "How would you all like to do a show with the cast of ArcLand...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hm? ArcLand...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "As in Tokyo ArcLand?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What?! The ArcLand...?!\nThe park that's famous for putting on world-class shows and performances...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Yes, the very same. Not unlike Riley Dream Park, they operate parks in ten countries around the world that are based on the countless movies they've produced.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That's a very attractive offer, but how did this come to be exactly...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Not too long ago, some people from ArcLand contacted us about our show casts doing a performance together as a sort of cultural exchange meant to help raise each other's skills.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "A cultural exchange?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "We wondered why they were asking us this at all initially, and believed that they were trying to undermine us somehow after we finalized our partnership with Riley Dream Park...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "However, as it turns out, they genuinely seem to want to use this opportunity to give their cast members a chance to improve their skills.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Really? Even though they're already this popular...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Despite being the best show in town, they're not resting on their laurels. That's very admirable of them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "They even mentioned you specifically and how it'd be an honor to work with the peerless casts of the Wonder Stage and Phoenix Stage since they're all the rage right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "We're thinking about having Seiryuin and her troupe guide them around the park, with you all doing a show with them. How does that sound...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(ArcLand is the theme park that arguably puts on the best shows in the country.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(They've even put on shows recently with casts consisting of some of the best young actors around and directors from around the world. They're clearly not afraid to take on new challenges.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(We stand to learn a lot from them. This could be an opportunity for us to grow quite a bit as a troupe.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(And I'm personally curious...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'd like to go forward with this.\nWhat do you all think?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'm for it too!\nIf lots and lots of people come to see our show, it's gonna be even more wonderhoy than usual!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I might start feeling nervous if too many people show up... At the same time, I could learn a lot from this experience. So, I'm also for it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Excellent!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I have no complaints!\nLet us take this opportunity as those who truly love shows to learn as much as we can from one another!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Ah, wonderful.\nThen, we'll let them know right away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "We feel bad about dumping this on you so suddenly, but do your best during your last ambassadorial performance, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Still, how many people do you think are gonna come? I really don't feel great about performing with a whole load of new people...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Nonsense! You're going to be a world-famous songstress! You should have more confidence in yourself!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, he's right!\nYou're gonna knock their socks off!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Just by being confident?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Speaking of which, where will we be performing exactly?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "At the Museum of Emerging Technologies that's about to have its grand opening. Here's a pamphlet for it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That means we'll also be advertising the museum itself! We'll need to do our best for this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow...!\nThis place looks so cool! And shiny!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "This museum seems to focus on the near future and has exhibits that introduce state-of-the-art technologies from around the world. The plaza outside will be your stage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "The near future...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. I'm already getting some interesting ideas.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In any case, let's all do our best to put on the best show we can together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

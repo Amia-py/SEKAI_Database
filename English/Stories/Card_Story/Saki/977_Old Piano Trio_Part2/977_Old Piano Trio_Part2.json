@@ -1,0 +1,483 @@
+{
+ "title": "Tenma Saki — Old Piano Trio〔Part2〕Side Story (Part 2)",
+ "meta": {
+  "Character": "Tenma Saki",
+  "Card": "Old Piano Trio（2★）",
+  "Part": "Part2 — Side Story (Part 2)",
+  "Event": "Play That Beautiful Sound!",
+  "scenarioId": "002039_saki02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a001401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "carino/carina",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hello! We have a reservation under the name “Tenma”♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Clerk ",
+   "Line": "Hehe. We've been waiting for you.\nYour table is right this way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Thanks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I didn't realize you'd gone through the trouble of making a reservation, Saki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I had a shift yesterday, so I just asked then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Clerk ",
+   "Line": "Your order will be right out.\nPlease let me know if you need anything else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Okay♪ We'll be right here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You seem to be in an awfully good mood today, Saki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehe. That's because it's been forever since the three of us last went out together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Also, I've really been looking forward to hearing about what happened during Shibuya Instrument Day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Right. I've been wondering as well, after Saki told me about how you'd been asked to help with customers.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Then, why don't we jump right in with that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Okay♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "First, my customer service skills. After I agreed to lend a hand, Shiraishi helped me practice interacting with customers. I wouldn't have been able to get through that day without her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The first actual customers I helped were an elderly couple hoping to learn to play a new instrument together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "And that's when a boy came over to try playing the trumpet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "He dreamt of playing the trumpet, but struggled to produce a steady tone. So much so that he was ready to give up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(His dream...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But that boy came over to the demo area to overcome said issue, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, that's also what I initially suspected.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "As luck would have it, two other friends of ours were the ones who'd brought him over. We actually ended up practicing together as a form of encouragement.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a006501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Boy",
+   "Line": "I still can't play, despite all the help you guys are giving me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boy",
+   "Line": "I don't think I'm cut out for this, after all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I felt just as frustrated as you are at the moment. Every time I failed, I felt like crying, because it was a reminder of my lack of skill and talent.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I don't remember how many times I wanted to give up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "However, after a year or two of practicing, my sound began improving.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But that made me so happy...\nEven though I still had to endure some very hard practices, I couldn't stop playing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "And each time I put in an honest effort, my music changed for the better.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Before I knew it, I could play even more beautifully than I had imagined.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "If any part of you still wishes to produce beautiful music, then I implore you to not give up here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(Oh...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Student A",
+   "Line": "Hey, let's go shopping already!\nI've got my eye on some cute clothes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00175",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Student B",
+   "Line": "Sure, but what about your homework?\nDon't come crying to me when the teacher scolds you for not doing it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Students",
+   "Line": "Haha.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Saki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Saki",
+   "Line": "No fair...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Saki",
+   "Line": "(When am I gonna get to have fun...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00048_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00380_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nurse",
+   "Line": "I have a letter addressed to one Ms. Tenma.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Saki",
+   "Line": "Th-Thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Saki",
+   "Line": "(Who sent this? Ichi...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Saki",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Letter",
+   "Line": "Happy Everyday ♡ Airi Momoi",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Saki",
+   "Line": "H-Happy Everyday...?\nIs this a reply to my fan letter?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00077_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Letter",
+   "Line": "Dear Saki Tenma,\nThanks for sending me that letter♪ I thought your handwriting was so cute that I'm sort of trying to copy it now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Saki",
+   "Line": "W-Wow.\nA reply from THE Airi Momoi...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Saki",
+   "Line": "Wait, that line she says as Happy Everyday was originally just her ad-libbing?! That's amazing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Saki",
+   "Line": "(Oh, there's a second page.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Letter",
+   "Line": "I can't imagine just how hard it must be for you to be stuck in the hospital the way you said.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Letter",
+   "Line": "Not being able to go to school, see your friends, go shopping or hang out...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Letter",
+   "Line": "But,\nI don't want you to give up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Letter",
+   "Line": "To make sure that you don't, I'm gonna do my absolute best to bring as much courage, cheer and hope to you as I can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Saki",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Saki",
+   "Line": "Airi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...and the boy was able to figure out how to play the trumpet the way he always wanted.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, that's incredible! The boy himself deserves praise, but you got him to the finish line, Toya! With an unfamiliar instrument no less!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No, I just didn't want him to give up, that's all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But that probably played a super duper extra huge role.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Because it's so easy to only think negative thoughts when things aren't going well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But you kept his hopes alive.\nYou were able to get him to play the way he wanted!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "She's right! In the eyes of that boy, you're a superhero!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I am...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "And when he becomes a super famous professional musician, he's gonna say, “I'm standing here today because of that young man.” I'm sure of it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It'd be quite an honor if that were to happen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

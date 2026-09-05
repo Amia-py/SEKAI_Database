@@ -1,0 +1,628 @@
+{
+ "title": "Mixed Event — close game/OFFLINE — Episode1 An Exciting Gaming Tournament?!",
+ "meta": {
+  "Event": "close game/OFFLINE",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode1 — An Exciting Gaming Tournament?!",
+  "Event Outline": "Nene finds out there will be a gaming tournament taking place at an arcade, and decides to participate in hopes of winning the grand prize. But just around the same time, Toya is also thinking about participating...",
+  "scenarioId": "event_66_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a002302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Scramble Crossing",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Arcade Staff",
+   "Line": "Thank you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "*Sigh*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I'm glad that I got a chance to play “Black Galaxy Soldier” and scored a ton of headshots, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I feel like this arcade doesn't care for their games as much as they really should.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Even though the buttons were sometimes buggy and slow to respond, I cut it some slack since it was close to the station... But seriously, the reticle not being aligned and calibrated for a shooter?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(On top of almost losing, I didn't get a very good score... Just stress on top of stress...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(That other arcade probably doesn't have any new titles available yet, but I might go check it out...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, wait. It's not exactly in a great area. Maybe I should try somewhere else...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Man Handing Out Flyers",
+   "Line": "We're having our grand reopening! Please come check us out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? What...?! Th-Thank you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Th-They never give you a chance to react or refuse... I always end up taking whatever they're handing out...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I mean, shoving flyers in people's faces when they're not interested is so... Hm...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "“Grand Arcade Reopening!\nNotice regarding the Funtastic Gaming Tournament”...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I don't remember another arcade being around here. But this map says it should be nearby...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Maybe it's a really small arcade.\nAnd yet, it's holding this big gaming tournament to celebrate its grand reopening. What kind of...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What?! Is this...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "A gaming tournament?! That sounds super fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, I want you guys to take a look at this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "This is...\nA unique flyer to say the least.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "They seem to have used an old piece of software for the graphical text. This rainbow-colored lettering and overly three-dimensional look...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "But look at how cute and colorful it is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "The flyer's design isn't what I want you to see. Look at what's written...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, that's right. You want to enter into this tournament.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Still, Nene, it's very rare of you to show any interest in an event like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yes, I'm a little nervous about having to play in front of complete strangers...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But the winner of this tournament will get some VIP passes to the Gaming Expo... That's what I'm after.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "The Gaming Expo?\nOh, what's that?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It's an event that's gonna happen at the convention center soon and they'll be unveiling a bunch of new games. It's one of the biggest events of the year for gamers since you get to hear directly from the devs and try out some new titles before they're released.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I had no idea!\nThat must mean it's an extravaganza you also really look forward to each year, Nene☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Extravaganza might be a bit much, but yes, it is important to me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Those passes also include tickets to a show that'll take place during the Expo.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Tickets to a show?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, that's right. It's a show based on a video game that I've loved since I was little, so I've desperately been wanting to see it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Unfortunately, I had to sort of give up on it since tickets for it sold out immediately.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, the one that calls itself as being “next-generation entertainment”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow! It's really that popular?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Good question. Is the show they're doing at the Gaming Expo attracting that much attention...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, it is. Not only are they using state-of-the-art technology, they've enlisted the help of actors, performers and a director from supposedly the best theater troupe in Japan.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The best in Japan? I see...\nNow I'm interested.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, I wanna see it too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Then, why don't we all enter this tournament together? The grand prize is supposed to include four passes, so we'll all be able to go if we win.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Also, this tournament requires people to enter as pairs, so I'd really appreciate it if you guys joined...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, I see.\nVideo games aren't exactly my forte, so I'm not sure if I'll be of any help...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Regardless, I vow to do my best!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup yup!\nI'm gonna try really hard too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "As I. Well, that's what I'd like to say...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But the day of this tournament...\nIsn't this when we're supposed to go and get that large prop for our next show?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "*Gasp*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, that's right!\nShosuke said that he's gonna get a truck and stuff for it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "It's all supposed to happen in the afternoon, which is when this gaming tournament's supposed to take place...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh no!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Does that mean you guys can't enter?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Sorry, I'd completely forgotten about that. I guess we don't really have a choice since our next show takes priority...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No, there's still hope...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What do you mean, Tsukasa?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You can leave the prop pick-up to me and Rui. You and Nene can enter the tournament!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Rui will need to be there to check over everything while I cover the carrying duties and such. How does that sound?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I agree. There isn't that much to carry this time around, so Tsukasa and I should be able to handle everything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait, but... Are you sure...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, because it's the perfect plan!\nWe'll be able to get our prop as planned and win tickets for that show you mentioned!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "So, we'll leave winning the tickets to you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Roger dodger!\nWe're guaranteed to succeed since I'll have Nene on my team!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I-I'm not sure I can guarantee success...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But... I promise to do my best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Excellent! We'll be rooting for you two!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Okay, thanks...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Alright, I need to practice up until the tournament to raise our odds of winning...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Hang on... This thing says nothing about which games we're supposed to play. Does this mean we're gonna find out the day of...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Nene!\nLet's do our best to win☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wah! Oh, Emu...\nHehe. Yeah, let's.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Main Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00373",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00373",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Okay, it looks like it's in a good spot. If I drop the claw here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00374",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_cyber_2022_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Got it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm nearing my limit in terms of what I can carry. Also, I may want to stop since Akito should be arriving soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I have two more plays...\nI don't think I can get the ones in the back, but the plushies in the front seem doable.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Alright, one more try...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00100",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Sorry for the wait, Toya...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Whoa! What's with all the plushies?! That bag looks completely stuffed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, these? I noticed that there were a few new claw machines, so I tried some out while I waited.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "And you ended up winning this many?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(His house is gonna start overflowing with plushies if he keeps this many every time...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, sorry. I still have a couple of plays left, so if you don't mind waiting a bit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, that's all good.\nI'll be sitting over there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you for waiting, Akito.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Sure thing. Wait, you got another one? Seriously, how do you do it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, it was actually about to fall from the claw, but luckily, it ended up literally hanging by its little string.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wow...\nI still don't get how you do it, but good for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Anyway, let's head over to practice.\nWe'll warm up today at our usual spot and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Man Handing Out Flyers",
+   "Line": "It's our grand reopening!\nAll are welcome!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, um... Thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Hm...?\n“Grand Arcade Reopening!\nNotice regarding the Funtastic Gaming Tournament”...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Has there always been an arcade here? Also, what's with this design... It looks ancient...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wait, are you interested in this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, a little.\nThey seem to have some games that I've never played before.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But this gaming tournament...\nWhat could it be...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "This is...!",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

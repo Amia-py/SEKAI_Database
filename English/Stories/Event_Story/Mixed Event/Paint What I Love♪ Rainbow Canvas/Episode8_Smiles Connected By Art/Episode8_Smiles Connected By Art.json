@@ -1,0 +1,788 @@
+{
+ "title": "Mixed Event — Paint What I Love♪ Rainbow Canvas — Episode8 Smiles Connected By Art",
+ "meta": {
+  "Event": "Paint What I Love♪ Rainbow Canvas",
+  "Event Type": "marathon",
+  "Episode": "Episode8 — Smiles Connected By Art",
+  "Event Outline": "Ena decides to go back to her former art class, but her teacher, Mr. Yukihira, tells her that her drawing lacks appeal. Meanwhile, Honami feels anxious about job shadowing, tasked with teaching a subject she struggles with...",
+  "scenarioId": "event_70_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a005001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Ms. Honami!\nWhat do you think of my drawing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "You've painted a wonderful crocodile...!\nAnd the meat it's having looks very yummy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "It does?\nWoohoo!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Oh, Ms. Honami!\nDid you see a cute crocodile like the one you drew?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "I'm wondering because it looks so different from the one I saw.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, um...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(I... I just drew my crocodile in a way that would be easily recognizable to others...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Honami, mind drawing a crocodile for us? You know, how you normally would...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "What?\nBut...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Don't worry.\nYes, some people might laugh at it because it doesn't look real...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But I'm sure someone will understand as long as you try your best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "And...\nI'm sorry for not realizing that sooner. That should've been the first thing I taught you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, that's completely fine...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "So, I'll try drawing one!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...!\nYou can do it, Honami!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(I remember seeing one when we went to a zoo for a field trip during elementary school. It was so scary...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(It was scary, but I couldn't stop looking at it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00427",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kindergartner",
+   "Line": "Whoa! What is this?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kindergartner",
+   "Line": "Haha!\nIt looks all funny.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kindergartner",
+   "Line": "Ms. Honami, you were so good until just a second ago! What happened?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "O-Oh no... I knew this would...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "It's scary and really cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "It doesn't look like a crocodile, but it also kinda does!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah! It looks like it's ready to attack at any moment!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Th-Thank you...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Alright, this seems like a good time for me to exit since we're all happy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Huh?\nAren't you gonna paint something, Ena?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Me? But I'm not actually a part of this shadowing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Let's paint something together!\nI wanna see what your crocodile looks like!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kindergartner",
+   "Line": "No, we don't need more crocodiles!\nPaint a different animal!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kindergartner",
+   "Line": "Yeah, draw lots of animals for us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What...? U-Uhh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Attractive Kindergarten Teacher",
+   "Line": "Would you mind joining us for some painting?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wait, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Attractive Kindergarten Teacher",
+   "Line": "Hehe. Thanks to you, the children seem to be really enjoying themselves and painting some wonderful animals. Plus, you're a friend of Ms. Mochizuki and Ms. Otori, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Ena...\nPlease, join us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "The children and I would really love to keep painting with you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Honami...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I guess, what choice do I have...?\nEspecially if you're all willing to say that much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kindergartner",
+   "Line": "Yay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00178",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Okay, done!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Are these a pair of wolves...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah. I remember seeing them at a zoo a really long time ago. I also remember how scared my little brother was of them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But they looked adorable to me, so I decided to draw a scary-looking one and a cute one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, I see...!\nThat's why they seem so different from each other!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000113",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Wow!\nThey look really funny together, but I really like it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Funny...?\nYou could've chosen a slightly nicer word...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "No, I really do like it!\nPaint some more for us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a005001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Okay, let's keep painting!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a005002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Last but not least, let's paint in a sun and... All done!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kindergartner",
+   "Line": "Yay! It's like an amusement park for our animals!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Wow...\nThey look like they're having so much fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah.\nSo many animals painted in so many different styles...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "It's a masterpiece!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Attractive Kindergarten Teacher",
+   "Line": "Ms. Honami, Ms. Emu... And Ms. Ena.\nThank you all for joining us today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Attractive Kindergarten Teacher",
+   "Line": "The children had a wonderful time painting thanks to you. We really appreciate what you did for us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, no...!\nI'm just glad that I could help.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Attractive Kindergarten Teacher",
+   "Line": "You'll always be welcome here, so don't be strangers!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Attractive Kindergarten Teacher",
+   "Line": "Unfortunately, we have to say goodbye to our visitors now. Let's give them a nice send-off!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kindergartner",
+   "Line": "Bye bye!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Come back soon!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Of course!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Bye bye!\nLet's draw together again!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "See you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Thank you so much for what you did today, Ena!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "We all had a wonderful time painting today thanks to you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, you were totally the reason why everybody was all smiles in the end! Thank you so very much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hehe. It was nothing, really.\nI'm just happy that I could help out somehow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, you did more than that...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "My mind was so preoccupied with my inability to draw that I couldn't learn to enjoy what I create...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But I finally was able to do a little bit today...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Really? That's great...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But I should be the one thanking you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Honami, you helped me realize what makes a piece of art appealing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I did...?\nIt doesn't feel like I've done anything, but I'm glad to hear that I was able to help you somehow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Also, Ena... There's something I'd like to ask you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hm? Ask me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "If possible, when you have some free time, would you mind teaching me how to draw again?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Today, when I was painting...\nI actually had fun while doing it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00159",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'm still not very good and don't feel entirely comfortable drawing in front of others...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But I feel like I can really enjoy it if I learn to draw like you, Ena...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Honami...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, I'd like that too!\nI wanna draw with you two again☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Okay...\nI'll let you know when I have some free time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Th-Thank you very much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I know. If I'm gonna teach you to draw, why don't we do sketches like a real class?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "S-Sketches...?!\nThat sounds kind of difficult... But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'd like to give it a try!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I want us to draw something on a big canvas, so I can hang it up in my living room!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "This is turning into a big project all of a sudden...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But it sounds like fun, so let's meet up again sometime.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu & Honami",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Ena's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wow, I'm exhausted...\nBut I had a lot of fun today...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(And everybody was having a ton of fun painting towards the end...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Today, when I was painting...\nI actually had fun while doing it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'm still not very good and don't feel entirely comfortable drawing in front of others...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But I feel like I can really enjoy it if I learn to draw like you, Ena...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I'm glad I could help Honami learn the joy of drawing...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh no...!\nI haven't touched that assignment that's due next week yet!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I've gotta get going on it...!\nI have to fix everything that I was told last time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a005001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "No, I really do like it!\nPaint some more for us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Maybe I should try drawing the wolves that I drew today. A little more seriously this time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00213",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Huh...? My hand is moving without hesitation for some reason...\nI've had so much on my mind lately...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I'm gonna keep going for a bit longer...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00213",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm90040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00213",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "It's done...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(My perspective's all messed up, and so are the details... I bet Mr. Yukihira's gonna have a field day with this one... But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I like what I've made.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(My skills still need improving and I'm not able to express things exactly the way I want, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I'm gonna keep trying!\nI'm gonna keep drawing until I feel satisfied!)",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,583 @@
+{
+ "title": "Mixed Event — First Star After the Rain — Episode7 Ever Forward",
+ "meta": {
+  "Event": "First Star After the Rain",
+  "Event Type": "marathon",
+  "Episode": "Episode7 — Ever Forward",
+  "Event Outline": "Saki has formed a band with her childhood friends and is enjoying what each day brings. She happens upon a poster for an observatory event one day and decides to plan a visit with her bandmates, but...",
+  "scenarioId": "event_01_07"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00119",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00043",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Aha! It's you guys!\nWhich means you're here to check on Saki?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Y-Yes, that's right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Great! I'll be in my room planning a new show, so don't mind me and go right upstairs to Saki's room.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, I've just come up with an idea that'll make my show a huge success! I really am a genius!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And once it's ready for the stage, you're of course welcome to come see it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Haha... We'll make sure to.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Saki's brother hasn't changed at all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Shiho, let's keep that to ourselves.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I also need to thank you for walking Saki home yesterday.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You're such great friends to her.\nThank you for always being there for her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. You're such a caring brother.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Saki's in her room. She was awake a little while ago, so I'm sure she'll be happy to talk to you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00048",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Saki, we're all here to visit you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Saki? Maybe she has nodded off?\nSaki, it's us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00043",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Saki's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Huh...? She's not here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Maybe she's in the bathroom.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Could be. Let's wait for her here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I need to use the bathroom too.\nI'll be right back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00044",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I always forget she has this cool ceiling with stars all over it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Hehe. They glow too, so it's probably even prettier when it's dark.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That reminds me... Didn't we all help her stick these stars to her ceiling? Tsukasa lent us a hand too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Saki's so short but she insisted on sticking some stars herself. It took so much longer because of that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00043",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Well, this is strange.\nSaki wasn't in the bathroom.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "She hasn't gone downstairs based on what her brother said...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Does that mean...?\nCould she have gone out?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Don't tell me she went to the observatory on her own...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But she wouldn't be able to see anything with this weather...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "She really wanted to see the stars...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I think I know where she might have gone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Honami. Shiho.\nCome with me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "School SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "My stay at the hospital wasn't easy, but there were some good moments.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "The doctors and the other patients were very kind to me, and taught me how to juggle and stuff.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But sometimes I felt really lonely.\nI'd look at the stars to feel better...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Because it reminded you of the times when you saw them with your friends?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Where did Luka go...?\nI've looked everywhere for her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, there she is.\nShe's with...? Saki?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(Saki looks so sad.\nMaybe Luka is trying to cheer her up.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(I should leave the two of them to talk.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Believing that I could stargaze with them again once I got better helped me get through some really awful medical tests.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But sometimes anxiety would suddenly overwhelm me sometimes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "How do I describe it...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I was scared that I was losing so much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "What do you mean?\nLosing so much...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "The time I have to be with my friends...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I kept thinking, we should be having classes together instead of this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Or that I should be having fun on that school trip with them, chatting and staying up late.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I should've been with them, but the clock was ticking away while I was in the hospital, unable to do anything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I felt like it was all being taken away from me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I felt the same way even about the time I'd already spent with them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I felt... So scared...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "That's why I'm doing everything I can to make sure every moment matters.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I decided I won't let the time I should be spending with my friends slip away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But it only led to me pushing myself too hard, worrying everyone and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I'm... I'm such an really idiot...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "You couldn't help but be anxious...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000008",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "You wanted to get back what you lost.\nThat seems perfectly normal.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "You felt that all those things couldn't wait.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "But you don't need to be in such a hurry to make up for that time. It's okay to take it easy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "That's what I sensed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I think your friends would agree too.\nWouldn't you? Ichika, Honami, Shiho?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Whaaat? When did you all get here?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "We came to visit you, but you weren't in your room. Ichika correctly guessed you were here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "What are you doing out of bed, you dummy?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I-I'm so...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "No, I'm sorry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00034",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "For being so harsh towards you.\nFor saying some really mean things.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "You getting sick and being cooped up in bed the other time was also my fault since I pressed you to do more than you could handle.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "And I did it again, despite Luka warning me that you seemed a little out of it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I'm angry at myself for not being a better friend and noticing when something wasn't right. I even said some really mean things to you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I'm really sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You don't need to apologize!\nIt's all my own...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, it's not your fault, Saki. I didn't realize what was going on with you either. I would've figured it out if I'd only given it some thought.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'm sorry, Saki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, Hona...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Saki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "You can take your time. We're going to spend lots of time together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "It's like what Luka said.\nThere's no need to hurry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "We're not going anywhere. We're always going to be together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Ichi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah...\nYeah...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Thank you, everyone...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

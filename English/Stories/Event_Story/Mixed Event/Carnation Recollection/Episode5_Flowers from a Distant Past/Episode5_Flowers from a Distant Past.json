@@ -1,0 +1,518 @@
+{
+ "title": "Mixed Event — Carnation Recollection — Episode5 Flowers from a Distant Past",
+ "meta": {
+  "Event": "Carnation Recollection",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — Flowers from a Distant Past",
+  "Event Outline": "Despite Kanade's persistent efforts to save Mafuyu, none of the songs she composes seem to leave an impression on her. Feeling like she's reached a dead end, Kanade heads to SEKAI for advice...",
+  "scenarioId": "event_26_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a001701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shopping Mall",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hey, white carnations!\nI always see red or pink ones, but these white ones are really pretty too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Do you like carnations, Kanade?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, uh... Not me...\nMy mom did...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "She always kept some around the house, and I bring her these every time I go visit her grave.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm sorry. I didn't mean to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "No, it's okay.\nI'm sorry for asking without really thinking it through first.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But flowers are great, aren't they?\nThey have this therapeutic quality to them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "It'd be great to even see a whole field of them. One with lavenders and sunflowers... It'd be so beautiful...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "A field of flowers...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I vaguely remember my dad taking us to see one a long time ago.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Really? Like a field of carnations...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes. It was fairly close by too, I think. I remember being surprised by how you could see something like that in the city.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, that is pretty surprising!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "But I remember having so much fun then... The weather was nice and everyone was laughing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hey, Kanade. Wanna try finding that flower field together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "It's somewhere around here, right?\nThere's only a few places in the city where something like that could be, so I'm sure we'll find it pretty quick!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "But it's still raining... Are you sure?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, totally!\nI've got my favorite rainboots on too, so it'd be nice to get a little more mileage on them!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Thanks, Mizuki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Then let's start with... Miyamasuzaka Park. That's been there forever, and it's huge!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay. Let's try there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003402",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Nonogi Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Man... We've checked out every park around here, but nothing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Maybe I'm confusing it with somewhere else. It might not actually be in the city like I said.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm so sorry for making you do this. Especially considering the weather...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Don't worry about that, Kanade!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Let's just keep looking, alright?\nIt could still be on the other side of the station, you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "No it's okay. Let's stop for now.\nThank you for doing this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Sorry I couldn't help you find it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But maybe some other time we can...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(But when...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Will I still be friends with her when that time comes...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Mizuki...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Uh... N-Nothing. It's nothing.\nSomething was bugging me is all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But you're heading back to the station, right? We can use this park as a shortcut to get there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "This rain really isn't letting up, huh? All we've been getting lately is bad weather too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But you might even think of a good song when it's finally sunny again, so I wouldn't fret too much, Kanade. ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "And whenever you feel like hanging out again, you know who to call!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Right, I'll keep that in mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It was nice doing something like this for a change.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Really? That's great!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "To tell you the truth, I went to visit my dad today...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Your dad?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00016",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Ever since he had his breakdown, his memory's become jumbled. He talked about the time before I was born today...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "He seemed so happy too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Then it reminded me of how I took away his happiness. I felt so awful afterwards...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "That was when I thought that I have to compose a song that can save Mafuyu as soon as I can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I convinced myself that I had no right to be there unless I did that first...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "But I feel much better after you took me around to visit all these other places, Mizuki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "So thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Don't mention it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Kanade...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(She thinks what happened to her dad is all her fault and is making songs like this as some sort of punishment.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I want to tell her that it's not her fault and she doesn't have to do this...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(But I doubt that'll make her stop. It probably doesn't matter who tells her.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(So at the very least...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Um, Kanade...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You keep saying that you haven't been able to save anyone yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But I can say for sure that you saved me. At least, the old me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00034",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Since I was little, I thought that living life was way too hard and really didn't like it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Then, around junior high, I convinced myself that everything would be better if I just disappeared.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But that was when I heard one of your songs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I felt that I'd found someone that was just like me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I felt like trying a little harder after hearing it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Mizuki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hey, it's letting up!\nYou think it'll stop soon?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It looks like it.\nEveryone else is starting to put away their umbrellas.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yay!\nAll this rain's really been such a drag...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Speaking of which, there's actually one more spot that I want to show you. Wanna check it out since it's finally stopped raining?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "One more spot...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Sure, I'd like to see it.\nWhat's it like?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "That's a secret! Well, not really. You can't actually hide a place like this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "It's that place with the fountain that's just nearby. It has all these little flowerbeds and looks so pretty♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Look, you can sort of see it now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "There? Huh? Wait...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Those flowerbeds. Could it be...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

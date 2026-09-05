@@ -1,0 +1,146 @@
+﻿【Unit Event — Deeper and Deeper — Episode7 The Curtain Rises】
+
+Event: Deeper and Deeper
+Event Type: marathon
+Episode: Episode7 — The Curtain Rises
+Event Outline: Wonderlands×Showtime agrees to participate in a workshop run by ArcLand. As Rui takes the directors' course, he is confronted with something he's never realized about himself before.
+scenarioId: event_172_07
+
+[Background Change] bg_a004501
+[Caption] The day of the presentations
+[Sound] se00034_b
+[Caption] Center Theatre - Backstage
+【Tsukasa】The day has finally arrived.
+【Rui】Yes, it has. Please allow me to take this opportunity to thank you all again for helping me with this.
+【Rui】Especially since the actors' workshop was running in parallel. Practicing for both couldn't have been easy.
+【Nene】I mean, we knew that things would be hard going in...
+【Tsukasa】She's right! Plus, we've been wanting to put the things we learned during this workshop into practice!
+【Emu】I'm so excited to have everyone see this show!
+【Rui】Me too. This will be the culmination of everything we learned during this workshop.
+【Rui】The audience consists only of the workshop's teachers and participants. They'll be giving us their harsh assessments once we're done.
+【Rui】But let's forget about all that for now. We just need to do what we always do.
+【Rui】Put on the best show we can for the audience that's right in front of us.
+【Emu】Right!
+【Tsukasa】I believe we're all eager to hear how this show is received, as well.
+【Nene】It is pretty different from the ones we normally do.
+【Emu】I wasn't sure we'd be able to pull it off, but I'm really excited to perform it now!
+【Rui】Hehe. As the director, that makes me very happy to hear.
+【Tsukasa】Your script and directing plan are both very you, but there are twists, as well.
+【Tsukasa】We know you struggled quite a lot with this... But this is the answer you arrived upon.
+【Rui】It is. I've put everything I can currently bring to bear into it.
+[Background Change] bg_s000466
+【Tsukasa】Alright. Let's go show them how our director, and Wonderlands×Showtime, break new ground.
+【Tsukasa】We're going to make this the best show ever.
+[Background Change] bg_a004501
+【Emu, Rui & Nene】Yeah! Yes.
+[Background Change] bg_d006001
+[Sound] se00122_b
+【Sakaki】“Next, we have... Ah, Kamishiro.”
+【Sakaki】“Speaking of which, Tom, didn't you have a talk with him the other day?”
+【Tom】<“Yes, I just gave him a small piece of advice. I believe that young man has quite a lot of potential.”>
+【Sakaki】“Oh? And that's not just lip service, is it?”
+【Tom】<“Of course not. I think you'll understand soon enough.”>
+【Sakaki】Alright, I guess it's okay for me to get my hopes up a little.
+[Sound] bgm00000
+[Sound] se_event_deeper_2025_002
+【Carriage Driver】“Eep...! H-Help me...!!”
+【???】“Hahaha! Crying for help already?”
+【Monster】“I know you can run faster than that. You do not want to bore me!”
+【Carriage Driver】“Wh-What...?! Th-The monster's on top of the carriage...!”
+[Sound] se_event_deeper_2025_002
+[Sound] bgm00000
+[Sound] se_event_deeper_2025_003
+【Monster】“Right down the embankment, huh? That means I win our game of tag.”
+【Monster】“*Sigh* How dull. Just when I thought you would help me pass the time...”
+【Monster】“I know! I could masquerade as a human in the city.”
+【Monster】“I may yet find something more interesting.”
+[Sound] se_event_deeper_2025_007
+[Sound] bgm00235
+[Sound] se_walk_women_002_1
+【Tavernkeeper】“Alright, here's your ale. Haven't seen you around here before, son. Are you a traveler?”
+【Young Traveler?】“Yes, more or less!”
+【Tavernkeeper】“Then, be careful. They say that there's a fearsome monster lurking in the woods nearby.”
+【Young Traveler?】“Oh...? What's so fearsome about it?”
+【Tavernkeeper】“It's a ruthless thing, and make no mistake. I've heard that it's smarter, stronger and faster than any human out there, and it's a cruel and selfish beast.”
+【Tavernkeeper】“Even today, I heard that it chased around a horse-drawn carriage just for fun. The poor driver was scared half to death.”
+【Young Traveler?】“I see. It sounds like it wanted someone to play with.”
+【Tavernkeeper】“That's no excuse to chase people around! Anyway, just be careful out there.”
+[Sound] se_walk_women_002_2
+【Monster】“As I suspected, humans just don't understand.”
+【Monster】“What else could be more important in this world than having as much fun as possible?”
+【Monster】“*Sigh* I'm getting bored of this 'tavern' place already... Hm?”
+[Sound] bgm00000
+[Sound] se00875
+【???】“♪—————— ♪——————~~”
+【Monster】“What is this...?”
+【Minstrel】“Oh, is this the first time you've ever heard a wandering minstrel sing?”
+[Sound] bgm00303
+【Monster】“A wandering minstrel...?”
+【Minstrel】“That's right! My friends and I travel around to various parts, singing about that region's local legends and history.”
+【Monster】“Hey, that sounds like fun...!”
+【Monster】“That song made me completely forget how bored I was.”
+【Monster】“Which means, if I can learn to sing like a minstrel, then...”
+【Monster】“Hey! You must teach me how to sing!”
+【Minstrel】“What? Does that mean you wanna become my apprentice?!”
+【Minstrel】“My own apprentice...! I've always wanted one... No, if I'm going to be your master, then I have to act more dignified. Ahem!”
+【Minstrel】“Do you really want to become my apprentice?”
+【Monster】“Your apprentice...? Yes, if it means learning how to sing like that.”
+【Monster】“Please, make me your apprentice!”
+【Minstrel】“Hmm... I can't really turn you away after seeing that look on your face...”
+【Minstrel】“It's settled, then. Starting today, you'll call me your master.”
+【Monster】“Yes, of course!”
+[Sound] bgm00000
+【Monster】“♪—————— ♪——————”
+[Sound] bgm00077
+【Minstrel】“Hey, you're better than I was expecting.”
+【Minstrel】“But don't you know any less bizarre verses? These sound like something right out of a drunkard's nightmare.”
+【Monster】“Then, what words should I sing instead?”
+【Minstrel】“Well, something that resonates with everyone's hearts! For example...”
+【Local Human A】“Young man, you're that minstrel's apprentice, yes? Can you sing a song for me?”
+【Monster】“I refuse. I'm not learning how to sing for the likes of you.”
+【Minstrel】“Hey, how many times do I have to tell you not to talk to people like that?!”
+【Minstrel】“Also, it's a minstrel's job to sing and tell stories to people. If you can't accept that, then I won't teach you any more.”
+【Monster】“Ah, that would be a problem... Alright, just one song.”
+[Sound] se00875
+【Monster】“♪———— ♪——————”
+【Local Human A】“Oh, this is...”
+【Local Human B】“Really good! I could listen to him sing all day.”
+【Monster】“Oh, I guess some humans do have good taste...”
+[Sound] bgm00000
+【Local Human A】“Thank you, young man! I feel ready to do my best at work again tomorrow.”
+【Monster】“Sure! I might even be willing to sing for you again sometime.”
+【Local Human A】“Really? Then, I think I'll bring my wife along next time.”
+【Minstrel】“Hehe...”
+【Tsukasa】(And so, the monster begins to blend in amongst the humans.)
+【Tsukasa】(This all began with his simple quest to seek “fun”, but...)
+【Minstrel】“You have a way of making everybody around you smile.”
+【Minstrel】“Every now and then, you do something way off-beat... But I know it's all in good fun.”
+【Minstrel】“I couldn't have asked for a better apprentice.”
+[Background Change] bg_a004501
+【Rui】(The monster's nature hasn't actually changed. He's a simple creature who only wishes to have fun.)
+【Rui】(But...)
+[Background Change] bg_d006001
+【Tsukasa】(Something begins to blossom within his heart.)
+【Tsukasa】(He hasn't realized it yet, but a compulsion to express these feelings is slowly growing...)
+【Monster】“Thank you...”
+【ArcLand Director A】That was good.
+【ArcLand Director B】Yes, it was a subdued performance, but the lights and the way he used the stage made it an impactful scene.
+【Emu】(In big theatres, you have to really exaggerate your movements to make sure everyone in the audience can see what you're doing.)
+【Emu】(But Tsukasa and Rui came up with the best way to use this stage after some really long practices and discussions.)
+【Tsukasa】(Things have gone well so far, but the hard part is coming up...)
+【Tsukasa】(One day, a lone hunter arrives in the city where the monster lives, and everything changes...)
+[Sound] bgm00000
+[Sound] se_walk_women_002_3
+【Hunter】“You must all listen to me. There is a horrible monster living among you in this very city.”
+[Sound] bgm00055
+[Sound] se00569
+【Local Humans】“I-In this city...?”
+【Hunter】“It's transformed into a human and is currently masquerading around as one of you. However, its true nature is fundamentally inhuman.”
+【Hunter】“This creature is selfish, pleasure-seeking, and thoughtlessly cruel. That's what makes it a monster.”
+【Hunter】“Before it inevitably harms someone... I must expose it, and put it down.”
+[Sound] se00034_b
+【Local Humans】“That's terrifying...”
+【Local Humans】“Yeah, and it's pretending to be human like us? How creepy.”
+【Minstrel】“I don't like this mood in the square...”
+【Monster】“Me neither...”
+[Sound] bgm00000

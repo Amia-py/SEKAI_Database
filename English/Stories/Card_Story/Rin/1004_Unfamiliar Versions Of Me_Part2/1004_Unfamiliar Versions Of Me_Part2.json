@@ -1,0 +1,643 @@
+{
+ "title": "Kagamine Rin — Unfamiliar Versions Of Me〔Part2〕Side Story (Part 2)",
+ "meta": {
+  "Character": "Kagamine Rin",
+  "Card": "Unfamiliar Versions Of Me（4★）",
+  "Part": "Part2 — Side Story (Part 2)",
+  "Event": "Here on Our Dream Stage",
+  "scenarioId": "022039_rin02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00092_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Um, Rin...\nCould you teach me how to play two-person cat's cradle?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "What? Why?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "You see... I promised Mafuyu I would play with her. But I'm not any good at two-person cat's cradle...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "If you can't do it, don't promise to play.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "B-But Mafuyu looked like she was in pain, so I had to say something...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh, I know. Would you come with me?\nI think that would help Mafuyu—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "You promised her, not me.\nI don't have anything to do with this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "......\nPractice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I'll help you practice at least.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "But you're the one who made the promise with Mafuyu. So it's your responsibility.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Okay!\nI'll do my best to get better.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Thanks, Rin.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_g001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hehe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "The me in this SEKAI can be a little blunt, but she really is kind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(And she sure is cute when she blushes, too♪)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_g000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_g001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Okay, next is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Ah, there's the band me♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00092_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "How'd they turn out, Rin?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Super hyper ultra max perfect♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Woohoo!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Everyone, look! Rin did my nails and they're super, uh... They came out perfect!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "You forgot what she said aside from the “perfect” part, huh.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "I'm interested in the super hyper ultra max part. How did you come up with that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Every word you add makes it sound so much cooler. That's just a fact♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "You really are good at painting nails, Rin. They always come out so smooth and glossy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Heh heh heh. There's a trick, you know♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Let me know when you want your nails redone! I'll do them anytime♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Thanks so much for this, Rin! Now I won't have to worry about the polish cracking while we're performing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Right?\nAnd you get to look so stylish, too! Two birds, one stone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_g001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "She looked so focused when she was painting Saki's nails.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "It really came through how much she wanted to help Saki practice without any worries.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "That's support that only she can give them, after all♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "There's also the me who works with DJ Len...\nAh, there she is!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "That SEKAI's me looks so confident in this picture.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, I remember this! MEIKO was out, so she was working the kitchen instead!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00092_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "An can be surprisingly careless sometimes, forgetting her handkerchief like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "And also... Hehehe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "She really liked my cooking, too. I did think it turned out well, but I'm happy she enjoyed it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Maybe I have a talent for it? Maybe I could open my own branch cafe here in SEKAI!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hmhmhm♪ Lalala♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00223",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "♪————————————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(Th-This is the real Taiga...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "There's so much I wanted to tell you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00146",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You were supposed to meet Kohane...! And Akito and Toya...! You were supposed to tell me I'd found the best team ever...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "And you were supposed to see the moment we did it...! When we surpassed RAD WEEKEND...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You were supposed to do all of that...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(An...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Ah! An?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey there.\nCovering for MEIKO again?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Y-Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(She's smiling, but she doesn't seem happy.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(I can understand why. The person she was so looking forward to meeting is gone, after all...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(She must be forcing herself to smile, so we don't worry about her.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(I can't let her effort go to waste.\nAct normal! Smile! Smile!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Could I get a milk tea?\nA bit on the sweet side, please.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Coming right up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00700",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Here you go!\nYour milk tea with extra honey.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Thanks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh? Rin...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "D-Don't worry about it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "It's just, I'm so proud of how that milk tea turned out, I want to see you drink it from up close...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(No! I can't cry!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(An made up her mind to move on, and is doing her best to smile!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(But I can't stop myself...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Rin...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00423_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...Mm. It's delicious.\nVery sweet... And very warm.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_g001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I see... So that happened between those two.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "That's very much like the me from that SEKAI. Her kindness really does warm your heart.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Thank you all for letting me share in these beautiful memories.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00195",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I've been watching over you all...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "But I'm sure there are many more wonderful memories that I don't know anything about.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "It really is so heartening, knowing our SEKAI selves are able to support them from up close.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Thank you, from the bottom of my heart, for being there for them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_g000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Between Worlds",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, I'm back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I wanted to look around a little longer...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "But I'm so happy I got to see some new memories I'd never known about.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, I know! Maybe this feeling will reach everyone if I put it into a song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Here goes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "♪——! ♪————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

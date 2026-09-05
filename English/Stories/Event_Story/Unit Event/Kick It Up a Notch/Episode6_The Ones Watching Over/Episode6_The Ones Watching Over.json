@@ -1,0 +1,803 @@
+{
+ "title": "Unit Event — Kick It Up a Notch — Episode6 The Ones Watching Over",
+ "meta": {
+  "Event": "Kick It Up a Notch",
+  "Event Type": "marathon",
+  "Episode": "Episode6 — The Ones Watching Over",
+  "Event Outline": "Vivid BAD SQUAD is all set to perform at \"Crawl Green\" and are very excited about it. Kohane and the others are also looking forward to seeing Taiga there, but he happens to get a phone call which...",
+  "scenarioId": "event_86_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Crase Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Okay, here are your pancakes.\nExtra whipped cream for yours, Kohane, An. Plenty of fruit for Akito and a grilled cheese for Toya. I believe that's everything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thank you very much, Miku, MEIKO.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Let's dig in!\nMmm! Sooo good! I feel re-energized already!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "What did you all do today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "We went to meet with the owner of Crawl Green. It's the venue where we'll be having our next event.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Wait, Crawl Green...? Isn't that where Akito...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yes, the very same.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It's not somewhere your average musician is able to perform at, but An and the others did a good job negotiating a deal for us to put on our event there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Wow! That's wonderful to hear!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Not only that, An's dad and Taiga, Kohane's teacher, are coming to see you guys, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "R-Really?!\nThey are?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "On top of that, Kohane's gonna go solo as the opening act!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "S-So much happened while I was gone...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Wait, Kohane, what led you to doing this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Taiga suggested that, given where I am now, I might discover something by performing solo at an event we're hosting...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I see... Then, this is going to be an important event for everyone and not just Akito!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yes, it is!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Still, Shiraishi, I'm glad you invited us along today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "After actually seeing it for myself, I see now why everyone reveres it so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It's both spacious and well-equipped. Not only that, the owner clearly has a strong passion for music.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, he does. Also, I didn't realize that he held my dad and his team in such high regard.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh? Care to elaborate on that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So, he told us this story about when Uncle Taiga was much younger...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I see...\nWhich is why he cares so much about RADder...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah... Again, Kohane, I'm really sorry... I didn't mean for him to put more pressure on you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. It's okay, An, really.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Is everything okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, it's just... Before we met up at Crawl Green, An and I hung out a little together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, I wanted to give Kohane some time to relax since she's been practicing nonstop lately.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh, I see.\nSo, how was your little date?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Really fun!\nBut...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "After walking around with An and hearing the owner of Crawl Green tell that story, I realized something.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I understand now that everyone there has been watching over both Taiga and An since they were little...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Which I think is so beautiful...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "So, whether it's when Taiga's talking to people passing by or An's singing in front of everyone, they glow with this bright aura...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "A bright aura...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Is that how you felt that time, Kohane...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, because I never had what you and Taiga did. I only ever had my family watch over me as I grew up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, now that you mention it, that is quite rare. Even more so if you think about how music ties all those people together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, that's what I mean.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Lately, I've been going on more walks with An and practicing with Taiga around the city.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Each time, it feels like they lead me somewhere filled with so much warmth.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "So, someday...\nI'm hoping that I'm also able to make those kinds of personal connections...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I see... That's a wonderful thought, and I'm sure you'll be able to, Kohane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thank you, MEIKO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Locals",
+   "Line": "I still remember when Ken and his team performed there. I wanted to sing there way back when, but I never got a chance to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "If you're that prepared, then I only have one thing to say to all of you. Put on the best event ever for me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "RADder's first event was so big that it changed this city forever... So, I don't know if we'll actually be able to do better than them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But if we're going to surpass RAD WEEKEND, like the owner of Crawl Green said, we need to put on the best event ever...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "That's my feeling...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Kohane...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Which is why I'd like you all to watch me practice by myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What? Now...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yes. I've been having some trouble, and I want to become as good as possible...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I know today's our day off, so I feel bad about making you all help me practice. But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Don't feel bad.\nI mean, it's our event too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yeah, we're happy to help however we can!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thank you all so much! I really appreciate it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay, here I go...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00086",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "She's off to a good start...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, she's doing much better than she did yesterday.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I'm going to stand on that live house stage I saw today...by myself...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(It's a little bigger than the one at COL, and it uses brighter lights... I'm so glad that I actually got to see it today.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I was able to picture how far and in what way my voice will reach when I sing with everything I have... My practices with Taiga may be paying off...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(But there's a gap between the stage and the audience. I'll need to project a little better than usual if I'm going to reach everyone.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(It'll be fairly quiet in the beginning since the event will've just started. I have to get them warmed up by myself...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪——! ——!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(No...! I did it again...!\nI need to get back on track...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(If I don't succeed in getting everyone going here, they might end up watching our event without really being all that excited about it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I don't want to be the one who ruins our event...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪————! ————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huff... Huff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "You sang with so much more power than usual! But... Well, you seemed to tense up a lot while you sang.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh... Was it that noticeable?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes... I agree with Len.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Your voice... It usually has this effortless resounding quality, you know? You seemed to get stuck somewhere today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I agree.\nYou didn't perform badly or anything, but you didn't seem to hit your stride.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, I know...\nI had a feeling that something was wrong partway through...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hey, there's no point in feeling this way. We still have some time, so all you have to do is figure it out before then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Um, Kohane?\nHow about we sing together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What? Right now...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Yes!\nLet's try singing without thinking about anything else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Your event, everyone you've met...\nJust forget it all for this one song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Forget it all...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yes, I like your idea.\nMind if I join you, Luka...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, Miku, wonderful!\nThen, let's sing as a trio!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "As a trio? Which song are we going to sing...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Which song? Why not the one you just sang?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Alright, Kohane, take a deep breath for me... Gently breathe in... And breathe out...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "O-Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "We'll start singing while you do that, so give us the signal when you're ready.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00086",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "♪————! ————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(How's Luka able to do this...?\nHer voice sounds raw but still crystal clear. And it only took her a second to create this incredible atmosphere.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "♪————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Wow! Miku sounds really ferocious today. But there's still that delicate touch, and it goes so well with the way Luka's singing!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku & Luka",
+   "Line": "♪——! ————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I... I need to join them!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "All in a second... Those two really are something else. It's hard to believe that they're improvising.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes. Luka's natural talent is one thing, but Miku's also doing an impressive job of keeping up with her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "On top of that, they seem to have been able to bring in Azusawa at just the right time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku, Kohane & Luka",
+   "Line": "♪————————!! ——————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(They're both so good...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(But they're not just good.\nThey're in perfect sync with one another and even taking turns to look towards me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(It's like they're trying to tell me how I can sing certain parts. I couldn't ask for more.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(So, if I try sounding more raw like Luka...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Oh... This seems much easier...\nIs it because Miku's also helping...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Miku somehow snuck herself towards the back, but jumped back up front at just the right time. She's doing a really good job of supporting the others...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah. Also...\nI didn't realize you could lead by being supportive like that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku & Kohane",
+   "Line": "♪————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe. Kohane seems to be feeling much better now. You're just too good at this, Miku.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "♪————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Huh? What happened...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Their song... It's like Luka and Miku are calling out to me...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Their singing... I can sense exactly how they feel for some reason...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(We want to hear you sing, Kohane!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(You can keep going, right?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Luka... Miku...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Thank you both so much.\nHere's my answer...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪——————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪————! ——————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Kohane...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huff... Huff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Kohane! That was amazing!\nWay more amazing than how you usually sing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah. As you are now, you sound more than ready to be the opening act for our event.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yeah! I wish I could've sung with you...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Y-You think so...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "You should do just fine by yourself! The way you sang just now was great, so please have confidence in yourself!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Th-Thank you very much, Luka.\nBut I was only able to sing that way because of you and Miku...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I felt this need to answer your calls... And it felt so fun that I couldn't help but do what I did...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "No, all we did was express how we felt. The rest was all you, Kohane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I can guarantee that because we've been watching over all of you for so long now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thank you all so much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

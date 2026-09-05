@@ -1,0 +1,718 @@
+{
+ "title": "Mixed Event — Take the Best Shot! — Episode5 A Rival Appears!",
+ "meta": {
+  "Event": "Take the Best Shot!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode5 — A Rival Appears!",
+  "Event Outline": "For Valentine's Day, Kohane hopes to buy An the chocolates she wants to try, but unfortunately, they're all sold out. Then, she learns that those chocolates are one of the prizes for a Valentine's Day photo contest being held by a makeup brand!",
+  "scenarioId": "event_120_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "One hour later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Nonogi Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh wow...!\nThe photo we just took is in tenth place now...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "And everyone's commenting on how cool you look, Aoyagi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm a little embarrassed, but this wouldn't have been possible without either of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. I'd like to think it's the result of our great teamwork.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Still, I wasn't expecting it to do this well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "This ability to share your thoughts about the entries you like with others online may be having a bigger effect than we realized.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "We might actually win that prize if this keeps up...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But the rankings are changing really fast because of all the last-minute entries. If possible, I'd like to see ours rise a little higher.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Me too.\nWhy don't we post a second photo if we think it can do better?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah! There's a lot of nice spots around here, maybe we can change up—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Hey, I dunno if I hold this pose.\nMy legs are really starting to wobble.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "You are basically doing a wall sit...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Just a little bit longer, Ena!\nThe light's coming through the trees and leaves is hitting your face just right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "O-Okay, but you need to hurry...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Alright, smile...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hm? That voice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Airi! Shizuku!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi & Shizuku",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Ena?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "T-Toya?!\nWhat are you...? Wah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00210_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh no! Ena, are you okay?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Y-Yeah...\nI got so startled that I lost my balance...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "More importantly, Toya, what are you doing here? Wait, Azusawa, Kiritani, you're here too...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wait a second...! Those clothes, that camera...! Were you guys taking photos for that contest?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka, Kohane & Toya",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wait, how do you know about the photo contest...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Because she's in it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "She is?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I was wondering why Toya's picture turned out so well. I didn't realize you were helping him, Haruka.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Did you take this photo, Kohane?\nWe were all surprised by how good it looked.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Th-Thank you very much...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But our next one is gonna be better!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "So, the pic I took got leapfrogged by the one of Toya you guys took.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, I'm sorry...\nI didn't know you also entered...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "You don't have to apologize...\nBut I'm taking back my place in the rankings!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We're helping her with a new entry, so don't think this is over yet!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Sounds like we've got a heated rivalry on our hands.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Y-Yeah...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm not going to back down either...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Let's all do our best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yes, let's...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hey, what if we tried taking one with these flowers?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00077",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, they're so pretty.\nJust like you, Ena.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "But they're a little too low to the ground. Getting them in the same frame won't be easy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Right. Even if you sat next to them, I'm not sure how that would look overall.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Then, why don't I try lying down...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, good call!\nTaking the photo is gonna look a little funny, but that won't matter if we can get it to work! Let's give it a try...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Wait, what if we had some petals fall towards you while you're on the ground? Imagine how wondrous that would look!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Whoa, that's a great idea!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Then, let's start gathering up some of these petals.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00075_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Sorry, I blinked... The sun's just so bright...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I agree that it might be a little too bright here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Then, we can try taking it the other way around.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The other way around? So, the sun would be behind me? That'd certainly help me, but the backlight might be...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "You can take really pretty photos if you know how to use it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "If you lower the shutter speed just right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00075_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Wow, that's incredible...\nThe way his hair and clothes are being bathed in sunlight is so beautiful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Plus, the contrast between light and dark gives it depth. It really helps pull in the viewer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, but the shadow over his face looks a little too dark. I'll try taking the next one from a slightly different angle.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Our second one isn't getting many likes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yeah...\nI thought it was just as good as our first one, but our luck and timing may not have been...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Not to mention all the other entries coming in at the last minute. Our second one may've been swept away by that tide.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "And our first one's lost its spot...\nThat means we'll need to turn things around with our third one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Right...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00171_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "How are things going, Azusawa?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, hi! What are you all doing back...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "We came to see how you guys were doing after uploading our second pic.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "But it looks like you're kinda stuck.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yeah, it just isn't that easy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "If only there were a way for me to pose better...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hm...?\nIf you're going with that pose, Aoyagi, you may want to lower your chin a little bit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you.\nLike this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, that's perfect.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Wait, Shizuku, why are you helping them?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, right...!\nI'm so sorry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "If anything, I should be the one apologizing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm sorry, Momoi.\nI didn't mean to place Hinomori in a position where she felt compelled to give me advice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hey, wait...!\nNow I'm starting to feel bad about what I just said!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Geez, you two are way too polite...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "B-By the way, Ena, can I see your latest photo...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, sure. Just gimme a sec to bring it up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Here, check it out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wow... You look so pretty...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "And all these flower petals! They're beautiful!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hehe. Thanks.\nWe worked hard for this one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We gathered up as many petals as we could and used a fan to blow them around. You wouldn't believe how hard it was to take this picture while doing all that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...\nYou all put quite a lot of effort for this one photo.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yeah, I'm impressed...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "B-But I'm guessing it's easy for professional idols like you to strike a pose and smile at the camera...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "No, that's not true.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "The way your eyes glisten and how delicate your fingers look... This is the sort of cuteness that I'd want to enshrine somewhere forever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "You seem to know exactly what you want the person on the other side to see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I heard from Airi that you're very good at taking selfies, but this goes beyond that. Again, I'm impressed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00089_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00093_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "M-My eyes...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "W-What just happened...?!\nI thought my heart was gonna explode...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "And this is what Haruka can do in default mode. Just some food for thought.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Y-Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I think I'm starting to get why Minori's such a huge fan...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(The photo Ena and the other's just took is skyrocketing...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(And it should be getting a lot of likes.\nI mean, it's just so gorgeous.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Wait, it's already ahead of our second one. At this rate, our first one's also going to be...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Don't worry...\nWe still have a chance. We're allowed to take one more.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(And we're going to get into the top ten no matter what!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Because I want An and Shinonome to have those chocolates...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Which means I have to take something better than what Ena and the other's just did...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "We're not giving up just yet...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Right...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Uhh... Our next photo is going to be even better than the one you all just took! Just you wait...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. That's the spirit!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Which means we also need to keep doing our best, Airi, Shizuku.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku & Airi",
+   "Line": "Right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

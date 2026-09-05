@@ -1,0 +1,588 @@
+{
+ "title": "Mixed Event — Hello to a New Day! — Episode1 A New Day",
+ "meta": {
+  "Event": "Hello to a New Day!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode1 — A New Day",
+  "Event Outline": "It's the start of a new school year and everyone has gone up a grade! That fact hasn't quite hit Ichika yet, but when Miku asks to see the opening ceremony, it spurs her to treat it like a special day.",
+  "scenarioId": "event_108_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_f000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Ichika's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Let's see...\nI've got my pencil case and folders...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That should be everything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika's Mother's Voice",
+   "Line": "Ichika!\nYou're going to be late for the opening ceremony if you keep dallying.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh...\nDon't worry! I'll be out the door soon!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Starting today, I'm a second-year...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(But I don't really feel like one.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Good morning, Ichika.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Miku!\nWhat are you doing here at this time of day?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I wanted to see how you were doing. You're a second-year starting today, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I became a little curious.\nI was hoping to see what your new class and opening ceremony are going to be like.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "What they're like...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I mean... Neither is going to feel all that special. I'm not sure if there'll be anything worth seeing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Really? I consider it a big day since it marks the beginning of so many new things.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "New things...\nYeah, I guess you're right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika's Mother's Voice",
+   "Line": "Ichika!\nI'm serious! You're going to be late!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, that's my cue to head out...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I'll keep my phone in my pocket.\nYou should be fine as long as you stay hidden while you watch like usual.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Anyway, let's get going.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Okay!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka Girls Academy",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Outside the Front Entrance",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00249_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Wow.\nThere's a ton of people gathered over there.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I'm guessing they've posted the new class rosters by the front entrance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I see. That explains the buzz in the air.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Hey, Ichi!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00100_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Morning, Saki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Morning, Ichi!\nHey, about the new class rosters...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Good morning, Saki.\nYou're as peppy as ever this morning.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What?! Miku?!\nWhat are you doing here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I wanted to see what you girls are like now that you're second-years, as well as the opening ceremony.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<While staying hidden from view, of course.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Really?!\nThat means you also get to share in this fun and exciting moment!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Fun and exciting?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "We're gonna take a look at the new rosters now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "It's so fun and exciting because we get to find out who we're going to be with this upcoming year!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I see. Now I understand.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Wait, Saki, you haven't seen them yet...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Nope!\nI wanted to see them as a group!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00566",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "...which is how we ended up waiting here for what felt like forever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Miku, good morning.\nI didn't realize you'd be joining us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Shiho! Honami!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Were you all waiting for me to get here? Sorry about that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, that's okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I was also hoping that we'd get to look at them together. It is always more fun that way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah! That was my point exactly!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I didn't have a problem with looking at them alone, but Saki insisted.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What?!\nShiho, that's so cold!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Okay, relax.\nWe're all here now, so let's go take a look before the bell rings.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Hehe. Yes, let's.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00173_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00249_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<So many people...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I think we're close enough to see them now. Let's see... We're...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, there!\nI'm in Class A.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'm there too...!\nThat means...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Ichika!\nWe're in the same class!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "*Gasp*\nYeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Huh?! You are?!\nWhat about me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Nooo! I'm not in Class A!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Saki, look over there.\nYou're in Class B.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What?\nHey, you're right...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But I'm not with Ichi and Hona...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "No, you're not with them. Instead...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Wait!\nShiho, Saki, you're in the same class!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Exactly.\nCheck it out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You're right!!!!\nThank goodness, Shiho!!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Whoa!\nOkay, try to calm down...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. I'm so glad for you, Saki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Everyone!\nIf you've already found your names, please start making your way towards your classes to prevent unnecessary crowding!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Then, shall we?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00173_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Hehe...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Is something the matter, Miku?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I was just feeling glad that I came over.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<You said it wouldn't feel all that special, Ichika, but I'm having a lot of fun.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I got to see that look of anticipation on your faces, the joy you felt when you found out you'd be in the same classes, all sorts of things.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Seeing you girls... It feels like...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Like something new is really about to start today.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00240",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Something new...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Ichika?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I had it in my mind that we'd just be shuffling classes and going to a new classroom...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000234",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "But “just” might not be appropriate.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Today's a day that marks the beginning of a lot of new things.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I'm going to start treating this day like it's special and really try to cherish it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Okay.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Try to have as much fun as you can today, Ichika!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I will!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki's Voice",
+   "Line": "Ichi!\nWe're gonna be late!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh...!\nSorry, be right there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Anyway, Miku, I hope you'll take a good look at what happens at our school and see how we all do today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "3rd_anv_movie",
+   "_kind": "Effect"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

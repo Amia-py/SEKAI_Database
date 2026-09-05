@@ -1,0 +1,798 @@
+{
+ "title": "Unit Event — A Light Drawn Closer — Episode8 Holding Close",
+ "meta": {
+  "Event": "A Light Drawn Closer",
+  "Event Type": "marathon",
+  "Episode": "Episode8 — Holding Close",
+  "Event Outline": "Mafuyu has been stuck unable to move forward since coming to stay with Kanade. Her father asks her what happened that day she spoke with her mother, but though she tries, Mafuyu finds herself unable to answer.",
+  "scenarioId": "event_134_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000902",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Yoisaki Household - Kitchen",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I apologize for the sudden intrusion.\nI know I wasn't scheduled to visit until this weekend...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "No, that's okay.\nBut I have to ask. Did something happen?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "No, it's just...\nI found a few clinics and hospitals that seemed good, and I wanted to tell Mafuyu about them right away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Clinics and hospitals...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Yes, I have a list of all that provide assistance with mental health issues.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "For example, this one is very highly regarded and easily accessible from Ms. Yoisaki's house. I even had a chance to speak to the doctors, and they seemed like nice people.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Would you like to try taking a visit there sometime, Mafuyu?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Oh, that's okay if you don't feel comfortable. Also, you can always stop going if it wasn't what you were expecting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Okay, I'll think about it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Alright, I'll let them know.\nWe can discuss making actual appointments at a later time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Oh, that reminds me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Were you okay the other day?\nThat was a tremendous thunderstorm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I was fine.\nThunder doesn't scare me anymore...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "But... Thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I'm glad to hear that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000324",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "If you believe that there is even the slightest chance that your dad will understand... Then I think you two should talk...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000902",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Umm... So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "About what happened that night...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "That night...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Are you ready to tell me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "*Nod*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I was talking to Mom...\nBecause I didn't do very well on this one test...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00215",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Then, she said how she'll be taking my phone in order to ensure that I focus on my studies...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I told her that I'd keep doing my best and begged her to not take my phone away. But she wouldn't listen...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "So when she tried to take it from me, it slipped out of my hand and fell into the aquarium... That's how it broke.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I had no idea...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "It's my fault for not doing well on that test.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "My laptop, my synthesizer and then my phone... She kept taking away everything that mattered to me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Kanade and the others... I thought I was going to be cut off from them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I thought I was going to lose everything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I couldn't take it anymore...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I had to do something before it was too late. I had to tell Mom how I really felt...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "How you really felt...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Yes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "It's okay, Mafuyu...\nYou can tell me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I... I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I don't actually want to become a doctor...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Is that true...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "For the longest time, I thought your goal was to become a doctor...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000602",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000902",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Now I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I'm really sorry, Dad!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "But... I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "It's okay. You don't need to apologize.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Alright...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I honestly didn't know...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I'm very sorry, Mafuyu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I was completely under the impression until now that you were set on becoming a doctor...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00227",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "It seemed possible considering your stellar grades. I thought you had a bright future ahead of you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "My misunderstanding caused you to suffer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I'm sorry for not realizing this sooner...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "If only I paid closer attention to how you were actually doing, then we might've avoided all this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Dad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "It's not your fault, Dad. It's mine for...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Mafuyu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "You should be doing what you want.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "I still don't have a full understanding of what's going through your mother's mind. However, I'll be talking to her later about this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "But Mom...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Don't worry.\nI'm sure she'll come around.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Also...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "No matter what happens, I won't turn my back on you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000211",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000902",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Mafuyu...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Your hand...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Can I hold it...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "My hand? Yes, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(It's just like back then.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(It's so warm...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e002403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<But I get the feeling that your dad is still just as kind as he was back then.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000902",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000402",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm90040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Mizuki's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Alright, the storyboard's done!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I can't wait to show the others later tonight.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Man, I always seem to get so much done whenever I skip school♪ Anyway, now that I've finished, it's time for a little snack.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Huh? A message...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<Amia.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Huh? Yuki?\nWait, at this time? Why?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Oh, what if something happened between her and her dad...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<Thank you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<I was able to tell my dad everything.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<And he understood.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<That's great to hear.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wow...\nShe actually told him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Mafuyu's so strong...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(She's already found a way to move forward.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "And her dad understood...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I want to do the same.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I will. This time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000502",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kamiyama High School",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "*Sigh*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Seriously, grilled squid?\nWe couldn't have chosen a worse stall to do for the school festival...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "On top of the sauce smelling really gross, our class t-shirt's unbelievably lame... My motivation's totally through the floor...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Still, Mizuki seemed excited, so I guess I should try to actually participate this time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Come to think of it, Mizuki's class is doing something that sounded fun...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I should check out what they're doing.\nHehe. This should make for a nice surprise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,493 @@
+{
+ "title": "Unit Event — Star of Your Own Story — Episode7 Weaving Tales Together",
+ "meta": {
+  "Event": "Star of Your Own Story",
+  "Event Type": "marathon",
+  "Episode": "Episode7 — Weaving Tales Together",
+  "Event Outline": "Wonderlands×Showtime have decided to work with other troupes, starting with the long-established Shunmeiza. Given a minor role with just three lines, Tsukasa faces a seemingly impossible task: to convince the director that his character is a real person.",
+  "scenarioId": "event_113_07"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Nonogi Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So, uhh... Then, what about...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What if Nakayama's really from outer space and is here to investigate the Earth?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I think that's going a little too far...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It's becoming harder and harder to come up with good ideas.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hmm...\nWhen's Bakuno gonna get here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "He should be arriving soon.\nI just received word that he's right by the station... Ah, excellent!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Bakuno!\nOver here!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Oh, Tenma...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Huh? All of Wonderlands×Showtime is here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hi, Bakuno!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We really appreciate your joining us on such short notice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "No, um... It's not a problem...!\nI was able to come because this park just happened to be where I usually run.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "So, uhh... You said on the phone that you needed my help figuring out how to play your character...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes! Let me jump right in.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I need your help coming up with a story where Nakayama the editor is the main character!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait, Tsukasa.\nHe's not gonna understand if you start with that. You gotta tell him everything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, you're right.\nThe thing is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "You want to turn a supporting character into a protagonist...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Precisely!\nI feel that I must in order to really become my character!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I tried coming up with various stories about Nakayama on my own based on what you told me the other day, but none of them fit quite right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Then, would you mind showing me what you've come up with?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00658",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Huh...?\nAll these sheets of binder paper...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "How many stories did you come up with?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "About fifty!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Although, I didn't come up with all of them on my own. Rui and the others helped quite a bit. Unfortunately, I'm not imaginative enough to come up with stories for other people.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Together, we came up with many...\nBut none of them felt right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Which is why we'd like to hear from you since you're a pro when it comes to this, Bakuno!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "N-No, I'm not a pro...\nYou're giving me too much credit...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In any case, this story is the one we thought was the best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Um... This one is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "The one where Nakayama thinks he knows a lot about books, but Hino knows even more and works with a famous author, so Nakayama sees him as a rival!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, with this in mind, the way I read the three lines changed greatly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Morning.” “That novelist giving you trouble again?”\n“No choice, I suppose.”\nLike that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "That's incredible...!\nYou sound completely different from how you did during practice!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "If Nakayama sees Hino as his rival, then does that mean he has some sort of inferiority complex? Maybe they joined at the same time, and everyone always compares the two...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Oh, what if something happened between them at work? Like Hino outperforming him...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh... That's actually our plot twist for the second act of Nakayama's story!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "A novelist he was hoping to work with ends up going to Hino instead.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "He feels his losses piling up...!\nBut then, someone asks whether or not he'd like to become the editor for a girls' manga magazine!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Because of how much he's struggling at his current workplace, he decides to take the leap and change jobs! Lo and behold, he thrives as an editor for girls' manga!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Yes, I see...!\nI really like that...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "However, because you've come up with such a good ending, I'd like to hear more about the conflict he undergoes before he finds success. For example...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "You could try changing the root of his inferiority complex. What if he was writing his own novel, but was forced to become an editor instead? Maybe a love triangle was also involved...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Raising his age drastically could also make things more interesting. Seeing a younger coworker succeed could wound an older man's pride.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, of course...!\nEven the smallest changes would greatly impact how he behaves towards Hino...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That's so cool!\nYou're coming up with all these ideas so fast!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Wow...\nYour powers of imagination are certainly impressive.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Still, this is only one possibility out of many... Some more ideas may help give you a better understanding of who he is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah... In that case...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What if Nakayama used to be Hino's mentor? And he was the very first junior Hino was asked to look after, and Hino initially doted on him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Yes, I like it!\nAnd they could...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe!\nThey're having so much fun♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I sense some good results coming.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Hino.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“How was it?\nDid you enjoy the girls' manga they put me in charge of editing?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "“I never expected you to ask me for my opinion.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“I want to know.\nAnd give it to me straight.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "“To be honest, I've never read many things like this before...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "“But girls' manga is far more interesting than I initially realized.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00061_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "And scene!\nThat was excellent.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I felt that you really had become Nakayama just now, Tsukasa. And your conversation with Hino felt so natural.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I-It did?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup yup!\nYou were really amazing, Tsukasa!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I actually felt relieved when I saw that Nakayama's hard work had finally paid off.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I... I did it!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thank you so much, Bakuno!\nWe created a believable story about Nakayama! All that's left is for me is to master this role by remembering what I just did with every fiber of my being!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "*Nod*\nYou're welcome.\n*Sigh*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm?\nIs something the matter, Bakuno?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "No, um...\nIt's just...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "It's been so long since I last had so much fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "If you're happy, Bakuno, then I'm happy!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Haha. I can't help but feel a little embarrassed when you put it so plainly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe!\nHe's smiling from ear to ear!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, he is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Tenma.\nAll of you from Wonderlands×Showtime...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Let's keep doing our best until we do this for real!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa, Nene, Emu & Rui",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

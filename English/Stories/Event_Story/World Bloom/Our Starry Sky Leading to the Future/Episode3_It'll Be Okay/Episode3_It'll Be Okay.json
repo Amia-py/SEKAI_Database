@@ -1,0 +1,978 @@
+{
+ "title": "World Bloom — Our Starry Sky Leading to the Future — Episode3 It'll Be Okay",
+ "meta": {
+  "Event": "Our Starry Sky Leading to the Future",
+  "Event Type": "world_bloom",
+  "Episode": "Episode3 — It'll Be Okay",
+  "Event Outline": "The VIRTUAL SINGER version of Leo/need's debut song is generating buzz, and Ichika and the others couldn't be happier. As the band renews their vow to make it as pros, a new area appears in SEKAI!",
+  "scenarioId": "wl_band_01_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_f001503",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "???",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wh-What is this place...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Whoa!\nI didn't know this part of SEKAI existed!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "It looks like a station platform...\nThere's even a train stopped.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "It's so spacious...\nBut how did no one notice until now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I thought we'd explored every inch of this SEKAI already.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "...\nThis is just my guess...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "But I don't think it was always here.\nThis area may've newly appeared.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Huh? A new area...?\nIs that possible?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I can't say for sure since this is also completely new to me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "But do you remember how this SEKAI was born out of you and the others' feelings, Saki?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, yes!\nOur feelings coalesced and formed this SEKAI, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Along those lines...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "This place may be some kind of reflection of all of your feelings.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Our feelings...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Yes.\nBut it's difficult to say what those feelings entail.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Then, why don't we try exploring this place a little more?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "If we take a closer look, we might be able to find the answer☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, great idea!\nI also wanna see what this place has to offer!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hehe. Me too.\nThen, let's take a quick look, shall we?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Alright, I'll go check out the platform on the other side since it also looks really big and spacious!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "In that case, I'll try taking a look around the station. I'd like to get an idea of its overall scale.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Where do you wanna look, Sakki?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hmm... Then, I'll keep checking this area out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I wanna take a closer look at this train and these posters and bulletins and stuff!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Okay♪\nThen, let us know if you find anything!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I'll see you two in a little bit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "See you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Still, what's this station for...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, an electronic bulletin board!\nIt looks just like one you'd see on a real platform...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Huh? Wait a second...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "There's no destination...?\nIs it broken or something?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Come to think of it, where is this train headed?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, there could be something written on the train!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hmm...\nThere's nothing written here either.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(What if this train doesn't actually have a destination yet...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(The doors don't seem to open...\nBut the lights are on, so they should be working.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_nightsky_2024_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hello? I'd like to board!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00085_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg00026",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hi, it's nice to meet you all! My name's Saki Tenma!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I've actually been a student here since junior high school, but I ended up in the hospital for a while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Now I'm back to perfect health, and ready to have a great time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "My plan is to enjoy high school life to the fullest♪\nLet's all be friends!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg00026",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wh-What's going on?!\nWas that me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "She just suddenly popped into my head and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Bye bye, Ichi! See you later!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay.\nSee you later, Saki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "*Sigh*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I was so sure that the four of us would start hanging out together again like old times...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00175",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But I guess Ichi's right...\nWe're all busy high schoolers now, so things won't just go back to being the way they used to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "No, stop! I've gotta stay positive!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "If I keep making the effort to go talk to them, then we might be able to start hanging out again!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "So, I'll try again tomorrow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg00026",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(Hang on...\nThis is from when I got to start going to school again...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(Does that mean I'm seeing my memories from back then...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Why are they both being like that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "It's like they're avoiding me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg00026",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(This is from...\nWhenever I went over to talk to Shiho and Hona, they didn't really say anything to me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(They weren't acting like their usual selves, which bothered me a lot...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(And then...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00416_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(I'm loving this! Everyone's parts are coming together in this song! Maybe we could start a band again, and things between us could be the way they used to be...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Shiho, Hona, Ichi... Let's get the band back together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg00026",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(We met up in SEKAI, and I told them about how we should get our band back together.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(Looking back, I was so desperate...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(I wanted us to be friends again...\nI thought getting our band back together was my only hope.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I see now what we should do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "We should give up on getting her to join the band.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "What?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg00026",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(That was really tough...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(I wanted Hona to be there with us, but I knew that she'd end up suffering as a result...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000404",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(I have to tell her tomorrow...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(I have to let Hona know that she doesn't have to join our band.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(I have to tell her, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I really don't want to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(If I tell her, I get the feeling this is how things are gonna be moving forward...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(Just us. No Hona...\nThe four of us won't be friends again like we used to...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I don't want that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I don't want to tell her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000404",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I have to...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Because it's in her best interest.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "It's okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I'm sure we'll get another chance to hang out again like we used to... Someday...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "So, for now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I have to say goodbye to her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg00026",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(That was so hard...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(I mean, I really thought that we'd never see each other ever again.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(We'd go our separate ways, graduate from high school, become adults and completely lose contact...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(That scared me a lot...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "It's okay, past me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000404",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg00026",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "We all get back together in the end.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "A lot of scary and not-so-nice things are gonna happen in the future...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But don't worry!\nWe managed to get through it all!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin's Voice",
+   "Line": "Sakki! Sakki!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f001503",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "H-Huh...? Am I...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Th-Thank goodness!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "We were so worried!\nYou didn't respond to anything we said! And then you started bawling your eyes out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "What happened?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehe. I'm okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I was just sort of dreaming for a bit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Dreaming?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yes. I don't know why, but I started seeing all these different things after touching this train...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Like what happened before we got our band back together, when we weren't talking to each other...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Being reminded of what happened back then made me tear up a little...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Saki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000330",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00229",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "You don't have to put on a brave face if it's too much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "No, I'm not pretending to smile or anything!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah, being reminded of what happened was pretty tough...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But we're all back together now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "We've become pros and are moving forward together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "That makes me super happy... So, it's all okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f001503",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I don't know how our career as pros is going to unfold...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But I know that the four of us will keep trying our best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I'm sure you'll all do just fine as long as you stay together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah♪\nDo your best, Sakki! We'll all be rooting for you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehe. Thanks, Rin!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Still, what made you see that dream...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I dunno...\nIt all happened so suddenly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "What if SEKAI wanted you to see what you just did?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "SEKAI?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Yes.\nYour feelings may have affected it in such a way that it felt it needed to remind you of what happened.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(If that's true, then...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(Maybe it was giving me an opportunity to tell my past self that everything is going to be okay...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, Saki, that reminds me...\nDon't you have to be home soon?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "She's right!\nIsn't it almost time for you to have dinner?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "No, you're right!\nMy mom's gonna be so worried!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Then, I'll see you two later!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Okay! Let's go exploring again!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(I'm so glad I came here, since I got a chance to remember what happened back then...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(We're probably gonna be faced with a lot more tough challenges in the future.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(But I'm sure the four of us will figure out a way to keep moving forward!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(I mean, just look at me! I'm standing here now after going through everything I did!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_leoneed_ed1",
+   "_kind": "Effect"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,613 @@
+{
+ "title": "Unit Event — Tying Tomorrow's Ribbon — Episode6 Meet N25!",
+ "meta": {
+  "Event": "Tying Tomorrow's Ribbon",
+  "Event Type": "marathon",
+  "Episode": "Episode6 — Meet N25!",
+  "Event Outline": "Things have calmed down for N25 since Mafuyu's return to living with Kanade. Meanwhile, Mizuki's sister is back in Japan, and the two have much to talk about. After hearing how she first found her dream in life, Mizuki in turn begins to think about the future.",
+  "scenarioId": "event_177_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a001701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shopping Mall",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Let's see... I think it's past that shop!\nHurry, you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Seriously, Mizuki, you're being way too hyper.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Haha! I'm just so happy about finally getting to introduce all of N25 to her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "And I can't wait to check out the shop with everyone too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I wonder what it'll be like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Isn't that it right there? The one with the “Fleur Libre” sign.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, this is what it's like.\nIt looks really trendy, and a lot seems to have gone into the displays.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00047",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, it's hard not to get even more excited...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, Mizuki, isn't that your sister over there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah! Looks like she's busy with a customer right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wanna browse around while we wait?\nI'm already seeing a few things that I like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Let's do that!\nI'm gonna look for the perfect clothes for all of you♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Umm... I think I'll pass...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Aww... Don't be so bashful.\nJust bear with me for a bit!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Look, Mafuyu, check out this blouse—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00052_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, I'm sorry... I didn't mean to bump into you...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "No, that's okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Huh...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(This person seems kinda...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, there she goes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Seriously, what are you doing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Sorry about that.\nI'm just so excited...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I wonder what happened to that person.\nShe seemed to be feeling kinda down...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "No, even if I were to wear something like this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "I'm going home...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(She just...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Mizuki, everyone! Sorry for making you all wait!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Ah... Hey, Sis!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Thanks for coming to visit today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Kanade, Mafuyu, it's been ages. Since that last meetup, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "It's nice to see you again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "I'm so glad to see you. We didn't get much chance to talk last time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Before I forget, thank you for using those scrunchies. Mizuki sent me pictures of all of you wearing them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, no, thank you.\nWe really appreciate you making them for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Hehe. They looked so good on all of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "I heard that your entire group is here today.\nWhich means...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Nice to meet you.\nI'm our group's illustrator, Ena Shinonome.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000481",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Yes, I had a feeling that you were Ena!\nIt's so great to finally meet you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Mizuki's always telling me stories about all of you, so I've always wanted to know what you were like!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "And now I finally get to meet you!\nThank you for always looking after Mizuki!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "U-Uhh... Y-You're welcome...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Sis, calm down.\nYou're practically bowling her over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Oh, sorry.\nI didn't mean to be so in your face like that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "But I am genuinely happy.\nI mean, I've heard so much about you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Really...thank you for being Mizuki's friend.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Not at all. I actually owe Mizuki quite a lot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wh-Whoa, you guys are making me blush like crazy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Haha. It feels a bit like Parents' Day at school... Or maybe more like a parent-teacher conference?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "But... I really am happy about finally meeting one of Mizuki's dearest friends.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rina's Voice",
+   "Line": "Yuki!\nSorry to interrupt, but can you do an inventory check for me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Oh, sure!\nOkay, everyone, feel free to look around as much as you like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Thank you, we will.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "It's really clear that she's your big sister, Mizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Yes, she seems like such a kind and cheerful person.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wait, that voice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You guys are all here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yeah. Umm... Is it safe right now...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "The coast is clear!\nNo other customers are around at the moment.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Okay, thank goodness...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<So, Mizuki, this is your big sister's store?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<I've never seen some of these clothing designs before.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Haha. You guys all seem really interested.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Anyway, now that Miku and the others are all here, let's have a good browse!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Okay...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Umm... Some of the clothes your sister designed are also here, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Really...? I wanna see.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Me too. Oh, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Are we gonna be able to tell that she was the one who designed them? They're probably gonna be mixed in with clothes by other designers, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hmm... Maybe.\nAnd this store's pretty big, so finding her clothes might be challenging.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'll try asking her later, and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Mizuki...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(This dress...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wow... It's so stylish.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "It's a bit of a bold design, but there's also this gentleness to it... I sorta feel like trying it on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Did your sister design this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, I think she did.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "It's a little different from what she used to make, but it's pretty close to a dress she made for me once.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Really...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "It's so cute...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, that person over there's...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "No, even if I were to wear something like this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(It's her...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Wait a second...\nIs she looking at this dress...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

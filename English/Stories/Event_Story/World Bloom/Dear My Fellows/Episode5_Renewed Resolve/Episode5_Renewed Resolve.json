@@ -1,0 +1,843 @@
+{
+ "title": "World Bloom — Dear My Fellows — Episode5 Renewed Resolve",
+ "meta": {
+  "Event": "Dear My Fellows",
+  "Event Type": "world_bloom",
+  "Episode": "Episode5 — Renewed Resolve",
+  "Event Outline": "Having trained with three famous troupes, Wonderlands×Showtime has certainly grown. While checking for any changes in their SEKAI, they hear of a problem with the tree, and are shown a world where they are each chasing their own dreams.",
+  "scenarioId": "wl_wonder_02_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a002303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Scramble Crossing",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thank you very much for agreeing to work with me on those things, Mr. Kijima!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "On top of that fight, you even stayed to coach me as I practiced on my own. I really appreciate the help.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Not a problem! I understand exactly how you feel since I also want to do everything I can to put on a great show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Plus, we're both playing leads this time around, so we'll need to work in perfect sync.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Very true... “Ishin-den”, the tale of two brothers separated at a young age who end up facing off as supporters of the new government and old shogunate.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The climax involves an epic sword fight that will likely make or break the entire show. I'm incredibly excited about that scene!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "However...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I still get the feeling that we can do more to make it even better...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I'm sorry...\nI wish I could be more specific.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "No, you don't need to apologize.\nIt's important to keep searching for new ideas!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "That being said...\nYou have to find the answer you're looking for on your own.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "And when you do, I have a feeling that you're going to grow more than you have until now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!\nMore than I have until now...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Okay...\nI, Tsukasa Tenma, promise to find the answer!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Hah hah hah! That's what I like to hear!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Come to think of it, Tenma, have you replied to that message already?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What message?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "The one you received while we were practicing. You said it was from your old friends.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "You started practicing on your own right after that, so I was wondering if you'd replied already.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No, you're right...!\nI'd become so focused on practicing that I completely forgot...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I'll reply right now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Ah, I'm glad that you remembered!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Still, you must all be pretty close to keep in contact like this after disbanding your troupe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The truth is, part of why I decided to go train overseas is because one of them inspired me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes. I received word the other day that he will be joining a top-level troupe in the United States as he pursues his dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And I felt that I couldn't let him hog all the glory.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I know that I still need a lot of work, and that it's far too soon for me to go train abroad. But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I don't want to sit idly by as my friends move forward towards their dreams... Chiefly because I am the troupe leader of Wonderlands×Showtime!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I have to be an example by fulfilling my dream and becoming a star who makes the whole world smile!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "I see...\nI like that. It's very you, Tenma.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "You're always heading straight towards your dream!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "So, keep running.\nGo become a big star!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Mr. Kijima...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thank you! I will!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000402",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "???",
+   "Line": "I'm sure you can.\nAren't you a future star that will bring joy to everyone?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Who said that just now...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I have no idea, but it felt like they were trying to give me words of encouragement...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(This is it. My last show...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I have to do my best to make sure I don't fall behind them...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00281",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "One week later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shrine Grounds",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00757",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00758",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00759",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rokuro",
+   "Line": "“No, what are you doing here...?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rokuro",
+   "Line": "“I gave you your chance to flee!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kansuke",
+   "Line": "“...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Okay, my timing was perfect!\nNext, we'll go from our swords being locked to a series of parries.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00858",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "Wow!\nDid you see that guy's wall jump...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(He's improvising...!\nOkay, I'll get pushed back here, and take up a defensive posture.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00757",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00210_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kansuke",
+   "Line": "“Grr...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kansuke",
+   "Line": "“R-Rokuro...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "Wow, this scene's so amazing...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(The audience seems to really be enjoying this. Alright, next, I'll...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mikazukigumi Member C",
+   "Line": "No, I should be the one apologizing...\nI wasn't expecting you to throw in a spin there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(But this is Mr. Kijima's time to shine.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I should just do precisely what we practiced!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kansuke",
+   "Line": "“Even so...\nEven so, I will choose this path...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rokuro",
+   "Line": "“I see...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rokuro",
+   "Line": "“Then, we have no choice but to fight.\nEven if you are the only family I have left...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kansuke",
+   "Line": "“Rokuro, I...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00034",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kansuke",
+   "Line": "“I regret nothing.\nI know we chose to go down different paths, but...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rokuro",
+   "Line": "“Yes, I also regret nothing. That is why...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rokuro",
+   "Line": "“I must be the one who ends you.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kansuke",
+   "Line": "“Yes, please do...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00239_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00048",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "After the show",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "I wasn't expecting it to end that way at all...! I mean, it started out kinda like a comedy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "That was so good! I didn't know Mikazukigumi could put on shows that make your heart ache like that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Hah hah hah!\nI think the crowd liked what they saw!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That was the loudest applause we've heard...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Even until the very last second, I kept learning from you. The audience really loved the way you improvised back there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "And you did a good job of reacting, Tenma!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Tenma...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Thank you for being with us until today.\nYou've had a huge impact on this troupe. Myself included.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "You might face some tough challenges when you set out into the world, but I'm sure you'll find a way to overcome all of them!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "I'll be looking forward to the day you become a star.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000443",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thank you...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I'm going to treasure every moment I spent training with everyone here at Mikazukigumi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You all encouraged me to chase after my dream. So, to make the most of what you've given me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I will make my dream come true.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Because I'm a future star!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Good!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Move forward with your head held high!\nGo make your dream come true!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mikazukigumi Staff Member",
+   "Line": "Mr. Kijima!\nThe venue staff said they'd all like to thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Oh, okay!\nI'll head right over. We'll talk again later, Tenma!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "(I wasn't able to draw out everything he had...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(The way I moved on stage, including during that fight... I felt that I performed better than during practice.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(But this is Mr. Kijima's time to shine.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I should just do precisely what we practiced!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Giving up the spotlight to him might've been a bit of a waste...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(But at the end of the day, the show...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "You have to find the answer you're looking for on your own.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Wait a second... Is that what he meant by that?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I really do have a lot left to learn as an actor...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(In order to put on the best performances imaginable, actors have to constantly give their all...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(They'd all be laughing at me right now if they were here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Speaking of which, Emu said that she wanted to throw a farewell party for Rui and me since we'll be leaving the country soon...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(What would they say if they happened to be here to see today's show...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Emu would probably say, “It was so ridiculously amazingly explosively fun☆”. Nene would likely point out all the little mistakes in my movements.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(And I imagine Rui would start coming up with a directing plan that includes a number of extra effects.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(In any case, I would've been told I'm a fledgling with a lot left to learn.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I have to keep finding ways to grow...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(As the troupe leader of Wonderlands×Showtime, I can't let them hog all the glory.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link2_wonder_ed2",
+   "_kind": "Effect"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

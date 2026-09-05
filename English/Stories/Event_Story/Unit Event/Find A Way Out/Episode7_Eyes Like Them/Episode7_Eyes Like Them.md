@@ -1,0 +1,148 @@
+# Unit Event — Find A Way Out — Episode7 Eyes Like Them
+
+- **Event**：Find A Way Out
+- **Event Type**：marathon
+- **Episode**：Episode7 — Eyes Like Them
+- **Event Outline**：Tis the season to be jolly and Vivid BAD SQUAD is all gathered at Weekend Garage. They discuss performing at the live house where RADder debuted, but Akito seems to have some history with said venue...
+- **scenarioId**：event_79_07
+
+## 正文
+
+| Speaker | Line | _kind |
+|---|---|---|
+|  | bg_c001103 | Background Change |
+|  | se00220 | Sound |
+| Akito | Huff... Huff... | talk |
+| Akito | (I'm panting more, and my legs are starting to feel heavy...) | talk |
+| Akito | (But I can't stop...) | talk |
+| Akito | Huff... Huff... | talk |
+|  | se00220 | Sound |
+| ??? | Hey, kid. | talk |
+|  | bgm00000 | Sound |
+| Akito | Huh? T-Taiga...?! What are you doing here...? | talk |
+|  | bgm00024 | Sound |
+| Taiga | Well, this place is sort of like my backyard. It's only natural for me to want to check up on it. | talk |
+| Taiga | More importantly, why do you look so flustered? I thought you won that battle just now. | talk |
+| Akito | Won that battle...? Wait, were you watching? | talk |
+| Taiga | Yeah. I was out for a stroll and saw you guys singing. So, I decided to stop and watch. | talk |
+| Taiga | They weren't bad, but couldn't quite run away with it. You got them good. | talk |
+| Akito | I did...? | talk |
+| Taiga | Here, drink this.<br>You'll start feeling sick if you don't stay hydrated. | talk |
+| Akito | Oh, thank you. I appreciate it... | talk |
+| Akito | (It's like he's staring right into me... I can't hide anything from him.) | talk |
+| Akito | So, a long time ago, I lost to them pretty badly. But I managed to beat them today... | talk |
+| Taiga | Yeah, that must've felt pretty good. | talk |
+| Akito | Yes, it did... But... | talk |
+| Akito | I didn't like how this brief sense of relief came over me. I can't forgive myself for letting that happen... | talk |
+| Taiga | Why's that...? | talk |
+| Akito | Most would probably say that I was able to win today because of how much work I've been putting in until now... | talk |
+| Akito | However, I won't be able to move forward if I let myself feel satisfied over something like this... | talk |
+| Taiga | Move forward, huh...? | talk |
+| Akito | Yes, because I can still remember the way you guys sang during RAD WEEKEND. I still can't believe what happened that night... | talk |
+| Akito | I need to learn how to do that.<br>So, I can't hesitate or let myself feel satisfied for even a second. | talk |
+| Akito | My dream... Our dream... It requires us to aim as high as we can. Which is why... | talk |
+| Taiga | I see... | talk |
+| Taiga | You're starting to sound like Ken. | talk |
+|  | bgm00000 | Sound |
+| Akito | What...? | talk |
+| Taiga | He also worked as hard as he absolutely could. | talk |
+| Taiga | To catch up to me. | talk |
+| Akito | Ken had to work that hard...? | talk |
+| Taiga | Yeah, he always has that cool look on his face, but I don't know anyone who loves music more than him. | talk |
+|  | bgm00039 | Sound |
+| Taiga | But things were different in the beginning. He was the opposite when I met him for the first time in junior high. I mean, he was so boring back then. | talk |
+| Taiga | He overcame every obstacle that was thrown at him, but it was like he didn't care. He acted like he was so mature and hardly ever paid attention to anyone else. | talk |
+| Taiga | I didn't know how to deal with that. | talk |
+| Akito | (I heard rumors that Ken and Taiga didn't get along, but I guess they were at least partially true.) | talk |
+| Taiga | But it wasn't just that... | talk |
+| Taiga | I can tell you this because enough time's passed. I actually kept a close eye on him whenever I was in town. | talk |
+| Akito | Huh...? | talk |
+| Taiga | We both grew up around here, so we saw each other constantly. Be it school, sports or whatever, he always managed to come out on top. | talk |
+| Taiga | Singing was the only thing I was better at than him. However, a part of me always worried about what would happen if he also started taking that seriously... | talk |
+| Taiga | I'd been singing here since I was little, and I believed I was gonna become world famous. | talk |
+| Taiga | One day, Ken walked by while I was doing a street performance... He gave me this look of boredom which really bothered me. | talk |
+| Taiga | I thought, “Hey, don't ignore me! You know I'm here! Isn't there anything you feel passionate about?!” | talk |
+| Taiga | So, I began singing like there was no tomorrow. | talk |
+| Akito | (Not even Tono could stand up to Taiga... I can't imagine what he's like when he fully unleashes...) | talk |
+| Akito | So, what did Ken do after that? | talk |
+| Taiga | Oh, my performance definitely sparked something inside him. It was pretty obvious. | talk |
+| Taiga | His eyes began to visibly fill with light. | talk |
+| Taiga | I guess it goes to show that you gotta take something seriously if you want others to notice. | talk |
+| Akito | Take something seriously... | talk |
+| Taiga | Yeah. And so, he decided to start singing in this town. | talk |
+| Taiga | I couldn't believe it when I saw Ken practicing for the first time. It was like I'd stepped on a sleeping tiger's tail... | talk |
+| Akito | Wait, what do you mean...? | talk |
+| Taiga | He practiced from sunup to sundown while always keeping a bigger goal in mind. | talk |
+| Taiga | He'd sing for so long that he'd lose his voice and get this dejected look on his face. Despite that, he kept going. It didn't matter if he could hardly make a sound. | talk |
+| Akito | Ken practiced like that...? | talk |
+| Taiga | Weird, right? Again, I couldn't believe it. | talk |
+| Taiga | He probably didn't know what to do with all that newfound energy. I have a feeling that he was so excited that he had no other choice but to act. | talk |
+| Taiga | He sang and sang and defeated everyone in his path, but he never felt satisfied. He just kept going. | talk |
+| Taiga | From my perspective, it's always nice to get a win. | talk |
+| Akito | ...! | talk |
+| Taiga | At the same time, seeing him get all serious became good motivation for me. | talk |
+| Taiga | Honestly, it was sort of nice to see him break a sweat for a change... | talk |
+| Taiga | And before I knew it, we were teammates. | talk |
+| Akito | I see... | talk |
+| Taiga | Come to think of it, your eyes... Ken always had that same look. Actually, you really reminded me of him during your show today. | talk |
+| Akito | Huh? Me...? | talk |
+| Taiga | Yeah, it's like you're only looking towards the top, and you're mindlessly doing everything you can to reach it. | talk |
+| Taiga | You might actually have what it takes to become just like him. But it's gonna be tough... Really tough. | talk |
+| Akito | ... | talk |
+|  | se00055 | Sound |
+|  | bgm00000 | Sound |
+| Taiga | Anyway, I think this old man's wasted enough of your time. I didn't mean to tell you such a long story. | talk |
+| Akito | No, it's rare for anyone to hear about you guys' history. So, thank you. | talk |
+| Taiga | No problem. | talk |
+| Taiga | Oh, while we're on the subject...<br>I heard that you guys want to do an event at Crawl Green. | talk |
+|  | bgm00170 | Sound |
+| Akito | Huh? We do, but we haven't received permission yet. | talk |
+| Taiga | Hey, don't give me that. Ken and I probably would've jammed our feet in the door and squeezed our way through. | talk |
+| Akito | Wait, I really don't think we should go that far. I mean, this event means a lot to us, so we're trying to go about this carefully... | talk |
+| Akito | Also, Taiga, why do you know about it...? | talk |
+| Taiga | The owner told me. Arata's been talking to him, right? | talk |
+| Taiga | He even said how everyone's been talking about the events you guys have been putting on recently. | talk |
+| Akito | Yes, well... We're doing what we can to surpass RAD WEEKEND. | talk |
+| Akito | That's our main goal. | talk |
+| Taiga | Right...<br>I'm curious to see just how strong your resolve is when it comes to that. | talk |
+| Taiga | Alright, I'll go see your next show. | talk |
+|  | bgm00000 | Sound |
+| Akito | What...?<br>You will...?! | talk |
+| Taiga | Sure. That is, if you manage to book Crawl Green. When you guys do, save a ticket for me, okay? | talk |
+| Akito | Of course! Um... | talk |
+| Akito | We promise to make it an incredible event. So, we'll be waiting for you... | talk |
+|  | se00104 | Sound |
+| Akito | ... | talk |
+|  | se00053 | Sound |
+| FlashbackIn |  | Effect |
+| Taiga | He practiced from sunup to sundown while always keeping a bigger goal in mind. | talk |
+| Taiga | He'd sing for so long that he'd lose his voice and get this dejected look on his face. Despite that, he kept going. It didn't matter if he could hardly make a sound. | talk |
+| FlashbackOut |  | Effect |
+| Akito | I had no idea that Ken went through the same thing... | talk |
+| Akito | He did absolutely everything in his power to get where he wanted... | talk |
+|  | bgm00144 | Sound |
+| Akito | And I've been doing what I can until now after choosing to go down this path. Still... | talk |
+|  | se00053 | Sound |
+| FlashbackIn |  | Effect |
+| Taiga | Come to think of it, your eyes... Ken always had that same look. Actually, you really reminded me of him during your show today. | talk |
+| Taiga | You might actually have what it takes to become just like him. But it's gonna be tough... Really tough. | talk |
+| Ken | It's easy for your mind to fall into the trap of believing there's no more use in trying. That there's no light at the end of the tunnel. | talk |
+| Ken | So, whenever you feel that way, don't listen to your mind. Listen to your heart. Follow it. Go after what gets your blood pumping. | talk |
+| Ken | That's right. If you feel down and like everything's falling apart, but your body still wants to sing... | talk |
+| Ken | That means you shouldn't quit and singing is the only way you'll break through your ceiling. | talk |
+| FlashbackOut |  | Effect |
+|  | bg_s000141 | Background Change |
+| Akito | (Now I see...<br>That's why Ken said what he did.) | talk |
+| Akito | (He felt that same anguish as he continued to sing...) | talk |
+| Akito | (He wasn't an incredible singer from the start... He had to work for it.) | talk |
+| Akito | (Like me...) | talk |
+|  | bg_c001103 | Background Change |
+| Akito | (Thank goodness. Finally...) | talk |
+| Akito | (I can have confidence in the decisions I've made. I can move forward.) | talk |
+| Akito | At long last... | talk |
+|  | bgm00000 | Sound |
+
+
+## Outline
+
+https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）

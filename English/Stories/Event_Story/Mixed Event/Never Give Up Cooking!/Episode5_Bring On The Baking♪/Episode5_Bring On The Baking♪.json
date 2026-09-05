@@ -1,0 +1,503 @@
+{
+ "title": "Mixed Event — Never Give Up Cooking! — Episode5 Bring On The Baking♪",
+ "meta": {
+  "Event": "Never Give Up Cooking!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode5 — Bring On The Baking♪",
+  "Event Outline": "Tsukasa and Saki invite Toya over for a party. With White Day approaching, he wants to give something back to the two of them. He tries his hand at baking from scratch, with varying results...",
+  "scenarioId": "event_87_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c002102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Aoyagi Household - Kitchen",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...so I've asked an older student from school to taste test for me. He'll be coming over later today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<That's good.\nHaving someone help out should be a shortcut to success.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Anyway, shall we get started?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, let's.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'd like to follow the procedure described in the recipe as closely as we can. However, when I tried it out yesterday, there were several places where I got stuck...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "If that happens again, Miku, I'd like you to give me some advice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Okay.\nThen, mind if I have a look at the recipe?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Of course, here it is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I see. Very interesting. So this is how you bake cupcakes. >",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<So, how did the ones you made yesterday turn out?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Well, when they came out of the oven, they didn't quite rise the way they appeared in the recipe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "On top of that, when I tasted them, the texture felt like I was eating hard paste.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<It felt like paste...? Actually, MEIKO did seem to mention something about getting a chiffon cupcake to rise being very important.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I had a feeling...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<But based on what your testimony...\nYou may not have mixed them properly.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I didn't mix them properly?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Yes. Apparently, these sorts of sweets rise differently based on how their batter is mixed.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<But they may also have trouble rising if you go a bit overboard.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see... I didn't know that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Just how much mixing is this going to make me do...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, now that you mention it...\nI did mix the batter for a very long time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Oh, in that case, you can try not mixing it so much this time.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<You have a tendency to be too careful or follow instructions too strictly. So, why not mix it only a little bit for this batch?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<For example, well... How about two or three times?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00200",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "That little? Are you sure the batter doesn't need to be mixed more?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I don't think it's a matter of how many times you mix it. You can still mix it fairly vigorously.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Also...\nYou could try using a little more baking powder.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<MEIKO told me the other day that it's what helps cakes like these rise.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Is that what this powder does...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But is it okay for us to put in more than the recipe says...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I think that's up to the individual baker. I mean, everyone puts in different amounts of sugar into their coffee, no?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<So, it should be okay to put in a little more baking power if you want them to really rise.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, that may be so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Actually, this recipe suggests a few additional options... Do you plan on trying any of these?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I was planning to once I got the hang of baking. I even bought some of those ingredients...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Then, let's try putting those in.\nYou may never get to use them if you wait until you “get the hang of things”.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I am a little worried about going with an alternate option right off the bat... At the same time, I won't learn unless I try.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Plus, I have Miku here to teach me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Okay, then... Let's give it a try.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So, Miku, please tell me right away if you see me doing something wrong...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Okay, I will.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Based on the address Aoyagi gave me, his house should be just up ahead...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Hehe... I hope his creations are coming along well. I'm looking forward to seeing how they turn out...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Still...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Excellent! Thank you, Rui!\nThe menu for our dinner party is all set now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "You're welcome. I'm glad I could help.\nI hope Aoyagi enjoys everything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, same here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Is something wrong...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No, I was just reminded of something that happened when we were little...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The truth is, I never really saw Toya smile all that much back then. He always seemed preoccupied...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "He's changed quite a bit since then, but as an older brother figure, I'd like to see him smile more.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I see. That explains why you're showing so much concern for him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "*Nod*\nThat is exactly why!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "So, I'd like to prepare a party for him with such spectacular dishes that he won't have any choice but to enjoy himself!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(It's interesting how Tsukasa and Aoyagi are trying to do so much for each other.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Still, this is their show...\nThere isn't much that I can do for them...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But I hope things go well for them...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, this must be his condo...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001402",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Aoyagi Household - Living Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Kamishiro, hello.\nThank you for coming over today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, thank you for inviting me.\nHehe... There's a sweet aroma in the air.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, yes...\nThey should be ready soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Let me get you something to drink.\nPlease, have a seat.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Okay, thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00503_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Now, let's see what he made....)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<The cupcakes seem just about done. I wonder how it turned out.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(Toya had such a serious look on his face... Probably because he wants the recipient of his gift to really enjoy what he made.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(I hope they end up being delicious.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_cooking_2023_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Wait, it sounded like the cupcakes just burst...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<It must be because they're full of so much energy. I'm sure they're going to be yummy and fun to eat.>",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

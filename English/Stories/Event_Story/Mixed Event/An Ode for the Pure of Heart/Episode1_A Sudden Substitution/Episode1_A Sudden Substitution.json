@@ -1,0 +1,653 @@
+{
+ "title": "Mixed Event — An Ode for the Pure of Heart — Episode1 A Sudden Substitution",
+ "meta": {
+  "Event": "An Ode for the Pure of Heart",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode1 — A Sudden Substitution",
+  "Event Outline": "Toya suddenly ends up taking on a role as a wedding flash mob extra. But when he arrives at the venue, unexpected circumstances mean that the director is nowhere to be seen. As the possibility of a canceled show grows greater by the second, Toya meets Rui...",
+  "scenarioId": "event_24_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a003201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_bridal_2021_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wedding Ceremony Hall",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00143",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So this is the venue...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Toya, you're serious about this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I am. It'll be my first time performing in a place like this, so I want to give it everything I have.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Dude, I get that you like being a nice guy and all, but you didn't have to agree to something like this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "No, I take that back. You would've said yes no matter what...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I was kinda looking forward to taking a breather at MEIKO's place once we were done with morning practice too...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(He just had to ask Toya to do this...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, let's take a break here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Okay. I'm getting thirsty too, so I think I'll go buy something to drink.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Then, you wanna head over to SEKAI?\nMEIKO said that she'd be adding stuff to her menu and there's something I want to try too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yeah, you're right...\nPancakes with extra whipped cream, right...? It might be a little too much for me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00137",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Hm? My phone's ringing...\nOh, it's Saki...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Saki? Who's that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Tsukasa's younger sister.\nI have a feeling it has to do with the thing I was talking about...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh, right. You mentioned something about going to her Doll Festival party the other day too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But it's rare for her to call me directly. I wonder what's going on...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Hello, this is Aoyagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "<T-Toya?! Thank goodness...\nI got a hold of you...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Is something the matter?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "<I actually need to sort of ask you a favor...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "A favor?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "<If you have time that is...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I was hoping that you'd be able to fill in for Tsukasa at work for him...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "<At work...?\nYou mean at Phoenix Wonderland...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Uh, no! Not that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Tsukasa works as an extra whenever Phoenix Wonderland is closed. He said that he has to be able to work wherever if he wants to become a star...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "And today's one of those days, but Tsukasa isn't feeling all that well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "He isn't? Is he okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "<Yeah, he is. The doctor even said that it's just a little tummy ache. But he still says it hurts pretty bad, so I've been telling him to take the day off...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "<He wouldn't listen and tried to go anyway. He said that a star can't let something like this get in the way of work.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Tsukasa does take his obligations rather seriously...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "<Yeah, but he's hunched over by the door right now because of how much his stomach hurts...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "<I even called his temp agency, and they said it'll be no issue as long as they have a replacement, so I was hoping that Tsukasa would agree to take the day off once I did find someone...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "<I know this is really sudden and I'll understand completely if you say no!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But who else would you call for this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "<...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "<I'm not sure...\nIt has to be a male cast member, but I don't have that many guy friends...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "<I tried calling Tsukasa's friend from his troupe, but I couldn't get a hold of him...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "<No...! Tsukasa, you can't go...! I'm looking for a replacement right now...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What's up, Toya?\nSomething going on?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Sorry, Akito.\nThere's something I have to do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'll do it.\nI'll be his replacement.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What?! You will?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Thank you so much, Toya!\nYou're the biggest lifesaver ever!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "<It's okay. Tsukasa's always been there for me so...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Uh, Toya...\nWhat did you mean when you said “replacement” just now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Also, I thought I heard “his” name just now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'll be replacing Tsukasa as an extra today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh?\nYou're gonna be an extra?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "More importantly, why are you the one that has to do this?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "He's not feeling well it seems, and Saki just asked me to go in his place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "He's helped me so many times in the past, so I'd like to repay him somehow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But you've never done any acting before. You really think you can be an extra?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "That is true. I don't have much acting experience, but I'd like to give it my best shot...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Your best shot...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "<Toya, are you still there...? Tsukasa just said that he'll pay you back later...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Understood. Please give him my regards as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "<I will! I'll have him send you everything about where to go and what to do!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Okay.\nThank you, Saki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Dude...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00047",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Wedding Ceremony Hall",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I apologize for agreeing to do this on a practice day, Akito. I promise to make up for it later.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It's fine. I know that you won't budge even if I asked you not to do this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thanks.\nI'll be going then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But him acting...?\nAs an extra for a wedding too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kamiyama Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That should be enough resistors, plus any extras I may need. Oh, I should buy more crimp connectors while I'm at it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000078",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Whoa! That's awesome!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<It's so cool how you're using stuff like this as props, Rui...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. Do you like it?\nWould you like to make some as well, Len?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Me? Really? Yeah!\nI wanna make a rocket that can fling you into the sky!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Of course. Let's make one together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "While we're at it, why don't we make it so that you can fly with it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Me, flying? Like Tsukasa...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. I'm sure it'll be quite an experience.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "(Although Tsukasa does always scream his head off when that does happen...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'll head over to SEKAI so we can get started. Len, I'll need my phone for this, so if you don't mind... Oh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I've missed quite a few calls. I may've been a little too absorbed with my shopping.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "They're from... Tsukasa's sister and Tsukasa...? Oh, speak of the devil...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00137",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hello... You sound like you're at death's doorstep, but this is you, yes, Tsukasa? How can I help?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Being an extra...?\nOh, you mentioned that before.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Aoyagi's going in your place?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In that case, please take care.\nYou should get some well-deserved rest for a change.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00138",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Is Tsukasa okay?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "He was scheduled to be an extra for something today but he unfortunately has a stomachache.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "His younger sister, Saki, asked his friend, Aoyagi, to fill in for him instead...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But Aoyagi doesn't have much acting experience and he became somewhat worried.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "He asked me to go and take a look to see if he needs any help or if they need more people on site.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Oh, okay...\nAre you gonna go, Rui?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Tsukasa said that it was up to me and based on my interactions with Aoyagi during the School Festival, he seemed like a good kid.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "On top of that, they have staff on site to help with any actual acting and direction, so I imagine he'll be just fine...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "By the way, Len, have you ever been to a wedding...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<What? A wedding?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<I've only read about them in scripts and stuff, but I've never actually seen or been to one before. Why do you ask...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Then it's settled.\nLet's go together, Len.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'm sure it'll serve as a good reference for your own shows as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

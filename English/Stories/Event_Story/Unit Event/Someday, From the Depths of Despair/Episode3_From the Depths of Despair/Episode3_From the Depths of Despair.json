@@ -1,0 +1,683 @@
+{
+ "title": "Unit Event — Someday, From the Depths of Despair — Episode3 From the Depths of Despair",
+ "meta": {
+  "Event": "Someday, From the Depths of Despair",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — From the Depths of Despair",
+  "Event Outline": "Realizing that quite some time has passed since she first met Mafuyu, Kanade starts a conversation about it on Nightcord. As the others pry deeper into the story, Kanade recounts the beginnings of Nightcord at 25:00.",
+  "scenarioId": "event_47_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kanade's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00137",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "(Okay, it's all mastered.\nI think I'll upload it now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "(After that, I'll need to start working on the next one. I wrote some sheet music for it yesterday but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00137",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "*Sigh*\nAnother call...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "(The phone's been ringing nonstop lately despite me completely ignoring it... I guess I should see who it is...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "Hello...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "<Kanade, there you are!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "<I'm glad you picked up. I've been trying to get a hold of you for a while now and was worried that something might've happened to you...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "I'm okay, really...\nAlso, did something happen?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "<I'm concerned about your well being since you're living all by yourself now...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "<Ideally, we'd be living together, but I'm so sorry... The doctors want to keep me at the hospital for observation...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "(Grandma's not feeling well again...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "I'll be fine, honest...\nFor now, you should just focus on staying healthy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "So please, don't worry about me.\nI'm okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "<Again, Kanade... I'm so sorry...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "If that's everything, I'd like to go now. There are things that I need to take care of...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "<Oh, there's actually one more thing...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "<I'll be asking a housekeeper to start going over to your place sometime soon.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "A housekeeper?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "<Yes.\nIt has to do with you deciding to enroll in a correspondence school starting this spring.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "<The goal is to have someone cook and clean for you since you may not have time to take care of housework while dealing with your studies despite not having to physically be at school.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "I don't need a housekeeper.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "<What?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "I've been doing fine on my own.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "Besides... I have to keep composing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "<Kanade...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "If anything happens, I'll let you know...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "So bye.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00138",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "Ugh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "For dinner... I guess this jelly should be enough. I haven't been getting that hungry lately anyway...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00320",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Junior High School Kanade",
+   "Line": "More importantly, I need to work on my next song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "One month later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka Girls Academy JHS - Courtyard",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "Mafuyu! Look this way!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00075",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "Wait, hey...!\nYou really shouldn't surprise people by taking pictures of them like that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "Haha. It's our graduation, so lighten up a little. I was just taking something commemorate this day!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "You say that, but you realize that most of us are gonna see each other next year when we move up to the high school here, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "True.\nNot many are gonna be joining us either, so I guess nothing's really going to change...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "Hehe. That may very well be.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "At the same time, I'm glad that we still get to be together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "M-Mafuyu...!!\nYou're such a good girl! There, there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "Okay, you can stop doing that now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "But I'm looking forward to enjoying high school with you two.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "Me too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "Let's make high school really count, Mafuyu. Oh, we should take a picture to celebrate this moment!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "Bye, Mafuyu!\nSee you when the new term starts!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "Bye. See you then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "Nothing's going to change, huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Asahina Household - Living Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "Mom, I'm home.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Mother",
+   "Line": "Welcome home, Mafuyu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Mother",
+   "Line": "That was a lovely graduation ceremony. I was incredibly moved by the speech you gave today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "You were...? Hehe. Thank you.\nI'm glad I practiced it so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Mother",
+   "Line": "Also, let's celebrate by getting you something you want. Is there anything that you'd like?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "Anything I'd like...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Mother",
+   "Line": "A fountain pen, a book, you name it...! You can have whatever you like!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "Really? Thank you so much!\nBut I can't decide...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "I'll need some time to think about it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00031",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Mafuyu's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00044",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "What do I want...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "As far as I know, nothing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "(And nothing's going to change moving forward...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "(I have to keep wandering in the dark not knowing what I want or what's supposed to be fun?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "(Even when I become a high schooler, go to university and beyond...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm90040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "That's all for my cram school assignments...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "What's next...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "Hm...? A message?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "<Hey, I found a really amazing song! You should totally listen to it!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "<Whoa, it's like these lyrics know who I am...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "A song...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "<Listen to it, Mafuyu!\nYou're not gonna believe how good it is!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "It's that good...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "(I suppose I should listen to what my friends recommend me...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "(Gentle lyrics and a bright melody...\nIs that what makes a song “good”...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "I'll just say...\n<Yes, it's a wonderful song.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "Hm? This site's recommending me this other video. It looks like another song, but something seems different...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "(Even if I did listen to it, I wouldn't feel anything...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00119",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "(Wh-What's going on...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "(It's like someone's squeezing my heart.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "(This song... What's it doing to me...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00048",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu's Mother's Voice",
+   "Line": "Mafuyu, dinner.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "Oh...\nI'll be right there, mom.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "It's dark already...?\nI spent that much time listening to that song?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "(The more I listen to it, the more it sucks me in...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "(So much pain and suffering...\nAnd yet, I can't not listen to it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "(Nothing I saw or heard ever made me feel this way... Why this? Why now...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "(Also...\nWho made this song...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "(Their name is...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Mafuyu",
+   "Line": "K...",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

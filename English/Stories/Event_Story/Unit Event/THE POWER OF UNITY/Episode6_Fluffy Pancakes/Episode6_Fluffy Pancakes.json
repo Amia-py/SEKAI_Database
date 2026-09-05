@@ -1,0 +1,968 @@
+{
+ "title": "Unit Event — THE POWER OF UNITY — Episode6 Fluffy Pancakes",
+ "meta": {
+  "Event": "THE POWER OF UNITY",
+  "Event Type": "marathon",
+  "Episode": "Episode6 — Fluffy Pancakes",
+  "Event Outline": "As Akito repeatedly watches the video of RAD WEEKEND, he realizes that creating a certain \"atmosphere\" may be the key to surpassing the legend. Then, he hears that Len and the others are going to put on an event in SEKAI.",
+  "scenarioId": "event_59_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00054",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Crase Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hello... Huh?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "MEIKO!\nCan I put the speaker here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes! Just be careful, okay?\nLuka, mind helping him carry it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Yes, ma'am♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, I just rolled out the mic cable, so please watch your step...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "W-W-Wah!\nI'm all tangled up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, I caught a Rin...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Looks like their preparations are going pretty smoothly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, they are... As much as I'd like to help, we may just end up getting in the way because of all these things. We may want to do something else and wait until things settle down...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Hello, everyone!\nHow've you been?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wah! KAITO!\nDon't scare us like that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wait, KAITO, aren't you supposed to be helping them...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I was! They said that I could sit back and relax after I got all of my DJ equipment set up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Doesn't that kinda mean they didn't want him around any longer than necessary...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Anyway, how's your event coming along? Everything going okay...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, about that...\nThings haven't been going like we imagined and wanted to ask you guys for some advice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Everyone we got on board's really good, so we should be ready to go forward with our event...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But we're nowhere close to getting the atmosphere we want...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Atmosphere...?\nYou mean that thing you mentioned the other day?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah.\nI know we're not gonna recreate it right off the bat, but we're so far from it... No hints as to what to do either...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Also...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Is this about Tono...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh, you knew...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes. I noticed you looking his way a few times, so I began to wonder if something was on your mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah. He's got talent and has given us plenty of good advice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But I can't figure out what's going through his head...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "He takes our practices seriously, but he's suddenly left a few times already and it always seems like there's something bothering him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I understand what you mean, Akito...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Compared to before, the current Tono seems less focused... Almost like he's always looking somewhere else...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Hmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, I know!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What should we do...? Huh?\nWhere'd KAITO go...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Hm? Oh, he's gone.\nWhen did that happen...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, he's rummaging around the freezer!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00316",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Let's see... Ice cream...\nAha! This one looks delicious!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00015",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hold up...!\nYou're gonna eat ice cream at a time like this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh?\nNo, wait! You're getting the wrong idea!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "How am I getting the wrong idea?\nIt definitely looks like you're about to eat that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "No, I really mean it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "All of you, especially Akito, seem to have a lot on your minds, so I thought I'd make you some pancakes a la mode to help you relax a little! They say your brain needs sugar to keep going, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Pancakes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I didn't know you could do that, KAITO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Of course I can!\nI'm actually pretty good at it too. I'm even right behind MEIKO in terms of brewing coffee!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I had no idea...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "That's actually pretty cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Sorry for getting the wrong idea. I didn't realize you were doing this for us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Haha. All good!\nIt probably doesn't help that I was caught red-handed once eating Rin and everyone else's ice cream...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh...\nThis situation could also apply to that Tono person you were talking about earlier.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh?\nWhat do you mean?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "How you may be getting the wrong idea. Based on what I heard just now, their resolve seems fairly strong on top of being very talented...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "All the while they may have a lot on their mind, like you guys. What if something's really bothering them?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Something bothering him...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, that could be the case.\nAs talented as Tono is, he's not exactly a perfect human being.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Do you think this has anything to do with why he hasn't been in many events lately?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hmm... Or is losing to Uncle Taiga still eating away at him?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But he doesn't seem like that soft a person...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "You may want to sit down and discuss that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Once you reach an understanding... Yes, you'll all surely become a delicious batch of pancakes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "P-Pancakes...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000079",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "That's right!\nYou aren't guaranteed to end up with delicious pancakes just because you gathered up some good ingredients!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00354",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00355",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "You have to mix the batter well and cook them right to get them to be nice and fluffy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00356",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I believe events are no different. It can only become good after you've all mixed together and reach an understanding with one another.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "An understanding with one another, huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "We were convinced that we'd have to essentially compete against each other. It never crossed our minds to try and reach any sort of understanding.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Now that you mention it, understanding one another would make it easier for us to all work together. That's the same for basketball or any other team sport!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Right. Getting to understand each other is bound to make our event even better.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Exactly!\nThat's why I think it'd be good for all of you to get to know this Tono person and the other performers better.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, that's definitely worth giving a shot...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Thanks, KAITO.\nWe'll try everything that we can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Wonderful! I wish you the best of luck!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Now, how do some freshly made pancakes sound?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00314",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wow! They look so yummy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "They were actually supposed to look much fluffier, but I just couldn't get them to rise more...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, that reminds me. MEIKO said how mixing the batter overzealously will prevent them from becoming nice and fluffy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Luckily, these turned out beautifully! Hah hah hah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Why do I not feel reassured by that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Scramble Crossing",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Man, I'm so glad we did this today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "The pancakes KAITO made were so good too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah... Anyway, we really gotta get moving starting tomorrow. We need to find a way to get on the same page as Tono, as well as Mita, Okazaki and the others.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah!\nL-Let's do our best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "For now, let's call it a day and get some rest.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay, nice work today!\nSee you guys tomorrow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Bye bye!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright...\nLet's start heading home too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Okay.\nHm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What's up, Toya?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Over there. Isn't that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Tono...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Okay. I'll head over now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(He's on his phone again...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(But with who...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I believe events are no different. It can only become good after you've all mixed together and reach an understanding with one another.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Toya, mind if I go over to talk to him...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, of course.\nAfter all, I'd like to make some delicious pancakes too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Says the guy who doesn't like sweets...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00138",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Tono...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00143",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Oh, Shinonome, Aoyagi.\nWere you both about to head home?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah.\nWe were doing some planning together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Tono, what were you doing here just now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Oh...\nJust dealing with some things.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Do any of the calls you got the other day have anything to do with this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You've been giving us good performances on stage and helpful advice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But we can all tell that something's been on your mind lately.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "As fellow performers participating in the same event, we thought we should ask.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Was it that obvious?\nI guess I still have a long way to go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "The truth is, I was about to go visit my partner at the hospital just over that way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Your partner? Hang on...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "What happened to this “partner” of yours?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "They're far away in a different city now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "In a different city? So you're not performing together? Don't they want to surpass RAD WEEKEND too?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "They can't sing anymore. Not after the accident...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00016",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Accident...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "A traffic accident. This car ran through an intersection and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Well, they lived, but some parts of their body became paralyzed. Singing was no longer really possible.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wait, the hospital just over there...?\nWhat happened to them being somewhere far away?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Originally, he was.\nBut he was desperate to come back and started feeling a little better recently, so he got permission to transfer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Transfer?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Yes. After discussing the matter at length and realizing that his parents would be too busy with work, I decided to help him with the transfer process.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I had no idea...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "He wants to be as close as he can to this city it seems...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Oh...\nWhy don't you join me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "He loves listening to music by everyone from Vivid Street. He's starting to get bored of me going on about myself, so I'd like it if you could tell him some fun stories.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Would you mind...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Okay, I'll go...\nHow about you, Toya...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Thank you.\nAlright, shall we?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Tono's partner...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(What's he gonna be like...?)",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

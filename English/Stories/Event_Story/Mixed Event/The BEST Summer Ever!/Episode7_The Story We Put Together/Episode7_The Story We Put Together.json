@@ -1,0 +1,658 @@
+{
+ "title": "Mixed Event — The BEST Summer Ever! — Episode7 The Story We Put Together",
+ "meta": {
+  "Event": "The BEST Summer Ever!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode7 — The Story We Put Together",
+  "Event Outline": "The Miyamasuzaka Girls Academy first years arrive at the Seaside School. Finding themselves allocated to the same group for the school's annual presentation event, Honami, Saki, Emu, and Kohane put their showmanship skills to the test by performing a song from a musical.",
+  "scenarioId": "event_30_07"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a003901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Lodge Gym",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hmm...\nShiho's been gone a long time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yeah, you're right. She did mention something about Tenma's group needing a little more time before they perform...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, right... I've been meaning to ask Kohane about that since she's in Saki's group, but I haven't seen her for a while now either...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh, there go the lights. Does this mean that they're about to start...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00026",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Huh? Wait, is that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hello, everyone♪\nWelcome to Saki and Emu's magic show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "We were actually supposed to do our real performance now, but we ran into some trouble and need a little more time to get ready...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "We apologize for making you all wait like this! But in the meantime, we'd like to do a magic show for you! We hope you like it♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "They ran into some trouble? So they're doing a magic show instead...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I don't really understand either, but I guess they're buying time for their other group members...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Alright, I hope you're ready.\nPresenting our great magician, Emu!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Stage Wing",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Miku's Voice",
+   "Line": "<Emu! Can you hear me?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup! Loud and clear☆ But it's funny how you're sitting in my pocket like this, Miku♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku's Voice",
+   "Line": "<Right? It's like I'm your fairy companion.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe. Especially since we're the same height in SEKAI!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Anyway, Miku, I'll be counting on your help...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku's Voice",
+   "Line": "<You got it! I'll tell you exactly what you need to do, so don't worry☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Thanks!\nAlright, let's use our magic to make everyone smile!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Lodge Gym",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Let's give our star a big round of applause!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_summer_2021_007",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hi, everybody!!\nWelcome to our magic show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00032",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Let's start with an extra special trick☆\nOut of this hat, many things will appear!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, this is better than I expected! I can't wait to see what happens!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Me too. Otori's a seasoned stage performer, so I'm sure she'll do great.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Now, Saki, if you'll repeat after me...♪\nCards! Cards! Wherever you are!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Okay!\nUh... Cards! Cards! Wherever you are!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_summer_2021_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Ta-daah!\nCards everywhere!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Whoa, that's amazing...!\nSo many playing cards...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "What?! Was she hiding all those cards in her hat?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Maybe, I'm not sure...! I wonder how she did it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Honami and Kohane still aren't back yet, huh...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Shiho said that she'll give us a signal when they did...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I'm sure they're doing their best. That means Saki and I need to keep trying too...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Next, these cards will magically turn into... Mr. Fishy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What? Mr. Fishy?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000093",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Three, two, one... Wonderhoy!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00223",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Whoa, they turned into a fish plushie!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_summer_2021_007",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Haruka, that was so cool!\nHow on earth did she just do that?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I don't know either.\nIt's also incredible how they had time to work on this alongside their actual performance...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And to finish, let's return our little fishy friend back to its home in the ocean!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Back into the ocean?\nHow?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Heh heh heh. Leave that to the great Emu☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Let's all say farewell to our friend, everyone! Three, two, one, wonderhoy!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00089",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What?! It turned into blue confetti...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, it's so pretty!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "It is...!\nIt's like the stage is the ocean now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Mr. Fishy made it back to the ocean!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Thank goodness, they made it back! We did it, Saki! We can do our real performance now!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And Mr. Fishy being back home in the ocean means our magic show must sadly come to an end!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Thanks, everyone! We hope you enjoyed it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Bye bye!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_summer_2021_006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Thank you for being so patient!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yes, thank you both. How did you come up with that act so fast...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hona! Kohane!\nYou made it!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'm so glad you're both back!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Luckily, Saki did super duper good, so everything went really smoothly!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Shiho helped too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Hardly. Well, maybe a little...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I see...\nThank you so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Now then, shall we get ready?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane & Saki",
+   "Line": "Yeah!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Thanks, Miku. That magic show was so much fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<You're very welcome!\nI'm glad everyone liked it♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I hope your song goes just as well! I'll be cheering for you, Emu!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah!!\nIt's gonna be amazing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Hey, I'm back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Shiho!\nWhere were you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Something came up and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_summer_2021_007",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, I think they're about to start!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(This is it...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(We practiced so much. On top of that, Emu and Saki did a second performance for us. I have to give this everything I have...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "We really appreciate your patience, everyone! I hope you enjoy our performance!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We'll be singing a really wonderhoy song for you!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Ready, Kohane?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Ready!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "We'll be performing...!\nBEST SUMMER!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00089",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "——♪ ————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪————! ——!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Okay, sing like Amy. Sing like you want to make up with Dorothy...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "——! ————♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(And Dorothy wants to tell Amy how happy she is about wanting to make up...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "————!! ————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Yes, Dorothy's happy...!\nAll that's left is to sing and make up...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane & Emu",
+   "Line": "————♪ ————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(They sound incredible. I can tell how happy they are and how much fun they're having... I need to keep pushing...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(Oh, I know. What if I try throwing in something like this? It should make this song sound a lot more fun...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Did Saki just improvise...?\nIt fit in perfectly, like it was meant for this song.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(I have to keep trying too...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane & Emu",
+   "Line": "♪——! ♪——",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "They've never done anything like this during practice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "They're in perfect sync...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "This is so cool! I can't believe I'm here to see this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Our music's being woven into a coherent story...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Is this how a musical is supposed to sound...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "——! ——♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane & Emu",
+   "Line": "——♪ ————♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Let's keep this up until the end...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane & Emu",
+   "Line": "——! ————♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,513 @@
+{
+ "title": "Unit Event — To The Gleaming Stars Halfway Through a Dream — Episode3 But They're Always Here",
+ "meta": {
+  "Event": "To The Gleaming Stars Halfway Through a Dream",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — But They're Always Here",
+  "Event Outline": "Following their New Year's performance, everyone from Wonderlands×Showtime returns to their daily lives. During this time, Emu hears that Tsukasa's going to enroll in a workshop and is happy to hear that he's taking a step towards making his dream come true, but...",
+  "scenarioId": "event_82_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonder Stage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Okay, that should be enough practice for today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Nice work, everyone!\nThat was really fun! We got so much done today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, we did. Also...\nI believe we were able to make such strides because of you, Tsukasa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah. Thanks for teaching us those tricks for improving our articulation and body language.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hah hah hah! Anytime!\nI was simply sharing the fruits of my labors with all of you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But is it okay for you to teach us this stuff? I mean, we're not actually in that workshop.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Not a problem.\nWe were even told to teach others these techniques since the goal of the workshop is to make the world of theatre a better place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh, that's very generous.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Emu?\nYou seem anxious. Is something wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Huh? No, nothing's wrong...!\nI was just replaying what we just did in my head because you guys were so amazing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Also, we did so much during practice that I'm starting to get really hungry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, wanna go to our usual diner?\nHonami told me that they just added some seasonal parfaits that are really yummy☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Really?\nI'm kinda hungry too, so that might be nice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Seasonal parfaits?\nActually, I think Saki mentioned the same thing. I've been meaning to try it, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Do you have a prior engagement?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "So, we're supposed to put on some one-man performances tomorrow and I need to practice mine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Oh...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay... That sounds really fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Then, you won't be able to come today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Sorry, but you'll have to enjoy those parfaits without me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay...\nGood luck, Tsukasa!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Diner",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wow, these are all their new parfaits?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(What's going on...?\nTsukasa was clearly excited about that workshop, but now he's there and not here, I don't feel quite right.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(But why? I've been rooting for him this entire time, haven't I...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Emu? Is everything okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, everything's fine!\nI think I'm a little sleepy because we did so much during practice!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But you're right! There are so many different kinds of parfaits! Do you know what you're gonna get, Nene?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Me...? I was thinking about getting this lemon one. I don't see this flavor much and it looks really refreshing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, that's so you, Nene!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'm gonna get the strawberry one!\nIt's so cute how the ice cream's shaped like stars☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, it is really cute.\nI was actually having trouble deciding between these two.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Then, you can have some of mine!\nIn return, I want some of yours, Nene!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What are you getting, Rui?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "The 100% beef Salisbury steak.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait, you're not getting a parfait?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I was going to, but I started craving something that wasn't sweet after going through the menu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, then I'll take those veggies for you like I always do!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But you're getting a parfait. Isn't that gonna taste weird? Well, I guess whatever makes you both happy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Anyway, let's hit the bell since we all know what we're getting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, I wanna press it!\nDing! Ding! Ding♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00082",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You're shouting louder than it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Waiter",
+   "Line": "Here you go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow...!\nThe star ice cream on mine's really cute, but so is yours, Nene!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And your Salisbury steak looks so good, Rui! Is it just me or is it bigger than usual...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It seems that they made some minor changes to the menu. Unfortunately, that also appears to have led to an increase in vegetables that I'd rather not eat...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That's okay! Tsukasa and I'll gobble them all up! But he doesn't like bell peppers, so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Right. Tsukasa isn't here today...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I understand how you feel...\nIt is rare for him to be absent.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, even though he's not here, it feels like he is. Talk about having a strong presence...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But didn't this happen once before when Tsukasa said he wanted to practice on his own?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, for “A Pianist Named Thorpe”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I thought I asked too much of him that time, but it seems that he's been trying even harder recently...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah. He's even figured out a way to practice for both the Wonder Stage and his workshop like he said he would.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "It's like he's been able to absorb everything he's learned and grow so much from it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah...\nIt really is amazing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But seeing how he's been doing recently made me want to not fall behind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "To be honest, I'm scared of working with people I don't know, but learning new skills and techniques sounds nice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "So, I kinda want to try attending one of those workshops.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, I think that's a good choice if it'll help make your dream come true.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We may not be able to gather together as much as we used to with Tsukasa gone and you soon-to-be, Nene. It's going to feel a little lonely without you two.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Lonely...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Wait, this feeling... Am I...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00016",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Feeling lonely...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I knew we'd eventually end up going our separate ways when we were stranded on that desert island.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I knew all that...\nBut I thought it was really far into the future.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Still...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(They're all thinking about their futures already.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Not just Tsukasa.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Nene and Rui too...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(We might have to split up sooner than I was expecting...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(So, in order for them to pursue their dreams...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Emu?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Huh?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What are you spacing out for?\nYour ice cream's has melted so much it's dripping onto the plate.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "O-Oh no! You're right!\nIt even got on my clothes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, you...\nHere, use this towel. It's gonna stain if you don't get it off right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "*Sob*\nThank you so much, Nene!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That's the conundrum with parfaits.\nIf you don't eat it quickly, they start melting on you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Your stars seem to be no exception.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "*Gasp*\nMy stars...",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

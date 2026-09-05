@@ -1,0 +1,568 @@
+{
+ "title": "Mixed Event — To You, My Caring Companion — Episode2 A Little Persistence",
+ "meta": {
+  "Event": "To You, My Caring Companion",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode2 — A Little Persistence",
+  "Event Outline": "Honami notices that Kanade has been more focused than ever on composing lately. When Emu gives her tickets to a bridal fair, Honami decides to invite Kanade in the hope of her employer taking a break.",
+  "scenarioId": "event_96_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_f000503",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Honami's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'm still undecided about the bridal fair...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(But I do want to give Ms. Yoisaki an opportunity to take a break, so I think I'll ask her about it the next time I go over to her house...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Hey there, Hona!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Rin? What brings you here at this time?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<I was just flipping through the fashion magazine you brought over, and was so amazed by it that I thought I should thank you!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<I had a lot of fun because the clothes in it were really different from the ones in the magazines Sakki brings over☆ So, thanks!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. That's wonderful. I'm glad you enjoyed it so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<I did! Particularly the pages that featured all those wedding dresses! They were so cute and frilly and sparkly! It's my new dream to wear one♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, that's right. This month's issue was a bridal feature. The photos of the chapel they had were so beautiful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Yeah, totally! The dresses and the chapel were so sparkly that it felt like a fairy tale!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "A fairy tale... Yes, I see what you mean.\nThey're the kinds of dresses princesses wear, and a part of me dreams of someday putting one on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<I know, right?! I totally wanna experience that!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Oh, also. Weddings involve vowing to the person you love that you'll be with them forever, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, that's right. You pledge to be by their side through the good and the bad, and to put your heart into doing what you can for them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<To put your heart into it...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<That makes it sound like such an amazingly beautiful celebration...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. I agree.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Actually, Rin, would you like to see what it's like...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "A friend of mine gave me this ticket for a convention called the “Phoenix Bridal Fair”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "It's supposed to include a dress exhibit, a fashion show and an assortment of different booths.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Really? That sounds like fun!\nI wanna go! I'm absolutely going!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Then, we can see what's there together.\nOh, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Some others may also be coming, in which case you'd unfortunately need to stay hidden for most of the time. Would that be okay...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<No problem!\nWait, are you not going with Ichi and the others?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, they'll be busy that day, so I'm thinking about inviting someone else instead.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Oh, okay! Who?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "So, her name's Ms. Yoisaki...\nI work part-time as a housekeeper and have been going over to her house periodically.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "She's a year older than me and...\nShe's a very nice person who always works incredibly hard for the sake of others.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<For the sake of others? She sounds wonderful!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "She really is. However, she sometimes pushes herself a little too hard, which worries me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "So, I thought this kind of event would serve as a nice break for her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But she doesn't seem like she'd be interested in bridal fairs, so I'd rather not force her to go...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<I see...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Hmm... I get what you're saying, but I say you should invite her!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<You care about this person and want them to be happy, right, Hona? I think that's a really wonderful feeling to have!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Also, don't you have to actually ask her to know if she's interested?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, you're right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<See? So, you should totally invite her!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Oh, and... If she seems unsure, you can always try giving her an extra nudge!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Wait, isn't that going a little too far...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Well, it would be a problem if they're really against going or something... But sometimes it's better to spur someone on if they're undecided!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<When KAITO or anyone else has something on their mind, I sometimes ask them to hang out and get a change of pace. They usually say they can't make an immediate decision...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<But if I'm really persistent, they tend to be glad that they agreed to hang out in the end♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Yeah!\nSo, I think it's okay to throw your weight around sometimes!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. You may be right...\nThank you, Rin.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'll try asking her about this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Awesome! Good luck, Hona!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Yoisaki Household - Kitchen",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Thank you again for coming today, Ms. Mochizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'll be returning to my room, but please feel free to ask if you need anything from me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Thank you. Um... Actually, if possible, there's something I'd like to discuss with you before you go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "So, a friend of mine recently gave me a ticket to a convention called the “Phoenix Bridal Fair”...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "It's a wedding convention that includes a dress exhibit, accessory shops and booths featuring all sorts of bridal goods.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "So, um...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Would you like to go see it together...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "You're inviting me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Y-Yes...! I wasn't sure if you'd be interested in anything like this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But I was hoping that it could serve as something of a break.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see... Thank you for being so kind and thoughtful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "N-No, I was just worried about your health and...!\nWell, um, if you're interested...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I don't know. I appreciate you inviting me to this, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000503",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Oh, and... If she seems unsure, you can always try giving her an extra nudge!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<When KAITO or anyone else has something on their mind, I sometimes ask them to hang out and get a change of pace. They usually say they can't make an immediate decision...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<But if I'm really persistent, they tend to be glad that they agreed to hang out in the end♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I, um... I think you'll really enjoy it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Um... Remember when I bought those hydrangeas the other day? You liked them so much that you placed them in your room...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, they were very pretty... Those helped brighten up the house quite a bit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh... Thank you very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "The fair's also supposed to feature bouquets made from a wide variety of flowers. There may be some that you like, Ms. Yoisaki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Not only that... Oh, right! We'll be able to see the inside of a wedding hall! Or... Maybe that doesn't sound very interesting...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "B-But... There's going to be lots of other booths and beautiful accessories and such, so I'm sure it'll be enjoyable just looking around at everything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I-I'm sorry. I know I sound really pushy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But I... I really do think you'll enjoy it, so we should go together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay. If you're willing to say that, Ms. Mochizuki, then I'll go...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "You're right that it's important for me to take breaks. Also, if they have beautiful flowers like the ones you brought over, I'd like to see them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Th-Thank you very much! I'm so glad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "In that case, does this Sunday work for you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, I don't have any plans, so that should be fine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Okay! Hehe. This is so exciting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, also. This ticket includes admission for up to three people. If you know anyone else who'd like to go, please feel free to invite them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Then, there is one person who really likes wedding dresses and such, so I'll try asking them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, please do!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Let's have as much fun as we can this Sunday.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Thank goodness...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Normally, there isn't much that I can do for Ms. Yoisaki...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(But since she's agreed to join me, I want to make sure she really enjoys herself during this fair.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

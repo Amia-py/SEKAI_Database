@@ -1,0 +1,943 @@
+{
+ "title": "Mixed Event — Rise as One! — Episode5 The Antidote to Fear",
+ "meta": {
+  "Event": "Rise as One!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode5 — The Antidote to Fear",
+  "Event Outline": "On one of his daily runs, Akito has an encounter with a dog and his owner. The pair has been training day by day in the hopes of one day winning a national disc dog competition. But the day before their next competition, this dog owner sprains his ankle...",
+  "scenarioId": "event_126_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00195",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Ten or so years earlier",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00686",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "Huh? Why'd you kick the ball over there, Ena?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Ena's Voice",
+   "Line": "Shut up.\nJust go get it already!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "*Sigh*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Woman's Voice",
+   "Line": "No, Marron, wait! Don't go that way...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Dog",
+   "Line": "Woof! Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00732",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "(Hm? Was that a dog barking? Where is it...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00725",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "Huh...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "(I-It's running straight towards me...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Dog",
+   "Line": "Woof?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "(N-No, we made eye contact!\nWhat if it tries to attack me...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Dog",
+   "Line": "Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00732",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "No, it's coming this way!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Dog",
+   "Line": "Woof! Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "Wh-What do you want with me?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mother's Voice",
+   "Line": "No, Akito, stop!\nIf you run, it'll...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00026",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00725",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Dog",
+   "Line": "Pant...! Pant...! Pant...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "(Great, now it's chasing after me!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "(Wh-What do I do...?!\nI've gotta find somewhere it can't go...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "(Wait, the slide! I just have to climb up there...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "There...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "(Now I should be just...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Dog",
+   "Line": "Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00732",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000296",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "(I-It's staring right at me...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "(Don't tell me it's waiting for me to come down!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "G-Go away...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Dog",
+   "Line": "Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00732",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "Huh...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "No, I'm losing my balance...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "Wh-Wh-Whoa...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00107_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "Owwy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Dog",
+   "Line": "Woof! Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "Ahh! S-Stay away!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Dog",
+   "Line": "Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00732",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "N-Nooooo...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...is what happened.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I was told later that it thought I wanted to play when it saw me run.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But ever since that day, I flinch or freeze up whenever I see a dog...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "And it gets worse if I see one running towards me or if one comes near my face.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Wait, so when Max runs back to you with the disc...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It reminds you of that dog, and you end up reliving that past trauma.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "However, based on the rules of the competition, you'll need to be able to take the disc back from Max. This is turning into quite the puzzle...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, it is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(This is a tough one...\nBut if I don't do something...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hey, everyone...!\nWhy don't we take a quick break here?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "We spent all morning practicing... I think we'll be able to come up with some better ideas after we've had a chance to catch our breaths!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "Hanasato...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. I agree.\nI saw some food stalls nearby, so why don't we all get some lunch together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright...\nThen, let's take a quick break.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yes, let's!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Samo",
+   "Line": "Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00205_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Samo, no!\nYou can't have this hot dog! Down, boy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Samo",
+   "Line": "*Whimper*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00204_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Shinonome's looked so deep in thought during our entire break.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(What are we supposed to do...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(How do we cure him of his fear of dogs...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shibao",
+   "Line": "Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00721",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Shibao? What's wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Oh, he's pawing at my bag...\nDoes he think there are treats inside?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "If you want a treat, Shibao, you'll have to wait until we get home... Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000297",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shibao",
+   "Line": "Pant... Pant... Pant... Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Sh-Shibao, not so loud...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "KAITO...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Oh, Honami...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Is something wrong, Honami?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "*Gasp*\nU-Umm...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Shibao's been begging for some treats.\nI'd like to get some water for him as well, so we'll be over there...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, right! You did say that Shibao has a big appetite!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Y-Yes, that's right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(I'm so sorry, Shibao...!\nYou've been so patient about cutting back on treats...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<I'm sorry if I came at a bad time.\nI was just hoping to see Shibao again...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, thank you for coming to visit him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "We don't have much time to talk right now, but aren't you glad he came, Shibao...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, KAITO, look...!\nShibao's so excited that he can't stop shaking his bottom, let alone his tail.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Oh, you're right...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shibao",
+   "Line": "Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00721",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Huh...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Shibao, wait.\nI know you're excited, but you shouldn't bark so loudly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<It's okay. I know he means well.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<But I was a little startled when I heard him bark for the first time...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Wait, the first time? Do you mean...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Yes, when I babysat him the other day.\nHe barked in the same way...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I-I'm so sorry...!\nShibao, you naughty boy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But his bark doesn't scare you now? Why is that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<I think it's because...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<I have a better understanding of who he is now.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Who he is...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Yes.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Initially, I was under the impression that Shibao was barking because he saw me as some kind of threat.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<I mean, I'd be on guard too if someone I didn't know came into my house...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, I see what you mean...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<That's why I did my best to keep an eye on him without leaving the screen...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<But I soon realized that I had Shibao all wrong.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "All wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shibao",
+   "Line": "*Whimper*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00722",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(Shibao's been staring at the door for quite a while now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(Is he feeling lonely? Does he miss Honami and her family? He even has a bit of a sad look on his face...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Sh-Shibao...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shibao",
+   "Line": "!\nPant...! Pant...! Pant...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(Oh, here he comes...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shibao",
+   "Line": "Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00721",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(Uh-oh... He barked at me.\nMaybe I shouldn't have come out...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shibao",
+   "Line": "...!\nPant... Pant...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Huh? Where are you going, Shibao...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(Oh, he's back... Huh?\nWith something in his mouth.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<A ball...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Does this mean you want to play...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shibao",
+   "Line": "Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00721",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(Is that also why he barked at me earlier? He wasn't trying to intimidate me... He just wanted me to play with him...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<I apologize for jumping to the wrong conclusion. I was under the impression that you were the cautious type...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<But really, you're more of a mischievous one, and all you wanted was a little attention.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(But what do I do...?\nI can't throw the ball for him...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Oh, I know...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(What music would Shibao like...?\nOh, he might recognize one of the songs that Honami said she likes.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00189_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shibao",
+   "Line": "Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00721",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<That's how I got to know Shibao better, and now I don't feel scared when he barks.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Learning to trust that he isn't going to attack me out of the blue or anything like that probably helps.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Wow, I really had no idea...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Getting to know a dog, and learning how to place your trust in them...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(That may be the key to helping Shinonome. He might feel less afraid of Max if he gets to know him better and develops that trust.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Thank you very much, KAITO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Huh?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "There's this problem that I've been having trouble trying to figure out, but I think I know what to do now after hearing your story...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Really? I can't say that I fully understand...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<But I'm glad I could help.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

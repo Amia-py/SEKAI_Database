@@ -1,0 +1,558 @@
+{
+ "title": "Unit Event — Parallel Harmonies — Episode6 Guiding Hands",
+ "meta": {
+  "Event": "Parallel Harmonies",
+  "Event Type": "marathon",
+  "Episode": "Episode6 — Guiding Hands",
+  "Event Outline": "Leo/need is finally going to start writing its debut song! However, Mr. Shindo has a request: that Saki and Ichika compose it together. The pair are determined to make it a great song, but things don't go so smoothly...",
+  "scenarioId": "event_128_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_f000404",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "MEIKO...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wh-What are you doing here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Honami and Shiho told me that you and Ichika were working on a song together.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<I came to see how you were doing...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<And I take it things haven't been going well.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "MEIKO, I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<I see. Which led to you and Ichika butting heads...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I... I really don't know what we're supposed to do now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Right...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Why don't you two come take a little break over in SEKAI, Saki?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Huh? But our song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Yes, that's important. But it's also important to get a breath of fresh air when you're feeling stuck, remember?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<I'll be waiting over there.\nCome on over once Ichika returns, okay?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "O-Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Don't worry, Saki.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<I know you don't like arguing with Ichika...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<But you're in a band together.\nThere are going to be times when you conflict with one another.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<But think about all those other times you bumped heads. You always came to an understanding in the end, right...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<So, I wouldn't worry too much about this.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "MEIKO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You're right...\nThank you for saying that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00048_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00043_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Sorry, Saki, I'm back...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Huh? MEIKO...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Ah, she's back.\nNow, shall we?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "School SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, welcome, you two.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "We heard the news.\nYou're holding a songwriting camp?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "How are things going?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, uhh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Would you mind if we heard what you've come up with so far?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Yes, I'd also like to give what you have a listen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But we're still...\nWe're still not happy with what we have...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "A work in progress is just fine.\nWe want to hear what you two have created.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki & Ichika",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I see.\nSo these are the songs you came up with.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes... I came up with the chord progression for the first one, and Saki the melody. The opposite applies to the second...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I think they're both very good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I agree.\nThey're wonderful expressions of both of your thoughts and feelings.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "R-Really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "But don't they feel all over the place...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yes, there is that...\nYou can kind of tell what each of you wants out of these songs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "But I actually think they're good the way they are.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Y-You do...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "But if neither of you is satisfied, then improvements are going to be necessary...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "So, Ichika.\nCan you tell me what you envisioned when you came up with your chord progression?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Umm... I was trying to write a cheerful song that would clearly express how I felt.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I see. Which explains why yours is very straightforward. Just like you, Ichika.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Th-Thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Next, Saki, how did you arrive on this melody?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I wanted to make it so people can move forward despite any doubts or pain they're feeling...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I see...\nThat explains why it sounds a little sad.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hehe. The kind touch fits you very well, Saki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "This sort of reminds me of when you girls first got back together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Exactly...! That's what I was going for...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I mean, we were all separated initially, but we talked through our troubles and managed to find a way to move forward together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00195",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "And then, Ichi said that she wanted to remind people about who matters most to them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Which immediately reminded me of us when we first got back together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(I had no idea...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes, that's really nice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Then, does that mean you want to make it feel like you've overcome that past pain and are running towards a bright future...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Running towards a bright future...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, right...\nWe worked super duper hard to become pros!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But my melody doesn't really cover that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "In that case, I might try giving it a slightly happier sound. One that serves as a reminder of our determination.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "That should go a lot better with Ichi's chord progression too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes, I'll be looking forward to listening to it once it's finished.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Okay, I'll see what I can do!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, while we're at it, for the next verse...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Saki seems like she's having so much fun...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(She can't stop coming up with new ideas...\nWait, is this because...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Is that why Miku and the others have been able to give such constructive criticism? Are they being more open-minded about all this?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(I thought we were having a nice exchange of ideas, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000404",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

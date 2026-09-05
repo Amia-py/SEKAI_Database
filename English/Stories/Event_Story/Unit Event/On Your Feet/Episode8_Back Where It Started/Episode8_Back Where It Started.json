@@ -1,0 +1,773 @@
+{
+ "title": "Unit Event — On Your Feet — Episode8 Back Where It Started",
+ "meta": {
+  "Event": "On Your Feet",
+  "Event Type": "marathon",
+  "Episode": "Episode8 — Back Where It Started",
+  "Event Outline": "After learning the truth behind RAD WEEKEND, Vivid BAD SQUAD are more determined than ever to surpass that legendary night. The group decide to do what they can for the time being, but Kohane's thoughts linger on her former mentor Taiga.",
+  "scenarioId": "event_103_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c002401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Several dozen minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Airport",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000221",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "There he goes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm really glad we came to say goodbye. I feel so much better now that I've gotten everything off my chest...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hehe.\nThe way you stuck it to him was really cool, Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. You think so?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, all things considered, you did a pretty good job for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I agree.\nHowever, we have to make what you said a reality now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Right! So, let's do just that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Still, we did end up cutting class...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Right...\nEveryone's probably taking that English quiz right about now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You seem anxious, Toya...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I think I know how you feel. I also feel kind of bad about everyone else being at school while I'm not.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Really?\nI mean, missing one day isn't a huge problem or anything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, it is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Especially you two, Akito, Shiraishi.\nHow do either of you expect to make up for the time you've lost today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Uhh... I'll...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I-It'll all work out in the end, right?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh dear...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But I'm going to need to explain why I wasn't at school today to my parents...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm not sure what's going to happen after I tell them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh, right... Your parents might not take this lightly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wh-What if they stop letting me practice or do anything with you guys...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I-If they do, we'll go apologize together...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I agree.\nWe'll be there if it comes to that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "At the same time, Azusawa, you came because you felt that you had to be here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Even if they do punish you...\nI'm sure your parents will understand if you explain how you felt, like you did just now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "R-Right...!\nI'll try doing that when I get home...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Anyway, what should we do now...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Even if we hurry back to our schools, we probably won't make it in time for any classes. So, we could head over to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Then, why don't we head over to Weekend Garage...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, are you sure...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah. I kinda want to tell my dad what we just told Uncle Taiga.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Now that you mention it, we haven't seen Ken in a little while since we've been meeting in SEKAI recently...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah...!\nSo, let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00035",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend Garage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I'm back!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wait, huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "This place looks eerily clean...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, you're right...\nIt's like...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00316_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00316_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, Dad...!\nThe sign out front still says, “Open”. What's going on...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Hm? Oh, whoops...\nI forgot to flip it around.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Also, you're back already...?\nYou're not usually back from school this early.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Or were you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, um...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm really sorry...!\nI suggested to everyone that we go see Taiga at the airport before he left...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "You suggested it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I-It's not your fault, Kohane!\nIt's mine for saying that it was a good idea!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I'm sorry for skipping school...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "*Sigh*\nSchool's where students are supposed to be...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "But there's no use crying over spilled milk.\nAnd I'm sure you all had your reasons...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Still, you really should've asked first. I wouldn't have said no if you could justify why you were going.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "*Nod*\nGot it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "By the way, that goes for all of you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wait, so, Dad...\nWhere'd all the chairs and tables go...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Oh, I'm doing some cleaning.\nI was just putting away all the cups...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Putting them away...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "That's right. I'm thinking about closing this place down for a little while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Closing down?! What do you mean?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "B-But why...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "You're going to surpass RAD WEEKEND, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "So, I'm going to help you do that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00192",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "You've all made your decision.\nWhich is why I'm going to do what I can to honor that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "It's what I owe you for keeping the truth from you for so long...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "I'm also doing this for myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Just like Nagi placed her faith in the next generation, I want to see what the future has in store for this town...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Which is why I'll be closing this place down for a while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "I thought about still running breakfast and lunch services, but...\nI'm not one to do things halfway. The shop's going to be closed for a while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "B-But... What about Mom...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "I've already spoken to her about this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "The topic has also been on her mind for some time now. Her words were, “Go. You have a duty to fulfill.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "We still have some money saved up from when I was making music. We should be able to get by for a little while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Plus, I'm more of a player than a coach. I've never been a good teacher, so I need to be prepared to put in as much time as I can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You're serious about this, Dad...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "I'm going to take this opportunity to teach you all everything I can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "In other words, I'm betting on you using all that I have at my disposal.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "However, you're going to have to fully commit yourselves to singing and staying in shape. I'll be running you all ragged until you can't stand any longer, every single day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Are you prepared for that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You're going to teach...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I mean, that's a no-brainer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Right. There's only one answer to that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You're on, Dad!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Okay then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "As of today, this establishment is closed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_onyourfeet_2023_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(It's all going to start again...\nHere, at Weekend Garage.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00206",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(If An's dad is saying that much, I'm sure practice with him is going to be really demanding.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I might even feel scared and want to give up at times...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Is it really okay for me to go back in there...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "No. I already made up my mind that I'd come listen to that song again!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "So... I've got to open the door!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I've felt scared by more than a few things along the way.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Even so...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I've been able to see and experience so many new things because I worked up the courage to open that next door.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Some being really happy things.\nSo, despite being scared, I've always been glad I took the leap.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Which is why I think I'll be okay...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I mean, Miku and the others said so.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "You've changed so much, Kohane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Singing has become part of your identity.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(This frustration I'm feeling. It fuels me now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(It's going to propel me forward!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(As impossibly high as this wall is, we'll find a way over it. Together...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Kohane...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh? Yes, An?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Nothing.\nIt's just... You looked really excited just now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "That's because I am...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Then, let's do it!\nWe're gonna surpass RAD WEEKEND together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Nothing else I do is ever going to be this fun or exciting...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I'm so glad I decided to open the door to this place that day. So unbelievably glad...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(We're starting over! Right here!\nIn the place where my heart raced when I heard An sing.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Let's do our best, everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "03_street_ed2",
+   "_kind": "Effect"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

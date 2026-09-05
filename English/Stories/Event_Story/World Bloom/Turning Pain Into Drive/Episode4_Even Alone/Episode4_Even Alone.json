@@ -1,0 +1,613 @@
+{
+ "title": "World Bloom — Turning Pain Into Drive — Episode4 Even Alone",
+ "meta": {
+  "Event": "Turning Pain Into Drive",
+  "Event Type": "world_bloom",
+  "Episode": "Episode4 — Even Alone",
+  "Event Outline": "The members of Vivid BAD SQUAD check in on the tree growing in the plaza of their SEKAI. Suddenly, each of them is thrown into a dream showing them a different life, in a world where their paths diverged...",
+  "scenarioId": "wl_street_02_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link2_street_op2",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "???",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(What just happened? Everything went blurry all of a sudden...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "“Hey, Akito, you okay?\nYou're on soon.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(He's speaking English...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Wait, of course he is...\nI'm in the US.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "“Sorry, I'm just a bit light-headed.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "“Whoa, don't go collapsing on stage or anything, okay?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "“I'm fine.\nAnd this crowd won't know what hit them.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00074",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "♪———————! ——————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00019_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00019_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(That's right. On your feet...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "“Hey, is he from Japan...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "“Seems like it.\nHe's really young, but he sounds pretty good.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "“You're doing great, Akito!!!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(No, I can still do better. A lot better...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "♪——————————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I need to be more...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Phew...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00031",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "“You had them bouncing off the walls, Akito!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "“Haha. Thanks.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Yeah, the crowd reacted pretty well...\nI still remember the crickets I heard when I first came over here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(In that sense, things have gotten a lot better...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(But this still isn't enough to surpass RAD WEEKEND.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I need to learn how to get the crowd going even more and improve my technique...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "“Hm? You're leaving already, Akito?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "“Yeah, I still need to finish my training routine for today.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "“You're so diligent.\nBut why not hang out with some other musicians for a change?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "“Sam and the others were just looking for you. They wanted to see if you'd be interested in going to the after-party.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Actually, I might learn something new by talking to other musicians.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "“Okay, I'll go.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f001601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00298",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "After-Party Venue",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "“There you are, Akito!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "“Hey.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "“You put on another great performance today.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "“I appreciate you saying that, but I still have a lot of work left to do.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "“I mean, what's the point if I can't get everyone in the place fired up?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "“Haha. You don't sound satisfied at all.\nI like that hungry spirit of yours!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "“I really admire your work ethic.\nI still remember when you could barely get two words out in English...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "“That doesn't matter now since I'm a way better speaker now...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "“Haha. True!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "“Still, Akito, you've grown so much in a lot of different respects.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "“I agree. Every time we watch you perform, we're stunned by how much you've grown since the last time.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "“So, Akito, how would you feel about teaming up with us?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "“Thank you, but I can't.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "“Whoa, that was fast!\nYou won't even try it out for a little bit?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "“You aren't helping things by being so overbearing.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "“No, it's nothing like that.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "“I've already decided that I'm not going to team up with anyone.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "“Wait, why? Did something happen?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "“No...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Vivids broke up...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, that's right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Dammit...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "If they couldn't make it through that, then that means they've reached their ceiling.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "If they're not committed like we are, they're never going to surpass RAD WEEKEND. Right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We have to forget about them and keep moving forward, Toya.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Toya...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Akito...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Let's stop all this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh? What are you talking about?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I can't keep going after this childish dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f001601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(At first, I thought his dad was behind what he said.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(But he was adamant about quitting.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(And by the time I calmed down and felt ready to talk to him, he'd left Japan.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(If only I'd contacted him sooner...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(No, what's done is done. There's no use thinking about this any further...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I just have to keep singing. Alone.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Because... I think that's the best way for me to rise to the top.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "“While we're on the subject...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "“Why did you decide to start singing over here, Akito? Are you chasing after a particular artist or something?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "“There's an event that I want to surpass...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "“Surpass?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "“Yes. An event that I'm willing to spend my entire life on trying to surpass.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "“Which is why, I...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "“I'm focused on doing just that right now.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "“Cool! That's awesome.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<...pen...eyes...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(What was that just now...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "“What's wrong, Akito?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "“Oh, it's nothing...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Did I imagine that...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I thought I heard someone else's voice just now.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hm? A message? From who...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

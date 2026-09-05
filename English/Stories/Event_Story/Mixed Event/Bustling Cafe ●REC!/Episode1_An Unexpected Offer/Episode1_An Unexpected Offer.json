@@ -1,0 +1,428 @@
+{
+ "title": "Mixed Event — Bustling Cafe ●REC! — Episode1 An Unexpected Offer",
+ "meta": {
+  "Event": "Bustling Cafe ●REC!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode1 — An Unexpected Offer",
+  "Event Outline": "MORE MORE JUMP!'s latest gig is a TV segment on location at a popular cafe! Little do they realize, it's none other than the cafe where Minori works!",
+  "scenarioId": "event_102_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_b000803",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Airi's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Okay, so... Our next meeting is Wednesday night, and we have that interview on Saturday...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "After that, we have a little bit of a gap...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh, hang on. I think they wanted to move this meeting to a different day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "*Sigh*\nI was about to schedule us for something else here. I need to not forget about stuff like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "It's great that we've been receiving so many offers, but this is starting to become too much for just us to handle...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Shizuku's even been helping me with this lately, which has made things easier compared to before...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "*Sigh*\nI can't give enough respect to people who manage idols. How do they do it...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Huh? A message?\nOh, it could be another offer...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "F-For TV...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I couldn't be more grateful that people want us to appear. And it looks like they want us on for one of their segments. I wonder what it's about...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hey, they want us to report on a cafe!\nI think that's a first for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I really wanna do this since I'm pretty good at this sort of stuff.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I gotta let the others know...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Stage SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Sorry I'm late!\nI hope I didn't keep you waiting... Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, Airi, hello.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Wait...\nMinori isn't here yet?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "No, she's on classroom duty today, so she'll be running a little late.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "She sounded very excited.\nI remember her saying, “I'm gonna write the best log entry ever!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. Looks like she's trying to get the most out of regular school life before she goes credit-based...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Anyway, I guess we can start discussing our next stream and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, Airi and the others are here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Haruka told us the good news!\nYou get to go on TV again, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "You're reporting on a cafe, right?\nWhat does that involve exactly?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "It's a segment for a show called “The Late Nite Wednesday Talk Show”, and we get to introduce a cafe in Shibuya that's been getting a lot of buzz.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "It's hosted by a popular idol and TV personality, and the show itself has been getting pretty good ratings.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Really? Then, this is a huge offer!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "The show's producer was apparently looking for some high schoolers who knew Shibuya well, which led them to us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "The producer contacted you directly?\nThis must've been a big decision.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "It's proof that everyone in TV is talking about MORE MORE JUMP! now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes, that may be a part of it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But it's actually quite common for staff we have worked with before to refer us as guests for TV gigs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Right. As a result, in terms of landing these appearances, who you know ends up being more important than how famous you are.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Either way, I'm really happy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "So that's how it works.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "But I have to think the staff referred you girls because of all the hard work you've done up until now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I'm looking forward to seeing it air.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, of course!\nWe'll bring over a video after it does!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, this is so exciting♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Do you know which cafe you'll be going to?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "No, they said they're still working out the details. We should receive word once everything's finalized.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Everyone!\nI have big news! No, huge news!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, Minori, hello.\nI hope classroom duty went well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "What's going on? Why do you sound so flustered?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Did something happen?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "S-S-S-So...\nThat cafe we're supposed to introduce...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "They picked the one where I work!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "What?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, what are the odds...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But there's a bit of a problem...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "A bit of a problem?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah.\nDuring the day of the shoot, they're gonna be short on staff.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Short on staff...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "A big group made a reservation on the same day as our shoot, which was okay since someone with years of experience had a shift scheduled.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But they can't make it now because of a family matter...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "One person agreed to fill in, but we're afraid that it's gonna be too much for them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh no. That's terrible...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "And you can't help because of the shoot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Exactly!\nOur hands are tied because I'm not available!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "On top of all that, the manager's been wishing for the longest time that our cafe would get a TV spot. I was so happy at first when I heard the news...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But at this rate, the cafe won't be able to handle a TV shoot, let alone run properly. Which means they might have to turn down this offer...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Isn't there anything we can do...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Well...\nI'm sure the manager really wants to do this, so it might be good to tell the show's staff that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Would it be possible for someone to work there just for a day?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Do you know someone who can?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah.\nI think I know just the person.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Not only do they work part-time as front-end staff for retail, they can do quite a lot. Cooking, prepping or waiting tables should be a cinch.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "But there's no guarantee that they'll agree to help...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Please ask them!\nI'll let the manager know what's going on!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. Got it.\nThen, I'll try asking them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

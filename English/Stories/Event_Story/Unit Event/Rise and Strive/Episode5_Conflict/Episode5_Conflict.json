@@ -1,0 +1,498 @@
+{
+ "title": "Unit Event — Rise and Strive — Episode5 Conflict",
+ "meta": {
+  "Event": "Rise and Strive",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — Conflict",
+  "Event Outline": "Shizuku's commercial appearance made waves, and job offers for MORE MORE JUMP! are starting to trickle back in. At the same time, it's still unclear what caused the dry spell they experienced. Haruka steels herself and sets up a meeting with someone who may have an idea...",
+  "scenarioId": "event_157_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a007001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I had a feeling it was you, Kiritani.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Mr. Hiiragi... What are you doing here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I just got out of a meeting.\nI was just about to head back to the office.\nYou?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I also had a meeting...\nFor a show that my group is going to appear in.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I wasn't expecting to run into him here...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Calm down. Don't let your emotions get the best of you.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Any conversation can be interpreted a thousand different ways. Including the one I overheard just now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "TV Station Staff Member's Voice",
+   "Line": "There's also that scary rumor about Mr. Hiiragi. I hope it's not true, but it's probably best not to rock the boat.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I need to corroborate what I just heard.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Would you mind if I asked you a quick question, Mr. Hiiragi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "No, I don't mind...\nBut you seem to be taking an awfully formal tone for some reason.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes, the thing is... I know this isn't something I should ask someone directly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Withholding information is understandable...\nBut I can't see you outright lying to me, Mr. Hiiragi. At least, that's what I'd like to believe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "What is it that you wish to ask?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I just overheard some of the staff talking about a certain rumor surrounding you, Mr. Hiiragi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "A rumor?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes. I don't know the details...\nBut they said they didn't want to “rock the boat” by not choosing ReLight for their shows. That was the gist of it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Do you happen to know what they were talking about?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I see...\nI do agree that you shouldn't ask people that sort of question.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I know I'm stepping out of bounds here.\nBut if I did misunderstand...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "No, I know what they're talking about.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "That being said, all I've been doing is telling people that I want to work with people who believe in ReLight's potential.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Nothing more, nothing less.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "In ReLight's potential...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Since Idol Lovers, ReLight has gained a lot of traction.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Now is our chance to go even higher.\nWhich is why I am adamant about working with those who genuinely believe in their potential.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "“I won't work with anyone who believes otherwise.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "So, a few people interpreted it that way, which turned into a rumor?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "That seems plausible.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I still don't entirely know what his full intentions were... But at the very least, I don't think he's lying about any of this.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(All the people I spoke with...\nThey were probably acting strange because they'd gotten wind of that rumor.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Nakano's Voice",
+   "Line": "I still do believe that MORE MORE JUMP! is a great group with a lot of growth potential...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nakano's Voice",
+   "Line": "However, if we're thinking about long-term stability, then ReLight is the correct way to go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(That wasn't the sole cause of us not receiving any offers...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(ReLight was just that much better than us...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Which is why we weren't chosen.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Are we done here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes...\nI have my answer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "And I know what my group needs to do next.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "What your group needs to do next?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "We need to become better than ever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "We need to become idols that can spread hope to others more than anyone else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Idols that can spread hope to others more than anyone else...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Tell me, Kiritani. What is your idea of an idol that can spread hope to others?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Huh? Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I think that's someone who can cheer people up and brighten up their—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "That's not enough.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "It isn't...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "An idol is a light.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "A light that can never go out.\nA bright beacon of hope that has a duty to stay illuminated for the sake of their fans.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "At no point can they go out and leave everybody wandering around in the dark.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Even if it does go out and manages to glow once more...\nThere's no guarantee that it will keep shining forever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_g000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a007001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(He's right...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I... That time... I gave up...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I made my fans so sad...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But... Even so...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I genuinely believe that ReLight will never go out.\nAs idols, they will spread more hope to others than anyone else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(A light that never goes out...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Our groups have the same goal in mind...\nSo, we'll likely be seeing quite a lot of each other in the future.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I won't discount your group's work ethic and determination.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "But know this.\nWe refuse to let you take the lead.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_005_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Even if it does go out and manages to glow once more...\nThere's no guarantee that it will keep shining forever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000407",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I was totally lost for words...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Mr. Hiiragi's absolutely right.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I burned out as an idol once, and now I...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

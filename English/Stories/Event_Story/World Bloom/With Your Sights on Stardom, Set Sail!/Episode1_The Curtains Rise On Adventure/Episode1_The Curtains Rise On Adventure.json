@@ -1,0 +1,593 @@
+{
+ "title": "World Bloom — With Your Sights on Stardom, Set Sail! — Episode1 The Curtains Rise On Adventure",
+ "meta": {
+  "Event": "With Your Sights on Stardom, Set Sail!",
+  "Event Type": "world_bloom",
+  "Episode": "Episode1 — The Curtains Rise On Adventure",
+  "Event Outline": "Wonderlands×Showtime's training continues as they each pursue their dreams. When they're called over to SEKAI by Rin and the others one day, they find an expansive new land awaiting them!",
+  "scenarioId": "wl_wonder_01_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a003701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00694",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "???",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wh-Wh-Wh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What is this place?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00694",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hehe♪ Surprised, everyone?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00264",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yes! Our super secret plan to surprise you guys went off without a hitch!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Y-Yeah, we're surprised...\nBut what is this place? A harbor...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It seems like it...\nBut I don't remember seeing this in SEKAI until now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "This is so so so cool!\nLook at the sea! It's so sparkly! And that big boat!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Rin and Len were the ones who first discovered this place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes, and then we decided that all of you had to see it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "We apologize for saying it was an emergency. That must've startled you quite a bit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "No! I mean, yes, it was startling, but I'm so happy you called us over☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Still, it is strange how this place apparently just appeared overnight...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Strange indeed. Why did it appear? For what purpose?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Good question.\nI can't say for sure...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "But I believe it has something to do with your feelings, Tsukasa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "My feelings?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, because this SEKAI was born out of your feelings.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "So, any changes that occur in your feelings can conceivably lead to changes occurring here too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "That being said, it very rarely happens.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But what's changed?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Did you start deeesperately wanting to see the sea?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No, not particularly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, then! Did you really, really get the urge to go on a cruise?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No, I don't think that's it either... Actually, we went to the beach for that film shoot, so maybe it was lingering somewhere within my subconscious...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "In other words, there's no clear reason.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Then, let's try exploring this area!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "We should look around for clues to see how your feelings have changed! Who knows what we'll find?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, yes! I wanna go exploring too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Me too! Me too!\nLet's go see what secrets are hidden in this area☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin, Emu & Len",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00134_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hey, wait! Don't run off like that!\nWe still have no idea what this place is like!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, geez... Running after them puts you in the same category.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. I understand their restlessness. I'm also curious to see what's actually here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len's Voice",
+   "Line": "Hey, you guys!\nWe can board the ship from here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh, that sounds like fun.\nLet's go, shall we?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "Yes, let's explore to see what this new area has to offer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Aboard the Ship",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "This is truly a big ship...\nAnd a well-built one at that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But I'm noticing quite a few places where it's been repaired. My guess is that it's been in service for a very long time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Which means it's probably been to a lot of different places.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00134_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Everyone, look!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm? Look at what?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "This thing Miku and I found while exploring the ship! Check it out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh, isn't this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "A map.\nWith several islands charted.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait, there's something written in the corner...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It says...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“To the fabled Star Island”...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Star Island...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "*Nod*\nThat's what it says...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "There's a star-shaped island on the very edge of the map. I believe it's referring to that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "He's right. That's so cute! It looks like some sort of snack!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "An island with “star” in its name...\nThis place intrigues me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Star Island...\nAnd a map that can take you to it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Is something the matter, KAITO?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, well... This map may be strongly connected to the feelings that caused this new area to appear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Can you elaborate a little further?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "This SEKAI was originally born out of your desire to become a star who can bring smiles to people all around the world.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Star Island... This map leading there...\nThey may be of great significance to this SEKAI.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah... I see what you mean.\nThen, we should inspect this map a little more closely and—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00080_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Whoa, the wind...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "Wind speed recorded at 13 m/s.\nA somewhat strong sea breeze.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00704",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No, the map!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, it flew away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Don't just stare!\nIt's game over if we let it fall into the water.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We need to catch it somehow...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00705",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hey, look!\nThere's a biiig bird flying up above!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No, we don't have time for that right—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00705",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00706",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wait, what the...?!\n“Big” is putting things far too lightly!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "This bird. Isn't it a...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "Red feathers that appear to be burning... A long, sharp beak and a wingspan of at least three meters...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "I may be mistaken, but it appears to be a mythical creature known as a phoenix.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wh-What?! A phoenix...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow☆ It's a real phoenix!\nThis is so cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But they don't exist in real—\nOh, I guess that doesn't matter in SEKAI...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Get down...!\nIt's coming right for us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00705",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00706",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Th-That was scary...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Is anyone hurt?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "We're okay!\nWait, where'd the map go?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, I forgot!\nWhere could it have gone...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh no! Look, everyone! I think it got hooked on that phoenix's wing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh dear...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wh-What do we do?\nWe're gonna lose sight of the phoenix at this rate!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Let's chase after it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00052",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We're going to catch it and retrieve that map...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I agree...\nEspecially since that map seems to hold the key to understanding why this place appeared.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Alright, let's go!\nOperation: Get the Map Back From That Phoenix is a go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, let's go!\nReady, you guys?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin & Len",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

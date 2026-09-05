@@ -1,0 +1,508 @@
+{
+ "title": "MEIKO — A Clever Idea〔Part2〕Side Story (Part 2)",
+ "meta": {
+  "Character": "MEIKO",
+  "Card": "A Clever Idea（2★）",
+  "Part": "Part2 — Side Story (Part 2)",
+  "Event": "Connect Hearts Message",
+  "scenarioId": "025045_meiko02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe. Everyone's waiting in their seats with eager anticipation.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "I hope they enjoy our fun card show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I'm sure they will! I mean, we practiced a ton for this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I agree. And with Tsukasa's help, the script turned out splendidly. All that's left is for us to give it everything we have.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Right! Let's do our best to make our show an instant classic!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Everyone",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00235",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“Hm...? Wait, where am I?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Yes, it's done!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Thank goodness I was able to finish it before they moved away.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“I hope this helps them understand how I feel...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“That's strange... For some reason, I know that she's thinking, 'Even though you're moving far away, I hope we still get to be friends'...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“Ah, I see...\nI must have been born from that overflowing emotion, written down in this card.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“Don't worry. I promise to deliver your thoughts to your friend!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Let's see... Their house is just down this street... Whoa... Oh no!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00080_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“The wind's taking away my card! Wait, come back!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“Naughty wind! Let me down right this second!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“No, I'm going to fall into the river! I'll get all wet!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00080_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Boy",
+   "Line": "“Huh? What's that in the air? Got it!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boy",
+   "Line": "“What is this? A piece of paper...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“Th-Thank goodness...! You're a lifesaver...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boy",
+   "Line": "“Wait, you can talk?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“I'm sorry if I startled you. I'm a card fairy, and I was born to deliver this message to its rightful recipient!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“So, I know this is asking a lot of you, but would you be willing to do me a big favor?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Boy",
+   "Line": "“Huff... Huff... Huff...\nThis is where you said you got separated from that girl, but I'm not seeing anyone...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“Where could she have gone? Maybe she went over to her friend's house...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Young Man",
+   "Line": "“What's wrong, son?\nYou look in quite the hurry.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boy",
+   "Line": "“Oh, I was just helping this fairy get to where she needs to go. But I'm so tired after running all the way here...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Man",
+   "Line": "“I see. In that case, would you like me to give you a ride on my motorcycle?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“You'd do that? Thank you very much...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Lady",
+   "Line": "“I see...\nAnd you say the girl who wrote this card may pass by my house?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“Yes, so if you could please let us wait here...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Lady",
+   "Line": "“Of course, dear.\nI'm sure you're tired, so please feel free to take a rest.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Lady",
+   "Line": "“Oh, also... Would you mind lending me your card while you wait?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Lady",
+   "Line": "“Okay, there we are. The edges looked a little crinkled, so I fixed them using masking tape.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“Thank you very much! This floral pattern is so lovely. I'm sure that girl's going to love what you did.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“Oh, someone's walking this way. Could it be...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“Yes, it's her! Over here!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Thank goodness I was able to find my card...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“And I was so surprised when I found out that my feelings produced a fairy.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“A lot happened after I got blown away...\nBut I'm glad to be back in your hands now!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“So, let's go deliver your message to your friend!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“But... I'm sure they'll be all gone by the time we get there...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00016",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“So, it's okay. We don't have to...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“No...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“No, you can't give up.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“I mean, you looked so hard for me...\nThat means you want your friend to read this message, right?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“I exist because your thoughts and feelings were so strong. So...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“Please...! Let me deliver your message! Let me deliver your feelings to them!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Ms. Fairy...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Lady",
+   "Line": "“Yeah, it might be too soon to give up.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Huh...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Lady",
+   "Line": "“You might still be able to catch them if you cut through my backyard.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Thank you both so much!\nI want to see this through to the end!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Huff... Huff... Huff... Here we are!\nI really hope we made it in time...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00739",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“No, the car...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“What?! But we were so close...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“Alright, I think that's our cue!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl & Card Fairy",
+   "Line": "“Huh...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Wind Fairy A",
+   "Line": "“Nice to meet you. We're wind fairies!\nSorry if this bunch caused you some trouble earlier.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Wind Fairy B",
+   "Line": "“We're sorry. We were just playing.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Wind Fairy C",
+   "Line": "“Let us help deliver your card to make up for what happened.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Wind Fairies",
+   "Line": "“We'll huff! And puff! And blow it away!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00080_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Oh, my card's flying away...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“Haha! That's incredible!\nIt's sure to get delivered now!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Wind Fairy A",
+   "Line": "“Hehe. We can move faster than a car if we really put our minds to it! So, let's fly!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00080_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Card Fairy",
+   "Line": "“Leave the rest to me!\nI promise to deliver your message to your friend!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Thank you! Good luck, everyone...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "After the show",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Congratulations, everyone.\nThat was an excellent performance!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "My jaw hit the floor when I saw that you guys turned the cards we made together into a whole show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe. We were able to put on this wonderful show because you did such a good job of teaching us, Emu!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I was surprised when I heard that a card would be the protagonist, but it ended up being such a heartwarming story.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In particular, the scene where she flies off to get delivered. The gust effect you used made it feel all the more real.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Thank you all so much!\nEspecially you, Tsukasa. This wouldn't have been possible without you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thank you for allowing me to help with the script. You made it such an excellent show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Woohoo! We really did it♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes, and I'm so glad!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "There really is nothing more fun than doing shows together like this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

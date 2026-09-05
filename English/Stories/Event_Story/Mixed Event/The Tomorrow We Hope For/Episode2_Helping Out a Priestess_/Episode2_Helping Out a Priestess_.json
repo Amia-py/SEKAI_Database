@@ -1,0 +1,678 @@
+{
+ "title": "Mixed Event — The Tomorrow We Hope For — Episode2 Helping Out a Priestess?",
+ "meta": {
+  "Event": "The Tomorrow We Hope For",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode2 — Helping Out a Priestess?",
+  "Event Outline": "When Haruka stops by the shrine along her usual running route, she sees the shrine maiden who was there for her in her time of need collapse. In order to repay her for her kindness, Haruka decides to help out at the shrine in her stead.",
+  "scenarioId": "event_45_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "12/30",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Stage SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Alright, let's decide what we're gonna do for our New Year's stream on the second!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah, let's get started!\nI brought lots and lots of ideas with me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Miku and the others mentioned that you did a rehearsal together for last year's stream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "We sure did. We all practiced playing Karuta and Fukuwarai together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Rin said that Shizuku is really talented at Fukuwarai, so I'd love to see you all play.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, you would?\nThen, we might just have to play again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I heard that your Karuta match turned into an exciting battle as well♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes, it was Minori and Miku versus Airi and Rin.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah, I really didn't end up doing much that time... Airi and Miku pretty much got everything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Still, it sounds like you girls had a blast. What do you plan on doing this time?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "About that! I think we should make our own mochi this year!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Make your own mochi?!\nThat sounds amazing♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Hold on... Don't you need a mortar and mallet to make mochi? Where do we get those?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Right. Where, is a good question.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "The garden at Shizuku's place would be perfect since it's pretty big, but we wouldn't want anybody figuring out where she lives so... I say we do something else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "B-But... Mochi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "How about some calligraphy...?\nWe can do that indoors just fine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, I see. All we would have to do is bring over our calligraphy sets.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I know!\nWhat if you give what you write to your fans as a little present?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "That's a great idea!\nI wouldn't know what to do with myself if I won something like that...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hey, you have to make something too, you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "*Gasp*\nR-Right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Haha...\nI never would've thought to give them out. Nice one, Miku. You really know what the fans want.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Hehe. Thanks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah, it is a good idea, but I still think playing Karuta would be really fun...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hey, why don't we play right now?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Rin, they're trying to have a serious meeting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe...\nNo, she's right. It was very exciting last time, so I'm sure our fans will enjoy seeing it again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I agree! I want everybody to see just how good Airi is at Karuta♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Okay! Wanna do a quick rehearsal?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Sure. I'll be the reader to kick things off!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Really?! Yay!!\nThank you so much!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We should separate anyone who's played before so... How about Miku, Minori, Len and KAITO versus Rin, Haruka, Luka and MEIKO? Sorry, Shizuku, you'll have to sit out this one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, that's alright with me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Heh heh heh. There's no way I'm losing to you, Len, since I played last time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Correct me if I'm wrong, but I don't ever recall you actually winning after saying something like that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I can't wait to play.\nThis'll be my first time trying my hand at Karuta.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I actually really like these kinds of games. Let's both give it our best, MEIKO!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Of course! Idols are all about explosiveness! Nobody can match my reflexes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "H-Haruka's on the other team...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. Good luck, Minori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Have fun, everyone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "The cards are all set, Airi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Thanks! Then, let's get started!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "“The autumn rice paddies...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000036",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Got it!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00061",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00052",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "A-Already?! How?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "That was so fast...!\nI couldn't even see what you just did, Miku.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Hehe. I just happened to remember that one, but I'm gonna get the next one too♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Is that so...?\nI'll just have to put my serious face on then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Th-There's no way I'm gonna get any now...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "New Year's Eve",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shrine Grounds",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Huff... Huff... Huff... Huff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00220",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00220",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Phew...\nI ran a pretty good time this morning.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(We got a good plan together for our New Year's stream yesterday, so I might just head home and relax now.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I'll take some time to look back on this past year and come up with some resolutions for the new year.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hm...?\nWho's that hunched over there...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Enomoto",
+   "Line": "*Sob*...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Ms. Enomoto?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00100",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Are you okay?\nY-You look pale...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Please wait here! I'll head over to the shrine and find someone who can help!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002505",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shrine Hall",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Head Priest",
+   "Line": "Thank you for being so kind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "It was nothing.\nMore importantly, how's Ms. Enomoto doing...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Head Priest",
+   "Line": "She appears to be running a fever, so we're having her head home for the day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "A fever...? I didn't realize...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shrine Maiden A",
+   "Line": "Is it true that Ms. Enomoto collapsed...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shrine Maiden B",
+   "Line": "What do we do? We're shorthanded this year as it is. We can't just replace her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Head Priest",
+   "Line": "Quiet. We still have visitors on the grounds.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shrine Maiden A",
+   "Line": "R-Right. I'm sorry...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "You're shorthanded...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Head Priest",
+   "Line": "Yes, we're always looking for help each year, but we're in some trouble this year... We have some part-timers and other extra hands helping out, but we can't replace someone like Enomoto...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Head Priest",
+   "Line": "There's no way we'll be able to find anyone who can fill her shoes, so we have no choice but to try and persevere somehow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Ms. Enomoto was looking forward to welcoming in the new year so much...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Enomoto",
+   "Line": "As busy as it gets, I actually have a lot of fun seeing all these people stop by to pray and make their wishes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Enomoto",
+   "Line": "They're all trying to make their futures as bright and prosperous as possible, so I'd like to help them achieve their goals in whatever way I can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002505",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Um...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Is it possible for me to help out somehow...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Stage SEKAI",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "What?! You can't make our shrine visit...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "No. This shrine maiden I know came down with a fever and no one at the shrine seemed to know what they'd do without her, so I decided to volunteer...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "As a result, I don't think I'll be able to make our shrine visit. I'm so sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I-It's okay, really!\nI just thought it'd be nice if we could all go, but we can always go the next day if you're free!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "That should work for us as well. Please, feel free to go and help.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Thank you all so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "And who said chivalry's dead? I mean, look at you. It's like you're doing this because you owe her a huge debt.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh, actually... This happened a long time ago, but she was there to support me when I really needed it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I felt so lost then, but she was willing to hear me out and even gave me words of encouragement. So in a way, I do owe her quite a bit...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Haruka...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I'll help too, Haruka!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "They're really shorthanded, right? I wanna help them too! If this shrine maiden really did help you, then I owe her a debt too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But I'm sure you and your family already have plans. Also, I really am just volunteering since high schoolers technically aren't supposed to work at night...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "That's okay! My family always falls asleep before midnight!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Th-That's not what I'm trying to say...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Then, why don't I help out as well...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "You too, Shizuku...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Shii's going to be at Ichika's house for a sleepover, and I've actually been wondering what it's like to be a shrine maiden for a little while now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Shizuku...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I'm with them. If it means helping out your shrine maiden friend and her shrine, why don't we all volunteer together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We'd even be able to go through with our visit like we planned once our shift's over. Think of it as two birds with one stone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "You guys...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Thank you so much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

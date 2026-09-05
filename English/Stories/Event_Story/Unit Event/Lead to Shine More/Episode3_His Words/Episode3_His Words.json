@@ -1,0 +1,613 @@
+{
+ "title": "Unit Event — Lead to Shine More — Episode3 His Words",
+ "meta": {
+  "Event": "Lead to Shine More",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — His Words",
+  "Event Outline": "With more work offers coming in for MORE MORE JUMP! than they can fulfill, Haruka and the others have a serious talk about their work priorities moving forward.",
+  "scenarioId": "event_133_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few years earlier",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Rehearsal Area",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Phew... We're moving much more in sync now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ASRUN Members",
+   "Line": "Yeah, we've totally got this formation down!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Then, let's start putting polish on the dance itself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ASRUN Member A",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Is everything okay?\nYou don't look too good. Are you not feeling well?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ASRUN Member A",
+   "Line": "Oh, no... It's not that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ASRUN Members",
+   "Line": "Huh? What's wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ASRUN Member A",
+   "Line": "The thing is... I just overheard our manager talking on the phone and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ASRUN Members",
+   "Line": "Oh, what did you hear?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ASRUN Member A",
+   "Line": "You know the show “Go Wild & Crazy!”...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh, that daytime show that's run practically forever?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ASRUN Members",
+   "Line": "Just once, I wanna go on!\nI mean, there's no one in Japan who hasn't heard of it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ASRUN Member A",
+   "Line": "ASRUN was asked to start appearing as regulars, but Mr. Hiiragi turned them down.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Everyone",
+   "Line": "What...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(He turned down an offer like that...?!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ASRUN Members",
+   "Line": "Wh-Why...?!\nPeople all over Japan watch “Go Wild & Crazy!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ASRUN Members",
+   "Line": "Right?\nAppearing as regulars would give us a huge boost in terms of name recognition...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ASRUN Members",
+   "Line": "It'd be a chance for us to start spreading hope to people all across Japan like the other top idol groups...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00018_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Would you mind stopping by the office after you're finished with practice, Haruka? Mr. Hiiragi would like a word with you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Okay, understood.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Office",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Kiritani.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hello, Mr. Hiiragi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Hello. Sorry, I know this is sudden, but I received an offer asking for you and you alone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Just me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "That's right. You're being asked to participate in a performance battle, where you and a few other idols will compete to see who can come up with the best dance routine on the spot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "This is a chance to showcase not just yourself, but the technical prowess of ASRUN as a whole. Keep that in mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "...!\nRight!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I'll send the details over to your manager.\nThat's all from me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "E-Excuse me...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "...?\nWhat's wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "There's a question I'd like to ask.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Is it true that you turned down an offer involving us becoming regulars on “Go Wild & Crazy!”?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Honestly...\nI'll need to remind your manager not to take calls where people can hear him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "W-Wait, so...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "It's all true.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Would it be alright if I asked why?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "We're trying to become idols who can spread hope to people all across Japan. I can't figure out any reason to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "That very dream is why I turned them down.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Why has ASRUN been able to become as popular as it has?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Because it's never lost sight of what makes it special.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "What makes us special...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Yes. I believe that idols need to feel unique in some way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "In other words, ASRUN must offer something that other idols or artists can't hope to emulate. That's what sets your group apart from them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Your fans will be drawn to that, and they'll be willing to cheer at the top of their lungs for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Cheer...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Yes, in support of your dream.\nTo make it come true together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "They're absolutely crucial.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Hearing our fans cheer us on and feel encouraged by what we do has been huge in terms of us getting this far...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Some have even reached out to their friends and family and invited them to cheer us on together...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(We started out selling CDs by hand at shopping malls, and now look how far we've come.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Their voices, their support...\nThey kept driving ASRUN forward.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Yes, it's important to use high-profile programs to increase your name recognition.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "But establishing a loyal fan base takes absolute priority. Finding those who will cheer at the top of their lungs for you is beyond important.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "At the top of their lungs...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "What do you think it is that makes ASRUN special, Kiritani?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(What makes us special...\nWhat separates us from everyone else in our fans' minds?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Our performances?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Correct.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Your brilliant smiles, your compelling dances, the way your voices ring out towards the back... They inspire hope in everyone watching.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "That's the kind of idol group ASRUN is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "That being said, I didn't make my decision regarding “Go Wild & Crazy!” lightly. I just felt that now wasn't the right time yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "People need to understand what ASRUN is actually about. Until that image is solidified in the public eye...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I want to place what makes ASRUN special at the forefront, even if it means we do things small for a while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Because I believe that's the quickest way for your group to realize its dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(All I'd been thinking about until now was “spreading hope to lots of people.”)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I never thought about the best way to actually reach that goal.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Mr. Hiiragi's looking that far ahead...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Thank you very much.\nI really appreciate you telling me all this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Not a problem.\nMore importantly, I have high expectations for your next show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Go show everyone what makes ASRUN special. That's going to be your ticket to the future.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "We will!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b000703",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Show everyone what makes us special...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm90040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Right... He always accepted offers that would place what made ASRUN special at the forefront.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "That's what we've been missing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "What is it that makes MORE MORE JUMP! special?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "We've been doing our best to put on good performances, but we can't really match the groups that have professional choreographers and trainers working with them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "As for our talking skills... There's Airi, of course, and Minori also has a natural talent for making others smile and laugh. Still, I'm not sure that's what makes us special.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I know there's something there. I just can't quite put it into words.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "This is really frustrating...\nHow do I find the right words for what I'm feeling?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I want to ask the others about this, but it's already pretty late. I should probably wait until tomorrow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b000703",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yeah.\nI'll try popping over for a little bit to ask them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

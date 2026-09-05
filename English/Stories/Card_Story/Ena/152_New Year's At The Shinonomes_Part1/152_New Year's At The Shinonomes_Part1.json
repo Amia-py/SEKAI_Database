@@ -1,0 +1,483 @@
+{
+ "title": "Shinonome Ena — New Year's At The Shinonomes〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "Shinonome Ena",
+  "Card": "New Year's At The Shinonomes（4★）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "SEKAI Happy New Year!",
+  "scenarioId": "019006_ena01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Ena's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "A New Year's Countdown Party, huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<It's simple! Let's do it in SEKAI!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Yeah! We can meet up without having to go outside and we'll get to party together with Miku!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<I can take care of organizing it all...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "At least it won't be cold in SEKAI and I won't have to see anyone I don't want to. It's not a bad idea, actually.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But there's still so much time to kill before evening...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Also... Mizuki volunteered to take care of everything, but it wouldn't feel right for me just to turn up empty-handed...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, I know. I'll bring some of the sweets we got as year-end gifts. Hehe. I can sample a few first too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00043",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shinonome Household - Living Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "He's... Not here? Mom's not here either.\nMaybe they went shopping?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Well, whatever....\nThe gifts should all be in the living room...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00043",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hm? Oh, it's you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What are you doing with the gifts, Akito?\nAnd what are you munching on...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh? Mom asked me to divvy them up while she was out shopping. And this is what I was eating...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, those look yummy! Cute colors too! Where are they from? Hmm... This logo looks familiar, but what was it from...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I could be wrong, but I think it's that new place run by that famous patisserie chain and specializes in madeleines. They're pretty good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But mom asked you to go through them, right? Not to eat them all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "She didn't say anything about not eating them, so why not? Hmm... I guess the vanilla ones were the best after all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Are you trying to turn me into your accomplice...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I don't care either way, but didn't you come out of your room to pinch some of the sweets anyway?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Well, so what if I did...?\nAlso, I need some to take with me tonight.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You going somewhere?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah. My group's meeting up for a New Year's Countdown Party. What flavor are the green ones?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Green tea. They're decent.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hmm. I bet they'd go well with black tea. I'll put on a kettle.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Cool, make me some too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Excuse me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Come on, it's no effort. Just put more water in the kettle so there's enough for me too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I'll make you tea if you bring the gifts over to my room.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, fine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "There. That's all of them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Whoa, we got a lot this year.\nOpening them one by one's gonna be a pain.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Right? But picking out a few to eat in the meantime makes it less tedious.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00161",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hey, can't you open them a little nicer?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You wanna spend the whole day carefully opening each gift? Oh, bummer... This one's just seaweed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Ugh... You're so uncultured. Pass me that blue box.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Thanks. I bet there's some sort of fruit in this one... Hah, I was right! It's compote!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00160",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hey, yokan jelly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00161",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "W-Will you stop ripping them open like that? You're just adding to the trash pile!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Like there'd be any less if you folded them neatly. And this one's... Ham.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00161",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "That needs to be refrigerated. The other box at the bottom looks to be meat too. Can you put them both in the fridge?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Sure.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00160",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What's in here... Black tea. And judging from its wrapper, it's yokan jelly again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00161",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I got Castella cake.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Are they pre-cut?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "No, it's a whole one. It's mom's favorite too, so we probably shouldn't touch it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah...\nWhat's in that long box?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "This one? Let's see...\nJuice. Apple and grape.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00161",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, it's from that famous fruit parlor.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Mizuki's bringing some snacks so...\nI could take this juice.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Can you put those two bottles aside for me? I'll need a bag for them too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You're taking both?\nThey're glass, and pretty heavy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I'll be fine. I'm not going very far.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, and can you tell Mom that I won't need any New Year's soba too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, sure...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Okay, I'm going back to my room.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What? We're not done checking the gifts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Mom asked you to take care of that, not me. Have fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "H-Hey!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Fine... But don't count on me leaving you any of the best stuff!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Ena's Room",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Phew... There. Two bottles of juice should be more than enough for the four of us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But we're really spending New Year's Eve together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "So much has happened this year...\nThe thing with Mafuyu, and us discovering SEKAI...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "You know, it was a surprisingly good year...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

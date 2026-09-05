@@ -1,0 +1,738 @@
+{
+ "title": "Unit Event — Start Rolling! Stars' Crossing — Episode2 The Grand Prix Begins!",
+ "meta": {
+  "Event": "Start Rolling! Stars' Crossing",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — The Grand Prix Begins!",
+  "Event Outline": "The Lumina Grand Prix has come at last. The preliminary stage will take place in a specially-built glamorous accommodation facility! A nervous Minori throws herself into life on camera alongside a colorful array of rivals, but she soon meets hurdles.",
+  "scenarioId": "event_174_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a003301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "The Lumina Forum - Ballroom",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(Look at all the cameras...!\nI don't think I've seen so many in one place before...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(And these giant monitors...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comments",
+   "Line": "<When's the stream starting?>\n<In about a minute, right?>\n<Oh man, I can't wait!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(It's set up so we can see our viewers' comments in real time.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(They weren't kidding. Everything from here on out is gonna be streamed...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(No...\nNow's not the time to be feeling nervous!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(I have to do my best for the sake of MORE MORE JUMP! For the sake of our dream!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "Okay, we roll in...!\nFive, four...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00328",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Alright, this day has finally arrived!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Idols... They are the lights which illuminate their fans' hearts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Which group is going to shine the brightest and spread the most hope?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "The world's first battle to see which idols stand on top is about to commence!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "The Lumina Grand Prix starts now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00239_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Comments",
+   "Line": "<It's begun!>\n<Yes! Finally!>\n<Go Cheerful * Days!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "We're already getting a flood of comments!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "All of the comments you post are going to appear on the hundred monitors we've set up around the training camp.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Our idols will be watching closely, so please keep sending us your thoughts!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We see your comments, you guys!\nDon't be afraid to send so many that you overload the system♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chiharu",
+   "Line": "Your words are a huge source of encouragement for us. Thank you all very much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comments",
+   "Line": "<Wait, all of the idols here are watching?!>\n<I just went from total excitement to total disbelief.>\n<I'm rooting for you! Break a leg out there!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(Airi and Tsubaki are already leaving an impression! That's so amazing of them...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "And I, Ayane Koizumi, AKA Aya-P, will be your MC! We hope that you'll stay with us until the very end!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00239_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Now, I'll start explaining the rules for the prelim stage!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "They're actually very simple!\nFor the next month, our idols will be spending their time here at the Lumina Forum however they like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "On the final day, we'll decide who gets to advance to the final stage by judging what you all look like after a month!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akari",
+   "Line": "Just based on what we look like after a month...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arisa",
+   "Line": "I doubt that means we can just sit around and do nothing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Yes, that's exactly right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "At random moments throughout this training camp, you will encounter an event called “Lumina Time”!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Lumina Time...?\nWhat's that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Lumina Time is an event that will take place irregularly where idols will be asked to perform certain tasks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Each task will be revealed when you actually encounter this event. So, I hope you'll all look forward to seeing what we have in store!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Also, we'll make sure to avoid the times when you have to attend to work and such, so please be reassured!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(So, we're gonna be asked to do tasks at random... In other words, it's a golden opportunity to make an appeal to everyone.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yu",
+   "Line": "(I see...\nThis Lumina Time seems to be the key to surviving the prelim stage.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "With the exception of evenings, footage of the Lumina Forum's interior will be constantly streamed on this channel. So, come join us whenever you can!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "In addition, KyoTV will be bringing you a weekly digest each Friday night at nine! We hope you also check that out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Doing well during Lumina Time would very likely mean having a clip shown during that digest...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Which will naturally lead to reaching more eyes. That should in turn make it easier to advance.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(We still have no idea what they're going to have us do, but we need to stay absolutely focused...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Next, let's talk about how you'll be judged!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "For the prelim stage...!\nGuess what?! You'll all be ranked based on our viewers' votes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "What...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comments",
+   "Line": "<Us?!>\n<Fr?>\n<That's so much responsibility!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "The goal of the Lumina Grand Prix is to determine which idols are able to spread the most hope.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "In other words, we need to hear from the recipients of that hope. We need to hear from all of you! That is why we're having the viewers vote.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akari",
+   "Line": "I see...\nThat makes a lot of sense.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Furthermore, each viewer will be able to cast two votes! You'll be voting for groups rather than individual idols, and you will not be able to vote for the same group twice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(They'll cast one vote for their favorite group, but also have to vote for a different group.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(You can tell they don't want a group's current level of popularity to be the only deciding factor.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "And the groups that collect the most votes will advance to the final stage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "The total number of slots available is―",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Four! Only four groups will advance to the final stage!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chiharu",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "That's so few...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yu",
+   "Line": "This is going to be a tough battle...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Which group is going to stand on top?\nYou, the viewers, hold the key to answering that question! See for yourself who shines the most!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "When you do feel that you've been given hope, be sure to show that group your support by posting a comment or voting for them!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comments",
+   "Line": "<I'm gonna have zero time to sleep!>\n<I'll be glued to my screen and cheering nonstop!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "They all seem really excited...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "We need to advance. No matter what.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Alright, now that I've finished explaining the rules...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Next, we'd like to show our idols everything that the Lumina Forum has to offer during the prelim stage!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a007001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00231",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Corridor",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "First, we'll be showing you all the crown jewel of the Lumina Forum— The rehearsal room!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "The rehearsal room...!\nWe get to see it already!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "If what Ms. Arisawa said is right, then it should be pretty extravagant.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yeah, I'm looking forward to seeing what kinds of exercise machines they have.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(Oh...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comments",
+   "Line": "<Hey, it's Haruka!>\n<I've been a fan since she was in ASRUN.>\n<It's always great to see your favorite idol on camera.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(They even have cameras in the corridors...!\nCome to think of it, they did say that they'd set them up all around the camp.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Minori? Is something wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, umm... I was just amazed by how many cameras there are...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Twenty-four groups are here, so it'd be pretty hard to have camera crews following all of them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "For the stream, they're going to cut back and forth between the fifty or so cameras they've set up, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Not only that, they're also streaming on their subchannel to make sure everyone gets to see their favorite idols.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Which is so cool!\nIf I were watching, I'd be showering the showrunners with so much praise!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(But on the other hand...\nI might be on camera right this second.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(Which means...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(I have to constantly stay in idol mode and spread hope to everyone who might be watching!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "We can learn a lot from her example.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b003501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Rehearsal Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Wow...!\nThe rehearsal room's so big!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, it is!\nWe could do a show here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "And I think that's the training room over there.\nHaruka, I bet you're gonna love...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Haruka...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "That's amazing...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000471",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00230",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "They have all these state-of-the-art cardio machines...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "On top of this wide selection of grippers and belts, they have all these dumbbells... I didn't realize it'd be this well equipped...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh, they even have grip strength testers that link to your phone! I've been wanting to try these for so long...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "W-Wait, Haruka, aren't you getting a little too excited?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b003501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Comments",
+   "Line": "<Huh? Haruka Kiritani's a fitness nut?>\n<Haruka's a total athlete.>\n<That's pretty cool. Any protein recommendations?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I guess my worries were misplaced...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hehe. I'm so glad that they're enjoying who Haruka is as a person.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Still, this place really is amazing!\nThis machine's taller than me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "That's called a lat pulldown machine.\nIt's great for working out your back and arms.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "You get pretty broad benefits, since you also use your core to maintain proper form.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "That's right. You can even do stretches... Wait, huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Tsubaki...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chiharu",
+   "Line": "I'm sorry for jumping in all of a sudden.\nBut I also really love working out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akari",
+   "Line": "Haha! Chiharu's such a huge fitness demon that she does wall sits whenever she has a free moment!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, Haruka's the same!\nBut she likes to do heel raises!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akari",
+   "Line": "Then, did you know that Chiharu always uses the stairs instead of the elevator?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "B-B-But!\nHaruka fills her bag with textbooks and does curls with them like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Why are you the one bragging?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yu",
+   "Line": "You also need to settle down, Akari.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "B-But the competition's already begun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "It doesn't matter if ReLight is our opponent. We have to try to win!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akari",
+   "Line": "Right! We're also gonna do everything we can to win!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akari",
+   "Line": "I really look up to MORE MORE JUMP!...\nBut that's also why I want to surpass all of you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yu",
+   "Line": "It's not just you we plan on defeating.\nOur goal is to shine brighter than anyone and stand on top.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. That's also our plan!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Ooh, we're already getting a heated conversation over here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Huh?! Aya-P?!\nWait, did you get that all on camera...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Yup, we got the whole thing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comments",
+   "Line": "<It's awesome to see these groups together!>\n<This reminds me of Idol Lovers.>\n<I wanna see you guys talk more!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, they're saying they wanna see us talk more!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "This is the best part of these kinds of shows since it's pretty rare for different groups to mingle like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(Right...!\nWe have to think about how we can stand out in these sorts of interactions too.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(I want to talk to as many of the other idols as I can, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Wow! This room's bigger than the Sparkly Shooting Star!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chiharu",
+   "Line": "Sparkly Shooting Star...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

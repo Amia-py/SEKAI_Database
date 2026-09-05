@@ -1,0 +1,513 @@
+{
+ "title": "Unit Event — Aim Higher and Higher! — Episode3 Unexpected Reunion",
+ "meta": {
+  "Event": "Aim Higher and Higher!",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — Unexpected Reunion",
+  "Event Outline": "The day of Taiga and Ken's event has finally arrived. The members of Vivid BAD SQUAD are looking forward to this world-class event, when an incident leads to an unexpected reunion.",
+  "scenarioId": "event_169_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "New York - Alleyway",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<...and Kohane ended up singing with those girls?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah! It was super awesome. The crowd went totally wild.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I see. I would've liked to see that.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "They said that they sing there from time to time, so we may encounter them again if we're lucky.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "We'll make sure to let you know when that happens, Miku. They really are amazing singers.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Hehe. I'm looking forward to it already.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh, I think I see it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "That must be the venue for the flea market.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wow, this is amazing...\nLook at all the shops...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Secondhand clothing, tableware, antique objects, paintings... They've really got it all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It's quite the selection. Where should we begin?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hmm... I wanna check out that shop's trinkets and stuff, but I'm also interested in the clothes over there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, but I also see some really nice accessories over there... I-I can't decide...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It seems we may be here quite a while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah... I'm getting kinda hungry, so I'm gonna go buy a hot dog. Make up your mind before I get back, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Oh, a real hot dog stand? I'd like to see what that's like.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Then, let's go together.\nYou want one, Toya?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, please.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, I'll get two.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Umm... “Two hot dogs, please.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Vendor",
+   "Line": "“$4.95 for one, and $9.90 for two!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "$9.90, got it. Where's my wallet...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(Huh?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00220_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(That boy's sprinting straight this way for some reason.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00220_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<...!\nAkito, look out!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00220_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Whoa...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00220_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00051_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Is everything okay, Akito?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah... Sorry, Miku.\nI dropped my phone...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000453",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Forget about me! Right now...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00026",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<You need to get your wallet back!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<That boy just ran off with your wallet!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What?! Your wallet got stolen?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Seriously?! Which way did he go?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Akito, wait! He may be carrying a weapon. It's too dangerous to chase after him without a plan!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boy",
+   "Line": "“Tourists are so easy!\nAnd there's plenty of people here, so I should be able to get away...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“Hey, we saw that!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“That wallet doesn't belong to you, now does it?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What's going on over there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Did someone catch him for us?!\nWe gotta go see!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wait, they're...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "The twins we met that time...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "“If you know what's good for you, then you'll stop picking people's pockets!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boy",
+   "Line": "“Sh-Shut up!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, there he goes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm glad they were able to get your wallet back safely. But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "Long time no see, you guys!\nHere's your wallet, Akito!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Th-Thanks... I appreciate it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "More importantly, what are you guys doing here?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "We came to do some shopping.\nThis area's more or less where we're based.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "We just happened to spot you guys.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "But just as we were coming to talk to you, that kid came by and took your wallet. So, we decided to catch him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Again, I really appreciate it...\nBut to think that we'd meet again like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "Haha. I know, right?!\nBut it really is nice to see you guys again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "Just a guess, but... Does this mean you guys are here to see SONIC NOTES?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh? How did you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "Taiga's performing, after all.\nAlso, there was no way you'd miss such a big event.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "Not if you're aiming to be world-class.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You guys said that when we met you in Japan. You're serious about standing on top of the world too, huh.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Also, you two said that you knew Aunt Nagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "How is it that you guys knew her?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "Oh, right...\nWe were in such a rush that we didn't get a chance to explain.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "I know! We should go to a cafe or something and have us a nice, long chat! How does that sound?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "Wait, don't just assume that they're free.\nYou can see they're in the middle of sightseeing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We're totally fine to join you guys!\nWe don't have any plans until SONIC NOTES starts, so I'd sure love to ask you two some questions.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "Then, we can talk at this one cafe we go to all the time. The coffee there's really amazing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Amazing coffee?\nThat sounds very nice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "Then, we'll lead the way.\nFollow us, you guys.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay, we're right behind you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

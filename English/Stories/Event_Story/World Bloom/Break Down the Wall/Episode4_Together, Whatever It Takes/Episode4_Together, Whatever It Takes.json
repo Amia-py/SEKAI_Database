@@ -1,0 +1,453 @@
+{
+ "title": "World Bloom — Break Down the Wall — Episode4 Together, Whatever It Takes",
+ "meta": {
+  "Event": "Break Down the Wall",
+  "Event Type": "world_bloom",
+  "Episode": "Episode4 — Together, Whatever It Takes",
+  "Event Outline": "Vivid BAD SQUAD continue their intensive training, set on surpassing RAD WEEKEND. But one day in the Street SEKAI, a new area suddenly appears: an unfamiliar plaza, in which stands a huge wall...",
+  "scenarioId": "wl_street_01_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_street_op2",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00258",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Alleyway",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, this one looks really pretty!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, it is.\nI'm reminded of the streets in Hamburg.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Did your dad also do a concert there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, a number of times.\nHowever, this feels more downtown than the streets I walked on then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Wow, really?\nOh!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Look at all the flyers on the walls!\nThey're so fun and colorful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, they are.\nTheir designs are interesting and... Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...!\nThis is...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "What's that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It's a flyer for Gurney flap...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "G-Gurney...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, that's the name of Tono and Soma's team...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Really! I didn't know that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But what's their flyer doing here in SEKAI...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(On closer inspection, it seems only their team name is written here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(There's no information regarding when or where it is, or who else is performing. Not only that, it's starting to fall off.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(What if this means...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00215",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Is something wrong, Toya?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "“What if Tono isn't coming back...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "“What if Soma stops making new songs for him...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "This may be a product of those thoughts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "It's true that anxieties like that could also manifest themselves here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(When I visited Soma in the hospital after Tono disappeared...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Those thoughts ran through my head.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I was worried that I'd never see Tono sing Soma's songs again.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(At the same time...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I still believe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "In Tono. In Soma.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Toya...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "A little while back, KAITO, you told me that we share some similarities with Soma and Tono...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "You said you saw similarities in how he cares about his partner very much and seems very serious about surpassing RAD WEEKEND.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, I remember saying that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "That day, Tono...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "So, Arata, let me ask you this. Who are you really singing for?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "You're not trying to make Soma's dreams come true. You can't face the pain of having lost him, so you're just clinging to his dreams.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Am I wrong...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "After Taiga said that...Tono disappeared.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But I've been thinking about that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, Tono may be singing because he can't face that pain.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But... I'm certain there's more to it than just that. There must be.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "He cares about the dream that Soma shared with him more deeply than anything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Just as Akito shared his dream with me, which I now care deeply about.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Just watching the two of them talking made that...painfully clear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Toya...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So, I'm going to complete the task Ken gave me and tell Tono and the others about it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "In order to get them to return.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, this is wonderful! I'm starting to get all fired up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Not only that, this flyer specifically appeared in SEKAI.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I have a feeling that it doesn't come from a place of worry. I think it comes from your desire to surpass RAD WEEKEND with Tono and the others.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I see.\nThank you for saying that, KAITO.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Hm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh? Is something the matter?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No, it's just... I noticed that there's a strange flyer posted on the wall behind you, KAITO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "A strange flyer?\nHuh...? No, this is...something else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "It's sheet music!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Sheet music...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

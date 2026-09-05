@@ -1,0 +1,813 @@
+{
+ "title": "Mixed Event — You Are My Hero! — Episode7 The Hero Arrives!",
+ "meta": {
+  "Event": "You Are My Hero!",
+  "Event Type": "marathon",
+  "Episode": "Episode7 — The Hero Arrives!",
+  "Event Outline": "On one of his runs, Tsukasa rescues and befriends a stranded cat. At the same time, a cat-themed carnival has arrived in Shibuya.",
+  "scenarioId": "event_160_07"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a008001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "In Front of the Ferris Wheel",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You have to stop it...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Inuyama",
+   "Line": "Yes, we've decided to stop and inspect it since it seems to be acting up a bit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Inuyama",
+   "Line": "But figuring out the cause may take some time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Hey, it looks like the Ferris wheel is down for repairs...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Wait, really?\nAww, I was really looking forward to going on it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh no...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Inuyama",
+   "Line": "Our hands are tied since we must put safety first...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Inuyama",
+   "Line": "That being said... I feel absolutely terrible about disappointing the guests like this during the last day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Mr. Inuyama...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Inuyama",
+   "Line": "But I'm satisfied.\nI started this carnival with the dream of putting smiles on the faces of people all over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Inuyama",
+   "Line": "And I've successfully accomplished that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a008001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(This place means everything to Mr. Inuyama...\nIt's designed to make all those who attend smile and laugh.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(And now both he and his guests are going to spend their final day here frowning...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Isn't there anything we can do...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Isn't there a way we can make it so everybody here goes home smiling?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "This is all I can conjure up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Mr. Inuyama, all of you...\nWould you mind listening for a minute?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I have an idea.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "Several dozen minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Hey, we wanna go on the Ferris wheel!\nWhen's it gonna be fixed?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Hmm... I'm not sure...\nThis may take quite a while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "It's too bad, but we'll just have to go on something else. What about that merry-go-round? Doesn't riding cats sound like fun?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "We wanna go on the Ferris wheel!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“Over here, Sis!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_003_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Older Cat Sister",
+   "Line": "“Hehe. So this is the carnival's main attraction. The Ferris wheel. It's the perfect target for a big prank.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Younger Cat Sister",
+   "Line": "“Yeah, it is. Let's see... Where are the controls...? Let's try checking over there!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_003_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Hey, they went away...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "What were they doing just now...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Those girls had really cute cat ears on...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“Oh, pardon me!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“I have a question for all of you...\nDid any of you see a pair of cat sisters pass by here just now?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Wait, is he talking about those girls we just saw...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Whoa, this cat's wearing a cape...!\nThat's so cool...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Is something about to happen...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“The thing is, a pair of mischievous cats have been causing trouble at this carnival recently. I was chasing after them because they're likely up to no good again...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“But I seem to have lost them.\nSo, any information that you can provide would be greatly appreciated!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Umm... They went that way!\nThey even talked about pulling a prank or something!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“What?! That's terrible...!\nThank you, young man!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00349_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Oh, is this some sort of event...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Maybe. I mean, the person we just talked to was totally wearing a superhero costume!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guest",
+   "Line": "“No, look!\nThe Ferris wheel's stuck!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guest",
+   "Line": "“Oh no! But it was moving a second ago. What do you think happened...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guest",
+   "Line": "“Hey, do you guys know what happened?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "We don't know!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guest",
+   "Line": "“Hmm... But the door to the control room is open... Wait, huh?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guest",
+   "Line": "“The switch is gone!\nNo, did those cat sisters steal it...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "What...?! The Ferris wheel stopped because of those cat sisters, Mommy...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Wow... So, does that mean it stopping is also a part of this show...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(Wow, Tsukasa, that's amazing...!\nYou turned what happened to the Ferris wheel into part of the show☆)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(Plus...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a008001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Hmm... Where do you think those cat sisters went?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“Oh, you rang?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000419",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Older Cat Sister",
+   "Line": "“Heh heh heh...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Cat Sister",
+   "Line": "“Are you looking for this switch?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Cat Sister",
+   "Line": "“Well, it's ours now...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Cat Sister",
+   "Line": "“If you want it back, you'll have to catch us first!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Younger Cat Sister",
+   "Line": "“But there's no way that's gonna happen.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a008001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Hey, cat man!\nThey're over there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00420_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“Hm?! I'll be darned! Thank you, everyone!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“Stopping the Ferris wheel... How could you do such a thing? I am not letting you two get away this time!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“I, Nyantaro the cat hero, will put an end to your antics! So, freeze!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00349_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Wow, he's a cat hero...!\nYou can do it, Nyantaro!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "But the cat sisters are also really cute...!\nRun for it, you two!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(They've managed to turn the guests' frowns upside down!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a008001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00127",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“Ah, I have you now! Give me the switch...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Younger Cat Sister",
+   "Line": "“Sis, take it!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00557",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“What...?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_003_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“Grr...! Credit where credit's due, they're working in perfect sync. I've lost them again...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“Do any of you happen to know where those despicable cat sisters went?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Nyantaro, over there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“Huh?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Oh, the little sister's back that way!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“That way...? Ah, underneath the Ferris wheel!\nThank you! I'll take a look now!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Older Cat Sister",
+   "Line": "“Seriously, why are you being such a pest today?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“Of course I'm being a pest.\nFor the sake of the guests waiting to ride the Ferris wheel, I can't afford to give up...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Nyantaro...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guest",
+   "Line": "“Hey, everyone, why don't we all show Nyantaro our support?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guest",
+   "Line": "“Our cheers might give him the boost of energy he needs to succeed!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guest",
+   "Line": "“Yeah, you're right!\nLet's all cheer for him, you guys!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guest",
+   "Line": "“Yes, I'm talking to you!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Oh... O-Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guest",
+   "Line": "“Ready?! One, two, three...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guest",
+   "Line": "“You can do it, Nyantaro!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "You can do it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“Huff... Huff... They're so fast!\nDespite you all cheering me on, I can't seem to catch them...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Is Nyantaro gonna be okay...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(They should be finished fixing the Ferris wheel soon...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(No, it looks like they still need more time.\nIn that case, we can try moving over towards that group of guests and—)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Tsukasa, Tsukasa...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huh?! Miku?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Look over there...!\nThe sign!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a008001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Th-The sign...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Mr. Inuyama's taking down the “Under Repair” sign! That must mean...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(The Ferris wheel is ready to run again...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Looks like he's signaling the okay☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a008001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, which means...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“Alright, playtime is over!\nI'm going to catch you two once and for all!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“Here we goooooo...!!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Younger Cat Sister",
+   "Line": "“H-He looks really determined...!\nSis, take the switch and...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Younger Cat Sister",
+   "Line": "“N-No...! It slipped...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“Yes, got it!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00052_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Yes...! Nyantaro got it back!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“Now I just need to flip the switch...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“And start it back up!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00030_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_myhero_2025_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Th-The Ferris wheel's working again...!\nDoes this mean we can go on it now...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00159",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "That was so cool!\nThanks, Nyantaro!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“Hah hah hah! There's no need to thank me!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“After all, it's a hero's job to make sure everybody keeps smiling!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“The memories you make here today...\nI hope they make you smile for years to come.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "“And let me say...\nThank you all for visiting today!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00211_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

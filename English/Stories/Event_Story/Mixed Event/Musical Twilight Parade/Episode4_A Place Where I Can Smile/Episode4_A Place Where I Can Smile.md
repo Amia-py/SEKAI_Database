@@ -1,0 +1,87 @@
+# Mixed Event — Musical Twilight Parade — Episode4 A Place Where I Can Smile
+
+- **Event**：Musical Twilight Parade
+- **Event Type**：marathon
+- **Episode**：Episode4 — A Place Where I Can Smile
+- **Event Outline**：Shiho has been scouted by a band that's ready to make its big debut, giving her a lot to think about. Then, Saki invites her on a visit to Phoenix Wonderland. Meanwhile, Tsukasa and the rest of WxS make their own preparations, eager to host them!
+- **scenarioId**：event_13_04
+
+## 正文
+
+| Speaker | Line | _kind |
+|---|---|---|
+|  | bg_d000301 | Background Change |
+|  | Phoenix Wonderland | Caption |
+| Emu | Next is the super fun, exciting and psychedelic area known as Dreamland☆ | talk |
+| Saki | Whoa...! I used to LOVE this place as a kid! | talk |
+| Shiho | Where you're supposed to be in a dream world or something, right? | talk |
+| Tsukasa | Indeed. Home of the Fluffy☆Trampoline Dome that lets you feel like you're bouncing high above the clouds. | talk |
+| Tsukasa | And Phenny's Dreamy Night, a cart ride that takes you through Phenny Penguin's fantastical dreams! | talk |
+| Ichika | I remember you really loved the Trampoline Dome, Saki. | talk |
+| Saki | Yeah! The feeling of jumping around all those fluffy clouds was the best! | talk |
+| Tsukasa | Indeed. It's been one of your favorites since you were little. We'd always go to the Trampoline Dome, but you kept begging us to go back in for seconds or even thirds. | talk |
+| Tsukasa | We'd convince you to give up, but then you wouldn't stop sulking after that... | talk |
+| Tsukasa | The only way to cheer you up was to buy you a fruit parfait from the park restaurant. It happened so much, it's still fresh in my head. | talk |
+| Saki | Don't bring up old stories like that, Tsukasa! | talk |
+| Shiho | But I can totally see that happening. | talk |
+| Honami | Hehe... | talk |
+| Saki | What? | talk |
+| Emu | Hehe! That's really nice! | talk |
+| Emu | After all, Phoenix Wonderland is a place that puts a smile on everyone's face☆ | talk |
+| Emu | Like Tsukasa and Saki, people have been coming here since they were little, and again as high school students or grown-ups. They get to enjoy the park in different ways every time! | talk |
+| Emu | And I want this place to be where everyone can smile and have fun no matter how old they are! | talk |
+| Honami | Emu... | talk |
+| Saki | Yeah! I completely agree!<br>PXL will always have a special place in my heart! | talk |
+| Saki | A special place where my childhood memories and the fun times I had with Tsukasa and everyone from Leo/need are♪ | talk |
+| Ichika | Yes, you're right. | talk |
+| Nene | Everyone has a lot of fond memories of this place... | talk |
+| Rui | I used to perform here occasionally, but I don't think I ever came here with someone else just to have fun. | talk |
+| Rui | In that sense, I guess you could say the fondest memories I have of this place are the shows we've been performing as a troupe. | talk |
+| Nene | Yeah, it's the same for me... | talk |
+| Ichika | Then... Why don't we make some nice memories together? | talk |
+| Nene | Huh? | talk |
+| Ichika | Since we're already here, we can see different attractions and have fun together, right? | talk |
+| Ichika | Um, together... Including you, Kusanagi. | talk |
+| Nene | Oh... O-Okay. | talk |
+| Emu | Alright☆<br>In order to make many good memories together... | talk |
+| Emu | I propose that we visit as many attractions in Dreamland as possible! | talk |
+| Saki | Count me in!<br>Where should we start?<br>No, it has to be the Trampoline Dome! | talk |
+| Shiho | Jumping on a trampoline at our age might be kind of embarrassing... | talk |
+| Nene | I agree... | talk |
+| Saki | Aww, no way...! | talk |
+| Honami | We might end up scaring the children playing inside if so many of us went in at once. Let's try something else this time, okay? | talk |
+| Saki | I guess... | talk |
+| Nene | ... | talk |
+|  | se00028 | Sound |
+| Rin | (Nene! Hey, Nene! Now's the time for you to try to start a conversation with everyone!) | talk |
+| Nene | Th-That's easier said than done... | talk |
+| Ichika | K-Kusanagi!<br>Do you have any suggestions?<br>Any ride or attractions you're interested in? | talk |
+| Nene | Oh?! Um, I...<br>I think... | talk |
+| Rin | (You can do it, Nene!) | talk |
+| Tsukasa | How about that one?<br>Phenny's Nightmare! | talk |
+| Shiho | That's a haunted house, right? | talk |
+| Emu | Yup! It's a little dark and creepy just like it's name suggests! | talk |
+| Honami | I-Is it that scary...? | talk |
+| Tsukasa | No, not at all!<br>The attraction is designed to be family-friendly.<br>It has comical props to amuse people of all ages! | talk |
+| Honami | Then that should be fine, I think... | talk |
+| Shiho | How can a haunted house be any fun if it isn't scary? | talk |
+| Emu | I-It's still super fun! This is a haunted house that puts a big smile on everyone's faces☆ | talk |
+| Nene | But it really isn't a haunted house if it makes people smile or laugh... | talk |
+| Rui | I must say, a family-friendly haunted house that makes people smile is intriguing to say the least. Maybe it can give me ideas for our future shows. | talk |
+| Saki | I'm curious too!<br>Let's go! Let's go♪ | talk |
+| Honami | Hehe. Then shall we go in? | talk |
+| Shiho | Fine by me. I'll come along. | talk |
+| Emu | Alright, let's go inside☆ | talk |
+|  | se00173 | Sound |
+|  | bgm00000 | Sound |
+| Ichika | K-Kusanagi, can I ask you... | talk |
+| Tsukasa's Voice | Nene! Hurry up or we'll leave you behind! | talk |
+| Nene | Okay, okay... | talk |
+| Nene | Ar-Are... Are you coming...? | talk |
+| Ichika | Y-Yes!<br>Let's go join them. | talk |
+| Nene | Okay... | talk |
+
+
+## Outline
+
+https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）

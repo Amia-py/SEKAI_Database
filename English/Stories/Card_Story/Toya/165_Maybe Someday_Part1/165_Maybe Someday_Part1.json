@@ -1,0 +1,418 @@
+{
+ "title": "Aoyagi Toya — Maybe Someday〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "Aoyagi Toya",
+  "Card": "Maybe Someday（4★）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "Nocturne Interlude",
+  "scenarioId": "012007_touya01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Toya's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It wasn't by chance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It's because you got over whatever was going on between you and your dad.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I really enjoyed the last event.\nAnd what happened with my dad...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(It's been a while since I felt this good.\nI'd like to get some practice in...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(But we all agreed to take a break today.\nMaybe I'll just relax listening to some music.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Come to think of it,\nAkito lent me that CD and... Hm?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "What's this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00054",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Crase Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Hello.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh! Hi, Toya!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yay, good to see you!\nCome sit with us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Sure.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Welcome. Is it just you today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes. We don't have practice today, so I thought I'd come here and just listen to some music.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "And if it's alright with you...\nWould you mind putting this CD on?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh, is it classical music?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes. It's a recording of my dad's solo concert.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I couldn't stand the sight of it, so I put it away and forgot about it until coming across it by chance today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I see. And you felt like giving it another listen?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes... I thought that if I listened to it here after telling my dad how I felt about music, then I could finally appreciate it for what it is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Okay, sounds good.\nWe can all listen to it together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "I'm curious to hear what your dad sounds like too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wait, Len. It's classical music.\nWon't you just fall asleep halfway through?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "No, it won't! And if you fall asleep listening, Rin, I'll doodle all over your face!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Challenge accepted!\nI'll do the same to you if you doze off!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I made the right call coming here.\nI'd just overthink things again if I were alone...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Okay, shall I go and put the CD on?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "That was really awesome...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00035",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah, it really was!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I loved the third piece the best. It felt so sad that my heart sort of began to sink, but at the same time, that was what I really liked about it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "I liked the one towards the end. It felt like a piece where a lot of people would be singing and dancing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, I totally get that!\nI had the same image in my head too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Right? Toya, your dad's amazing.\nHow does he play like that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thanks. I feel proud of being his son after hearing that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "It changed my impression of your dad too, you know.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Based on what I heard about him from you earlier, I thought he was a cold and strict person, but his performance was very rich and colorful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Well, he is very strict.\nEspecially when it comes to classical music...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "That may be due to his playing style as well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "What about his style?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It's all about his steadfast conviction when it comes to performing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "His goal is to flawlessly portray the composer's thoughts or intentions.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "He not only learns the actual music, but also researches the composer and their surrounding musical composition until he knows all there is to know about them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "By doing this, he recreates the composer's vision for a piece in his head and plays accordingly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Wow...\nThat's incredibly thorough...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It's also why he despises anything that deviates from the composer's original vision, such as different arrangements, additions and such...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I used to look up to Dad since I was little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But he also put me under pressure.\nHe wanted me to play the same way as him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yet you're putting him in such a good light now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes... I'm finally glad that I can listen to my dad's music and feel respect for him instead of stress...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "That's great, Toya.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Toya, if it's alright with you,\nwould you mind if I borrowed this CD for a bit?\nI'd like to listen to it some more.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe. Thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh, let me treat you to some coffee jelly.\nYou know, as a small token of my appreciation.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Here you go. And for Rin and Len, I have fruit jelly! I only made enough for three, so you get to be the lucky ones today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yay, treats!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Thanks, MEIKO!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "You're welcome! Enjoy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you very much. I'm sure we will.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

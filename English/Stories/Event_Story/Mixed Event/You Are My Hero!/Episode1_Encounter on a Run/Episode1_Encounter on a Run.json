@@ -1,0 +1,623 @@
+{
+ "title": "Mixed Event — You Are My Hero! — Episode1 Encounter on a Run",
+ "meta": {
+  "Event": "You Are My Hero!",
+  "Event Type": "marathon",
+  "Episode": "Episode1 — Encounter on a Run",
+  "Event Outline": "On one of his runs, Tsukasa rescues and befriends a stranded cat. At the same time, a cat-themed carnival has arrived in Shibuya.",
+  "scenarioId": "event_160_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Nonogi Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huff... Huff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "A clear blue sky... What a beautifully sunny day!\nI couldn't have asked for better running conditions!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I need to keep building up my stamina in order to get the most out of my training at Morinomiya.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I had quite a lot of confidence in my endurance, but I still pale in comparison to the boys enrolled there.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I have to keep trying, and build the proficiency to properly play any role I am given.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, I'll finish this leg and keep going all out during my next exercise...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Let's go, Tsukasa!\nYou can do it, Tsukasa♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, if it isn't Miku!\nWhat brings you here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<So, the others and I are spending today cheering on everyone from Wonderlands×Showtime♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<We know you guys all work really hard studying and practicing during your days off, so we're gonna give you lots of support☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<So! Let's go, Tsukasa♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hah hah hah! Now I understand.\nThank you, Miku. I'm feeling more motivated already!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Really?!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes! I was actually just about to wrap up my run, but I'm thinking about doing an extra lap now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "M-Meow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Oh, Tsukasa, did you hear that just now?!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You heard it as well? What do you think it—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Meowww...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<There it is again! It sounds like...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, a cat...\nBut it doesn't sound all that well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What if it's in trouble...?\nWe need to find it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Right! Let's see... I think it might be over there!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "This seems like the right spot...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Tsukasa! Tsukasa! Look at the pond over there!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cat",
+   "Line": "Meow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh no...\nHe's gotten himself stuck on one of the stepping stones...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<He looks so scared...\nPlease, Tsukasa, you gotta save him!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That's the plan!\nI just need to find a place where I can jump close enough to him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(No, I'm not seeing any good spots. And the stone he's on is too small for me to jump to directly. I'd surely scare him if I were to slip and fall in...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Isn't there any other way...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I know! What if you showed him what to do?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Showed him?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Yeah! You can show him what he's gotta do to get back to land safely!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<KAITO and the others model stuff for me all the time when we're practicing☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I see. That may be worth a try...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I don't know if I'll succeed...\nBut I may be able to help him if I put my acting skills on full display!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You there, cat!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cat",
+   "Line": "...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Listen up. Watch what I'm about to do.\nYou need to jump! Like...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "This!!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00448_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00257_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Cat",
+   "Line": "...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<He's tilting his head...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "He looks confused...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But he might understand if I keep trying.\nSo, let me try that again!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Watch. Plant your legs like this, make sure you have a good footing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And jump! Like this...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00447_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00257_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00447_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00257_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Cat",
+   "Line": "Meow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Don't worry! You can do it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cat",
+   "Line": "Me-Meow...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Oh, I think he's trying to jump now!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, that's it! We can try jumping together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ready?! One, two...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00448_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Three!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cat",
+   "Line": "Meow...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00257_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You did it!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<That was amazing!\nIt was so cool how you flew up and stuck the landing☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, that was a wonderful display of courage! Umm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Nyantaro!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cat",
+   "Line": "Meow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Oh, his name is Nyantaro☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Hehe. I'm so glad that you're smiling now, Nyantaro♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Actually, I just decided to name him that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm? What's this shape on your back...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It's a star! I couldn't tell earlier since you were too far away... That's incredible, Nyantaro!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cat",
+   "Line": "Meow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_myhero_2025_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hey, wait...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<There he goes...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Well, he lost interest rather quickly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "However, as short as that interaction was, we became friends by accomplishing something together. Let us wish him the best in life!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Be strong, Nyantaro!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Bye bye!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cat",
+   "Line": "Meow...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Hehe. He replied back♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, and he sounded incredibly happy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Anyway, now that Nyantaro is safely back on dry land, we should get back to what we were doing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Right! I'm gonna cheer you on like crazy☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Several days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "This way, Mizuki!\nI'm starting to see the Ferris wheel!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "The gondolas are supposed to be really cute, but we still can't see them very well from this far... We gotta get closer...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You're walking so fast, Airi!\nAlso, you seem way too excited today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Of course I'm excited! I mean, today...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We get to visit a cat-themed carnival!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Just the thought of going to a carnival is fun, but this one's all about cats...! It's like a dream come true for me, you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "From what we saw on social media, the Ferris wheel and all their other attractions have cats all over them. Which means...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "It's guaranteed to be adorable...!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I see what you mean!\nAnd I know just how much you love cats, Airi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Exactly!\nAs much as I want to pet or hold real ones, I can't...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "That's why I absolutely have to check out this carnival. I'll get to be around cats with none of the health risks, so it's going to be like paradise...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hehe. Then, let's have as much fun as we can today♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah! The carnival should be just through this park...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Heeeeeeey!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Nyantarooooooo!!!!!\nWhere are yoooou?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "That sounds like...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

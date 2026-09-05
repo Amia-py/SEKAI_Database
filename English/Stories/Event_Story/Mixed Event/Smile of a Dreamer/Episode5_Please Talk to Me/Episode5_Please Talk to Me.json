@@ -1,0 +1,653 @@
+{
+ "title": "Mixed Event — Smile of a Dreamer — Episode5 Please Talk to Me",
+ "meta": {
+  "Event": "Smile of a Dreamer",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — Please Talk to Me",
+  "Event Outline": "Wonderlands×Showtime picks up the pace in preparation for their final Show Contest performance! At the same time, Emu learns that her brothers are working on a huge overhaul of Phoenix Wonderland. She tries to convince them to reconsider, but will she be successful?",
+  "scenarioId": "event_15_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kamiyama High School - School Gate",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thanks for waiting, Nene.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You're late. How did it take you this long to get to the gate? Your legs really are useless.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "H-Hey, it's not my fault! The teacher asked me to help out with something! Also, my legs are not useless!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Okay, okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Are you worried about Emu?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Why are you asking? You already know the answer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, excuse me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I see. That's why you've been so prickly today. I apologize for making you wait like that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Don't turn all humble on me like that. It feels weird...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "W-What...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "How about you show some modesty for a change?! Also, do you have to take jabs at me every time we talk?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Ugh, just be quiet!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I... I just don't know what we can do...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That is the issue. Especially as long as Emu doesn't tell us what's going on...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But forcing it out of her would be difficult as well, so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "She usually just says whatever's on her mind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Well, it may seem like she is, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Because we were all so busy preparing the show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Grandpa told me that you need a diverse troupe for a good show, and at least one of them has to be committed to helping all the others' talents shine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The bigger the problem, the less likely she is to talk...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "This may be a case of just that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "So it's likely that she won't tell us anytime soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I suppose we should try to come up with some better ideas in the meantime...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00032",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonder Stage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hey, everyone!\nSorry for being late!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'm all ready to go☆\nLet's head over to SEKAI!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh, right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I need to get changed...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Phoenix Wonderland",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "*Sigh*...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "Nene, is something the matter?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah...\nBut...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Neneee!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00016",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wah! Wh-What the?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Nene, I wanna get to know you better!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Know me? Like how?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You were a member of a theater troupe before, right? What kinds of shows did you guys do? Which ones did you like? And...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "S-Slow down! Don't ask me so many questions at once or I won't know where to start...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Why don't we take a break now?\nThat way you'll have time to chat.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "You might even enjoy opening up a bit and sharing your memories with a friend.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Sigh...\nFine, but only until the break's over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Talking to Emu that time helped me figure some things out, so I should return that favor.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(She pries into everyone else's business, but clams up when it comes to her own...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(At the same time, if it really is something big, she might not be able to tell us easily...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(No, I'd want to know even more if that's the case...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "*Sigh*...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I want to help Emu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "If something's bothering her, I want to be there for her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But I don't really know how to tell her that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "Beep. Understood.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "I will deliver this message to Emu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait, what?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00078",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "No... Stop!! Where are you going?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "I will deliver this message to Emu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What message?! Did Rui install something that lets you do that?! You don't need to do anything like that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Ugh... Time to go after it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I'm really making everyone worry...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I want to tell everyone, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I want everyone to be able to focus on being able to perform the shows they love so much...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Huh? Is that Robo-Nene coming this way...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00078",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "*Huff*... *Huff*... Robo-Nene, wait...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00078",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "No, please! Stop...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00078",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Robo-Nene!!!! Stooop!!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "Beep. Stopping.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "F-Finally...! Wait...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hm? Why are you in such a hurry, Robo-Nene?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "R-Right in front of Emu...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "Replaying message.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene's Voice",
+   "Line": "<I want to help Emu...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene's Voice",
+   "Line": "<If something's bothering her, I want to be there for her.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Umm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "That's the truth...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I get that something might be keeping you from telling us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But when you feel like talking, please tell us everything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Nene...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "That's all...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Yeah... I want to tell them...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Nene and the others will listen. They might help me come up with some ideas...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

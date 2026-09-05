@@ -1,0 +1,623 @@
+{
+ "title": "Unit Event — A Sad Farewell at the Curtain Call — Episode3 The Two Leads",
+ "meta": {
+  "Event": "A Sad Farewell at the Curtain Call",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — The Two Leads",
+  "Event Outline": "The next ambassadorial performance is going to be the last one?! Wonderlands×Showtime is staggered to hear the news, but is followed by an offer to do a joint performance with a highly regarded theme park that puts on the best shows in Japan. As chaotic practices ensue, Rui is approached by a certain person...",
+  "scenarioId": "event_74_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Phoenix Wonderland",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonder Stage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Asahi and I as the two androids...?\nSo, in other words, you want two leads for this show?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, that's right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "To be fair, Alfred's technically the main protagonist of this story.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Especially considering how Alfred goes from being a mindless machine to a sentient being with real emotions.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "However, Bartlett plays a key role during the last scene. So in essence, the show has two leads.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Yes, that sounds really interesting!\nI'd be honored to be one of the protagonists alongside Miles.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Likewise...!\nThis should end up being a very good learning experience.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "So, who's going to be playing which android?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I actually don't want to make a decision just yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "The truth is, Asahi, I still don't know much about your acting style.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Which is why I'd like you two to try playing both roles in order for me to see who's more suited for which role.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I see. Good idea, Rui.\nI have no problem with that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Me neither! That actually makes things more exciting!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Thank you both very much.\nIf it's okay with all of you, I'd like to think more about the other roles once I get home.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member A",
+   "Line": "I can't wait to read the script!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Okay, that went rather smoothly, and everyone seems to be in a good mood...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(However, the hard part starts now. Between deciding how they need to act, what stunts and effects to use and working with the cast members of ArcLand, there's a lot of work up ahead.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Regardless...\nI should just proceed the way I normally do and give it my best.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Now that we all have our roles, I'd like for us to do a table read today. Once again, I look forward to putting on a good show with all of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "As do I!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Same here! I'm really looking forward to this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "It's still the morning, but everyone sounds so fired up♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "W-We have two shouters now...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Oh, by the way, Rui...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Which roles do you want Tsukasa and me to play for the time being? You're going to make your final decision later, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "For now, Asahi, I'd like you to play Alfred, the android that gets taken by Nation A. As such, Tsukasa, I'd like you to play Bartlett, the android that gets taken by Nation B.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'd also like it if you two could swap roles depending on the scene and how we do during our read.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Unfortunately, that means you two will each have to learn both roles...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi & Tsukasa",
+   "Line": "No problem!\nLeave it to me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. Wonderful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "As for the rest of you... Emu, you'll be playing the girl who finds Alfred at the edge of the wilderness. Nene, you'll be playing Bartlett's drill sergeant.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Then, let's begin our table read.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Good morning, Alfred. How are you...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Again...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Rui, I thought we were just getting our feet wet with this one...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I apologize for interrupting you this early, but you just didn't sound like an android just now. Would you mind giving it another try...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hmm... Like an android...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "That sounds really hard.\nI'm not sure how I'd play one...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hmm...\n“G00D M0RN1N6! ALFR3D!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Does that count as being an android...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00057",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Hmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Rui, would you mind if Tsukasa and I tried going through that opening conversation together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Let's give it a try, Tsukasa!\nI'll also do my best at playing an android!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Th-Thank you...\nThen, let's go through it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Good morning, Alfred. How are you...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Good morning, Bartlett. I am good.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(H-Huh? What's happening...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Asahi's spoken only one line, but it's like I'm speaking to a completely different person...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Such wonderful weather, and just the right temperature. The Professor will surely be pleased.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(*Gasp*\nI see. I was under the impression that an android shouldn't speak with too much intonation...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(But it's the opposite. These androids were made to communicate with humans, so they should speak in a slightly robotic fashion that's easy for a human listener to understand.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“The Professor should enjoy this nice weather by going outside of the laboratory for a change...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“That is unlikely. The Professor is like a mole and this laboratory is his underground den.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Indeed.\nIf only we could do something about that habit of his.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "“Who are you comparing to a mole?\nHave you both forgotten that I am your creator?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa & Asahi",
+   "Line": "“Professor.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, that was good.\nYou both still need time to get used to working with one another, but try to keep in mind what you just did.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, I see...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thank you very much, Asahi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Haha. There's no need to thank me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No, there is. I have a slightly better understanding of how to play an android thanks to you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Really?! Great!\nThat just leaves...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "...understanding what was going through the Professor's mind as he built these androids. That should help you even more.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I see...\nI was convinced that playing android simply meant behaving like one...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(But understanding the reasoning behind the Professor making these androids, as well as why they are the way they are...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(So many questions...\nWhy were they originally made? How human did he want them to become...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Tsukasa...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "H-Huh?! Don't mind me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You two really seemed like androids just now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You really surprised me with your acting, Asahi. Also, I'm glad Tsukasa managed to catch on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Asahi may have an even bigger impact on Tsukasa than I initially expected...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Anyway, let's continue.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "“What's the meaning of this? Did others decide to break into this laboratory at the same time as us?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member A",
+   "Line": "“Stay frosty, Sergeant Willis!\nThis is a battlefield now!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "“C-Copy...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(S-Such a loud voice...!\nIt's making my ears shiver...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(But I see what they're doing...\nThere's no way to tell what's gonna happen on a real battlefield with real weapons, so it makes sense to act that way...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“Huh?\nLook, Mom, it's a person! I think they collapsed!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member B",
+   "Line": "Oh, Emu, you might not want to announce your presence like that for this scene.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member B",
+   "Line": "There aren't supposed to be many soldiers around at the edge of the wilderness, but this person could be one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, I get it!\nI'll try to be more discreet!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I should expect no less from ArcLand's cast members. It's only been a few days since we chose what we'll be performing, but they all seem to have already thoroughly gone over the story...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Asahi in particular. Alfred is hardly an easy role, but it appears that he knows exactly what to do.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Not only that, but he doesn't seem to be breaking a sweat. So...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(How is Tsukasa going to react to this...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Even though it was meant to be just a quick table read, there's a clear skill gap between me and him...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(And it's not just Asahi...\nThey only had a few days, but his fellow cast members have also thoroughly studied their roles.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(On top of that, they seem to have studied the others' roles as well in order to make sure we put on a good performance. All the while, I'm too busy thinking about my own character...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(No, stop...!\nA star shouldn't be feeling so down!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(A skill gap simply means I need to find a way to get better!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Remember how you learned to play Thorpe! It's how you're going to become a world-famous star!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Alright, let's try reading through the story until the end!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "*Sob*\nThis story's so good...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "ArcLand Cast Member A",
+   "Line": "That final scene on the battlefield was so moving...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah.\nI'm glad they were able to understand each other in the end.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. I'm glad you all liked it so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Okay, we seem to be in a good spot. However, we'll have a few variables to deal with moving forward...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(For example, how many of my ideas will the others be willing to accept?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Now that we've finished our table read, I'd like to start thinking about the stunts and effects we'll be using for the opening scene.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The opening scene? You mean when there's a raid on the lab?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "The moment when the androids' daily lives are torn to shreds... It's very dramatic. I'm looking forward to seeing how it turns out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, in order to give it that dramatic feel...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'm thinking about having you all perform an actual raid.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

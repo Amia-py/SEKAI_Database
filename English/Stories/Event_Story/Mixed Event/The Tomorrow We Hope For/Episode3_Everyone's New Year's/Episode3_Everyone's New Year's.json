@@ -1,0 +1,343 @@
+{
+ "title": "Mixed Event — The Tomorrow We Hope For — Episode3 Everyone's New Year's",
+ "meta": {
+  "Event": "The Tomorrow We Hope For",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode3 — Everyone's New Year's",
+  "Event Outline": "When Haruka stops by the shrine along her usual running route, she sees the shrine maiden who was there for her in her time of need collapse. In order to repay her for her kindness, Haruka decides to help out at the shrine in her stead.",
+  "scenarioId": "event_45_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "School SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Alright, everyone!\nAre you all ready for Ichi's New Year's sleepover party?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah! Totally☆\nIt's gonna be so much fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But you can't actually stay at Ichi's house, Rin.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I know! But we can still have fun by chatting and stuff!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. I'm sure we'll have plenty to talk about.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "That reminds me. We all went on a shrine visit together last year... Wanna do that again?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah, we should go since we're all here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Visiting a shrine...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "That sounds interesting, but there's going to be a lot of people there, right? I feel like we won't be able to do much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "You'd be surprised. Last year, we were able to pop out and draw some fortunes without anyone noticing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Fortunes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Hm? Honami?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I promise to do better this year...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I'm sorry. I didn't mean to reopen any old wounds...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh? Do better?\nWhat are you guys talking about?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Oh, Honami drew Luka's fortune for her last year and managed to draw a “great curse” and a “curse” for her in that order...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'm going to draw a “great blessing” this year...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "That's quite a statement...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "We believe in you, Hona!\nI'll make sure that some of my luck rubs off onto you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Me too!\nLady Luck's on your side!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "I'll believe it when I see it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Hehe. I sense another fun New Year's awaiting us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00054",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Crase Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hello!\nOh, you're all here already.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Hi, Kohane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "There you are!\nCome sit here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "You're here pretty late.\nDid something happen?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Sorry for the wait.\nCleaning our house took longer than expected.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh, that's right!\nDoesn't your family need to clean too? I mean, you have a house and a cafe to worry about.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Despite how he looks, my dad's a huge neat freak. He actually started cleaning up the cafe a week ago.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So I didn't have to do a whole lot today as it turns out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "That's Ken for you.\nUnlike a certain someone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, I'm not some kind of slob!\nMy room's all nice and tidy now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, we gave MEIKO's place a nice cleaning too. It's so shiny and sparkly now♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "My back's still sore after helping out.\nWe had to carry all the tables and chairs outside...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "You're such a mean boss, MEIKO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I let you laze around most of the time, so you both at least owed me this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Anyway, are you guys here to practice today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah! We're taking New Year's Day off, but we'll be back to practicing on the second!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I'm looking forward to a nice, relaxing New Year's. A shrine visit and mochi soup included!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, that reminds me... Minori said that she's going to help out as a shrine maiden this year.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Who's Minori?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Kohane's friend.\nShe's really nice and has amazing work ethic. She's even in an idol group with her friends.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Ah, her. She came to one of our practices to work on her singing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But a shrine maiden...?\nLike part-time or something?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm not sure about that, but she and her friends are apparently all going together to help out...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Really?!\nThat means Haruka's gonna be there too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, I think you're right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Cool... Hey, why don't we go and pay them a visit on New Year's Day?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wait, us too...?\nCan't you go by yourself...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Aww, don't be like that!\nIt'll give us a chance to come up with some New Year's resolutions, so we should all go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What do you say, Toya?\nHow does a shrine visit together sound?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Visiting a shrine on New Year's Day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "We've gone as a family before, but I've never gone with just my friends. It'll be a new experience for me, so yes, I'd like to go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "How about you, Akito?\nThat is, if you're not busy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "*Sigh*\nFine, I'll go. I'd only end up stuffing my face in food if I were to stay home so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Awesome! We're all set!\nWe can all wake up early and head over together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

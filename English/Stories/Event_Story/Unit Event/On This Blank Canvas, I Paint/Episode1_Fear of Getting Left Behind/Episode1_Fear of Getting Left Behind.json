@@ -1,0 +1,748 @@
+{
+ "title": "Unit Event — On This Blank Canvas, I Paint — Episode1 Fear of Getting Left Behind",
+ "meta": {
+  "Event": "On This Blank Canvas, I Paint",
+  "Event Type": "marathon",
+  "Episode": "Episode1 — Fear of Getting Left Behind",
+  "Event Outline": "As N25's music evolves, Ena struggles to capture the true essence of their songs in her art. In the interest of keeping up with the group, she considers going back to her old art class...",
+  "scenarioId": "event_53_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Ena's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "No, this isn't right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(It doesn't go with Kanade and Mafuyu's song at all.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00109",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I think I chose too many bright colors.\nTime to start over...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00109",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I feel like I've been telling myself that I'm wrong a lot lately...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(This might've started after Mafuyu learned how to write different lyrics compared to usual.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(What is this...?\nI've definitely felt this before...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00084",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Hello? Are you all here?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000107",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<I'm here...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, it's time already?\nAnd... Unmute.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000108",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Hey, I'm here too.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Alright, we're all here on time!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Shall we get started?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000307",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Oh, can I say something before we do...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Yes, Enanan?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<It's about my rough draft for our next song.\nI'm kinda stuck. Mind taking a look at it for me?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Yeah, I'll take a peek!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Me too.\nCan you send it through Nightcord?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Alright, it's sent...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00037",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Let's see...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<How is it...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<It isn't bad...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<You've captured the theme for this song and the colors seem right...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<However, it seems blurry for some reason...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Hmm... I think I know what you mean. It's like you're lost or not sure what to do, you know...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I'm lost...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000107",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<What do you think, Yuki?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<It's okay...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<It matches what K's envisioning with her song, but...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000308",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<But...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<Is this really everything...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Huh?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<It's as if you want to speak out, but don't know how...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "<Is this really everything you're trying to say?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<What I want to say...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Is she talking about what I felt after hearing Kanade's song and seeing her lyrics...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(If that's the case, she's right. I haven't been able to express that at all...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e001801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Shinonome, as it stands, your current mindset will only hinder you from growing further as an artist.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000307",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Is everything okay, Enanan?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Yeah, it's nothing...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Are you sure...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<We still have time.\nLet's keep thinking about it together.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<I'll try coming up with a better storyboard too!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Okay, thank you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(That's it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(It's the same thing I felt back then.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Between Mafuyu's lyrics and Kanade's music, it's like everyone's finding new ways to express what they're feeling... While I get left behind...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(If I actually do get left behind...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(If I can't figure out a way to illustrate our group's music...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(No, I don't want that to happen...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I have to keep drawing. I have to find a way...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Composition, colors, technique...\nI have to study more and figure out how to turn our group's music into art.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e001801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I know it's easier said than done.\nBecause I spent so much time in that place...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(There's no place in visual art for those who decide not to show up for two years...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e001801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few years ago",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Art class",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_canvas_2022_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Junior High School Ena",
+   "Line": "Alright, this looks good...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Ena",
+   "Line": "(A pretty good drawing if I do say so myself. Mr. Yukihira won't have any choice but to praise me today.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_canvas_2022_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Time's up. Bring your drawings forward and I'll begin reviewing your work.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_canvas_2022_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_canvas_2022_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Let's start from that end.\nWhose is this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "I-It's mine!\nWhat do you think, Mr. Yukihira?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Ah, Futaba Natsuno.\nYes... It's rather appalling.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Futaba",
+   "Line": "!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "It's as if you forgot that a third dimension exists. What were you looking at all this time?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Futaba",
+   "Line": "I... Um...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Students",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "It's the most fundamental part of drawing sculptures. If you were looking for depth, you should've focused on...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Ena",
+   "Line": "(As grouchy as ever, huh...?\nEveryone's gone completely quiet too.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Ena",
+   "Line": "(But that's not going to be enough to discourage me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Alright, next.\nWhose is this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Ena",
+   "Line": "It's mine! How is it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Ah, Shinonome.\nLet's take a look.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "This composition isn't bad...\nYour motif here appears well presented.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Ena",
+   "Line": "*Gasp*\nThank you very much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Ena",
+   "Line": "(H-He praised me...!\nMr. Yukihira actually praised me...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "However, you get a zero for texture.\nIf anything, this looks more like a bronze statue.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Junior High School Ena",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Focus on making better use of intermediate tones and value more next time. Anyway, who's next...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Student",
+   "Line": "P-Please, have a look!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Ena",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Alright, that's enough for today.\nGood work, everyone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Students",
+   "Line": "Thank you very much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_canvas_2022_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Junior High School Ena",
+   "Line": "Ugh... Work on using intermediate tones...?! Does he not realize I've been coming here for five years now...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Ena",
+   "Line": "(Dad did say that Mr. Yukihira's a pretty strict teacher, but it's almost as if he hates praising people...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Ena",
+   "Line": "(He has won a bunch of big awards though...\nPlus, a lot of his students are trying to get into Tokyo Art University, so it is a pretty high-level class.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Ena",
+   "Line": "(But that sourpuss of a teacher actually praised me for once. He said, “This composition isn't bad.” He never tells anyone else that.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Ena",
+   "Line": "(I guess it's no wonder since I'm gonna be a famous artist just like my dad...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

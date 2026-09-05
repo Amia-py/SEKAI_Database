@@ -1,0 +1,418 @@
+{
+ "title": "Unit Event — Friendship Rebuilt — Episode2 A New Approach",
+ "meta": {
+  "Event": "Friendship Rebuilt",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — A New Approach",
+  "Event Outline": "In the wake of iHaz, MORE MORE JUMP! are inundated with work offers. After taking a fresh look at their schedule, Airi and the rest of MMJ consider adopting a work style that makes use of the credit-based course.",
+  "scenarioId": "event_92_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_b000803",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Airi's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I've tried adjusting our schedule a few different ways, but it just doesn't seem like we'll be able to accept more offers...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "As much as I don't want to, we're gonna have to turn a few of these people down...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hm? A new email...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh, it's from that radio program.\nI asked them yesterday to see if they can change the meeting date, but let's see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Not really possible, huh?\nI guess their producer's also pretty busy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "It would've been a nice opportunity to get our song out there, but we don't really have a choice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Unfortunately, I'm gonna have to politely turn down their offer...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Wait a second...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Shizuku and I could conceivably make it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Unlike Haruka and Minori, we're credit-based, which means we don't always have to be at school.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(But the four of us have always done everything together as MORE MORE JUMP! Would it be okay for us to go without them...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(I mean, it's not like we have a rule saying that we have to do absolutely everything together...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(But I think all of us being present has made it easier to share responsibilities and move as a unit.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(At the same time, as we keep receiving offers, we won't be able to keep doing that...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(If we want to be given more opportunities in the future, it might be best to have even just one of us appear...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Which means it'd be best to take advantage of the freedom allotted to us by the credit-based course.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "But I can't make this decision on my own. We need to discuss this as a group...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00137_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hi, Shizuku?\nSorry, I know it's late. Are you free to talk right now...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day - Lunch break",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka Girls Academy - Rooftop",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00045_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Thanks for waiting, you two!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Sorry about asking you to meet during lunch like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "No, that's fine... But you said there's something you wanted to talk about. Is everything okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, things are fine... But where do I begin?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Last night, while I was at home, I took another look at our schedule and made some adjustments. I've also already spoken to Shizuku about this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Adjustments to our schedule?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah. We've had the fortune of receiving offers from various different people lately, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "But we only have a finite amount of time available to us, which means we're having to turn more and more down...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "So I began wondering if there's a way for us to not have to do that as much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "You've been doing all that for us, Airi...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "It's nothing, really.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Anyway, I had an idea and talked with Shizuku about it. Would you two mind taking a look at this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Our schedule...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Huh...? Hang on...\nThere's stuff here for weekday afternoons now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But it's just you and Shizuku, Airi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Remember how we're in the credit-based course? I was hoping we could take advantage of that and adjusted our schedule accordingly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "R-Right. This would definitely allow us to accept more offers...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes, I do agree that we should accept whatever offers we can, even if all four of us can't be there...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "At the same time, a lot of people out there want to see us together. As such, I'd like to be careful about which offers we do accept.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I agree. This is just a preliminary idea. Just one solution for addressing how we may or may not accept more offers moving forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "That's why I wanna hear what you think...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "How do you feel about this, Airi...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Me...? Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I believe that we're gonna need to take on as many of these offers as we can if we're going to achieve our goal.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "So, I think Shizuku and I should take advantage of the freedom that the credit-based course affords us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes, you're right. I agree.\nHowever...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I don't want to force you and Shizuku to carry a heavier burden than us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah...\nI'm not sure how I'd feel about you two working while we're at school...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I wouldn't worry about that.\nAfter all, this is for all of us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I mean, being at school doesn't mean you have nothing to do, y'know...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "There's plenty you can do here, right? For example, coming up with ideas for our stream in between classes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "If we go with this new scheduling scheme, we're gonna need you two to start handling more of those kinds of things. So, we'll be counting on you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh... Y-Yeah! Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Right, we should do what we can...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Exactly. Again, we'll be counting on you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Then, I'll start putting together a new schedule with what we just discussed in mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Each day's gonna start to feel a lot busier as we take on all these new offers...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "But let's do our best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,778 @@
+{
+ "title": "Mixed Event — An Unmissable Spirited Affair — Episode8 What Tomorrow Holds",
+ "meta": {
+  "Event": "An Unmissable Spirited Affair",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode8 — What Tomorrow Holds",
+  "Event Outline": "Kamiyama High School's second-years are headed to Kyoto! In contrast with Tsukasa's excitement for their school trip, Rui is less enthused. But will his feelings change when one of his classmates approaches him?",
+  "scenarioId": "event_99_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a006003",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Inn",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I hope you're ready, Rui!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehehe. I could say the same for you, Tsukasa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miyake",
+   "Line": "Alright, take your positions!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miyake",
+   "Line": "For tonight's final pillow fight, we have Tenma versus Kamishiro! Gentlemen, let's rumble!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "*Roar*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_pandemonium_2023_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_pandemonium_2023_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_pandemonium_2023_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, a triple throw right out of the gates! Unfortunately for you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I watched what you did against Miyake, so that's not going to work on me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00162_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_pandemonium_2023_005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_pandemonium_2023_006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_pandemonium_2023_007",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00162_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Hayashi",
+   "Line": "What?!\nHe dodged them?! By spinning?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taniyama",
+   "Line": "Cool!\nGo Kamishiro!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miyake",
+   "Line": "H-Hey, you guys...\nIf you break any of the inn's stuff, you're automatically disqualified!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miyake",
+   "Line": "The first to get hit five times loses, but this is probably gonna take a while...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Now it's my turn!\nLet's see how you deal with a pillow bombing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_pandemonium_2023_004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miyake",
+   "Line": "Huh...?!\nHe just threw all the pillows into the air...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hayashi",
+   "Line": "Wait, that means...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taniyama",
+   "Line": "They're gonna hit us!\nWah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_pandemonium_2023_008",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_pandemonium_2023_009",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hmph... That was clever, but I narrowly avoided all of them!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, impressive...\nHm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hayashi",
+   "Line": "What's the big idea, Kamishiro...?\nThose landed right on top of us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taniyama",
+   "Line": "Yeah, what he said!\nWe're fighting for Tenma now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh? I thought we were supposed to fight as individuals. Three versus one seems a bit unfair, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miyake",
+   "Line": "Y-Yeah!\nWe decided from the start that it should be one-on-one...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "No matter...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Miyake, you're my last hope.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miyake",
+   "Line": "Huh?!\nWhat do you mean?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, you fight even though you're outnumbered! That is commendable! Comrades, prepare for battle!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hayashi & Taniyama",
+   "Line": "Roger!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe... We may be fewer in number, but we still plan on winning. I hope you're prepared to have your confidence shattered.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No, victory shall be ours!\nAttaaack...!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miyake",
+   "Line": "W-Wait, stop!\nIf we fight all at once—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_pandemonium_2023_012",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Boys, it's past curfew!\nWhat's going on here?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa & Rui",
+   "Line": "Huh?!\nOh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miyake",
+   "Line": "I knew this would happen...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Teacher's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "That's two nights in a row.\nI'll be asking for letters of apology from each of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Come get me once you've finished writing them. I'll escort you back to your rooms after that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "*Sigh*\nHonestly, does the Weirdo Wombo Combo ever learn...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00468_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Grr...!\nHow could I have made such a foolish mistake...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Not only am I a class representative, I am a future star! I'm supposed to lead by example, but I've been scolded two days in a row by the teachers!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, we did go a little too far back there...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Still, this has all been so new for me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "New?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, between our pillow fight...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a005901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a006003",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...sightseeing with everyone...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a005901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a006003",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...getting separated, reuniting with everyone and seeing the parade together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "They all felt like new experiences.\nIt felt like I was working on a show. That sort of wonderment...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'm so glad that I got to spend this time with you and the others today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Rui...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "And I have you to thank, Tsukasa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes.\nMiyake actually mentioned something earlier...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a005901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miyake",
+   "Line": "*Sigh*\nToday was so much fun. I'm glad you decided to join our group, Kamishiro!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "You are?\nHehe. I really appreciate it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miyake",
+   "Line": "Of course.\nI got to know you a little better, and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miyake",
+   "Line": "To tell you the truth...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miyake",
+   "Line": "When you first transferred to our school, Rui, you always seemed to have fun tinkering with your drones and stuff at your desk...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miyake",
+   "Line": "But there were also times when you looked really bored.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a006003",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That apparently made him think that he had better not disturb me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But then, he said that I began smiling more after I began spending more time with you, Tsukasa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "As a result, he decided that he wanted to get to know me better.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, I had no idea...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I believe it's evidence of just how much I've changed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a005901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "How about we take a group photo together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "A group photo?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes.\nI'd like to have something to commemorate this day with.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a006003",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Tsukasa was right in saying that I never usually make such suggestions.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But I probably said that because the time we spent together is so precious to me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "The old me was convinced that I'd never be able to actually get along with anyone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But that began to change after we started doing shows together at the Wonder Stage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Now, I don't need shows or anything to get to know someone. On top of that, I want to share smiles and laughter with them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "So, Tsukasa...\nThank you for giving me the opportunity to change the way I have.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The only response I can give right now is, “You're welcome!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Still...\nI don't think I deserve all the credit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Think about it, Rui. If you were firmly against changing, then it wouldn't have mattered what I did. Things would've remained the way they were.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "However, you wanted to be a part of a group, and you've been having fun as a result.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And that has nothing to do with me...\nYou're here today because that's what you chose.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, you may be right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Also, there's something else that I need to ask you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Why are you talking like everything's in the past already?! Our trip is not yet over!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We should keep having fun until we all have to go home!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, I agree!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Which means we should go over once more what we'll be doing tomorrow. How does an early-morning walk along the Kamo River sound? Don't worry, I'll ask the teachers for permission.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, that sounds splendid!\nWe can watch the sunrise while we're there! What a way to spend our youth! Saki will surely enjoy hearing about it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Also!\nWe should try skipping stones!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Skipping stones...?\nOh, when you try to get flat rocks to bounce across water?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wait, have you never tried?\nOkay, watch! You hold it like this and flick your wrist!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehehe... Your form seems a bit odd.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What do you mean?!\nYou can get stones to skip endlessly by doing this! Skip! Skip! Skip! Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Tenma! What's all this about?! “Skip! Skip! Skip!”?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Argh!\nWhat are you doing here?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00200",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "You didn't think anyone would hear you shouting?! Also, where's that letter of apology I asked for?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Nooo, I'm sorry!\nIt slipped my mind while talking with Rui here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "But it looks like he already wrote his.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What?!\nR-Rui, how?! When...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I finished writing it before you came to talk to me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "T-Traitor...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Finish writing it already, Tenma!\nThere's a teachers-only party that I'm not about to miss!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "O-Okay, I will!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00042_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Hehe. Sorry, Tsukasa...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But this is also going in my album of precious memories.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00226",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Tsukasa's given me so many reasons to smile.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Which has in turn allowed me to make new friends and establish new connections.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I wonder what the future has in store for me next...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,418 @@
+{
+ "title": "Unit Event — With Our Wounded Hands — Episode3 Conflicted",
+ "meta": {
+  "Event": "With Our Wounded Hands",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — Conflicted",
+  "Event Outline": "Ena hasn't been able to reach Mizuki since the school festival. She doesn't know what the right thing to do is, but her regrets compel her to seek Mizuki out for a heart-to-heart.",
+  "scenarioId": "event_150_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e001003",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shinonome Household - Living Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(What do I do...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I want to talk, but I can't get a hold of Mizuki here or in SEKAI...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_006_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hey, stop blocking the fridge for no reason. I need something out of there, so move.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh? Just like that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Are you still having trouble getting ahold of Akiyama...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Mizuki still hasn't shown up for school, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah...\nI don't know exactly what's going on since we're in different classes, but Akiyama's been gone every time I go over to see Toya during lunch.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I told him to let me know if he sees Akiyama, but nothing so far...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I guess that's to be expected...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Want me to ask another one of Akiyama's friends?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Toya probably has the best idea of what's going on, but this other girl's known Akiyama a lot longer. She might've actually gotten word somehow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I'll arrange a meeting for you two while I'm at it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, please!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000502",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kamiyama High School",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Mizuki?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hmm...\nNo, I haven't heard anything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I mean, did something happen...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "It did feel a little odd to see Mizuki missing so much school lately.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But I've gotten replies back saying, “Still not feeling it, so I'm skipping again,” and such... Which I guess means things are okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Oh...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Thank goodness. At least someone's been able to get in contact...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hang on... Does that mean you haven't been able to get ahold of Mizuki?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh... No, I haven't...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Then, would you like it if I asked Mizuki to get in touch with you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wait, you'd do that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000507",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000502",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(If she were to use my name...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Mizuki might stop replying to Shiraishi altogether, which would mean...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Sorry, I'll need to give that some more thought.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay.\nFeel free to ask again if you need any help!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Thanks, I will.\nAnd sorry for making you meet with me like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "No, that's okay! I was also a little worried about Mizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Anyway, I should get going!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Not replying to anything I send must mean...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Mizuki doesn't want to talk to me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(But if I don't do something...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Oh, you're...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hello, Shinonome.\nIt's rare to bump into you at school like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Kamishiro...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Is something wrong...?\nYou seem rather concerned.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "It's about Mizuki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Mizuki...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000105",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'm thinking about telling them everything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "About myself. To the others in my group.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000502",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "If you'd like, I'd be more than happy to listen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

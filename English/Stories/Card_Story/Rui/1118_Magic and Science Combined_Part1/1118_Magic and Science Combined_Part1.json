@@ -1,0 +1,508 @@
+{
+ "title": "Kamishiro Rui — Magic and Science Combined〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "Kamishiro Rui",
+  "Card": "Magic and Science Combined（4★）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "",
+  "scenarioId": "016042_rui01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_i000116",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "ASTRO FES - Day 1",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Ensemble Square - Studio",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Tools, drones, miniaturized robots...\nDigital blueprints for the stage equipment...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Yes, this should be all I need for the effects meeting.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Sakasaki went to fetch some things as well... Chemical components and experimental devices, he said. It may him take a little while.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Still, to think I'd have a chance to work with Sakasaki, the leader and director of the famous “magical” unit, Switch...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I can't wait to see what sort of performance this will be.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Hey, Rui!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hm? Len... And KAITO, as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Sorry to drop in on you. How are things looking for ASTRO FES?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh, I believe you've come at the perfect time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Huh?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "You see, it so happens that we'll be holding a joint performance with some of the idols from Ensemble Square tomorrow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'm just about to have a meeting to discuss the direction and effects...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "With a bona fide “magician,” no less.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<A magician?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00048_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "I'm coming iN, Rui.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Ah!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00632",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00045_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "My apoloGIES. Did I keep you waitING?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00309",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Not at all. I was absorbed in my work.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "WonderFUL. Let's begin our meetING.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, let's.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "First, I suppose we should go over the basic story.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We'll be portraying two rival musical groups, who come to understand and accept one another through their performances.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "YeS, I will play the role of the MagiCIAN, from STELLA. And you will be the InvenTOR, from WORLDS.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. The two characters are rivals, and compete both in effects and in song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "HaHA, these roles certainly are perfect for uS♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "So as I see iT, until the midPOINT, we will be free to design performances as we each see fiT.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "YoU, using your robots and dronES, and mE, with my “maGIC.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. The key, of course, is the final performance, put on jointly between the two groups after they've accepted one another.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In order to highlight how the groups have come together, I would like the final performance to include effects both “invented” and “magical.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "I couldn't agree morE. This collaboration is a rare opportuniTY, so I would like to create something new working with yoU.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "HmM... How about thiS? As a special treaT, I'll show you some of the tricks behind Switch's stage efFECTS.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "You would reveal the secrets of your magic?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "YeS. Of coursE, magic is effective specifically because it's a seCRET...\nBut if I keep all my cards close to my chesT, how will we be able to work togethER?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "As you knoW, Rui, we use magic to astound and delight our audiENCE.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "Our “magic” comes in many forMS: lighTS, screeNS, and so oN. This timE, I would like to use a chemical reactant I developed mySELF.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "I'll give you a special demonstraTION, so watch closeLY.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "...♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<He put a bunch of colored liquids in a bottle and is swirling them around.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Yeah. What do you think is going to happen...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_i000116",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "TherE... All readY.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "Abracadabra, chichin pui pui...♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00089_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...!\nWell...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Wow! The smoke coming from the bottle is sparkling and shining!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_i000116",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It truly is a magical sight.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "WhY, thank you very mucH.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "In any casE, this is only one small example of the possibilities when using chemical reactions to produce maGIC.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "So I wonDER, what kind of scientific breakthroughs could our genius Inventor create with this maGIC?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, indeed... Perhaps...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "What if we caused it to explode?　",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "ExPLODE?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. We can load those reactants into air cannons modified to increase force, and deliver them like a firework payload.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "After a powerful shockwave, magic rains from the sky. Wouldn't that be an enthralling effect?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "AhaHA... They do say art is an exploSION. You certainly are as unorthodox as the rumors sugGEST...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "But I think it's a fine ideA.\nThis will be a spectacular spelL♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Thank you.\nHmm... While we're at it, why not add in some lights and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<I don't know what it is, but Rui seems so... Energetic!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Haha, he does.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(Rui probably hasn't had many chances to talk to other directors close to him in age...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(Maybe he's happy to have made a director friend.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_i000116",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "YeS, that's a fine plaN.\nNoW, how will we realize iT?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "Could you show me the blueprints for the air canNON?\nI'll also need your data on its range and other specificaTIONS.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Of course. I'll send you the files now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "I seE... YeS, with these specS, there should be no problem implementing the chemical reacTION. I'll perform a practical test straightaWAY.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Sakasaki. Would you allow me to assist you with this test?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "Of coursE. As thanks for sharing the bluePRINTS, I don't mind tipping my hand just a little morE.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Haha, that wasn't my intention.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "There's no need to maintain appearANCES. I myself am happy to have such a capable assistant by my sidE.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "NoW, let the magic class beGIN♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Wow! Magic class, he said!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Ah, Len! Don't lean out too far...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_i000116",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "HmM? Did I just see something movE...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len & KAITO",
+   "Line": "<...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Natsume",
+   "Line": "Perhaps it was just my imaginaTION?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<We don't want to distract them, so we should head back now.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<It sure looks like their show is going to be amazing.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yeah! Hehehe, I'm looking forward to tomorrow already!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_i000116",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

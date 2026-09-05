@@ -1,0 +1,623 @@
+{
+ "title": "World Bloom — Our Starry Sky Leading to the Future — Episode6 Making Music Together",
+ "meta": {
+  "Event": "Our Starry Sky Leading to the Future",
+  "Event Type": "world_bloom",
+  "Episode": "Episode6 — Making Music Together",
+  "Event Outline": "The VIRTUAL SINGER version of Leo/need's debut song is generating buzz, and Ichika and the others couldn't be happier. As the band renews their vow to make it as pros, a new area appears in SEKAI!",
+  "scenarioId": "wl_band_01_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_leoneed_op3",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Live House",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Backstage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Okay, that's all the mics...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I should be able to head out now that I've finished putting everything away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Nice work, Hinomori.\nThanks for helping out again today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Oh, hi.\nThank you for having me again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "How's your band been doing lately?\nYou must be really busy now that you've had your big debut.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yes, though things have been ramping up slowly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "And I'm sorry about all the trouble I've been causing you. I just haven't been able to work as much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Ah, don't worry about that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "I'm just happy that I get to see someone I know become a success! Let me know if you have any questions regarding shifts and stuff.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Okay, thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Is the manager here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "...!\nIori! Mio...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mio",
+   "Line": "Oh, Hinomori...!\nLong time no see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "I'm glad we bumped into each other. We didn't know you were scheduled to work today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Wait, you both came?\nIs something the matter?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "Actually, yeah.\nWe wanted to discuss something regarding our next show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "But if Hinomori's on her way out, mind if we talked to her for a bit first?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Huh? Me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Haha, sure thing. I'll be taking care of some stuff over there, so let me know once you're done chatting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "See you later, Hinomori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Oh... O-Okay, see you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mio",
+   "Line": "Umm... Sorry, we didn't mean to startle you or anything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "It's okay. I was just a bit surprised, is all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "So, umm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "Hehe. Try to relax.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "And congratulations on your big debut, Hinomori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Thank you very much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mio",
+   "Line": "Hehe. You don't know how much Iori's been wanting to congratulate you, Hinomori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mio",
+   "Line": "I told her that she should just shoot you a message, but she was so adamant about congratulating you in person.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "Hey, she doesn't need to know all that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I had no idea.\nAgain, thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "No, Hinomori, don't laugh.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "You girls made a really good song.\nYour bass sounded so alive.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "I guess it's proof that Leo/need allows you to shine at your brightest.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I appreciate you saying that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "And thank you again, for everything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "We wouldn't have been able to go pro if it weren't for you two, Iori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "If you hadn't invited me to join your band back then, I don't think we would've ever decided to try to go pro.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Because me leaving Leo/need had become a real possibility...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mio",
+   "Line": "Hinomori...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "So, thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "I see...\nThat certainly was a path you could've taken.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "But even if you did decide to leave, I doubt it would've been easy for you to actually do it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "I mean, deep down, Hinomori, you've always wanted to keep playing music with your friends, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "It was written all over your face back then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, maybe you're right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "Anyway, the hard part starts here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "Because you have to keep getting better in order to stay competitive. And we're not about to let you hog all the glory.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Right!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "We promise to keep doing our best to keep up with STANDOUT.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00020_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00020_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(Phew...\nIt's gotten pretty late.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika's Voice",
+   "Line": "<——♪ ——♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(Our song's playing again...\nIt's coming from that billboard.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(The music video turned out so well. We all look so serious...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "But even if you did decide to leave, I doubt it would've been easy for you to actually do it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "I mean, deep down, Hinomori, you've always wanted to keep playing music with your friends, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "It was written all over your face back then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(She's right.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(When I was in junior high, I tried forming a band with other people... But it didn't go well.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(I'd convinced myself somewhere along the way that my bandmates had to be as serious as I was.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(Otherwise, we wouldn't be able to succeed.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(That's why... When Ichika and Saki wanted to get the band back together, I thought it wouldn't work out.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(I mean, they didn't initially have careers as musicians on their radar.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Don't come crying to me later saying you can't hack it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Join your band, yeah. If that's okay with you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(In the end, I realized that I wanted to keep playing with them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(My desire to go pro had always been strong...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(But so was my desire to keep playing with them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Umm... Shiho...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Huh?\nWho just...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Oh, KAITO...!\nIs something the matter?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<I was going to ask if you'd come over and play your bass with me...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<But I'm sorry...\nI overheard your conversation at the live house.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Oh, I see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "But that's okay.\nNothing we talked about needed to stay hidden or anything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Really? Thank goodness...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "More importantly, I do feel like practicing, so would you like to join me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Wait, now? But it's getting pretty late...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I know. But I really feel like playing my bass right now. Just for a little bit?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Okay, understood...\nThen, I'll meet you in SEKAI and... Oh...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<That reminds me...\nHave you heard about the new area that appeared over here...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "What new area...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

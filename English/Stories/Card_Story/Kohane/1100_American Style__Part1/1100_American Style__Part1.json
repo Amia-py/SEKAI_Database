@@ -1,0 +1,403 @@
+{
+ "title": "Azusawa Kohane — American Style?〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "Azusawa Kohane",
+  "Card": "American Style?（3★）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "Show Your Shine",
+  "scenarioId": "009042_kohane01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "New York",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Is this the apparel boutique you wanted to visit, An?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yup! The storefront looked really cool, so I have a good feeling about it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh, it's a boutique?\nJust at first glance, they've got some nice stuff here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, and much of it is different from what you see in Japan.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "The men's section is... In the back.\nWe're gonna go take a look.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay, we'll be browsing this area.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Alright, we'll be back in a little bit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_004_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_004_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Now then, since we're here, let's take a good look at what they have!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, look!\nHow awesome is this hoodie?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wow, it's cool how the logo looks like graffiti...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I know, right?! I wish I could pull off an outfit with something like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I think it'd look really good on you, An!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Haha! Thanks!\nSince I have the chance, I might just try it on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "See anything you like, Kohane?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Umm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, maybe the outfit on that mannequin...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_004_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Clerk",
+   "Line": "“Are you interested in this outfit, miss?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh? Umm...\n“Yes, it looks very cool...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Clerk",
+   "Line": "“You have a good eye.\nThis is a new one that we just got in today.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Clerk",
+   "Line": "“Would you like to try it on?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "“N-No, it wouldn't look good on me...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "“I disagree, Kohane!\nYou should try it on!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Clerk",
+   "Line": "“I agree! Who knows? You might just see yourself in a completely new light!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "U-Uhh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "“O-Okay. I'll try it on...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "H-How do I look...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wow! You look amazing, Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Clerk",
+   "Line": "“You look really cool!!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "“Th-Thank you...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, I know!\n“Can I take a picture of her?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Clerk",
+   "Line": "“Yes, of course.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wait, a picture...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I wanna show Miku... I mean, I wanna show everyone that you're trying a new type of fashion!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So, say cheese!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "O-Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Clerk",
+   "Line": "“Wait.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Clerk",
+   "Line": "“I know just the pose that'll make you look super cool.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Clerk",
+   "Line": "“First, do this with your hands. Bring this one out in front of your face like this. Here, give it a try.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "W-Wait, that's the pose...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "That's what rappers do when they yell, “Yo, check it!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Clerk",
+   "Line": "“You're trying on a cool new look, so you need to strike a cool pose too.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "“Oh... O-Okay...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You can do it, Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Y-Yo, check it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Clerk",
+   "Line": "“Hmm... Not bad. But you'll sound cooler if you project your voice a little more.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "“What...?\nBut won't I bother the other customers...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Clerk",
+   "Line": "“Oh, you won't be bothering anyone.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "“O-Okay...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "YO, CHECK IT!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, Kohane, that was really cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Clerk",
+   "Line": "“That was perfect!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_004_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_004_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We were only gone for a second. What happened?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "You two certainly seem to be enjoying yourselves.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Y-Yeah, the clerk gave us some tips about fashion and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(A message? From who?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki's Message",
+   "Line": "<Hi, Kohane!\nWhat's America been like?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Saki...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What's up, Kohane?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, one of my friends just sent me a message...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(She wants my advice...?\nWhat could this be about?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

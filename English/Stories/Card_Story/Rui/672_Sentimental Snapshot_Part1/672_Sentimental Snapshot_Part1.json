@@ -1,0 +1,508 @@
+{
+ "title": "Kamishiro Rui — Sentimental Snapshot〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "Kamishiro Rui",
+  "Card": "Sentimental Snapshot（4★）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "An Unmissable Spirited Affair",
+  "scenarioId": "016026_rui01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Rui's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00532",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "These drones... No, I'll have to leave them behind. And my maintenance toolkit...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I won't need that either since it's not like Robo-Nene will be going with us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(It's good that I've started packing for the school trip, but I can't quite seem to decide what to take...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Maybe I should look over that list again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Let's see... My phone's a must, of course.\nThe guidebook with our schedule, cash, my student ID...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "A few changes of clothes, toiletries, writing utensils and some basic medicines just in case...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Along similar lines, some wrenches, a screwdriver, wire cutters, solder, circuit boards and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Come to think of it, I haven't finished reading these books... They're not on the list, but it may be nice to have some books to read while on the bullet train.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "My ideas notebooks too, just in case I see or think of something interesting...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "*Sigh*\nMy bag won't close...\nNo, what if I pressed harder?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00171_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00287_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Rui, we're here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Hello, Rui.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku, Rin & Len",
+   "Line": "<Thanks for having us☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You left your door open.\nWhat are you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene & Tsukasa",
+   "Line": "Huh...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Oh, your floor's completely covered in all these different things.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<I've never seen some of these parts before.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Were you doing something, or have these always been here...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Oh, I know♪\nYou asked us all to gather to help you clean☆ Right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Not quite...\nI was packing for our school trip.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You were packing? That doesn't exactly explain why we can't see the floor. Keeping things tidy has never been your strong point, has it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "There's no room for us in here.\nHow are we gonna watch the video of the 30th Anniversary Show...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Sorry, I'll clean this up now.\nLet me move these out of the way first so you can all enter...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No, wait, stop! Don't move a muscle!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "There, now we can enter!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Ah, much better. Nice work.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But there's this pile still left.\nYou said you were packing for the school trip, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Those are all things I was thinking about taking with me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "This is actually much less compared to what I originally had. When we went over to the United States, I took quite a few things that I didn't end up using.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But this pile's huge... I mean, do you really need to bring all these tools along? It's not like you're gonna be doing maintenance on Robo-Nene while you're over there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I know, but I was thinking, “What if I need them just in case?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Just in case?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, for example, if the bullet train were to break down...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Even if that were to happen, the rail company's repair crew should be handling that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Then, what if the emergency sprinklers where we're staying malfunction and—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "The teachers and staff will do something about that. Why are you under the impression that you have to fix everything yourself...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Because it would cause everyone a lot of trouble if I didn't.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Oh, Rui's our knight in shining armor.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, that's so nice of you☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, that is kind of him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But you won't have room for souvenirs and such if your bag is this full from the start.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<What?! You've gotta make room for memories!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yeah, Rui, you should try to have as much fun as you can on this trip...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Thank you both very much...\nI agree...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miyake",
+   "Line": "H-Haha. Sorry, I know this is all happening really suddenly... It's also probably pretty obvious that I'm not exactly the outgoing type, so... I-If you don't want to join us, we'll understand!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miyake",
+   "Line": "But it would be nice to have you in our group, Kamishiro...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Yes, this trip may finally give me a chance to...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "As worried as I am about certain unfortunate occurrences, it's probably best for me to leave some of these behind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "If possible, would you all mind advising me on what I should or should not take...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Of course! First, we're taking out all of these tools!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00532",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "What...?! All of them? But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00532",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You're not gonna use this soldering iron or these circuit boards. Emu, can you put these on that shelf for me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Wait, but...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Now take out all these notebooks...\nUm... You have one for directing and one for story writing?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<You have so many different notebooks, Rui.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<I understand your reasoning, but you could bring just one for this trip. You could also cut and paste your notes into the right book when you get home. How does that sound?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, KAITO, you're right...\nOne would make things quite a bit easier.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, these too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00319_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00319_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? Books...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...!\nI was going to read those on the bullet train.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You were? Then, that seems fine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Thank goodness.\nI was worried that you were also going to toss those out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You give us far too little credit.\nAll we're trying to do is whittle this down to the bare essentials for your trip.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Okay, that should do it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow! Your bag feels so much lighter now☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I don't believe it...\nJust this for three days and two nights?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I really think I should take some tools—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Nope!\nYou'll just have to do with the ones you keep hidden in your pockets.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I agree!\nSo, put that wrench down!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku & Co.",
+   "Line": "Haha!\nHehe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I hope you have lots and lots of fun on this trip, Rui☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<We'll be looking forward to seeing what you bring back♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Now now...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. Thank you all very much...\nI promise to have as much fun as I can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But it's getting late, so why don't we start watching the video of the anniversary show?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin & Len",
+   "Line": "<Woohoo!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Thank you all for helping me with this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It was our pleasure.\nNow, let's get that projector we set aside back out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, let's!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

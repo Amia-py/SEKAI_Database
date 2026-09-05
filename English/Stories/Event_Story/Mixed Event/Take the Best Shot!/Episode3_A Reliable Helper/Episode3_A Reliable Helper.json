@@ -1,0 +1,743 @@
+{
+ "title": "Mixed Event — Take the Best Shot! — Episode3 A Reliable Helper",
+ "meta": {
+  "Event": "Take the Best Shot!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode3 — A Reliable Helper",
+  "Event Outline": "For Valentine's Day, Kohane hopes to buy An the chocolates she wants to try, but unfortunately, they're all sold out. Then, she learns that those chocolates are one of the prizes for a Valentine's Day photo contest being held by a makeup brand!",
+  "scenarioId": "event_120_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00005_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka Girls Academy - Class 2-A",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Okay, we'll stop here for today.\nNext time we'll be starting by going over your homework assignment, so please make sure to have it complete by then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00249_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00249_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(So you're supposed to thoroughly clean your skin first before applying your base makeup...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Wait...\nPrimer, foundation, concealer...\nThere's a lot more involved than I thought.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I was hoping to learn what I could during this break, but this is turning out to be really complicated...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(But I have to do my best for Aoyagi's sake! I'll just have to go step by step...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00046_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Kohane, are you free right now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh? Haruka...?\nIs something the matter?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Sorry for coming so suddenly, but I came to return that notebook you lent me earlier.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, right... Thanks for bringing it back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "No, I should be the one thanking you for writing such beautifully organized notes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I wouldn't have been able to catch up without it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. I'm glad to hear that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "By the way, you had this really serious look on your face while holding...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "A cosmetics magazine...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, umm... This is just...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "No, I'm sorry too.\nI was a little surprised is all since you don't usually wear any makeup.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I-It's okay, really.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "It's just... One thing led to another and I'm having to do some research on the subject.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Now I see...\nYou're learning more about makeup for your photo contest entry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, and I'll be the one doing Aoyagi's makeup...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But on top of everything that I need to get, I have to figure out how to apply it. Which is why I'm starting to get a little worried...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But for An and Shinonome's sake...\nAnd for Aoyagi's sake since he agreed to help me... I need to cram as much as I can...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Then, why don't I lend you a hand?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I learned how to do makeup from a stylist a little while back, so I can try teaching you what I know.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I should also be able to give you some advice when it comes to posing and stuff for your shoot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wh-What...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'd really appreciate it...\nBut are you sure? Aren't you really busy with work...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "You said you're doing your shoot on Saturday, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I just happen to have that day off, so I should be able to join you. We have a little more free time now after hiring a manager.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Then, if you don't mind spending part of your day off with us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I'd love to. This is the least I can do since you've been nice enough to share your notes and stuff with me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Haruka...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thank you so much...!\nI promise to do what I can too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The day of the shoot",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shopping Mall",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, Haruka, over here...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hi, Kohane! And you're Aoyagi, yes...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, it's been a while.\nI'm a complete novice when it comes to modelling, so I can't thank you enough for being here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm looking forward to working with you today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Likewise.\nI'll do my best to help.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Then, can we begin by going over the rules and guidelines for this contest again...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I'd like to go over them again as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay! I'll read out what the site says.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Let's see...\n“Entrants are required to use cosmetic products by Colore Mi and send in their photos through the entry website listed here.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, we're actually allowed to use other brands, but we at the very least have to use Colore Mi for eye shadow and lips...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I see. We can discuss that in further detail when we're picking out our cosmetics.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay. Anyway, I'll continue...\n“The theme of this contest is Valentine's Day.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Valentine's Day...?\nHow do you capture that using makeup?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I'm guessing they want us to capture certain aspects of Valentine's Day through makeup.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "For example, using dark chocolate browns for a more mature look or a combination of pinks to appear more sweet is pretty standard.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Again, we can decide what we're going to do when we're choosing our makeup.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "O-Okay...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm glad we have a professional on our side.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I'm no makeup artist, but I should at least be able to teach you the basics.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Anyway, Kohane, what comes next?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, uhh...\n“Each entrant may submit up to three photos. Entries will be ranked based on the total number of likes they receive.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "“Voters may like up to five photos. If one finds a photo they like more, they will be able to reconsider their previous choices.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see. I was under the impression that the early bird would get the worm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "If people are able to change their votes, then it seems prudent to take the highest quality photos we can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I agree.\nLet's take our time to take the best ones we can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Remind me again when we have until?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Umm... All photos must be submitted by five this afternoon, and voting will end at nine this evening.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "The rankings will be finalized once the likes have been calculated.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see. Which means we'll get to see the results later tonight...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah...!\nOnly the top ten get prizes, so let's do our best...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Alright, time is of the essence, so let's get started. First, we need to grab some makeup.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "The cosmetics department on this floor has a unisex powder room, so we can apply everything there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Cosmetics Department",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Let's see... Colore Mi should be somewhere around here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...!\nThis is astounding...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Is something wrong, Aoyagi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No, nothing's wrong... I couldn't help but feel somewhat stunned since I'd only ever seen this area from afar.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I didn't realize cosmetics came in so many different shapes and sizes. There appears to be a countless number of these makeup pens alone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. I was surprised my first time too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "The thing is, a lot of these look the same, but they all have their uses. Like coloring in your brows or lining your eyes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "These liquids and gels go on differently depending on what was used to make them. We'll discuss those in more detail when we decide which to buy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, Haruka...\nThis eye shadow palette apparently includes some limited edition Valentine's Day colors.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yeah, this chocolate-colored one's really cute. It goes perfectly with our theme, so why don't we get it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "One is more brown and the other is more orange. Which should we choose...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000277",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Well, you seem like the cool and collected type, so the brown one might help us achieve that dark chocolate look I mentioned earlier.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Plus, your skin tone calls for a more subdued color.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "My skin tone...?\nI didn't realize we had to take that into consideration. You really do know quite a lot about this subject.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. Only because of work.\nBut I'm glad this has all come in handy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Anyway, let's start grabbing whatever else we need.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Powder Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I think we have all the makeup we need...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yeah, so let's start applying it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Sorry, before we do...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Would it be alright if I tried doing it myself first?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I don't know how I'll do, but I always like to try new things whenever possible...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes, of course.\nThen, I'll show you what to do and you can copy me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you. I'll try my best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Good...\nYour eye shadow has a nice gradation to it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Really? Thank goodness.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wow... That eye shadow alone makes you look like a completely different person.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "It's designed to make your eyes look more three-dimensional, and a bit of eyeliner should help reinforce that illusion.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "That involves literally drawing right around your eyes and eyelashes, right? I'm really not sure how I'm going to do with that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Gel liners like these are pretty easy to use, so you don't have to worry. There's also a simple trick to getting the lines you want.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "And finish by using the brush to put on a thin layer of lipgloss.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "How do I look...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "*Nod*\nI think you look great!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00089_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00122",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I... I did it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Nice work, Aoyagi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you...\nI didn't realize just how much concentration putting on makeup requires.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "It does involve quite a lot of intricate work.\nBut you did an amazing job considering it was your first time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Only because you were such a good teacher, Kiritani. Thank you very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. You're welcome.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Then, I guess we can start taking some pictures...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Haruka did such an amazing job...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Not only did she find makeup that goes with Valentine's Day, she made sure they'd look good on Aoyagi...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(And he did an unbelievable job of doing his own makeup.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I can't let their efforts go to waste.\nI need to take the best photos I can...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "You already chose a site for us, right, Azusawa?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yes!\nI had a few places in mind, but based on your makeup...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,508 @@
+{
+ "title": "Shinonome Ena — Please, Put It Into Words〔Part2〕Side Story (Part 2)",
+ "meta": {
+  "Character": "Shinonome Ena",
+  "Card": "Please, Put It Into Words（2★）",
+  "Part": "Part2 — Side Story (Part 2)",
+  "Event": "Carnation Recollection",
+  "scenarioId": "019010_ena02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Ena's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000307",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<I'll be logging off now.\nGood night, K.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00098",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I'm glad Kanade's feeling better now.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(And Mafuyu...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Which leaves us with...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e001302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(We haven't talked for a while...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I want to ask Mizuki a favor too, so... Okay!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Scramble Crossing",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, there we go. Morning.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Morning. You remembered to bring the clothes you wanted me to fix up, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, here. I bought it because the pattern on the fabric is really cute, but it just doesn't look right, you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Right. It is a really nice fabric, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hmm... The sleeves are kind of long. It almost looks like menswear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "It's too wide between the shoulders too. No wonder it doesn't fit you. I see what you mean by it not looking quite right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "You think so too? I went for it since it seemed to fit alright at first glance...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But size depends on who makes it too♪\nAlright... Let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Sewing Lounge",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "And here's the final design!\nFirst, I'll trim away the parts around the shoulders that make it look too big on you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Then I'll use that fabric to spice it up and turn it into a halter top!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Finally, I'll give the bust area some gather for a better looking silhouette♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wow... This looks so cute!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Right? I'll go with this design then!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00203",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(To be honest, I was expecting Mizuki to reject my invitation. I'm surprised to have even gotten this far.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Maybe something good happened?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Oh, right...\nMizuki mentioned something about bumping into Kanade. Maybe it's something she said...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Ena, you mind...?\nYou've been staring at me for a while now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh? Oh, um... I was just wondering if you did your eyes differently today...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Okay?\nSadly, no. It's not any different from what I usually do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Anyways, don't mind me.\nJust focus on what you're doing, alright?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I already am. I feel like you're the one that's been coming and going, honestly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I don't feel like I have...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But something's bothering you, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Well, you mentioned something about running into Kanade the other day, so I was wondering what you two talked about is all...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Geez... Mafuyu's smart and everything, but Mizuki's just so sharp...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Uh... Mizuki?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You bringing up Kanade made me remember just how amazing she really is, Ena.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh? Don't tell me that you're just realizing that now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Haha. No, I already knew.\nI was just reminded of that is all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Like how she wants to save her dad, Mafuyu and so many other people. She just puts her head down and keeps marching on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Even while knowing just how hard all of that is gonna be...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Giving up probably isn't an option for her. It's also probably why she was able to make Mafuyu smile the way she did.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'm starting to think that Kanade might actually find a way to save her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah.\nI hope she does...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But why are you bringing this up now...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Huh? Because you brought her up first.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yes, really♪\nKanade's living such an incredible life too. Compared to her, my life's been so dull and boring.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I get in line like a law-abiding citizen when limited edition goods that I'm after goes on sale.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "And when all official options for getting tickets to an anime concert dry up, I give up like a good person.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh? You gave up like a good person? Come to think of it, that concert you tried to go to... ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "You applied three times through the priority, early and normal sale periods, right? I even let you use my email address.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "You got so desperate that you waited for them to announce ticket sales for the day of on their website.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Really? It's all a bit fuzzy now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "You wouldn't stop complaining either.\nHow can anyone forget that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "You don't just give up... You're more stubborn than most people.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But in that regard, I'm in the same boat as you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Otherwise, I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I'll try drawing something. I don't know if it'll be any good, but I'll try.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I wouldn't have gone back to drawing if I weren't.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Once we've set our minds on something, we stop budging.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Then you're just like Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Why just me?\nYou're the same too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You think so...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Alright, enough chatting.\nJust a bit more to go and I'll be done♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, I can't wait to see it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I guess Mizuki is feeling a little better...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I didn't learn anything new, but I guess I should just wait patiently for now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

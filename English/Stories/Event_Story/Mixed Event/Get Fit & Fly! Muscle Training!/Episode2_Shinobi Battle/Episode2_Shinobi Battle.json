@@ -1,0 +1,838 @@
+{
+ "title": "Mixed Event — Get Fit & Fly! Muscle Training! — Episode2 Shinobi Battle",
+ "meta": {
+  "Event": "Get Fit & Fly! Muscle Training!",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — Shinobi Battle",
+  "Event Outline": "Haruka thinks of ways to make exercise fun for MORE MORE JUMP!'s fans. By chance, she meets Tsukasa, who invites her to the athletic event Shinobi Battle!",
+  "scenarioId": "event_142_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_b003301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "MORE MORE HOUSE - Practice Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "...five, six, seven, eight!\nOkay, that was good. Let's stop here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Phew... How are you all doing? Were you able to copy what we did?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comments",
+   "Line": "<Yup!>\n<So tired...>\n<You're such a great teacher.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. Then, let's end our “Everybody MORE MORE DANCE!” segment here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I think we all got the hang of that dance now, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Dancing can seem really hard at first, but figuring everything out ends up being so much fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes. I hope we've managed to show you how much fun it can be.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comments",
+   "Line": "<That was fun!>\n<Please do this segment again.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Hehe. Thank goodness...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(This is the first new idea we've incorporated since we decided to put more effort into our streams, so I'm really glad that everyone enjoyed it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Quite a few are even asking us to do this again. So, we should come up with another dance to...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comments",
+   "Line": "<I never got the hang of it...>\n<Haruka looks so much cooler when she does this.>\n<How do you stop on a dime like that?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "It's okay. We can take it one step at a time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Not being able to stop when you want may have something to do with your muscle control. Having a good core is really important, so I recommend doing some strength training.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comments",
+   "Line": "<Strength training...? Okay, I'll give a few exercises a try...>\n<Thanks, Haruka!>\n<I promise to learn to dance it like all of you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comments",
+   "Line": "<I'm not very athletic, but I wanna learn to do it like you, Haruka.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. Thanks.\nThen, you'll need to put in a little effort every day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I'll show you some good exercises a little later, so let's do our best to become stronger together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Nice work, everyone.\nHere's some water.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Thanks, Shizuku.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00240_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Wow, that really hits the spot!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Still, I was amazed by the response our stream got today. Everyone seemed to really enjoy it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Some even asked us to do this again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yeah, but a few also seemed to have trouble following us. Why don't we show everyone how we train during our next stream?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Good idea. The exercises we do make us better dancers and help keep us in shape, so there should be plenty of interest.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Plus, we need to keep training in order to put on better performances moving forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah, I agree! Let's do it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Thanks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Actually, if we're going to do this, I'd like to get all the proper machines and equipment... But we can discuss that another time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "The proper machines and equipment?\nIt sounds like you're ready to start your own gym...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "B-But...! I'll do what you ask!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I'm gonna try more and more and more to learn how to perform cool dances like you, Haruka!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Me too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "All of you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. Thanks.\nThen, let's start thinking about incorporating training streams, too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I want this to help us become better performers as well, so get ready to have some fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "B-But please don't go too hard on me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Where'd all that motivation from a second ago disappear to?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(The others have all been really motivated since we began training for Idol Lovers.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I need to do my best to keep up with them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00115",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(What should we do for our next stream?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Based on the comments we received yesterday, quite a few people had trouble learning that dance. That calls for some strength training.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(We'll want to do some beginner-friendly exercises with everyone...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Hang on... If they're not all that fond of exercising, then they might avoid watching a stream that's all about working out.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(What else could we do...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b003301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Comments",
+   "Line": "<I'm not very athletic, but I wanna learn to do it like you, Haruka.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "That person wants to dance like me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(If that feeling is genuine, then it might be better to do slightly more intense drills or exercises.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Something tough, but also fun...\nThat might get them to take the dive.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(But what encompasses both of those things?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Don't you think that's going a bit too far?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Hmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(It's those two again. What are the odds?\nBut they seem to be having a serious discussion about something...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Good morning.\nYou're both here very early again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh, Kiritani.\nGood morning.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Good morning!\nOut for another run? I admire your diligence!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. Likewise.\nBut is something the matter?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "You two seemed to be having a bit of serious discussion just now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, you saw...\nYes, there is something on our minds.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Have you heard the news?\nA new facility is scheduled to open here at Nonogi Park.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh, I remember hearing something about that. It's supposed to include an obstacle course and an indoor gym, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "The gym is going to have all the latest machines and equipment. It's even going to have free showers and coin-op lockers.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes, I see.\nThat sounds incredible, but is there some sort of catch?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Actually, yes. They're going to hold a special event to celebrate the grand opening the Sunday after next!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It's called “Shinobi Battle”!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00209_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "“Shinobi Battle”...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It's an obstacle course race that's open to the public.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Teams of three will be competing to see who can finish it the fastest.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Really?\nI didn't hear anything about that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes. The course even includes a part of the new athletic area, so we're both very interested.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Overall, it looks very difficult. Each section is designed to test your various muscles.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But that just makes it all the more appetizing.\nApparently, athletes from all over will be gathering to compete.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I see. The new athletic area...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "It sounds like a difficult course, but also fun. And perfect for a stream...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Exactly! This event is apparently held at parks all over that have obstacle courses, and many people always gather both to compete and to watch.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "So much so that some out there train specifically with winning this event in mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wow indeed. Some of them are so popular that they boast large fan bases. That includes children who see them as their role models!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, I know a few guys who started playing sports after seeing it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And then there's what the winners will receive!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The top prize includes...\nPremium annual passes to the obstacle course and gym!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "What...?\nPremium annual passes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes! They even give you anytime access to the gym's premium private rooms!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "On top of that, each pass gives entry to up to four people! It's almost too good to be true, no?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Up to four people...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(That means Airi, the others and I could use the rooms to train here whenever we like.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b003301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Plus, we need to keep training in order to put on better performances moving forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I'm gonna try more and more and more to learn how to perform cool dances like you, Haruka!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I would love to get my hands on that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Indeed! We were just thinking the same thing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But we've been having trouble getting a team together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "You have?\nI figured Otori and the others would participate for sure...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Emu and them are all busy that day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We even asked our friends and classmates, but they also turned us down...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "To be fair, this is a pretty serious course. It makes sense no one wants to jump on board knowing we want to win the thing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Right... You would need people who train regularly, who could clear that obstacle course. Not many people come to mind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "*Gasp*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, they do! Right here!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wait, you're not talking about...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, I most certainly am!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Akito, Kiritani!\nWon't you join me?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Why us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Because you just said to me how that facility could allow you to train in new ways. You seemed genuinely interested in it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And you, Kiritani.\nYou seem like the type who diligently trains and exercises every day! The three of us would make the perfect team!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "W-Wait, I'm sorry!\nI believe that the three of us could surely win... But I wouldn't dream of insisting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I just hope you'll be willing to consider my offer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You are an idol, after all. You've got a lot to consider, yeah?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(That annual pass is very appealing...\nIt would be nice to train at this facility with Minori and the others.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(But he's right. I'm an idol, so my participation will involve some degree of risk...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Our fans may not enjoy seeing me team up with people they've never seen before.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Still...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b003301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Comments",
+   "Line": "<I'm not very athletic, but I wanna learn to do it like you, Haruka.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Some of them are so popular that they boast large fan bases. That includes children who see them as their role models!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, I know a few guys who started playing sports after seeing it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(This event may give me a chance to spread hope to our fans...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Would it be alright if I took some time to think about this? I'll need to discuss this with my group before agreeing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, of course!\nThe cutoff for entering isn't for a while, so please feel free to take your time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Then, I'll let you know once I've reached a decision.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Okay, I'll be looking forward to hearing from you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

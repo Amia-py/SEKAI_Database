@@ -1,0 +1,383 @@
+{
+ "title": "Megurine Luka — Between You And Me〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "Megurine Luka",
+  "Card": "Between You And Me（4★）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "Competitive Fire!",
+  "scenarioId": "024048_luka01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Phew... That was close!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Huh? Luka?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hi, MEIKO!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "What's wrong? You seem pretty flustered...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Haha. The thing is, I went over to see An just now, and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Elena's Voice",
+   "Line": "Huh? Are you on the phone with someone, An?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00632",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I see.\nWhich is why you rushed back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Exactly!\nIf it had been someone other than me, they probably would have ended up getting spotted!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "They'd get everyone's attention, everyone would come over, and it would be a whole huge scene!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Phew... So, thank goodness! That really was a close one!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Well, it certainly would draw attention...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "But I'm very glad that you didn't get seen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Heh heh heh. I am very good at running away, after all! I've been training quite a lot!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh, you've been training?\nThis is news to me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "In that case, MEIKO, as a special treat, I'll tell you all about my special training regimen!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hey, KAITO, what you're eating there. Is it a new dessert item?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00052",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, MEIKO asked me to taste a new item she's trying out! Hehe. Cake always tastes so much better when someone asks you to have it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(I can steal a small bite while he's bragging to Len...! Mmm! This is so good...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh? Luka? I didn't realize you were here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Nom...\nOh yeah, I am!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Wait a second...\nThere seems to be one less strawberry on top now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Do you know what happened to it, Luka?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, I just remembered that I have an urgent appointment! See you later!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00349_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "It was you, wasn't it, Luka?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00059_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Thank you for waiting, Luka. Just like you ordered, apple cider with lemon slices on the rim, for some reason...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Thank you, Miku! I'll just place it here, and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Okay, switcheroo complete!\nLen's going to be so surprised when he sees that his lemon tea's turned into a glass of soda!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Phew... I'm back! Man, I'm parched!\nBottoms up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "What the?! Why's this so fizzy?!\nIs it carbonated?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(Yes, he looks really startled! Hehe. My prank succeeded♪)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "This is actually pretty good too... But I know Luka was behind this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00349_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "You've gotten better at making sandwiches, Rin.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I have MEIKO to thank for teaching me so much! Now I can help you with that new menu item!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Thank you.\nI'll be making the drinks. All you need to do is follow the recipe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Okay!\nLet's see... First, I need to dress the steamed broccoli and chicken in the honey mustard sauce...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00349_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Huh?\nDid a customer just walk in, MEIKO?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "No, I'm not seeing anyone.\nBut I thought I heard the bell just now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Wait, huh?\nWhat's this drink doing here? I don't remember making it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Honestly, all my hard work has led to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Wait, huh? Is something wrong, MEIKO?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "You're unbelievable...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(Uh oh...! This means I'm about to get scolded...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "By training, you meant becoming better at pulling pranks, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Uhh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Bye now, MEIKO!\nThere's something that I need to do!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00349_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hey, wait! Stop right there, Luka!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Honestly...\nShe really is good at running away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "But she did give me that drink as a gift...so I suppose I can let her go this time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

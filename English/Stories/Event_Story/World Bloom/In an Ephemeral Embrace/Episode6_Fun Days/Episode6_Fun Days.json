@@ -1,0 +1,453 @@
+{
+ "title": "World Bloom — In an Ephemeral Embrace — Episode6 Fun Days",
+ "meta": {
+  "Event": "In an Ephemeral Embrace",
+  "Event Type": "world_bloom",
+  "Episode": "Episode6 — Fun Days",
+  "Event Outline": "Several days before the meeting in the Asahina family household, the members of Nightcord at 25:00 notice something strange happening to the tree in their SEKAI. They each soon find themselves dreaming of very different lives.",
+  "scenarioId": "wl_night_02_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link2_night_op3",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e002701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00047",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Dolce Apparel",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "All these clothes are so adorable...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Oh, I really like this skirt.\nBut it might be a little too cutesy for me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Isn't that just the cutest?!\nIt's a brand-new piece that we just got in!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Really?\nI don't know, I'm just not sure if it suits me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "No, don't say that!\nI actually think it suits you really well♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Hmm... But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "If you're looking for something a little less cutesy, then how about this one in blue?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "The silhouette is about the same, but it's a much more refreshing color. So, it should give off a completely different impression!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "You're right.\nI might actually be able to pull this one off...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hehe. I'm glad you like it!\nBy the way, this also looks really cute as part of a layered outfit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "For example, if you wore this with a turtleneck or a collared blouse... Like this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Wow, that looks incredible...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "While we're at it, I'd love to hear which accessories would go well with this outfit. Do you have any recommendations?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Actually, I have just the thing for you!\nThey're right this way♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Yes, thank you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "So, these are the ones I was talking about. Please have a look!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000457",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Wow...! These earrings are adorable!\nThe big bows make such a nice accent...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yes, and they look amazing on you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "They go really well with the outfit you're wearing right now, so you could wear them home!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "I could...!\nAlright, I'll get these...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, thank you so much!\nThen, I'll get everything put together for you right away♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e002701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Thank you very much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Nice work, Akiyama!\nThat lady really fell in love with those earrings!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hehe. I'm really glad that she ended up liking them so much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "It really is nice to hear a person say that they like something you made.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Hehe. Your handmade accessories have really made a splash.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "I'm looking forward to seeing what you make next.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Thank you! It might take a little while, but I promise to do my best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Yes, of course.\nOh, it's just about time, so why don't you clock off?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Right! Thank you for today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002402",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Main Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Thank goodness I was able to buy that extra lace! Once I get home, I'll attach it to the skirt hem, and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Ooh, this skirt in the window is so cute!\nIs it new?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hmm... But that blouse is also...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, this blouse is really nice...\nI might grab it while I'm here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(She's got a pretty good eye to pick out that blouse.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(And the outfit she's wearing's really stylish. Hehe. I bet we'd get along great.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Anyway, I can't buy both...\nSo, for now, I'll go with this skirt.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Mizuki's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00203_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Alright, that's the hem pretty much done. Next, I'll give it some gather, then attach it to the rest...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Whew, so much work left to do! I should take a quick break...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hmm... Oh, I'll watch this anime.\nPlay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hehe. That episode was so good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "It was mostly a comedic episode, but some of the things that happened at the end had implications for later. I remember people talking about that on social media.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "People were going pretty hard on the theorycrafting. Wonder how it's looking now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, yeah, this!\nThe expressions they made at the end are the same as the ones in the opening. That totally blew my mind when I realized it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wait, huh...?\nWhat's this song I just got recommended?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Who made this? Someone called K?\nHmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "The thumbnail's super simple. Just text...\nSure, I'll give it a listen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hmm... It's pretty upbeat.\nHas stuff like this been trending lately?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, what about this person's song?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00122",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wow, it's so cute!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wait, I know! This song would be perfect for a heartwarming fan video!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, I'm getting inspired already. Time to get storyboarding!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Alright, there we are!\nThis video's gonna be just the cutest!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wait, it's already morning?\nTime sure flew by...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(When I was still in school, I never got to use my time this freely.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I'd always get stuck thinking about having to go back tomorrow, and everything else...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Thinking about it that way, things are easier now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hehe. I'm so glad I dropped out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

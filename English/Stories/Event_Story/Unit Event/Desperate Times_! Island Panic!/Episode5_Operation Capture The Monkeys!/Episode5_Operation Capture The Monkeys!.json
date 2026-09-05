@@ -1,0 +1,463 @@
+{
+ "title": "Unit Event — Desperate Times?! Island Panic! — Episode5 Operation Capture The Monkeys!",
+ "meta": {
+  "Event": "Desperate Times?! Island Panic!",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — Operation Capture The Monkeys!",
+  "Event Outline": "After a very successful performance at the music hall, Wonderlands×Showtime gets to take a cruiser to their next ambassadorial show venue. But what are they going to do when they all wake up on a desert island after running into a storm...?!",
+  "scenarioId": "event_62_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d002202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Desert Island - Jungle",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Monkeys",
+   "Line": "Oooook...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "*Sigh*\nFinally, I've got you cornered...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Give up and prepare to be captured...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Come! Here! You!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00069",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Monkeys",
+   "Line": "Ook! Ook! Ooook♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00365",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Tsukasa, you didn't get any of them!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Y-Yes, I know!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Grr... They won't stop moving...\nAnd I get the feeling that they're making fun of me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, they don't seem to be taking our efforts seriously.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Bah... After spending so much energy running here too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Argh... That's enough!\nForget the bananas!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What?!\nBut we came all this way!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What choice do we have?\nNene was right. City kids like us don't stand a chance against these monkeys' natural toughness.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And it's not like we lost everything...\nWe still have a bucket full of wild herbs and berries!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monkeys",
+   "Line": "Ook?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Listen, Nene.\nYou absolutely need to protect this bucket. We can't afford to have our lifeline get stolen!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Y-Yeah...\nI know...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Now, let's head back!\nI'm sure Shosuke's worked up quite an appetite and is eagerly awaiting our return!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "R-Right. I'll also...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Nene...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I've come up with a little plan.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "These monkeys seem very smart.\nI think they've been closely observing our actions and how we talk.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "So, we may actually be able to fight by doing what we're best at...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<What we're best at...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Oh, do you mean acting?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, we can do a little skit.\nHere's my plan...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "When we corner them, we'll act like we're giving up. Then, we'll say, “We don't need those bananas,” and show them that we still have a bucket full of food.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "My guess is that they'll try to take our bucket along with the bananas, which is when we'll let loose our trap.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We can capture the monkeys by throwing a net over them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<I see.\nBut how do you plan on getting a net?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I thought we could make one out of the vine I picked up earlier and some of the torn fishing nets that I found along the coast.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "If we can somehow get it to land on top of the monkeys, our plan will succeed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, that plan sounds perfect!\nNow, who do you need doing what?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We'll need you to egg the monkeys on, Tsukasa. As for the crucial role of the person holding the bucket...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Nene, I'd like to ask you to be the one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, that means Nene gets to be the star again!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "W-Wait, why me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Because the monkeys took the bananas from you. If they see you again, they may believe that they'll be able to steal whatever else you're carrying.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "You and I will be in charge of casting the net, Emu. While you carefully show the monkeys what's in our bucket, Nene, we'll need you to somehow lure them towards us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And when they get close enough, we'll jump out and capture them with our net!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "O-Okay, I understand the plan, but these are wild monkeys we're talking about...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<I'm sure you'll do just fine, Nene.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<I know you must be very scared.\nI mean, it's not like you go around chasing after wild monkeys on a day-to-day basis.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<But I know you're able to take on even scarier challenges, Nene!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Even scarier...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, are you talking about when I got those bananas down...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Yes, that too!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<But I was talking about something closer to home. And it's not just Nene. It's something that Tsukasa, the others and I have experienced before several times.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? Hang on...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Are you talking about our shows...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Correct♪\nThe moment before you go on stage is always a little scary because you're worried about how things will go and how the audience will react, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<But I've seen you overcome that countless times, Nene!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<She's right...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<You must've also had to muster up quite a bit of courage to start performing on stage again after taking a break from it, Nene.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "KAITO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<And the way you ad-libbed a song after Robo-Nene malfunctioned was so wonderful too...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "L-Look, I appreciate what you're all trying to say...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Standing on stage can be scary, but trying to fool some monkeys seems like a different story.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(But they sorta have a point. The tension in the air before the curtains go up, being scared of forgetting my lines or worrying about staying in pitch during a song...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Compared to all that, this is...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Hehe...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<You'll be fine, Nene. Because...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<All you have to do is remember everything that you went through and think about how you were able to overcome all those situations...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Yeah, I've gotta be brave...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I can do this. I mean...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(They're all here with me.\nSo I should be fine this time too...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00100",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Nene...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Come here...!)",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

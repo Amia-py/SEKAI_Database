@@ -1,0 +1,403 @@
+{
+ "title": "Shinonome Akito — Unyielding Resolve〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "Shinonome Akito",
+  "Card": "Unyielding Resolve（4★）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "Break Down the Wall",
+  "scenarioId": "011034_akito01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Live House",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Backstage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Whew... I'm exhausted...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "We somehow managed to win the event, but we still have a lot of work to do...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, we're still basically just shouting whenever we're backed into a corner.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Singing our lungs out is always fun, but it would be nice to not be out of breath at the end of each performance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Still, each event has its own unique feel... We'll just have to keep performing in them in order to figure out how to strike a balance between our power and stamina.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh, that reminds me.\nI'm gonna go see one of the other teams again before we leave.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Huh? Again?\nBut we talked to them on our way in.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Is there someone you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah.\nAn old acquaintance from Vivid Street.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What?! You're kidding, right?!\nI didn't recognize anyone...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You probably don't know him.\nWe're talking about the first few months after I began singing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But...we ended up in a few events together after I decided to start performing in events. He gave me advice when I had no idea what I was doing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Really...? Then, that sort of makes him your mentor. Please go see him!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh, hey. Nice performance today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Musician",
+   "Line": "Hey, thanks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Musician",
+   "Line": "Wait, Akito?! What's up...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hey, long time no see.\nYou seem good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Musician",
+   "Line": "Yeah, never better! As you can tell!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Musician",
+   "Line": "You seem good too.\nYou're with Vivid BAD SQUAD now, right...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh, you know about us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Musician",
+   "Line": "Dude...\nDon't play dumb after the show you guys put on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Musician",
+   "Line": "To be fair, I didn't realize it was you up there at first.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Musician",
+   "Line": "I'd heard that you joined a team and got a lot better, but I honestly thought you were someone else until just now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Someone else? Quit pulling my leg.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Musician",
+   "Line": "No, it's proof that you've come a really long way! Take it as a compliment!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Musician",
+   "Line": "Still, what are you guys doing way out here? What happened to your dream of surpassing RAD WEEKEND? Don't tell me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Don't worry.\nI haven't given up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We've been performing in various different cities as practice in order to surpass RAD WEEKEND.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Musician",
+   "Line": "That's great to hear!\nI was really worried for a second there...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Musician",
+   "Line": "I don't know how things have been for you back in that place...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Musician",
+   "Line": "But you must've worked really hard in order to get this good, huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh? Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Musician",
+   "Line": "Congratulations!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Uh, thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Musician",
+   "Line": "What was that?\nYour hard work is paying off. You should be happier.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "No, I should be allowed to react however I want.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Musician",
+   "Line": "What? Don't give me that...\nActually, never mind. I hope we get to perform together at another event.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Me too. But we're still gonna win.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Musician",
+   "Line": "Haha. That's pretty big talk!\nGood luck surpassing RAD WEEKEND!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We will. Thank you again for today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(It's been so long since I last saw him, but he hasn't changed one bit.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Backstage",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Welcome back.\nWhat did you guys talk about?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hm? Uhh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Not much in particular.\nWe basically just said hi to each other.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "That's all.?\nBut, you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "You seem kinda happy for some reason.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Oh, I know. Something good just happened, right? You should tell us all about it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, tell us!\nWe wanna hear what happened!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Chill out, you guys...\nNothing happened. Honest.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Man...\nI really shouldn't be letting my guard down like this...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Akito. Next time, sing with that feeling in mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Now, go unleash everything you just felt! Pow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I'll try to remember this feeling.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(And one day...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I'll use it as fuel to propel myself to new heights.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

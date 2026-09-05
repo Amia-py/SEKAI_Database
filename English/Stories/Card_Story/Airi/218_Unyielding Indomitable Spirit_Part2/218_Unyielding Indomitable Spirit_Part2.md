@@ -1,0 +1,81 @@
+# Momoi Airi — Unyielding Indomitable Spirit〔Part2〕Side Story (Part 2)
+
+- **Character**：Momoi Airi
+- **Card**：Unyielding Indomitable Spirit（4★）
+- **Part**：Part2 — Side Story (Part 2)
+- **Event**：What's on your mind? Exciting Picnic!
+- **scenarioId**：007008_airi02
+
+## 正文
+
+| Speaker | Line | _kind |
+|---|---|---|
+|  | bg_a002901 | Background Change |
+|  | Highlands | Caption |
+| Airi | It really is nice to have lunch in such a beautiful place. Everything taste so much better too! | talk |
+| Shizuku | I agree. It's so different compared to when we have lunch at school together. | talk |
+| Airi | Oh, speaking of which, you two go to the same school, right, Ena, Mizuki? | talk |
+| Mizuki | Yup, we sure do♪ | talk |
+| Shizuku | Does that mean you see each other at school often? | talk |
+| Mizuki | Actually, we hardly ever see each other. Sleeping Beauty here goes to night school while I go during the day. | talk |
+| Ena | Hah, look who's talking! You only ever go when you feel like going! | talk |
+| Mizuki | Haha! Also, we're in different grades. Ena's a second year and I'm a first year. | talk |
+| Airi | That means you're the same year as Akito. Have you ever met him before? | talk |
+| Mizuki | Yeah, during the School Festival! We went around and saw a bunch of stuff together♪ | talk |
+| Shizuku | Who's Akito? | talk |
+| Airi | Ena's little brother.<br>He's pretty nice and way more mature than Ena. | talk |
+| Ena | You know that's all just an act, right? He's really a big jerk that doesn't show his older sister any respect. | talk |
+| Mizuki | But he hangs out with you and even does what you ask him to do, right? | talk |
+| Mizuki | Like that one time you two went to that cafe I told you about just to get cheesecake. Oh, and when you went to that place with the really good pancakes but only enough for the first ten people. | talk |
+| Ena | Y-Yeah... But... | talk |
+| Airi | Hehe. He even wakes you up in the morning when you really need him to. | talk |
+| Shizuku | That's so sweet. You two must be so close. | talk |
+| Ena | No, you're getting it all wrong... | talk |
+| Mizuki | You're blushing like crazy...!<br>Wait, Airi, when did you first meet Ena's li'l bro? | talk |
+| Airi | During junior high.<br>I met him when I was over at Ena's house one day. | talk |
+| Airi | I'll say hi to him every once in a while, but I haven't really talked to him since that other time... | talk |
+| Ena | Huh? What other time? | talk |
+| Airi | (Oh, right...<br>Akito never told Ena about that...) | talk |
+|  | bgm00000 | Sound |
+|  | se00053 | Sound |
+| FlashbackIn |  | Effect |
+|  | bg_c001101 | Background Change |
+|  | bgm00016 | Sound |
+|  | Back during junior high... | Caption |
+|  | Vivid Street | Caption |
+| Airi | Ena won't tell me anything. | talk |
+| Airi | Every single time I ask her about what happened between her and your guys' dad, she just says, Nothing... | talk |
+| Airi | Or even, You made your dream come true, Airi, so you keep going... | talk |
+| Akito | ... | talk |
+| Airi | Ena was a huge part of me becoming an idol, but I haven't been able to give back at all. It feels like I haven't been there for her... | talk |
+| Airi | I know this might not sound right coming from me but... | talk |
+| Airi | I don't have anyone else that I can rely on like that... I don't think Ena does either... | talk |
+| Airi | So please... I need you to look after her... | talk |
+|  | bgm00000 | Sound |
+| FlashbackOut |  | Effect |
+|  | bg_a002901 | Background Change |
+| Airi | (Ena was the reason I was able to make the most of the opportunities I was given. She gave me the courage to really go for it.) | talk |
+| Airi | (I did everything I could as an idol and regret none of it.) | talk |
+| Airi | (But then I turned around and asked Akito to do something like that after sort of just leaving Ena behind...) | talk |
+| Airi | (I haven't talked to him since then, but I guess he's still keeping his promise to me...) | talk |
+| Airi | (Ena's not the type to just let someone struggle on their own, and I guess her little brother is no different...) | talk |
+| Ena | Airi...? Hey, Earth to Airi! | talk |
+| Airi | Huh...? | talk |
+| Ena | We sort of lost you there. Is something wrong? | talk |
+|  | bgm00024 | Sound |
+| Airi | No, it's nothing.<br>I was just remembering something that happened a long time ago. | talk |
+| Ena | Uh, okay... | talk |
+| Airi | ... | talk |
+| Airi | (I've finally just started getting back on my feet as an idol, and the way we're doing things now, I might actually be able to help Ena.) | talk |
+| Airi | (In order to make that happen...) | talk |
+| Airi | (I need to do what I can to find out what's bothering Mizuki too!) | talk |
+| Airi | Anyways, I'm stuffed.<br>Shall we...? | talk |
+| Ena | Yeah. Hiking should help us walk off everything we just ate too...! | talk |
+| Shizuku | Yes, and let's make sure to have as much fun as we can while we do!  | talk |
+| Mizuki | Yeah! | talk |
+|  | bgm00000 | Sound |
+
+
+## Outline
+
+https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）

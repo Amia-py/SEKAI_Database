@@ -1,0 +1,353 @@
+{
+ "title": "Mixed Event — KAMIYAMA HIGH FESTIVAL! — Episode8 My School Festival",
+ "meta": {
+  "Event": "KAMIYAMA HIGH FESTIVAL!",
+  "Event Type": "marathon",
+  "Episode": "Episode8 — My School Festival",
+  "Event Outline": "It's the day of the Kamiyama High School Festival, which had completely slipped Mizuki's mind. Upon An's invitation, Mizuki decides to check it out and makes several interesting encounters, including one with a familiar face. Together, they reminisce on the last time they met...",
+  "scenarioId": "event_07_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000702",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kamiyama High School - Rooftop",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Mizuki, there you are!\nI tried calling, but you didn't pick up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "An?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And there's Rui! I finally found you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Sigh... It was so embarrassing searching the entire school with this guy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh, my apologies. I wasn't aware you were looking for me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "What's going on...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm glad we finally found you too, Akiyama.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh! Toya!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you for earlier.\nI actually found Tsukasa right after you left.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "So you got to tell him your thoughts about the play? That's great!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah. We didn't want you to keep wasting your time looking, but you didn't tell us how we could contact you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, right...\nI should've thought about that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "And I just happened to run into them, so we teamed up to look for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But I had no idea you knew each other!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We all just met today...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "To be fair, I didn't know you knew them either!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Well, anyway... Sorry for all the trouble.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, Mizuki!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Would you like to come with us to the night festival?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "The night festival?\nI thought you wanted to go with Kohane...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "No, this is for Kamiyama students only.\nShe went home a while ago.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Besides, didn't you leave because you were worried about being a third wheel?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "What, me? No, you have the wrong idea...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I invited you here, but you ended up all on your own. Let's at least have some fun at the night festival together. What do you say?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "An...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'd love to! Let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Rui, you're coming too!\nI want the biggest audience I can get!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Audience?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hehe. It turns out anyone who wants to take the stage is welcome to, and that's what I intend to do!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Is that why you had to leave in such a hurry after the play?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes! I had to make the necessary preparations for an impromptu show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hehehe. My exquisite voice will soon resonate throughout the entire school!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I also heard that you, Toya and Akito, are decent at singing as well, so I've enlisted them as my backup singers!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Decent...? Gee, thanks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'd be more than happy to sing with you, Tsukasa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "This night festival is the perfect opportunity for me to unveil my newest invention too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "It's another pointless gadget, right...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, and one more thing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I brought your class T-shirt too, Mizuki! Here! I'm sure you can find somewhere to get changed now that downstairs isn't as crowded.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But come to think of it... Your class's T-shirt design kinda sucks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What, Akito?! How can you say that?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Um, well... It's not really something I'd wear so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Not you too, Mizuki!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hehe. We could layer it with something. I mean, we should at least make it look cute if you're gonna wear it♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay. Get changed and let's go to the night festival!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00025",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000036",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(What a strange feeling.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I used to just observe people from the rooftop, but now I have friends of my own to hang out with...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, folks! Let's all go together!\nNight festival, here we come!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Follow my lead!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Will you keep it down...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. I hope I have enough time to get my new gadget ready before the performance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I can't believe I get to be a backup singer for Tsukasa...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Sigh... What a pain...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Who'd have thought the day would come when I'd be part of a lively group like this.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000702",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Come on, Mizuki! Let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Coming!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,528 @@
+{
+ "title": "Mixed Event — The Tomorrow We Hope For — Episode5 A Big Wish",
+ "meta": {
+  "Event": "The Tomorrow We Hope For",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode5 — A Big Wish",
+  "Event Outline": "When Haruka stops by the shrine along her usual running route, she sees the shrine maiden who was there for her in her time of need collapse. In order to repay her for her kindness, Haruka decides to help out at the shrine in her stead.",
+  "scenarioId": "event_45_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a002504",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "New Year's Eve - 9:00 pm",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shrine Hall",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Okay, everything seems to fit.\nHow about the rest of you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "H-Haruka's dressed up as a shrine maiden...! I... I feel so blessed...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Pull yourself together, Minori!\nYou're a shrine maiden today, not a fan!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, and the more experienced shrine maidens will be teaching us proper etiquette...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Veteran Shrine Maiden",
+   "Line": "Thank you for being so patient.\nWe really appreciate you volunteering today in Enomoto's place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "No, it's our pleasure. We feel like we owe her at least this, so thank you for having us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori, Airi & Shizuku",
+   "Line": "Thank you for having us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Veteran Shrine Maiden",
+   "Line": "Hehe. I was told that you're all very polite, but ladylike may be more fitting. Anyway, shall we start discussing etiquette and what you'll be doing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Everyone",
+   "Line": "Yes, please!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Okay, so we welcome all the visitors by saying, “Thank you for visiting”... And when we're selling charms and stuff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Minori, we don't “sell” anything. We “confer” them to others.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, that's right!\nBecause sharing a bit of the divine with everyone...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Exactly. Charms and talismans, as well as divine blessings by extension, can be received at the reception building or “Juyosho”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hehe. It's so interesting how shrines have their own vocabulary.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "And we're supposed to treat money as “offerings”. It might take a while to get used to that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Also, do you all know what your assignments are...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yup!\nI'm helping with Omikuji!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I'll be at the reception with Minori, but helping with conferring charms and talismans instead.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I'll be helping with the sacred wine and amazake.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Okay, sounds like we're all set.\nI'll be helping out as a guide for the visitors, so let me know if anything happens. That way, I'll be able to tell the shrine right away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Minori, Shizuku, your break starts at 4:00 am. Airi and I will take our break at 5:00 am. Also, it's already pretty cold out, so please make sure to stay warm. I wouldn't want us to come down with anything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Right! Hehe...\nIt's so nice having you as our leader, Haruka!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "What? I'm the leader?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, you seem so on top of everything. The other shrine maiden even said that you'd be perfect as a guide and go-between for us. Doesn't that make you our leader by default?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "She's right! ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. Thank you...\nI promise to do my best as your leader today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Thirty minutes until we start.\nWe should probably head over to get ready.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Okay! Oh, look...! Some visitors are already waiting in line.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "They're here so early.\nMaybe they want to be the first ones who make a wish?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "If that's the case, they might be hoping for something really big!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "A big wish...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Is everything okay, Haruka...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh, sorry. I spaced out a little while thinking about what happened when I was little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "When you were little...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "When I initially decided that I wanted to become an idol.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I came to this shrine fairly often back then hoping that my wish would come true.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes. I made my decision to become an idol in the third grade and started running every morning.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "And I came here to wish that I'd become an idol someday.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Whoa...! But you're Haruka Kiritani.\nEveryone sees you as someone who can do anything all on their own. Not someone who prays for a gift from up above...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. I get told that pretty often.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Of course, I knew that I had to put in the effort to actually become an idol.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But who you meet or what you do can also turn into lucky opportunities, no...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I realized that I couldn't control any of that, so I started coming here to hope that things would tilt my way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "And you ended up becoming the lead for a huge idol group...! That's Haruka Kiritani for you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "So you've had this razor-sharp focus ever since you were little?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I wouldn't go quite that far.\nI can think of plenty of times when I was worried about what would happen moving forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "For example, I couldn't sleep at night after becoming the lead for ASRUN because I became so anxious.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I had no idea...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "R-Really...?!\nThat's happened to you too, Haruka...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes. I was worried about whether or not I could fill those shoes and felt all this pressure to perform well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Then, I decided to come back to this shrine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_prayer_2022_005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "*Sigh*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(It's not working...\nComing here always put me at ease before, but I can't shake these feelings this time...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Our nationwide tour starts next week too... And I'm supposed to start appearing as a regular on that TV show...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Do I really have what it takes to be the lead...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shrine Maiden",
+   "Line": "E-Excuse me...\nDid you drop this handkerchief by chance?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Huh? Oh...\nYes, that's mine. Thank you very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I think I dropped it after washing my hands. This handkerchief means quite a bit to me, so I really appreciate it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shrine Maiden",
+   "Line": "You're welcome. I'm just glad I could reunite it with its owner.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Again, thank you very much.\nNow, if you'll excuse me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shrine Maiden",
+   "Line": "I'm sure your wish will come true...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shrine Maiden",
+   "Line": "I'm sorry.\nIt just seemed like you had a lot on your mind while praying just now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shrine Maiden",
+   "Line": "I believe that those who are humble and earnest will be blessed. So please, don't think that you're all alone...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shrine Maiden",
+   "Line": "I'm so sorry. I didn't mean to pry...\nIf you'll excuse me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I'm not alone...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I got so caught up in trying to meet our fans' expectations...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(But she's right. I'm not alone...\nI have ASRUN, and we're all in this together...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "E-Excuse me...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shrine Maiden",
+   "Line": "Y-Yes...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Thank you very much...\nYou were right. I was putting far too much pressure on myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I promise to ask the others for help. I know I need to work with them more now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Also, if possible...\nCould you tell me your name?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002504",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "And that shrine maiden was Ms. Enomoto.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "What she said made me see things in a different light. She taught me that I just have to keep doing everything that's in my own power.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "That's so beautiful....!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "So that's what you meant by her “supporting” you. Now I understand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "She really did.\nShe even mentioned how she enjoys seeing everyone trying to make their futures as bright as possible...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "So I want to do that too. I want to help everyone out as much as I can today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Then, why don't we all do that together? Let's do everything we can to make everybody's wishes come true.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. I wonder what they'll all be wishing for.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I can't wait to find out!\nWhy don't we start heading over?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

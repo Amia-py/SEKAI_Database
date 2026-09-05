@@ -1,0 +1,933 @@
+{
+ "title": "Mixed Event — STRAY BAD DOG — Episode6 What I Can Do As Your Partner",
+ "meta": {
+  "Event": "STRAY BAD DOG",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode6 — What I Can Do As Your Partner",
+  "Event Outline": "Vivid BAD SQUAD shows signs of growth, inspired by changes in Toya. One day, they'll be able to reach the heights of that legendary night. With that thought in his head, Akito learns of the man said to be the closest to surpassing RAD WEEKEND...!",
+  "scenarioId": "event_21_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Vivid Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00100",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Akito, wait...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Toya, what is it? Did you run here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Please, talk to me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Talk? About what...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "About how you're overworking yourself, Akito.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I understand that you want to keep getting better to surpass RAD WEEKEND someday...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But you'll end up collapsing before that happens at this rate. All your effort would go to waste!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I'm doing this knowing the risks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "If all it took was practicing like we usually do, I would already be doing that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But I won't be able to surpass RAD WEEKEND if I don't do this. I have to be able to handle anything that's thrown at me and do absolutely everything I can to make it happen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "What happened that night really is bothering you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I don't believe what Tono said is true. You aren't the one that's holding us back...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "You don't seem satisfied by that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Then how about this? Let's say that at your current level, Akito, that you can't surpass RAD WEEKEND...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Doesn't that also mean we as a team still can't as well?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The first-rate performers Tono was talking about are still in the distant future. We all have to keep getting better to succeed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Please, don't do this to yourself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "When I hit a wall that other time, you told me to let you help.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "That applies to you too.\nWe're a team.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Toya...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(When I joined together with Toya, I started practicing like no other to make sure I didn't disappoint him.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I finally thought that I made it to a respectable level, and we even met An and Kohane. It felt like we were actually making progress towards our goal.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Your teammates are all more talented than you realize and they may even become first-rate performers in their own right in time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "But it's too hard for me to believe that you'll be up there with them when that time comes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I know exactly what he's talking about...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I have to start working even harder if I actually want to surpass RAD WEEKEND with them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(For now, all I can do is work as hard as I did when I first met Toya...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00134",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "A-An! There they are!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "The event's about to start.\nWe can talk later...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Akito...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00035",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend Garage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What on earth is going on with Akito?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm really worried. He always seems so tired and won't tell us if he's actually been getting any rest...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, I know!\nWhat if your dad tries to talk to him, An...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We already tried that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "He just said thanks for giving him some advice and sort of just shrugged it off from what I gathered...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "He wouldn't even listen to Ken?\nWhat else can we do...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "If only we could learn why he's acting the way he is now, then we might be able to come up with something...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, wait... What if we tried asking everyone over there...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00073",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Alright, we're here!\nNow, let's try to...\nHuh? This song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, this is nice...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "There!\nSomething like that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wow, that's so cool!\nConsidering it's KAITO...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "What do mean considering it's me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "He's right. You two need to be a little more appreciative of him since he taught you about how to use a sampler.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "KAITO was playing that song...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh, hello.\nI didn't notice you there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "No, please don't mind us!\nWe heard a really nice song playing and started wondering where it was coming from...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Really?\nI'm glad you liked it so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "But it's just three of you today?\nWhere's Akito...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "About that...\nDo you have some time to talk?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00054",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Crase Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "So that's why Akito hasn't been around lately...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I know he's the stoic and hard-working type, but trying to do this all on his own seems a bit much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Did losing do this to him?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Shinonome always looks after us, but to go this far after losing one battle...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Exactly...\nThere may be something even bigger eating away at Akito right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Hmm...\nBut what could that be?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The last time I spoke with him, he seemed very anxious...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Anxious...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Kohane, what's up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I can't say for sure, but maybe Shinonome is doing this because of you, Aoyagi...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "After you settled things with your father, you started getting better so fast, right...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Maybe he saw this as a sort of warning that told him to keep up, and it started making him anxious...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Why would he think that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "That's what I'm not sure about...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I think he wants to be able to help us, especially the person that's always next to him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I was under the impression that after that incident with my father, I finally reached his level...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "You may not be the only person on his mind, Toya...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "You've all improved so much since you became a team.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "We have...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Thanks, Miku!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Akito wanting to keep getting better along with his teammates seems natural...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I wish he'd talk to us and lean on us more. Is that too much to ask...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Hmm...\nIt could be...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I mean, isn't that what it means to be a team?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "When things aren't going well, you cheer each other up, and you make each other better when things are going your way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "At the same time, it's not a good idea to constantly rely on everyone else, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "But now may be the time when you need to reach out to him, especially since you're all chasing after the same dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Reach out to him...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Great job, Toya.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "We need to help him as his teammates. I need to support him as his partner...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So that we can keep growing together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, sounds good.\nThanks for your help, KAITO.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "It's time to go, you two!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Weekend Garage",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay, we're back.\nLet's get a hold of Akito and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Musician",
+   "Line": "Hey! Is Toya here?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wait, you! That guy from before...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Sorry... What was your name?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Kotaro Mita!\nBut that's not why I'm here...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I'm supposed to be in this event with Akito today, but something's wrong with him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "With Akito?\nWhat's going on?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "We're doing a battle event today, but this other guy, Arata Tono, just decided to crash it. Akito looked like he'd just snapped or something...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I don't know how to put it into words, but it's like he's his old self again, you know...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "His old self...?\nWhat do you mean?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "You know? When you guys just became the BAD DOGS? I mean, seriously...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Please, continue. Tell us everything you know.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Y-Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "You guys had it pretty rough back then, right? The older musicians were picking on you, and even the crowd was always getting in your face...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I remember...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Even you guys had to deal with that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "We did. But that was also when we were desperately doing everything we could to get better. Akito in particular had this aura about him, even during practice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "He worked so hard on trying to make it as a performer and surpass “that night”. I struggled to keep up with him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, I can totally see that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Shinonome has a really good work ethic so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But what does that have to do with what's happening now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Maybe that's how it looked to you, Toya, but not to us. That went way beyond what the rest of us called “hard-working”...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "He kept at it, even when you weren't there. Day and night, regardless if he could even physically sing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I couldn't get much out of him then, but I think he was trying to keep up with you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "With me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Yeah, you have a classical music background, so your musical intuition is through the roof. He probably felt that someone way beyond him just came onto the scene...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Other people have even been saying that Akito is living off his partner's talents...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You're kidding! That's awful!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I'm the one that's holding us back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No, that's not true.\nAkito, you've...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It is true. I know better than anyone else...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Akito...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you for telling us, Mita.\nDo you know where Akito is now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "He's... He's at that live house... BROWN!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Got it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wait, Toya...!\nWe're going too, Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00064",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

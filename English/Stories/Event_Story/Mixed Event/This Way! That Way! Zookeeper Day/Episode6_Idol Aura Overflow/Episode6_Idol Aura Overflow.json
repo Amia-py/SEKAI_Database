@@ -1,0 +1,603 @@
+{
+ "title": "Mixed Event — This Way! That Way! Zookeeper Day — Episode6 Idol Aura Overflow",
+ "meta": {
+  "Event": "This Way! That Way! Zookeeper Day",
+  "Event Type": "marathon",
+  "Episode": "Episode6 — Idol Aura Overflow",
+  "Event Outline": "Fresh second-years Minori and Shiho are on the animal caretaker committee, and their work has already begun. When they learn about a shadowing opportunity at Odaiba Animal Land from a teacher, they decide to participate. Animal antics ensue!",
+  "scenarioId": "event_115_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a006201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Odaiba Animal Land",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "*Sigh*\nWorking with the animals was so much fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, but I'm also looking forward to seeing what goes on behind the scenes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Me too!\nAnd how great is it that we get to go around the zoo during our break?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Where should we go?!\nI really wanna see the Savannah Area!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, it could be fun to see what animals they have there. Why don't we head over and—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "No, wait!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Whoa, what's the big fuss?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "That girl over there...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "That slim frame and beautiful posture...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "The outfit she's wearing looks so simple, but she gives off this aura of being extraordinary...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "It must be her!\nThe idol who's loved by everyone and continues to evolve every day! Haruka!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "No, there's no way.\nYeah, she looks pretty similar, but what are the odds of—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Thanks for waiting, Haruka!\nThings took a little longer than expected at checkout...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Ichika?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, Ichika's here too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_002_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hey, you two!\nWhat brings you both here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Minori...!\nOh, and you're with Hinomori...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Well...\nSince the cat's out of the bag.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "After we heard that you'd both be shadowing here today, we planned to try to surprise you once you were all done.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "We invited Saki, but she had a conflict.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "O-Oh, okay...\nI had no idea that you guys were planning anything like that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But our cover's blown.\nWe didn't realize that it'd be over this soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Actually, we're not done yet.\nWe're on break, and they said it was okay to check out the rest of the zoo.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah.\nSo we have to head back when our break's over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But we still have time to hang out.\nLet's go around the zoo together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Okay.\nIf you two still have time, then let's do that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "The two of us were planning on going around the zoo anyway while we waited for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Thank goodness!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Then, let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "*Sigh*\nThe Savannah Area was so cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yeah, the servals and caracals were really cute.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I didn't know that they were carnivores.\nIt was surprising to hear that they eat moles.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Alright, where should we go next?!\nBased on this pamphlet, the Wetland Area's right near here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "They have all sorts of fish, frogs and birds!\nAnd lots and lots of different plants, and—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Whoa, there he is!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Oh wow!\nLook at him go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Wh-What's going on?\nEveryone seems excited suddenly—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_keeper_2023_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Huh? What's wrong...?\nWhy do you all look so surprised?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Well, I mean...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Minori, look at your feet...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "My feet...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mysterious Creature",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Eeeeppp!\nWh-Wh-Wh-Wh-Who are you?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Female Regular",
+   "Line": "Oh, look at that...\nDylan's escaped again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "E-Escaped...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Regular",
+   "Line": "Yes, Dylan the armadillo's become quite the escape artist because he likes going for strolls around the zoo so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Regular",
+   "Line": "That said, the staff are quick to catch on, so it always ends with him getting chased around. His escape attempts have lately become one of this zoo's unofficial attractions...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Attraction... Armadillo...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Second-Year A",
+   "Line": "Hey, that sounds like fun!\nOdaiba Animal Land's a fully indoor zoo, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Second-Year B",
+   "Line": "Yeah, they're pretty rare.\nI remember seeing on TV how everyone goes to see the armadillos!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a006201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Now I see...\nThis is what everyone was talking about.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I've never seen one before in real life...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Wait, if the staff are always chasing him around, shouldn't we tell them that he's here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Good point!\nSince I'm here as a zookeeper for a day, I can't let him out of my sight!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Okay, Dylan, it's time to go home!\nLemme carry you over so that the staff can—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Dylan",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_keeper_2023_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh no!\nDylan's making a run for—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Waaahhh!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00210_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "...!\nMinori, are you okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I-I'm okay.\nMore importantly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Did you see the way he ran?!\nThe way he scurried along on his little legs was too adorable!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I'm not sure now's the right time to be gushing over him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "For now, Minori and I will try to catch him.\nSorry, Kiritani, but can you let the staff know for us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yeah, sure.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "W-Wait, what do I do...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, Private Ichika, you can catch him with us! It's time for us to commence Operation: Detain Dylan!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Detain Dylan...?\nAlso, Private Ichika...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Alright, let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Huh?! W-Wait...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00349_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00627",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Huff... Huff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00254",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "He's so much faster than I expected!\nI haven't even been able to get close!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Plus, we can't really keep him in our sights because of all these people...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah, we can see him just barely now, but we'll lose him the second he runs into— *Gasp*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00627",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Wow, he really disappeared!\nWhere'd he go?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "H-He was running in this direction, so he couldn't have gone very far...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Down the right passageway!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Huh? The right...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, yes!\nThere he is!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Let's go after him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_002_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(The others probably believe that was someone from the crowd just now. But I'm guessing it was really...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a006201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(Aha! It was Luka!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(We're bound to succeed if she can help us!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(We've gotta catch Dylan no matter what...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

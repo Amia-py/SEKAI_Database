@@ -1,0 +1,753 @@
+{
+ "title": "Unit Event — Halt! Tenma's on the Case — Episode4 After That Ninja!",
+ "meta": {
+  "Event": "Halt! Tenma's on the Case",
+  "Event Type": "marathon",
+  "Episode": "Episode4 — After That Ninja!",
+  "Event Outline": "At Kijima's suggestion, Tsukasa has been putting on muscle to increase his acting chops. He and the others arrive at the Jidaigeki Studio Park with the Mikazukigumi troupe, but news of a theft puts the new production on hold...and that's when Tsukasa spots a suspicious ninja on the lot!",
+  "scenarioId": "event_136_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Hiori Jidaigeki Studio Park - Main Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What's taking Tsukasa so long?\nDo you think he's having trouble finding those dango?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "That warehouse is pretty big...\nMaybe I should've gone with him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hmm...\nHe did take his phone with him, so why don't we send him a message...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa's Voice",
+   "Line": "You're wanted for arrest!!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? That voice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00496_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Stop right there!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00496_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hey, it's Tsukasa!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I knew it...!\nAlso, arrest? What's he talking about...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_torimonothou_2024_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Whoa!\nA ninja just ran thataway!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00496_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thief! Cease! And! Desist!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00496_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, Tsukasa's chasing after the ninja!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Perhaps that ninja is the thief who's been plaguing this park...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What?! That ninja's the thief?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, he might be right...!\nTsukasa even called him a thief just now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Then, we gotta chase after him!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Nene, you go tell the nearby park staff about our possible suspect.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Okay, got it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00496_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Stop right there!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00026",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Darn it...!\nI thought I would've caught him by now since he didn't get much of a lead on me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00496_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_torimonothou_2024_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00496_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(But this ninja thief's quick...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(My training with Mikazukigumi has made me a much faster runner...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I'm so close...!\nHe's right in front of me...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00496_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shady Man in Ninja Outfit",
+   "Line": "...!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00496_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(...!\nI got a hand on his outfit, but I can't stop him!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Hm? The back of this ninja's hand...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00496_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(...!\nIt's always crowded outside of the magistrate's office! At this rate...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_torimonothou_2024_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Grr...!\nI lost him! He's somewhere in this crowd...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(However, I'll surely be able to pick him out with the way he's dressed! Where is he...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ninja Cast Member A",
+   "Line": "Attention, everyone!\nThe ninja class will be starting soon!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ninja Cast Member B",
+   "Line": "We ask those who wish to learn the way of the ninja to please gather here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!\nN-Now there are ninjas everywhere...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Wow, that sounds like fun!\nI wanna go, Mommy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Yes, it does look like fun.\nWhy don't we go learn together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Too many people are gathering!\nThis is bad...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No...\nI completely lost him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Mikazukigumi Practice Area",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "I see...\nYou spotted him in the warehouse and gave chase, but lost sight of him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes...\nI feel so ashamed...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "No, don't be.\nIt took great courage for you to try to catch him after seeing him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "However, we don't know what he might do when he's backed into a corner. So, please refrain from trying to catch him on your own next time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Be sure to ask a nearby adult or security guard.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Tsukasa looks really sad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I understand how he must feel...\nHe was so close to catching the thief.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I was so close. If only I were able to run a little faster, then I might've been able to catch him...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(And me catching him would've meant us being able to resume doing our performances...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Still, Tenma, you've provided us with an incredibly valuable clue.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Our thief operating while disguised as a ninja. Knowing that is massive.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But what if he decides to change or remove his disguise...? We wouldn't be able to identify him then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Actually, there are only a couple designated places in this park where people are able to dress as ninjas.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "One is the changing rooms for the cast. The other is the ninja village, which is approximately where your chase ended, Tenma.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "One of my troupe members just happened to be over there when Kusanagi sent me that message. I'm having them keep an eye out for anyone going to change outfits.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "However, no one besides children seems to have changed. Which means...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "There's a good chance that the ninja is still wearing the same outfit?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Exactly.\nNow, we can't rule out the possibility that our perp is a member of the cast.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "But based on what the staff just told me, no one has changed since that time. They even have security camera footage to back up this claim.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!\nThen...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That ninja is still somewhere in the park...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Yeah, I think so.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Naturally, he could change outside of the changing rooms, but there aren't many places in the park where you could do so out of sight. Not to mention how the entrances and exits to the bathrooms and the park itself are monitored by security cameras.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Right... Which means...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(We still have a chance to catch him...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mikazukigumi Member",
+   "Line": "Still...\nWhat does he want with that prop?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mikazukigumi Member",
+   "Line": "Good question.\nIt's not like it's worth anything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I have a feeling that he mistook it for the pot that's supposed to be on exhibit here tomorrow. The one in this flyer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What's this?\n“See the renowned Kikuo Fujino's ceramic pots here at Jidaigeki Studio Park!”...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "So, he thought it was a priceless piece of art...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That would be my guess.\nHe saw a similar pot in the part of the warehouse we're borrowing and had a misunderstanding.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mikazukigumi Member",
+   "Line": "So, he's not a very good thief...?\nI mean, why would anyone leave a priceless piece of art in a warehouse like that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "However, he's quick. Very quick.\nJust like Chusuke the swift-footed thief.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "All this to say, let's keep warning the guests about what's been going on while keeping an eye out for him and trying to find that pot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "He may've stashed the pot away somewhere, but odds are high that he's still dressed as a ninja.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "So, let's split up and look for any suspicious-looking ninjas. We'll patrol the ninja village, main street and tea district.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "You and the others will take the main street, Tenma, but please be careful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We will!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Alright, ninja...!\nI'm going to catch you no matter what...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Okay, we're back where we all were when we saw that thieving ninja, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hmm... How do we actually go about finding him...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Which way did he go when you were chasing after him, Tsukasa?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That way.\nBut there's a four-way intersection up ahead...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "He could've gone in any direction...\nSo we really have no leads besides the possibility that he's still dressed as a ninja.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Which means we'll have to do some good old-fashioned detective work...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Oh, you all look so concerned. Is something wrong?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm? That voice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Luka! What are you doing here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Remember how you told us that you'd be doing your next show at the Jidaigeki Studio Park?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<I wanted to see what it's like...\nSo, I decided to come take a look♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<But I began to wonder what was going on based on your troubled expressions.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, so!\nThis ninja thief stole a prop pot!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<A prop pot...? A ninja thief...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "She's gonna need a little more information, Emu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We may want to start from the beginning here. The thing is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...which is why we're now looking for that thieving ninja and the pot he stole.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We were just trying to come up with a way to find him since we're basically out of leads.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Yes, I see...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We believe that he's hidden among the guests and cast members dressed as ninjas.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "So, as time-consuming as this is likely going to be, our best option may be to talk to everyone we see who's wearing a similar outfit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wait, how are we gonna know that we're talking to the real ninja thief?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, I think I've got that covered.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You do?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I just recalled something, and already let Mr. Kijima know...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "While I was chasing him, I noticed these scars on the back of his right hand. Three lines like a cat scratched him or something.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "So, if it's him, we'll know once we've seen his hand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I see. That's good to know.\nIt saves us the trouble of having to get everyone's alibis.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Right!\nNow we just have to find him!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But this place is huge...\nJust finding people dressed as ninjas is gonna be really hard.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "True.\nWe're dealing with a big crowd and poor visibility.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I wish there were a more efficient way to investigate, but we'll just have to look at everyone we come across...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "If only I'd brought one of my drones...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Oh...♪\nHehe. I just thought of a wonderful idea.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm? A wonderful idea?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Yes♪\nUmm... Emu, would you mind lending me a hand?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Huh? Me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Yes!\nMy idea should make it much easier to find this ninja thief♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

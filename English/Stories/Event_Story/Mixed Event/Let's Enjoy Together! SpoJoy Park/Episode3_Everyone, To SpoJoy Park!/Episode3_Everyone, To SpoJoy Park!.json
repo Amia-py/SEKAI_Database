@@ -1,0 +1,758 @@
+{
+ "title": "Mixed Event — Let's Enjoy Together! SpoJoy Park — Episode3 Everyone, To SpoJoy Park!",
+ "meta": {
+  "Event": "Let's Enjoy Together! SpoJoy Park",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode3 — Everyone, To SpoJoy Park!",
+  "Event Outline": "Kanade's fatigue has been catching up to her as of late. Worried that it might affect her compositions, she decides to put effort into building her stamina alongside Ena. They hear that a new sports facility called SpoJoy Park just opened near the station...",
+  "scenarioId": "event_63_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a002301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Outside the station",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "——♪ ————♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Wow...!\nThe way Ichika sings is always so cool...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Is she your friend, Minori?\nShe does seem like the cool type.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah! She's cool, collected and really mature, but also super nice!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "She's even in a band with her childhood friends and they're all trying to go pro together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, really?\nThat explains why she's so good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "——♪ ——♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hoshino's singing voice is so gentle... But also feels so powerful...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wait, Kanade, you know her?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, I do.\nRemember when I borrowed that Miku CD from someone? That was Hoshino.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "That was her...?!\nThen, she's Mafuyu's junior, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Whoa...!\nKanade, I didn't know you were friends with Ichika...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Seeing that I know the friends of my friends is kinda perplexing, but also makes me really happy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Friends...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Are we...friends?\nWe just talked about music...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "——♪ ————♪ ——...♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Thank you all for listening!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00022",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Ichika, that was great!\nYou were so amazing just now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, Minori, you stopped by to listen... Hm? Wait, isn't that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Y-Yoisaki...?!\nWhat are you doing here...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm here with Hanasato.\nI really liked your song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Th-Thank you...\nI'm glad to hear that but also a little embarrassed...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yoisaki, I was so surprised to hear that you knew Minori... Oh, but I don't think I've met your friend here... Um...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I'm Ichika Hoshino.\nIt's nice to meet you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, I'm Ena Shinonome.\nNice to meet you. I draw illustrations for the music group Kanade and I are in.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "For your music group...?\nThen, Shinonome, you drew all that artwork...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I saw you guys' music video the other day and really loved the illustrations! I thought it was wonderful!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh? R-Really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes! I almost couldn't believe how well it captured the song's theme! It was really incredible!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Well, it's really nothing special...\nBut it's nice to hear you say that since I do put a lot of thought into my art.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm glad for you, Ena.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "By the way, what are you all doing here together...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "After some discussion, we all decided to head over to SpoJoy Park together to work on building our stamina!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hanasato saved us by suggesting to try it out since exercising outside isn't exactly easy right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hehe. Let's all break a good sweat, Kanade!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Kanade...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Minori, I didn't realize that you and Yoisaki were so close. You calling her Kanade sort of startled me a little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, I thought the same thing just now. Is it because you helped her out the other day?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Huh? But we're the same age...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "The same age?\nAren't you a year younger than Airi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "What? I mean, yes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But Kanade's...\nWait, are we not?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I don't know much about Airi, but I'm the same age as Ena...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Right.\nWhich means you're a year older than Minori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "What?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Th-That means I've been getting the wrong idea this entire time...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I'm so sorry!!\nKanade... Wait, no! I mean... You're so tiny and adorable that I just assumed we're around the same age!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It's okay, really. I don't mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "And you don't have to be formal at all with me. Call me what you're comfortable with.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "R-Really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, you don't have to be formal with us. I mean, we're not at school, so let's just talk without caring about how old we all are.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Th-Thank you...!\nKanade! Ena!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Great. Right back at you, Minori, Ichika.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Um... Ena... Kanade...\nIt'll be my honor to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hm? What happened to not being so formal?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I-I'm sorry.\nIt's just... I'm not very used to these sorts of situations, so I can't help but talk like that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hehe. Don't worry.\nIt's okay to just be yourself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, I almost forgot.\nYou were all about to head over to SpoJoy Park, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah, we were! Hey, Ichika, why don't you come with us?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Wait, me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah! The more the merrier, right?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(SpoJoy Park, huh...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Come to think of it, singing isn't just about the physical act of singing. You need good stamina and a high lung capacity to be able to project your voice to the back of big live houses.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(And I want to talk more with both of them...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I don't mind... What do you say, Ichika?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, um...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "If you two are okay with it, I'd like to join you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'd like that as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Alright, sounds good. Let's all go together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Woohoo!\nHere we come SpoJoy Park!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00148",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "SpoJoy Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Here we are... We have arrived at SpoJoy Park!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It's so cool...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "It is nice. It's hard to believe that it's so hot out, and we won't have to worry about getting heat stroke while we're here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wow, you really can play all sorts of different sports... They've got basketball and tennis courts...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, you can play futsal on the rooftop!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "They even have that...?\nThis place really does sound like fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I'm glad we learned about this place, Kanade.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Me too.\nThank you, Hanasato.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hehe. You're very welcome!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Look!\nThey have an arcade over there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Huh? Isn't this supposed to be a sports facility?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Maybe it's because they get a lot of kids here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wait...!\nThat claw machine has PenPyon plushies!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "They're so popular because of how cute they are... They'd look great in a selfie too, so I kinda want one...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "PenPyon...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Wait, yeah! It's PenPyon!\nHaruka's really into that character right now, so maybe she'd like it if I got her one...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Mind if I give it a quick go...?\nI'll be right back!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I-I'm gonna give it a try too...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "W-Wait, what happened to exercising...?!\nThere they go...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Is PenPyon really that popular?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I guess so. One of my friends also has a few.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Um, I need to use the restroom for a bit. What about you, Kanade...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm okay. I'll wait here, so take your time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay.\nI'll be right back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena's Voice",
+   "Line": "No! It fell again!\nSeriously, how weak is this arm?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori's Voice",
+   "Line": "But we almost got it just now, Ena! I'm gonna give it another try!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena's Voice",
+   "Line": "Yeah, one or two more and we might actually have it... Alright, once more!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Hehe...\nThey seem to be enjoying themselves.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Also...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boys",
+   "Line": "Hey, let's play some futsal!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boys",
+   "Line": "Yeah!\nHow should we do teams?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High Schoolers",
+   "Line": "No, that ball was so going in!\nI totally had you that time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High Schoolers",
+   "Line": "Haha. You can ask for as many rematches as you want, but you're never gonna beat me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High Schoolers",
+   "Line": "Grr! You're the worst!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Everyone here seems to be having fun.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(What was that?\nMy chest felt funny for a second just now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Oh, you've come to another fun-looking place.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Luka...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Aren't you going to join the others, Kanade? All those plushies look so adorable.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, I think they're cute too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "But I'll pass.\nI don't usually put plushies or anything in my room...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Hehe. I think it's more about the challenge that the game presents, no?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Kanade, thank you for waiting.\nWho were you talking to just now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, um... No one...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay...?\nHang on. They're still at it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "They've been trying over and over again. They seem adamant about getting a plushie.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, I think they're done.\nAnd they seem awfully sad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "*Sob*\nI couldn't get a PenPyon for Haruka...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Honestly, what was with that claw machine?! There's no way that it wasn't rigged!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Haha...\nEna seems really frustrated.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Looks like they're coming back empty-handed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Thanks for waiting, you two.\nLet's change gears and get to exercising!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay.\nWhy don't we take a look at the pamphlet and decide what we want to do?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Alright, let's start with...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

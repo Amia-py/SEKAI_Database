@@ -1,0 +1,493 @@
+{
+ "title": "World Bloom — To One Day Reach that Flowery Stage — Episode8 Training With a Friend!",
+ "meta": {
+  "Event": "To One Day Reach that Flowery Stage",
+  "Event Type": "world_bloom",
+  "Episode": "Episode8 — Training With a Friend!",
+  "Event Outline": "On MORE MORE JUMP!'s first free day in quite some time, they have been enjoying school life to the full. Their recent TV appearance has caused a buzz among their classmates, renewing their determination to keep working their hardest. That's when they each find themselves in an unfamiliar part of SEKAI...!",
+  "scenarioId": "wl_idol_01_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_idol_op4",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Minori's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "One, two, three, four...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "And pose!\nHow do I look?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Oh, really cute!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<But you lost balance there for a split second, so try to stay on axis when you go to pose...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah, you're right!\nAiri even told me just the other day that my core still needs a lot of work...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "So, Miku, let me try that again!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Okay!\nI don't mind watching...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<But you've been at it for close to an hour and a half now. Why don't you take a quick break first...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Whoa, you're right!\nI completely lost track of time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hmm... I was hoping that you'd watch me practice interacting with an audience afterwards...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Did something happen recently, Minori...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<You have a really good work ethic, but it seems odd for you to be trying this hard...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "So... It has to do with something that happened during our last TV shoot...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<TV shoot...?\nOh, do you mean for Mr. Arimura's show?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah. You watched it, right, Miku?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Audience Member A",
+   "Line": "So, where'd the original guests go?\nWhy is MORE MORE JUMP! or whoever here instead?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience Member B",
+   "Line": "But I still wish LiLia were here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "After I overheard what those audience members were saying, even though I knew that we couldn't make up for not being LiLia, I decided that I was going to make sure they got to have fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But I also feel that I could've done more for them during the first half of our shoot. If only I'd realized sooner...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Minori...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Which is why, even though I still have a lot to learn, I want to become a fully-fledged idol as fast as I can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I see...\nThat's really admirable, Minori.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<So, I'll be more than happy to help you!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Wait, really?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Yes!\nWhile we're at it, why don't we train together in SEKAI once we're done taking our break?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I'm sure it would be better if you practiced imagining talking to an audience while on a real stage.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, you're right!\nThat'd definitely feel more like the real thing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Then, I'll head over now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Several hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Stage SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Phew! I made it through!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "That was a good practice...!\nPlenty of dancing and interacting with an audience! I feel a lot more confident now! Thanks, Miku!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Hehe. You feel more confident because you put in the work, Minori!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "You even came up with some nice ideas for making things fun. I hope you get a chance to use them during your next shoot...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Me too!\nI can't wait for our next one♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Still, I have to ask...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Don't things seem a little too quiet around here today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, come to think of it, I haven't seen anyone else here since we began practicing. We were at it for quite a while too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Where do you think everyone's gone?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Hmm... MEIKO and KAITO said they were going over to see Haruka, but they should be back by now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "What's wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "That path over there...\nI don't think I've ever seen it before...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "What path?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "H-Hey, you're right...\nI've never seen this before either.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Do you think the others are wherever this path leads to?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Then, let's see where it takes us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "O-Okay. I'm a little scared...\nBut, I also kinda want to know where it goes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "For now, let's go take a quick look!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b003101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Th-Th-Th...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "There's a new area?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00280",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Wow...!\nOh, that looks like a stage way over on the other side, doesn't it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Also, this vast field of flowers is so beautiful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Minori?\nIs something wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I thought I just saw a shadowy figure just now. Of a little girl...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "What...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "B-But I don't see anything...\nMaybe it was something else?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "M-Maybe.\nBut given where we are, what else could it have been...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I think she ran this way...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Hmm... What do I do...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Huh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Flower's Emitted Voice",
+   "Line": "Alright... Again...!\nOne, two...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "That voice...\nIs it coming from this flower...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I think so.\nBut why...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Flower's Emitted Voice",
+   "Line": "No, I still can't get it right...\nIf only...I could...be more like...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hmm... I'm having trouble making out what it's saying...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I'll try moving a little closer and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Huh...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg00026",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Minori's Voice",
+   "Line": "Wah!!\nS-So bright!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "M-Minori?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

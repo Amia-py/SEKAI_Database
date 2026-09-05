@@ -1,0 +1,613 @@
+{
+ "title": "Unit Event — On Your Feet — Episode3 Unexpected Reunion",
+ "meta": {
+  "Event": "On Your Feet",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — Unexpected Reunion",
+  "Event Outline": "After learning the truth behind RAD WEEKEND, Vivid BAD SQUAD are more determined than ever to surpass that legendary night. The group decide to do what they can for the time being, but Kohane's thoughts linger on her former mentor Taiga.",
+  "scenarioId": "event_103_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Vivid Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Kotaro...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hey, Mita!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Akito...? Wait, you're all here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We haven't seen you since then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Y-Yeah, I know...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Did you get my message...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Oh, um...\nI was gonna reply, but then my phone broke...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Sorry... I'm busy, so—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wait.\nThere's something we need to tell you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "After that, my dad came over to tell me the whole truth about RADder and Aunt Nagi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Including how RAD WEEKEND happened...\nAnd why they wanted to do it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hearing that story made me want to stand back up...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So, Kotaro, I want you to hear it as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, so... Would you mind waiting to make up your mind about us and RAD WEEKEND until you've had a chance to hear it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "P-Please...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I can't help you guys...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I'm sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wait, Kotaro!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Damn...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Mita...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "How can we get everyone to sit down and listen to what we heard...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "Also, if...\nEven if we manage to outdo Taiga someday...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "I'm having a hard time seeing us surpassing RAD WEEKEND...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "What Taiga said...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Did he mean we shouldn't chase after dreams we can't possibly achieve...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "If we...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "If we can get better, and convince them we really do have a chance at surpassing RAD WEEKEND...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "They might come back then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, I agree with Kohane...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I mean, we all felt totally powerless that day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So, imagine if we got as good as Uncle Taiga. That should convince the others that we have what it takes to surpass RAD WEEKEND. That it's possible to go higher.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah...\nIf we can do that, our chances are gonna be a lot better.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We're gonna surpass RAD WEEKEND.\nTogether. Them included.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But right now, nothing we say is gonna carry any weight. We won't be able to convince them so easily...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Right. It doesn't matter how long it takes. Let's find ways to improve and ask them when we're ready.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "In order to actually surpass RAD WEEKEND.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, look at the time.\nWe need to hurry or we're going to be late for our meeting with Soma.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Let's go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00173_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Hospital",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00046_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm sorry we're late.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Hey, Aoyagi! Welcome.\nI know this was sudden, so thanks for dropping by.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No, it's been too long.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Also, it isn't much, but we brought you a gift. We hope it's to your liking...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "You're so old-fashioned.\nYou really didn't have to since I asked you guys to come here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "But thanks! I appreciate the gesture!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Nice to meet you!\nI'm Toya's teammate, An Shiraishi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, um...!\nMy name is Kohane Azusawa!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Hey, thanks for coming!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "I'm sure Arata and Aoyagi have already told you about me, but I'm Soma Miyata. It's nice to meet you both.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "I got really excited when he said that you two would also be coming! I was hoping that we'd get to talk at least once!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "No, thank you for having us!\nIt's great to finally meet you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Still, umm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "These guys were right! You seem totally different from Arata! He acts all cool and suave, so I thought you'd have a similar feel...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Haha. Yeah, we are pretty different.\nBut what if I put it this way? How would you feel if there were two of him?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Two of him? Yeah, you may have a point there...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(So this is Tono's partner...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(They were right. He seems like a really cheerful person, and easy to talk to...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Oh, Aoyagi, I need to ask!\nHow amazing was that track I sent you the other day?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, it was very intriguing. Its overall composition was quite unique.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "I know, right?! I was totally blown away when I heard it for the first time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I relistened to it a number of times and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Sorry, guys, quick question...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Hm? What's up, Shiraishi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "When did you and Toya become so close?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Oh, right.\nI guess Aoyagi hasn't told you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes...\nI was told to keep it a secret.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "A secret?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Yes. One thing led to another and I ended up teaching Aoyagi how to make his own tracks for a little while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "How to make his own tracks...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001502",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I don't expect it to be used during our upcoming event, but I actually made my own track...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Is this what you've been busy with lately, Toya? Were you working on this song?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No, it's just... I asked someone for help when it came to actually writing this song, and I really couldn't have done it without them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Ah...\nSo Soma was the one helping you out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Though to be fair, there really wasn't much I could actually teach Aoyagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Oh, sorry, we got pretty off topic there. Let's return to why you're all here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Why we're all here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Yeah. I asked you all to meet with me today because there's something I need to tell you about Arata.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "He stopped by the other day.\nAnd he didn't look too good...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "He told me what happened to you guys. That must've been rough for everyone involved...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It was...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So, Soma...\nWhere is Tono right now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I tried contacting him, but he hasn't responded to me at all...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "I see...\nYeah, that guy. He really should've said something before leaving.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Leaving...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "He's gone. He left the city...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

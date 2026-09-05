@@ -1,0 +1,568 @@
+{
+ "title": "Unit Event — Deep Dark for Light — Episode6 Making a Connection",
+ "meta": {
+  "Event": "Deep Dark for Light",
+  "Event Type": "marathon",
+  "Episode": "Episode6 — Making a Connection",
+  "Event Outline": "On the last day of the workshop, Wonderlands×Showtime learn about the upcoming ArcLand Show Contest, and they decide to compete. Faced with the challenging role of a prince beset by despair, Tsukasa becomes keenly aware of the gap between himself and Asahi.",
+  "scenarioId": "event_178_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000402",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What brings you all here? I thought we had individual practice tonight...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah. Rui and I were both practicing at home, but then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Emu contacted me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "She did?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah! You see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Today, when I saw you talking with Asahi, you looked all scrunched up somehow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I thought, “That has to mean Tsukasa feels like he has to work super hard for this.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So I talked about it with Nene on the phone, and she said she and Rui had been talking about the same exact thing on their way back home.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We wondered if there might be anything we could do to help you. And just as we met up to discuss...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It turned out a certain someone had gotten here first.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Honestly... You all never fail to read me like a book.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Well, we have known each other for a pretty long time at this point.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Tsukasa!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'll do anything I have to!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Th-That's a big promise to make...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, “anything” is a pretty strong word...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But if you need a sounding board, just tell me. You always do it for me, after all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Indeed. Though, we may be letting our selfish hopes get in your way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "If you want to see this through with only your own strength to rely on, then we have full faith in you to do so.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Nene, Rui...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We just want you to remember. You can ask anything of us, and we will do it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "After all, we want to see your dream come true just as much as we each want to see our own!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I can only watch as Asahi continues along the path ahead of me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(My imagination, my range of expression... None of it holds a candle to him.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I have them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thank you all!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "In that case, perhaps you can help me. This may take some time to go over. Is that alright?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui, Emu & Nene",
+   "Line": "Yes!\nYeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "So you were troubled by the despair scene at the climax, as I thought.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "It's a tricky thing. I can't really picture it very well myself, either...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hmmm...! Despair... Despair, huh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "*Sob*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "W-What's wrong, Emu?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I tried imagining what it'd be like if Phoenix Wonderland closed down, and it made me so sad...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Right... It's very precious to you, after all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Don't push yourself too hard, Emu. This is a pretty unpleasant exercise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It may be difficult to bear... But “losing something precious to you” might be a worthwhile angle to approach this from.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The problem is, as I said, what's most precious to me is my dream...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And I can't picture myself losing it... I'm just going in circles.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I wonder how Asahi did it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, that's a good question. Maybe if we asked him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I doubt Asahi's understanding of despair would be of much help to us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "He's experienced an actual conflict, after all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh... Right. You're right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "He's talked about it before. His family was caught up in a conflict, and he was separated from his parents...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(When I think about it that way, perhaps Prince Blesse and Asahi are similar.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Though touched by despair, they still wish to see peace and smiles on people's faces...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Huh? What is it, Tsukasa?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, just... I feel close to making a connection...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“No matter what I do, humanity will still hate.\nCountries will still wage war.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Host",
+   "Line": "“The conflict ignited by last week's military invasion has had a severe impact on the region.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Everyday life ends just like that, and smiles and laughter vanish...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000402",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "This might work...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What? Did you figure something out?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thanks to you all, I've found the clue I needed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I've found my despair. And how to picture it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d006001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00326",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Six weeks later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Center Theatre",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Let's see, Wonderlands×Showtime should be sitting over...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Ah, there you are!\nHey, you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Asahi! I'm very much looking forward to today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Yeah, me too! Let's all give it everything we've got!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Although... I didn't expect you guys to end up performing last.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Me neither. It was a shock when I saw the lot I'd drawn.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And you'll be up just before us, as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Yeah. Haha, it feels like fate, doesn't it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "There are some pretty big names here today. Going last is a lot of pressure, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Actually, never mind. I can see the confidence in you all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thanks to my friends, I've come to understand what despair means to me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "So... I feel confident I can give my best performance yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "I see! I'm looking forward to it already.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "<Ladies and gentlemen, please take your seats. The show will begin momentarily.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Oh, sounds like it's starting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "I'm glad we got a chance to talk! See you after everything!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. Your best performance yet, eh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Now you've gone and said it, Tsukasa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm? So what if I have?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehehe♪ I love seeing Tsukasa all sharp and sparkly bright!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But of course! I am Tsukasa Tenma, future star, after all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(My dream is to become a star who can make everyone smile with my shows...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Having spent so long chasing that dream... It made preparing for this role all the more distressing.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I've read books, watched footage, listened to talks... I've given myself nightmares from all the things I've imagined.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(However... That's exactly why I can say it for sure.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(That I am going to give the greatest performance I can.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I will embody it...\nThe “despair” that I have found!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

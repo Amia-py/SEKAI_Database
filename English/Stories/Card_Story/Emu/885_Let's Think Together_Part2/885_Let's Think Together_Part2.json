@@ -1,0 +1,423 @@
+{
+ "title": "Otori Emu — Let's Think Together〔Part2〕Side Story (Part 2)",
+ "meta": {
+  "Character": "Otori Emu",
+  "Card": "Let's Think Together（4★）",
+  "Part": "Part2 — Side Story (Part 2)",
+  "Event": "With Your Sights on Stardom, Set Sail!",
+  "scenarioId": "014034_emu02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Harbor",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow☆ All that house's windows are circles!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, look over there! Some little birdies made a nest! That's so cute♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And check out that house! Its walls and roof are all red! And it's so big!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Emu, slow down! Don't run off like that! We're not here to explore the city right now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, right...!\nWe need to find that phoenix!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Haha... Let's ask around and do our best so that we can go back to Rui and the others with some good news.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah☆\nLet's ask lots and lots of people!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hi, Mr. Hippo!\nWe're looking for a phoenix. Did you happen to see one flying by?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hippo Plushie",
+   "Line": "A phoenix...?\nHmm... No, I've never seen one before...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hippo Plushie",
+   "Line": "Sorry I can't be of much help.\nAnyway, I need to go. I've got an appointment to keep.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay, thanks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, hello! Have you seen a...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We've asked a lot of different plushies about that phoenix, but we still don't know where it's gone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, we're just spending a lot of time with nothing to show for it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I just hope that Rui and the others have learned something...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Me too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Is something wrong, Emu?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hmm... That doggie plushie...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "Uhh... This is the center of the market, so that means I'm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "He's been looking around really nervously for some reason...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, you're right. Do you think something's wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "What if he's lost?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Then, I'm gonna go help!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hey, Emu, wait!\nHonestly... Let's go, everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00134_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hi there☆\nWhat's wrong? Is everything okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "Oh, um... I'm supposed to meet with a friend... But I think I got lost somewhere along the way...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "You got lost...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I'm not sure we'll be of much help.\nWe still don't really know a whole lot about this city...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, but... We can't just leave.\nI wanna help if I can...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, then...\nLet's try figuring out where this meeting location is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We might even learn something about where the phoenix went!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Thanks, you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Now then...\nLet's find where Mr. Doggie's supposed to go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes, let's!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "Thank you all very much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Could you tell us a little more about where you're supposed to meet your friend?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "Um... I'm supposed to find this big house with a red roof and walls!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "A house with a red roof and walls...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wait, didn't we just...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "Wow...! Yes, it's here!\nThis is the place I've been looking for!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Hippo Plushie",
+   "Line": "Ah, there you are! I was wondering where you've been... Wait, you're...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, Mr. Hippo, hi again!\nSo you're the friend Mr. Doggie's here to meet☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I can't believe the house you saw just earlier turned out to be where they agreed to meet...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But I'm glad everything worked out in the end.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Me too! I'm really glad we could help♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "Again, thank you very much.\nI couldn't have made it here without you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hippo Plushie",
+   "Line": "Also, did you find someone who can tell you more about that phoenix?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "No, not yet...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "A phoenix?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup! We're looking for this phoenix, but no one else seems to have seen it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "I see...\nThen, you might want to head over to the inn.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The inn?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "Yes, the one right near the harbor. I'm actually staying there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "You get to hear lots of rumors because plushies from different islands like to gather there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "So, you might be able to learn more about this phoenix you're looking for there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, the inn...\nThank you for the tip.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah! Thank you so much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "No, I'm just glad I could also be of help!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "So, good luck finding that phoenix.\nI'll be rooting for all of you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Thanks!\nSee you later!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00381_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00381_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'm so glad we got him to smile...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Anyway...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Now that we've acquired a nice piece of information, let's go report back to Nene and the others!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We're gonna find that phoenix no matter what!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

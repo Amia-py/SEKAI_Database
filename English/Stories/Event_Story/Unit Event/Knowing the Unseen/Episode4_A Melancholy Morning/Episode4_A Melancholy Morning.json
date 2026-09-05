@@ -1,0 +1,553 @@
+{
+ "title": "Unit Event — Knowing the Unseen — Episode4 A Melancholy Morning",
+ "meta": {
+  "Event": "Knowing the Unseen",
+  "Event Type": "marathon",
+  "Episode": "Episode4 — A Melancholy Morning",
+  "Event Outline": "Ena debates whether she should aim for art school post-graduation. With this inner turmoil comes restlessness, which begins to affect her art. Mr. Yukihira notices that she's struggling, and after she divulges the cause, he invites her to take part in an excursion.",
+  "scenarioId": "event_127_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00083_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Mhm... Just five more minutes...\nI stayed up really late working last night...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00083_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Argh! Will you shut up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Ena's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "*Yawn*\nIt's still six.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "So sleepy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I'm supposed to meet Mr. Yukihira at half past eight in front of the exhibit hall...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "A hall full of his paintings...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I don't know what he's been up to lately, but I'm sure he's been producing some amazing stuff.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(And his exhibit's probably going to be packed with people.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Yup, this sure hits hard...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin's Voice",
+   "Line": "<Ena...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What?! You two are already here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<You did say that you'd be going in the morning.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<S-Sorry, are we too early...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "No, you're fine...\nNow I feel like I should go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Huh?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Don't worry about that.\nAnyway, you guys will need to wait a bit while I get ready.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00044_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Outside the Exhibit Hall",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "*Sigh*\nI'm here right on time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Alright, where's Mr. Yukihira...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Good morning, Shinonome.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh...!\nGood morning.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Thank you for having me today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Of course. We're here today because your father was kind enough to allow us to help set up his exhibit. I'm hoping this will be a good learning opportunity for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "However, you are not here today as his daughter, but as my student. I will be treating you as I always do, so please keep that in mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Understood.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Still, are you sure about this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "My dad probably won't be very happy if he sees me here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "That won't be a problem.\nAgain, your father already knows that we'll be present.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I feel like he wouldn't want me to be around his art, though...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Oh, before we get to work...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Let's go greet your father.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e002301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00272",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Exhibit Hall",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "Mr. Shinonome, does the current angle of the lighting on the artwork look alright to you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Yes, they look good...\nLet's go with that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "Understood.\nNow, if you'll excuse me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Hello, Mr. Shinonome.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Hm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Thank you for having us on such short notice. I really appreciate you allowing me to hold a special lesson here today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "I'm very much looking forward to your exhibit, and I promise to make this a fruitful experience for my student.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Yukihira, do you have to be so formal about this...? It honestly feels a little strange...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "I'm here on business after all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "So, once again, thank you for having us here today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "U-Uhh... Thank you for having us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Enjoy the exhibit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I can never tell what he's thinking...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Your father really never changes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "But that's a separate matter.\nFor now, let's get our lesson started.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "The person over in the corner is the exhibition team leader. We'll be working alongside the others as staff members, so let's go see what work needs to be done.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "O-Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Okay, I think this painting goes over here... Put up the label and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(This is pretty hard work...\nI'm just putting up the paintings according to these plans, but they're heavy...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Also...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(It's been a while since I've looked at his paintings...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(But these really are amazing.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(You can tell at a glance that there's something special about them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Your eyes are immediately drawn to each subject. It's almost like they're able to dive right into your mind.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(And the colors he uses are so beautiful...\nSo beautiful that you don't even think about the technical aspects of it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I can't look away...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Now I regret looking at it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Wow... Did your dad paint this, Ena?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, you're both here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, he did...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<It's beautiful...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I mean, he is a professional artist.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Huh...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Ena... Do you not like your dad's art?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "It's not that I dislike his art.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I used to really love his paintings so much that I tried to copy what he did.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But nowadays...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Seeing his paintings reminds me of the truth.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(That I don't have what it takes...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(So, is it really okay for me to...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Ena...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Shinonome.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh...!",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

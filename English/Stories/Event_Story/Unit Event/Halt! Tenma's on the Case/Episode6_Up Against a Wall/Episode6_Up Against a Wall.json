@@ -1,0 +1,653 @@
+{
+ "title": "Unit Event — Halt! Tenma's on the Case — Episode6 Up Against a Wall",
+ "meta": {
+  "Event": "Halt! Tenma's on the Case",
+  "Event Type": "marathon",
+  "Episode": "Episode6 — Up Against a Wall",
+  "Event Outline": "At Kijima's suggestion, Tsukasa has been putting on muscle to increase his acting chops. He and the others arrive at the Jidaigeki Studio Park with the Mikazukigumi troupe, but news of a theft puts the new production on hold...and that's when Tsukasa spots a suspicious ninja on the lot!",
+  "scenarioId": "event_136_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Hiori Jidaigeki Studio Park - Plaza",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Now then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Eat these rice balls!\nI just bought them from that shop over there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00209_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "H-Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "You haven't had lunch yet, right?\nLet's sit on that bench and have these together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "B-But... Shouldn't we be looking for the thief...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Yes, that's important.\nHowever...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00011_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Hah hah hah!\nI heard your body's message loud and clear!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "You can't fight on an empty stomach!\nI know you want to catch him, but you need to eat first!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, you're right...\nThat also goes for shows. You can't put on a good performance if your physical condition is subpar.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "So, I'll gladly have these!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000328",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Delicious! This rice ball is delicious!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Hah hah hah!\nI know you're hungry, but be careful not to choke on them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "I also got us some tea. I'll leave yours right here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Okay, thank you very much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Alright, once you finish eating that, we'll resume our investigation!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Understood!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And... Thank you again for doing this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I feel much better now because of you, Mr. Kijima.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I was beating myself up and feeling awful about letting that thief go...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Yeah, I could tell...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "I feel like there's more on your mind than just that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huh?\nOh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(He's launching himself higher by kicking the wall...! This technique...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "He's wall jumping...!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You're right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Seeing the way he wall jumped has me thinking...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I wish I were faster...\nI wish I could wall jump like that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00215",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I know what I'm supposed to do.\nIn my mind, I've succeeded at launching myself off the ground, kicking the wall and keeping my jump straight.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But my body hasn't been able to keep up.\nNo matter how hard I trained, I've failed to succeed in reality.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It's been so frustrating...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "I understand how you feel.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Despite having a clear image in your head, you can't seem to execute...\nThe pain that brings is a difficult one to describe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Have you gone through a similar experience, Mr. Kijima?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Hah hah hah! I have!\nI am human, after all!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "However, my situation was a little different from yours. I ran into a wall in terms of my acting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Your acting...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Haha. You sound surprised.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "I actually used to be a wrestler.\nActing was far from my strong suit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What?! A wrestler...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Yeah, that's all I did since I was little.\nI even won nationals when I was in high school.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "N-Nationals?! You won...?!\nThat's incredible...!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Hah hah hah. Right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "But I hurt my shoulder during my last tournament...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "I didn't have any trouble doing day-to-day things, but it basically spelled the end of my prospects of competing internationally. That became clear after just a few attempts...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "My injury was keeping me from succeeding.\nI couldn't go where I wanted because of it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That must've been agonizing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Yeah, it was...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "By the time I entered university, I was so lost. I had no goals. I didn't know what to do with myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "All I did was waste time doing nothing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Then, one day, I was introduced to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Shows and acting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "I got to see my university's theatre group perform during our festival. There were hardly any people watching...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "But that was the first show I'd ever seen, and I was so moved.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Particularly by the actors' bodies.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Their bodies...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Until then, I'd only ever focused on creating a body that could help me win bouts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "I took my body to the limit in order to defeat my opponents in an all-out contest. And hearing the audience roar always gave me a huge rush.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "I trained and worked out just for that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Which is why I was so staggered when I saw that show and those actors' bodies...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "They weren't using their bodies to win.\nThey were using their bodies to become a character, express how they feel and tell a story. It felt like such a new perspective...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "That was when I felt I wanted to try doing the same thing. I wanted to feel happiness by moving the hearts of others.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "So, I applied to join that same day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "But I didn't know anything about theatre...\nAll I knew was how to wrestle. “Bad” didn't even come close to describing my acting at first.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "The seniors were so appalled by my performances that they couldn't help but laugh. Hah hah hah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wow...\nI never would've guessed...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Fortunately, my acting skills did slowly begin to improve.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "But I ran into several obstacles along the way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "I'd get told, “You need to say that line with more feeling,” or, “The way you're moving isn't bad, but not good either.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Whenever I thought I was doing a good job, I was always doing too much or not enough... I could never get my acting just right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Getting to where I am now was hard...\nProbably harder than winning nationals for wrestling...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It was...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Anyway, what I'm trying to say is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Be it acting or sword fighting, doing what you picture in your head is incredibly difficult.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "But we just have to keep trying our best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "We have to use whatever tricks we can, look for new methods and push ourselves to become better. Only those who keep pursuing perfection can approach the acting style they want.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Right!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Use whatever tricks I can, look for new methods and keep pushing myself to become better...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(He's right...\nThat's exactly what I've been doing until now.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I've been accepting my shortcomings while slowly making progress and moving forward.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Which means, this time is no different.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "All that said, I do have a piece of advice for you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "I happened to meet a former cast member yesterday who used to play the most popular ninja here, and I asked if he knew how to wall jump.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "He's roughly the same height and build as you, so I thought he'd be able to provide some tips.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Really...?!\nWh-What did he say...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "He graciously gave me some nice tips!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Wall jumping is all about...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "————————",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!\nOf course...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I've been overlooking that this entire time!\nI'll give it a try after we've dealt with that thief!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Right! If you're able to figure out how to wall jump and we're able to perform again, I may have you do that during our show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "So, Tenma, don't give up!\nKeep trying! Keep doing your best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I will!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00137_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Hm? Someone's calling.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Hello? This is Kijima.\nWhat...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "The thief's coming our way?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "A bit west of the main street. That's precisely where we are! Okay, we'll ambush him in front of the tea shop!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00138_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Tenma!\nMind lending me a hand blocking this street?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No, wait...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Hm? What's up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I have an idea!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

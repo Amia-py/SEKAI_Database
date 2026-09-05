@@ -1,0 +1,573 @@
+{
+ "title": "Mixed Event — close game/OFFLINE — Episode2 Player Has Entered!",
+ "meta": {
+  "Event": "close game/OFFLINE",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode2 — Player Has Entered!",
+  "Event Outline": "Nene finds out there will be a gaming tournament taking place at an arcade, and decides to participate in hopes of winning the grand prize. But just around the same time, Toya is also thinking about participating...",
+  "scenarioId": "event_66_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a004901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "The day of the gaming tournament",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Arcade",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow...!\nThis is where the gaming tournament's gonna take place?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, it's bigger than I expected...\nI sorta just assumed that it was a small place based on that flyer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<And it's all underground. It feels like a secret base!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, it... M-Miku?!\nWhat are you doing here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Hehe☆ This sounded like fun so I decided to join you! Mind if I stick around to watch for a bit?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, sure!\nWe can play together☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I-I'm not sure that's gonna be possible...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But we can just have you hide once more people show up, so why don't you stay with us until then?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Yay☆ Thanks!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Still, they have so many games here!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, I know this one!\nYou dance while staying in rhythm with the music☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I tried it a while back and got up to the highest level!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait, really...? That's incredible...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<What do you usually play, Nene?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I usually play shooters and...\nWell, games that involve playing against others.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Shooters?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "They're games where you use a gun.\nThere should be some around here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh...?!\nWhat's this doing here...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What is it?\nIs this game really rare or something?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Black Galaxy Soldier's a foreign title and really popular among gamers, but there aren't supposed to be that many of these machines in Japan.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I really wasn't expecting to find it here...\nI thought the only arcade with it was the one by the station...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "W-Would it be okay if I took a quick look at it...? I really wanna see what the controller's like...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Of course!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Oh, is that gun the controller?\nCool!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I wanna watch while you use it, Nene☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "In that case...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_cyber_2022_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(The buttons are so easy to press...\nAnd the reticle's aligned perfectly.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(As far as I can see, even the older components seem clean and well-maintained... I'm starting to like this place. And it's really close by...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Thanks.\nThat gave me a good picture.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Just after holding it?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I mean, all I did was see if this would be easier to use compared to one at this other arcade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But despite having a game that you weren't expecting to see here, there aren't that many people here at this arcade.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah...\nYou'd think it'd be more crowded since it's so clean with so much available.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Why do you think that is?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Could it be the location?\nIt might be hard to spot since it's underground.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Still, I'm really glad this place exists.\nLess people means I can focus more.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait, it's already time?!\nWe need to register for the competition.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, you're right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Sorry, Miku!\nYou're gonna have to hide for a bit here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Okay, have fun!\nI'll be cheering for you from your pocket☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "E-Excuse me... Is this where we register for the gaming tournament?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Oh, hello...!\nDoes this mean you're interested?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Y-Yes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Thank you very much!\nAlright, if you don't mind filling out this form for me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, I can take care of that!\nHere, here and done!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00213",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay, it's filled out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Thank you. I'm so glad that you've decided to enter. Unfortunately for us, we haven't gotten many customers...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, it is kind of unfortunate...\nI mean, this arcade's so big.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Maybe being underground really is making this place hard to find.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "That could be a factor, but some other reasons also come to mind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Other reasons?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "So, my grandfather used to be the manager of this arcade before he passed away, and my father, who didn't know much about video games, decided to take over...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Since he did, the games weren't maintained properly and it became difficult to bring in new titles.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "We had to start weighing our options after our sales began to plummet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "This was your grandfather's arcade...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "We even reached the point of talking about shuttering this place for good, but I spoke out against it because this place means quite a lot to me and proposed that we try to start over...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "And I decided to hold a gaming tournament as a way to promote this arcade in the hopes that it'd attract more customers.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "This grand reopening is supposed to mark a new dawn for us! My hope is that you really get to enjoy yourselves today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We will! And I'll do my best to make this tournament really exciting...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, I should also do my best...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I can tell they take good care of all their machines just based on how the controllers look and feel...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(If we want this place to stay in business, we'll need to do our best today to make this tournament a good one.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00052",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Whoa, there's way more people here now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, there are... But I'm seeing a lot of elderly people and women who seem to be homemakers... Not exactly what you'd call gamers...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, the manager said that they tried reaching out to everyone in the neighborhood for this tournament!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "The more the merrier☆\nIt's more fun that way, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "R-Right...\nAt the same time, I'm getting kinda nervous about playing in front of all these people...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Thank you all very much for gathering here today! We will now be kicking off our Funtastic Gaming Tournament!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, it's starting...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "This is gonna be so much fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Let's get started by introducing the four teams that will be participating today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Everybody, come on up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "W-Wait, we have to go up on stage...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Let's go, Nene!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "*Groan*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(There's less people than I thought...\nI might be okay if the crowd stays around this size.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Alright, here are our teams.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "First up... The Wonderhoy Button Mashers!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wonderhoy Button Mashers...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait a second...\nIs that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, hey!\nThat's us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "H-Hang on, Emu, when did you come up with this team name?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That's what I wrote on that form during registration for the part that said, “Team Name.” And I came up with this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "It's cute, right?! Video games are all about pressing lots of buttons, right☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I-I'm not sure “cute” is the right word... It seems kinda dorky, you know...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Our next team is We're The Best, followed by Muscles Are Everything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Oh, everyone chose goofy team names...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "And finally, we have...\nWillow & Cloud!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Willow & Cloud?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What do you think it means?\nIt's a little different from the other team names, so what kind of people do you think are...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "We're looking forward to competing today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait, that voice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(That looks like the split-personality guy and... Aoyagi?! What are they doing here...?!)",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,623 @@
+{
+ "title": "Unit Event — Deeper and Deeper — Episode5 Nightmare",
+ "meta": {
+  "Event": "Deeper and Deeper",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — Nightmare",
+  "Event Outline": "Wonderlands×Showtime agrees to participate in a workshop run by ArcLand. As Rui takes the directors' course, he is confronted with something he's never realized about himself before.",
+  "scenarioId": "event_172_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000903",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Rui's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00590",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Before I begin work on the concept or script for my show, I should go over my objectives.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "First, I have to produce it from scratch.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It must be completely original, and something that could be performed at ArcLand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "And what I'll be aiming for is a show that appeals to all audiences. A show that has the power to bring everybody together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Yes, just like “Goodbye Ghosts”.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I tried to achieve those objectives with my self-intro show...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "And I was told that it was “insipid”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "The fact of the matter is that “Goodbye Ghosts” is miles ahead of anything I've ever made...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(It's difficult to put into words... But Tom's shows have “depth”.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(The problem is, I have no idea how to capture that.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Digging deeper into the themes, adjusting the direction... All I can do right now is explore my options and see what sticks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Math Teacher",
+   "Line": "Remember this formula, because you'll be using it a lot moving forward. And yes, it will be on the test.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00591",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(If I'm going to achieve that level of depth, then I'll need to find a theme I'm intimately familiar with.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Personally... Building machines, creating shows and school life immediately come to mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I could try different combinations of those things, and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Math Teacher",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Math Teacher",
+   "Line": "Kamishiro, try solving problem three in the textbook for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "X-squared minus three.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Math Teacher",
+   "Line": "Correct.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000903",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I've come up with a number of ideas, but none of them seem to fit the bill.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(It works as a show...\nBut it also feels like it's been jury-rigged together using things taken from existing works.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(More to the point, I don't find it interesting.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I should start over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Scramble Crossing",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We're all here.\nSo, let's head over to ArcLand, shall we?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes! But before we do...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Have you been getting enough sleep lately, Rui?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You have huge bags under your eyes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, and you just seem really tired all over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We heard about what you've all been doing for the directors' course. It's a fairly brutal schedule, isn't it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I understand what it's like to push yourself when you feel you really have to. I've experienced something similar, myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But... Don't push yourself too hard.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Let us know if you need our help!\nWe might be able to lend you a hand!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Thank you all very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, I have had quite a lot to think about regarding the assignment. I am a bit sleep-deprived, but I'm fine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Because I see the wall which I need to overcome now. So, please bear with me for a little bit longer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Okay...\nBut don't overdo it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I won't.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Evening",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I was hoping that a change of scenery would help me come up with better ideas...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But my brain feels like it's at a standstill.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I didn't mean to worry the others earlier.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(The actors likely have it just as hard. And they'll be assisting with our work on top of their own, soon.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(The longer I delay my staging and script, the less time they'll have to rehearse.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I need to avoid that at all costs...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But this lack of sleep is hindering my thought process...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I should take a quick nap.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(My body feels so heavy.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(It's like something is tangled around my feet...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Hey...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Huh? Who said that just now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Hey, why won't you look me in the eye?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In the eye...? What are you talking about?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Pretending that I'm not here won't help. I'm not going anywhere.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Because I'm...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Rui...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Rui, are you okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000465",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, thank goodness. You're finally awake.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Luka...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I'm sorry for waking you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "But you seemed to be suffering in your sleep.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In my sleep...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Ah, of course...\nThat was all a dream.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "If anything, I should thank you for waking me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Still, Luka, what are you doing here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hehe. I was going to see if the plushies would like to take a nap on the stage with me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "KAITO made so many fluffy cloud cushions for the show we're going to be doing soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "He said that I could use them within reason, so I was going to go invite everyone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Doesn't it sound like you would have the most wonderful dreams?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I see. Yes, I'm inclined to agree with you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "But your dream seemed more like a nightmare, Rui...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'm not sure. I don't actually remember much of it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But it felt so real...\nI didn't realize that it was a dream until I woke up just now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "That sounds terrible...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Still, that voice...\nI remember hearing somewhere that dreams are manifestations of your innermost thoughts.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Perhaps I'm more deeply stressed than I had realized.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, Rui, can I take this opportunity to toss you a little riddle?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "A riddle...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Yes. I'm sure you'll solve it right away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "When someone is having a bad dream, but doesn't know that they're dreaming...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "What's the best thing they can do to wake up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Have someone else wake them up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Yes, that's right♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That was the situation I was in just now, after all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hehe. See?\nYou solved it right away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "There are certain realizations that you can't make on your own. Things you can't see without someone else's help.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "So, if something is preventing you from having nice dreams...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Then I think you should ask others for their help. To wake you up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Isn't there someone perfectly placed to help you out with this problem?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Yes, I have more or less exhausted all of my options...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(If nothing I've tried has given me even a light at the end of the tunnel...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Then I should try to solve this puzzle a different way.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "You're right. I can't stay stuck in this nightmare forever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I don't know how well things are going to go, but I'll try what I can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Good. I believe in you, Rui.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

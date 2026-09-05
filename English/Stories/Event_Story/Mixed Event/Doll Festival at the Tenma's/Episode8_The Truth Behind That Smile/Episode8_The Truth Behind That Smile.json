@@ -1,0 +1,663 @@
+{
+ "title": "Mixed Event — Doll Festival at the Tenma's — Episode8 The Truth Behind That Smile",
+ "meta": {
+  "Event": "Doll Festival at the Tenma's",
+  "Event Type": "marathon",
+  "Episode": "Episode8 — The Truth Behind That Smile",
+  "Event Outline": "It's the first Doll Festival since Saki returned to school! In the midst of his enthusiastic preparations, Tsukasa looks back on a bitter childhood memory. He then executes his plan to do something special for Saki, but will it go as he hopes...?!",
+  "scenarioId": "event_16_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a001302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Neighborhood",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "*Huff*... *Huff*... *Huff*...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Saki!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Tsukasa...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I'm sorry!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I'm sorry!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa & Saki",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "W-Why are you apologizing, Saki?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "No, why are you...?!\nI thought you were mad at me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No, never!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It was all my fault!\nYou did nothing wrong!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Honami told me everything! She said that you were feeling sad over me not being here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "H-Hona did...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "She did! She even came all the way over to my school to tell me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And I'm sorry for not replying to your text! I forgot to take my phone with me and didn't know that you'd sent me anything!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wait, really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Your lunch and your phone...\nYou really are a big forgetter.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ouch...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But I'm sorry! What I did made you worry and feel uneasy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And I tried to swap out your precious dolls without actually considering how you'd feel about it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00016",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I just ended up hurting you instead...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Tsukasa...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I just wanted you to be happy, Saki.\nJust like that time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But I always just end up making you feel worse...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I'm a disgrace as a big brother...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "No! Don't say that...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "It's true that I did feel sad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I really did think you forgot about that day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But that's no excuse for saying the things I did... I'm so sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But can you at least tell me this? What am I forgetting about that day exactly...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I ran over to the hospital to bring you those dolls, fell and got them dirty...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And you looked so sad as you held them in your hands. That's all I honestly remember.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You made yourself smile to keep me from worrying any more...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Huh? Wait, I made myself smile...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh...! Now I get it!\nIt all makes sense now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wait, huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Tsukasa, you have it all wrong.\nI wasn't making myself smile or anything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I was so happy that you came, I almost started to cry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But I thought you'd feel terrible if I started crying and you wanted me to be happy so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I might've ended up making a weird smile...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wait, so you really were happy that time...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah! I was so unbelievably happy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I was so happy that you brought me my dolls even after getting covered in scrapes and bruises.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "No matter how dirty these dolls get, they'll always mean everything to me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Saki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "That's why I thought when you bought me those new dolls that you'd completely forgotten about what happened with the old ones. That's why I felt so sad.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But I'm glad I was wrong.\nYou still remembered!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Thank goodness...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Of course I did! How can I forget something like that...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But I misunderstood you as well, Saki. I'm sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "No, you don't have to apologize.\nI should be the one to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I always kept how I actually felt a secret to make sure you wouldn't worry about me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I couldn't just say what I really meant. I just smiled and nodded. It's no wonder that you didn't understand how I really felt, Tsukasa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I'm sorry. I made you go through all of that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "And thank you so much. You bringing me my dolls was one of the happiest moments of my life!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Tsukasa, my one and only big brother...\nI'm proud to be your little sister!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Saki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "SAKIIII!!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Whoa! Tsukasa, too loud! You're gonna make our neighbors wonder what's going on...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Saki!! My precious little sister! The best little sister anyone could ask for!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Now it makes sense...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "And I'm glad they made up... Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Um, good evening...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, good evening...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00100",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "*Huff*... *Huff*...\nTsukasa's... Too fast...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Honami? Did you run here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I-I did... Tsukasa just ran off so fast...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But, oh...\nHave they already made up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Nice work, Honami.\nThank you, as always.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. I'm just glad Saki's smiling again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Tenma Household - Living Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Um... Is it really alright for me to stay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Of course! You were a huge help this time around!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But I still don't feel like I did much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Thank you so much too, Hona! I don't think we could've made up if it weren't for you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I just talked a little about what happened, but I'm glad I could help...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright! How's about we get this party started?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I, of course, will be the MC!\nThe pegasus that soars through the...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, before you start!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huh?! Wh-What is it?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Can you bring the dolls you bought here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wait, why...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You bought them just for me, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I think we should celebrate using the new dolls too♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00048",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Indeed, we should! We can celebrate using both the old and new ones!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yup!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "While we're at it, why not take a picture with them?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Let's start with Saki then.\nSmile, Saki!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "A lovely smile, Saki!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehe. Oh, stop!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00075",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000057",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hmm... I wonder if Tsukasa and Saki made up already...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Who knows? But Mochizuki at least seems reliable, so I'm sure they're fine now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hehehe. He hasn't come back, so it's probably a good sign.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "True. It does feel that way. I'm sure he's also enjoying the party as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yup♪\nI think so too☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Right! So why don't we have some fun too☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Alright, does everyone have a drink ready?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I'm ready♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000056",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Then let's welcome Luka♪\nAnd let's get our Doll Festival party started♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Cheers☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene & Rui",
+   "Line": "Cheers!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hehe♪ Cheers♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

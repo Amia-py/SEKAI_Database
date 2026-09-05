@@ -1,0 +1,973 @@
+{
+ "title": "World Bloom — Link the Beats! — Episode10 So Much Mystery!",
+ "meta": {
+  "Event": "Link the Beats!",
+  "Event Type": "world_bloom",
+  "Episode": "Episode10 — So Much Mystery!",
+  "Event Outline": "VIRTUAL SINGERS in each SEKAI are caring for their respective trees when they are vanished away by a mysterious light. Witnessing this, their counterparts in the space between worlds enter SEKAI to search for them.",
+  "scenarioId": "wl_piapro_02_10"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link2_ppr_op5",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00264",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Harbor",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Let's see... I'm fairly certain that this is where band me was sent...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "*Wince*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "What happened just now...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I thought I saw a flash of light...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00226_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Wait...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "This place...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Where am I...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, my guitar...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "That's right... I was playing in the station...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "With Rin... Wait, where did she go?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Zzz... Zzz...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Rin...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Snooze...\n*Mumble*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Sh-She's sleeping...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "But thank goodness...\nI'm not the only one who was sent here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Rin, wake up...\nYou can't sleep here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Who are you?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Detective Plushie",
+   "Line": "Hm? You look familiar... But also suspicious!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I-I'm not suspicious. I just...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Detective Plushie",
+   "Line": "Enough! Stay still while I tie you up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh?! No...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "What do we do, Rin...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Sh-She isn't waking up...\nActually, it's amazing how she can sleep through all this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "But if I don't do something...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "We need to run.\nSorry about this, Rin.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00349_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Detective Plushie",
+   "Line": "Hey, wait!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_wl_2nd_piapro_2025_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huff... Huff...\nThis should be far enough...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00026",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Detective Plushie",
+   "Line": "Where did you gooo?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "H-He's still coming after us...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "What do we do? Where do we run...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(This is really getting out of hand...\nFirst, they're sent over to an unfamiliar SEKAI, and now they're being chased around...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(I wish I could help them somehow.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "That looks like...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Hmm... it doesn't look like she's here either.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "MEIKO said she'd be watering the tree in the harbor, but where could she have gone...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "P-Please, help...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO & KAITO",
+   "Line": "Are you...?\nMe...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00381_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00381_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Alright, everything should be fine now.\nThat plushie seems to understand what's going on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Sorry for making you help us like this. And thank you for convincing him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "No, don't worry about that.\nMore importantly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Why are there two of us here now, right...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I'm sorry. I don't know myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "When I came to, I was here with Rin...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I see...\nSpeaking of Rin...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Snooze...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I think she's just sleeping.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Y-Yes, that's a relief.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Still, I never expected to meet myself from a different SEKAI. This all feels a bit strange to me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Me too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I did feel a little uneasy about being sent to an unfamiliar place, but I'm glad I was able to meet you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I mean, you just seem so reliable.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Hehe. I feel honored.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(They're already becoming fast friends...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(And band me seems to be feeling much better now.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Thank goodness...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "KAAIITOO!\nWatch me do a quadruple Axel♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00448_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh? Whoa...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00257_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I stuck the landing☆\nBut everything's spinning round and round now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Huh? Why are there two KAITOs?\nIs it because I spun around too much just now?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "M-Miku...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Calm down, Miku.\nAnother me from a different SEKAI is here to visit us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Unfortunately, I'm yet to find MEIKO.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Really?\nWhere could she have gone...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, KAITO, what's the SEKAI that you came from like?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh? Oh, umm... My SEKAI is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I know what that is! It's a guitar, right?! Tsukasa went all vraang using a broom during a show once!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, yes. So....",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Please try to settle down, Miku...\nI think you're scaring him a little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Huh? I'm scaring you? Why's that?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I'm sorry. She's very excited about meeting someone from another SEKAI.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Haha...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(She's so different from the Miku from my SEKAI...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, KAITO!\nWe should give him a tour of this SEKAI!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "We should.\nIf he doesn't know anything about this place, it's only natural he'd be uneasy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Would you like for us to show you around?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Umm... Yes.\nIf it isn't too much trouble...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Ob, but... Rin's still...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Huh? Hey, it's Rin!\nHas she been taking a nap this whole time?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes...\nShe did stay up very late last night practicing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "In that case, we should probably let her sleep.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, I agree...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Then, I'll keep an eye on her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I wouldn't want anything happening to her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chick Plushie",
+   "Line": "Don't worry about that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chick Plushie",
+   "Line": "We'll keep an eye on Rin for you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Bear Plushie",
+   "Line": "When she wakes up, we'll let you guys know!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, thanks so much, you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I'm sure she'll be fine with them keeping an eye on her. What do you think? We understand your concern, so it's okay if you'd rather stay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "R-Right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(I'm still not used to the thought of talking plushies...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(But they don't seem like bad people, and I am interested in learning more about this SEKAI since it's so different...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Then, if you all don't mind, can you watch her for us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Bear Plushie",
+   "Line": "Yeah, you got it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Then, we'll...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Take you on a trip to our wonderland!!\nHappy wonderhoy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "W-Wonderhoy...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Hehe. It's a sort of magic spell that the ones whose feelings created this SEKAI like to say.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Anyway, let's start by going this way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "For a second, I wasn't sure what was going to happen, but he should be okay now, I think.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "KAITO!\nThis is the amusement park♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "S-So many things are floating in the air...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Heehee☆ Isn't this place amazing?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Come on, this way!\nThere's more cool stuff that you gotta see♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh? W-Wait...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00349_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Singing Flower",
+   "Line": "——♪ ——♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Eep!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "What, what, what?\nWhat's wrong, KAITO?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Th-This flower sang just now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, is that all?\nIt's a flower, silly! Of course it's gonna sing☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "What? O-Of course...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I understand why you're surprised, but these sorts of things are normal for this SEKAI.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "S-Singing flowers are normal...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Next, KAITO, we're gonna have a race to see who gets to that castle first!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00349_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Haha...\nMiku seems to be having so much fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Your Miku is so energetic...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Is the Miku from your SEKAI not like her?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "*Nod*\nShe's much more cool and collected...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, that's interesting. I'd like to meet her someday.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku's Voice",
+   "Line": "Heeey, slowpokes!\nI'm gonna win if you guys don't hurry!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Hehe. Let's chase after her, shall we?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Woohoo! I win☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Y-You were so fast...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "We never came close to catching her.\nYou could've gone a little easier on us, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Okay☆ Next time, I'll be more of a turtle♪\nReady, steady...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "No, I think I'm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Oh, they're over here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00567",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00567",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000492",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh?! Wh-What's going on...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kitty Plushie",
+   "Line": "You're the other KAITO they told me about, right?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "More talking plushies...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kitty Plushie",
+   "Line": "Hmm... You do seem different!\nI'll hang out with you if you want!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "U-Umm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(He's being pulled in all directions. Is he going to be okay...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "But it might be good for him to experience something like this for a change.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Hey, Miku, KAITO!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "That voice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "It's Tsukasa!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "The one whose feelings made this SEKAI seems to have arrived. Why don't you introduce yourself to him?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "What? But I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Don't worry!\nTsukasa's a really kind and energetic person☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Plus, KAITO and I really wanna introduce you!\nSo, let's go☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(Band me is a very shy person...\nI'm a little worried.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(But this could be a good experience for him. I'll be rooting for him.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "You can do it, me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

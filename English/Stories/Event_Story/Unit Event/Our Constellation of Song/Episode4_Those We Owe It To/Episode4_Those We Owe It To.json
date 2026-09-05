@@ -1,0 +1,628 @@
+{
+ "title": "Unit Event — Our Constellation of Song — Episode4 Those We Owe It To",
+ "meta": {
+  "Event": "Our Constellation of Song",
+  "Event Type": "marathon",
+  "Episode": "Episode4 — Those We Owe It To",
+  "Event Outline": "Leo/need has done it at last. They've been signed by a record label! Reflecting on all of the people whose support has taken them this far, Ichika thinks of a way for the band to show their gratitude.",
+  "scenarioId": "event_101_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shibuya Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00100_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Sorry for running late, Hoshino.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "It's okay. I just got here too.\nThank you for always taking time out of your busy schedule to practice with me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "No, don't mind me. I didn't have much going on today. All I really did was make a list of stage props.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Anyway, wanna get started...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, before we do...!\nThere's something I need to give you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Here, it's a ticket for our next show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I know you saw our solo show, but I'm really hoping that you'll also come to this one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, but...! You don't have to if you already have plans!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "No, I really appreciate it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I've been looking forward to going to your next show since your solo show was so much fun. Thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I'm really glad to hear that...!\nThank you, Kusanagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But wow, you're doing another show already.\nYour band must be doing pretty well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes, because of our supporters...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Our next show is going to be our way of thanking everyone who's been there for us until now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Which is why, Kusanagi, I'd like for you to come...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes, since you've been teaching me how to sing. And...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Because you've been supporting my dream. As my friend.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hoshino...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Thank you. I really appreciate what you're saying, but... I need to thank you as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Well, um... I'm pretty shy around others and all...\nWhich is why I'm happy that I've gotten to know you so well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "And seeing you really go after your dream has motivated me to do the same, Hoshino...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "So you've been supporting my dream a lot as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Kusanagi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I'm not missing your show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay, thanks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I'm so glad I never stopped singing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, um...\nSinging's sort of the reason we became friends.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "We go to different schools, so we probably never would've met under normal circumstances...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But that time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "When I heard you sing, I was really touched!\nI want to be able to sing like you too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "L-Like me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "So if you don't mind... Can you please teach me how to sing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "We were able to become friends because you were willing to ask me to teach you how to sing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah, now that you mention it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(She's right...\nSinging is what brought us together...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "*Nod*\nI'm really glad that I started taking singing more seriously after getting our band back together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Kusanagi.\nThank you so much for everything you've taught me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Y-You're welcome...\nBut it's a little embarrassing when you put it that way...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Anyway, wanna start practicing...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Yoisaki Household - Kitchen",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Would it be possible for you to come see our show?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "A show for us...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, I'll be more than happy to go since you've invited me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Th-Thank you very much...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "But have I really done anything worthy of being thanked?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "No, Kanade, don't say that...!\nYou've taught me so much about writing songs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "You made me realize some very important things that time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Important things...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes. How to bring what I'm feeling into shape... And the importance of having the courage to believe in my choices.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That didn't just help me finish that song... What I learned that day will stick with me as I keep thinking about our music.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I didn't think I did anything particularly profound.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "But I'm glad I could help you, Hoshino.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'll be looking forward to the show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. Thank you.\nI promise to do my very best to make sure you enjoy it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Thank goodness...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(I also need to do my best to put on a good show for her.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Still...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Kusanagi was right.\nI'm so glad I never stopped singing or playing music...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(It's not just her.\nMusic is what led me to Kanade, too.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Did something happen, Ichika?\nYou seem awfully happy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, um...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I was just thinking about how music gave me the opportunity to meet you, Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "So, Kusanagi and I sort of ended up talking about that when I went to invite her the other day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "How singing... How music helped expand our circle of friends.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That made me realize how music has the power to bring people together and create new connections.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, I suppose you're right.\nAfter all, that Miku CD was what led to us meeting in the first place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh... Yes, I remember.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That CD is what led to us talking like this, and then you taught me how to create my own Miku songs...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. Miku's certainly had quite an impact.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah, she has...\nI mean, Kanade and I do talk about her a lot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I see. Then, in other words...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Miku is in essence the one who brought you two together, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(She might be right...\nMiku's the reason why Kanade and I are friends at all...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(No, not just her...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Meeting Miku in SEKAI brought us back together...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(After the four of us reformed our band, we started meeting so many different people.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Oh, that reminds me...\nWhen we were little, we decided to start a band because I'd listened to all those Miku songs and wanted to play them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "You're absolutely right, Honami...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Music has given me a chance to meet all these people.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "But Miku stands at the center of all that. She brought us all together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "In that case, Hoshino, it sounds like Miku's had the biggest impact on your life...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_g000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "♪————————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00019_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Ichika's Voice",
+   "Line": "...! Wow! She's so amazing...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes, I think you're right...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,733 @@
+{
+ "title": "Mixed Event — Happy Lovely Everyday! — Episode3 Lingering in the Past",
+ "meta": {
+  "Event": "Happy Lovely Everyday!",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — Lingering in the Past",
+  "Event Outline": "MORE MORE JUMP! are delighted to receive a request to perform at an elementary school. With experience performing in children's variety shows under her belt, Airi enthusiastically starts planning for the event.",
+  "scenarioId": "event_31_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000803",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka Girls Academy - Rooftop",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Email",
+   "Line": "<To Airi!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Email",
+   "Line": "<I always loved seeing you on your seven o'clock show, The Wide World of Laughs!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Email",
+   "Line": "<My favorite part was when you dressed up as The Masked Variety Idol, Happy Everyday.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Email",
+   "Line": "<The way you fought against really strong people and fell into all those mud traps was the best! I can't believe I get to meet the real Happy Everyday!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Oh...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000803",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hm?\nIs something wrong, Airi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Huh? W-Why do you ask?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "You seemed very concerned just now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Are you sure you're okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I-I'm fine, honest... I was probably just too focused on reading these messages!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "But isn't it so nice to hear from our fans like this? What do you think, Minori?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I think so too! It gives me hope for tomorrow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Which is why we need to turn these messages into our fuel as idols...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Is Airi really okay?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(What was written in that message? Let's see, the ones for Airi...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Um, Shizuku...\nMind if we have a quick conference?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Sure. How can I help you, Haruka?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "It's about Airi. There's something I'd like you to do for her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "About Airi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes. Take a look at this message to her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "After practice",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We broke a pretty good sweat during practice, huh? Event planning is fun and all, but nothing really beats a good workout!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, I agree.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Um, Airi...\nThere's something I need to ask you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hm? Sure. What's up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Haruka and I had another look at the messages the students from that school sent us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "And we came across one student who seemed very interested in when you were on all those variety shows...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "You felt concerned after reading this, right...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "We were wondering if that message dredged up some unpleasant memories...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "That's all ancient history...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Sure, I had a tough time and went through a lot, but I thought it gave me a good experience!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "And for the sake of those kids, I'm gonna do everything I can for this event.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Anyway, I'll see you tomorrow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "A-Airi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00137",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hello, Haruka...\nYes... I spoke with her just now. She said that she's fine and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I really hope she's okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b000803",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm90040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Airi's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Wow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "The Masked Variety Idol, Happy Everyday, huh? Talk about a blast from the past...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Originally, my group was asked to participate in this sports competition that The Wide World of Laughs was planning to host...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(But the ratings spiked for some reason when I put on this stupid mask during the scavenger hunt.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(After that, they decided to have me wear that mask every week and become The Masked Variety Idol, Happy Everyday.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(They made me run floating obstacle courses, go one-on-one against actual female professional wrestlers and...) ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Eventually, it became more common for me to appear as Happy Everyday instead of Airi Momoi.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "But it was easier for little kids to remember who Happy Everyday was...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(What I told Shizuku was the truth. I don't hate what I had to go through...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(But every time I look back on my life then...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(I can't help but wonder if I did anything meaningful...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Three years ago",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Commercial Building Stage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "This is it! The release event for our very first single as QT is finally about to happen...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. People are really starting to gather too. Alright, it's time for Airi Momoi the super idol to spread her wings and... Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "QT Member A",
+   "Line": "Oh no...\nI'm getting goosebumps...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "QT Member B",
+   "Line": "Me too... My mom even came out to see us... What if I make a mistake...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hey, mind helping me out with something? This really important thing I need to do today completely slipped my mind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "QT Member A",
+   "Line": "Huh? Something really important? What is it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Okay, just hear me out...\nCurl your hands into little “C” shapes and put your thumbs together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "QT Member B",
+   "Line": "Huh? My hands...?\nL-Like this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah! Now stick your hands out in front of your chest!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "QT Member A",
+   "Line": "In front of my chest... Wait, this is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "The Airi pose!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00057",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "QT Members A & B",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "QT Member A",
+   "Line": "Hahahaha!\nYou really got us, Airi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "QT Member B",
+   "Line": "You had us going there for a second! I can't believe you got us to do your own pose...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "You guys looked really worried, so I wanted to cheer you up somehow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "This is our event. None of the other girls and groups are here. We're on our own and I get that you're nervous, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "If you go on stage feeling that way, you'll end up disappointing all the people that came to see us, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "QT Members A & B",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I'm gonna put everything into my singing, dancing and MCing because I want everyone here to have the time of their lives!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I want to spread hope and make them believe that tomorrow will be better!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "That's the kind of super idol I want to become!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "And you two are no different, right? If you are, shake those nerves and get back in the driver's seat...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "QT Member A",
+   "Line": "Yeah, Airi, you're right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "QT Member B",
+   "Line": "I'm gonna try my best too!\nThank you so much, Airi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "There we go!\nWe're gonna blow the roof off today's event!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00022",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi & Co.",
+   "Line": "Hi, everybody!!\nWe're QT!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "Who? Are they idols?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "No idea, but wanna watch since we're here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(To be fair, nobody knows who we are yet, so this isn't unexpected...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(But we've gotta warm them up!\nWe've gotta get them going!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Get ready, everyone! After today, you won't ever forget who we are!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_everyday_2021_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Okay, we're off to a good start!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "QT Member A",
+   "Line": "Let's get started with some introductions! First up is, Airi!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Lovely☆ Fairy☆ Airi... Momoi!!\nI'm Airi Momoi, the heart-seeking idol♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hm...?\nDid someone in the crowd just say, “That's so old”...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Don't worry! Airi Momoi is always just like a fresh-picked peach!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Today, I want you to learn my special pose! Start by making little “C” shapes with your hands and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "QT Member B",
+   "Line": "And... Time's up!\nAlright, next is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "What?! Since when was there a time limit for these things?! No one told me about that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_everyday_2021_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "Hey, she's pretty funny.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "Yeah, keep her on!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Man",
+   "Line": "Wow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Man",
+   "Line": "She's so young but this naturally talented. Airi Momoi of QT...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Airi!\nYou're being asked onto a variety show! In primetime!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "What?! Really?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "A higher-up from a TV studio just happened to be in the audience during your last show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Finally! My hard work's finally paying off! I have to make the most of this opportunity...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "QT Member A",
+   "Line": "What?! You got asked onto a primetime variety show?! That's so great! Congratulations!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "QT Member B",
+   "Line": "I'm sure you'll do great.\nBreak a leg!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Thanks! I'll do everything I can to up QT's name recognition too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

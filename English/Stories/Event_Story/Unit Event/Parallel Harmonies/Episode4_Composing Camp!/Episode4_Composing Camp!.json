@@ -1,0 +1,508 @@
+{
+ "title": "Unit Event — Parallel Harmonies — Episode4 Composing Camp!",
+ "meta": {
+  "Event": "Parallel Harmonies",
+  "Event Type": "marathon",
+  "Episode": "Episode4 — Composing Camp!",
+  "Event Outline": "Leo/need is finally going to start writing its debut song! However, Mr. Shindo has a request: that Saki and Ichika compose it together. The pair are determined to make it a great song, but things don't go so smoothly...",
+  "scenarioId": "event_128_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00119_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00247_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Welcome, Ichi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Pardon the intrusion.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Come on in♪\nHehe. I'm so happy about you staying over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Hehe. I'm a little excited since I've never done a songwriting camp before.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Me too! It's too bad that Shiho and Hona can't come...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But we just gotta do our best to knock their socks off by writing an amazing song!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah, let's do that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Saki's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Now, let's begin our inaugural songwriting camp♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Hehe. You're making it sound so extravagant. It's just the two of us, remember?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hey, we gotta hype ourselves up.\nAnyway, let's start listening to the chord progressions we each came up with!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00037_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Okay, Ichi!\nI sent my ideas over to your phone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Thanks.\nI'll send you mine now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "This is so cool!\nI can't wait to hear what you came up with.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I spent a lot of time coming up with mine, so hurry! You gotta listen to them!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Alright. Then, why don't we start by listening to each other's stuff?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Whoa... Ichi, this is so good!\nThey're so straightforward and powerful...\nI bet we can turn this into a really amazing song!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Y-You think so?\nBut I'm glad you're saying that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "My hope for this song is that it'll help remind everyone about those who matter most to them and reinforce those bonds.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Really...?!\nI like it since it's got you written all over it, Ichi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Thank goodness...! I liked yours a lot too, Saki. It's really cheerful, but a little sad at times.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehe. So, mine's about being able to move forward regardless of any doubt or pain you might be feeling.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Hehe. Which is a nice reflection of your personality.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Now I really want to come up with a melody for this song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Me too! So, let's get started!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay.\nBut being in the same room like this might make things a bit awkward...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "So, can I use the living room?\nI feel like we're going to distract each other if we're sitting right next to each other like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, right...\nThat's too bad since you went to the trouble of coming over, but I guess we don't have a choice...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Anyway, let's meet back up once we've both finished our songs!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay.\nSee you in a bit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "See you!\nAnd let's do our best, Ichi♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00044_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Alright...!\nI've gotta do my best to come up with a really great melody!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(Hehe. This chord progression sounds so much like something Ichi would come up with...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(A song to remind people about who matters most to them, and those bonds, huh...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(Based on my own feelings and this chord progression...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000404",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Two hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Phew...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I think it's turning out pretty well!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "It's a little rough around the edges, but the basic idea's there. I can show it to Ichi once I brush it up just a...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00119_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Huh? Who could that be? Did we get a delivery?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Coming!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00044_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00247_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What?! Shiho?! Hona?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "What are you two doing here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. We wanted to do something for you both since you're working so hard.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "So, Shiho and I decided to bring over some gifts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "It isn't much, but I stopped by the convenience store and grabbed some snacks for you two.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Here, take a look.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00177_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, potato chips and chocolate cookies... Wait, there's more!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, Ichi!\nThese say they're yakisoba bun flavored!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Look at that...\nI didn't know they made these kinds of snacks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I just happened to come across them.\nLet us know how they taste.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Thanks, Shiho.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "And I made some seafood curry. I was sort of wondering if you had a chance to eat.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "*Gasp*\nWe totally forgot about dinner!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah. We were so focused on songwriting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. That sort of seems normal when it comes to writing songs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "In any case, I'm glad we brought these over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehe♪ Thanks, you two!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, I know!\nWhy don't you both stay and eat?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Since we're all here, we should have dinner together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Right, Ichi?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah. If you both have time, would you be willing to stay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Then, wanna stay for dinner?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. Okay.\nThank you for having us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Mmm... This curry's really good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You're such an amazing cook, Hona!\nAlso, I love how this is loaded with veggies! It's so filling!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Come to think of it, Saki, the curry your family makes always had a lot of vegetables in it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah! It tastes like we made it♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Except not since the Mochizukis did.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. I actually made this curry with the one your family makes in mind, Saki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Also, I know that you like your curry bold, Ichika, so I decided to put in some grated apples.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Wait, really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I didn't know that...\nThat's really thoughtful of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Thanks so much!\nI feel energized already!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, stop.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "But it's true. This is just what we needed. I feel like we'll be able to come up with a really good song now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Also, Shiho, we'll have the snacks you brought while we do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Okay, good luck.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

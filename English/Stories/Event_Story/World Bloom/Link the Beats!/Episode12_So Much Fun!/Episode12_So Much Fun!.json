@@ -1,0 +1,883 @@
+{
+ "title": "World Bloom — Link the Beats! — Episode12 So Much Fun!",
+ "meta": {
+  "Event": "Link the Beats!",
+  "Event Type": "world_bloom",
+  "Episode": "Episode12 — So Much Fun!",
+  "Event Outline": "VIRTUAL SINGERS in each SEKAI are caring for their respective trees when they are vanished away by a mysterious light. Witnessing this, their counterparts in the space between worlds enter SEKAI to search for them.",
+  "scenarioId": "wl_piapro_02_12"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link2_ppr_op6",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "*Mumble*\nHona... Your apple pies are so yummy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chick Plushie",
+   "Line": "Rin just said something!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Bear Plushie",
+   "Line": "Apple pies? Is she talking about food?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Mhm... I'm so full...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Haha...\nThis is a bit of a weird situation.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I finally found where this me went, but what do I do now? Her KAITO vanished with her, but is he somewhere in this SEKAI too?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(The plushies are there with her, but she's still probably gonna feel kinda scared when she...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "*Groan*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, she's awake! Thank goodness!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hm...? W-Wait a second!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wh-What happened?! Huh?!\nI was watering the tree a second ago...! Huh?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "What's going on here?!\nWhere am I?! What is this place?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah...\nAnyone would be startled after waking up somewhere completely new and unfamiliar.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "And...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "L-Look how big this stage is...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chick Plushie",
+   "Line": "Oh, you're awake!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Bear Plushie",
+   "Line": "Morning, Rin!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "T-Talking plushies...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "That's...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Woooow!\nThis place is awesome!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00218",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Huh?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "So, how is it that you guys can talk?!\nYou gotta tell me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I thought she'd be scared or at least surprised...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "But she seems perfectly fine here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Bear Plushie",
+   "Line": "Oh, that reminds me!\nWe need to tell the troupe leader that you're awake!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Huh? The troupe leader?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chick Plushie",
+   "Line": "Yeah, he's our leader!\nOur troupe has lots of members 'cause we do lots of shows, and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Huh? Is someone there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin & Rin",
+   "Line": "Wh-Whaaaaat?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "There's another Rin?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Why's there another me?!\nAm I dreaming?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chick Plushie",
+   "Line": "It's not a dream!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chick Plushie",
+   "Line": "Um, KAITO and the others told us all about it! They said this Rin probably came from another SEKAI.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Whaat?! So, this is a different SEKAI?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wow! This is what me from another SEKAI looks like?!\nUm, hi☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hehe. Hi!\nThis feels so strange...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I know, right?! But it's also kinda fun♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Still, how did you get to this SEKAI?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "So, I was sitting by this tree in my SEKAI, then something flashed and I was here when I woke up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wow, really...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, then... Could the same thing have happened to MEIKO?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Did something happen to her?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "*Nod*\nShe said she was gonna water our tree, and then she disappeared.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "So, just maybe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "She was sent over to another SEKAI just like me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Uuuuugh!\nNo fair! No fair! I wanna visit another SEKAI!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I also wanted to meet the MEIKO from this one!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hmm... But I managed to get here, so I might be able to meet her in the future♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, right☆ And I should totally be able to visit another SEKAI someday too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Hey, Rin!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, that sounded like Len!\nLemme introduce you to him, Rin☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Cool, thanks!\nI can't wait to see what the Len from this SEKAI is like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "H-Huh...?\nTwo Rins...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hiya☆\nSo, the thing is, I came over from a different SEKAI!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I still don't really know what exactly happened, but I hope we can all be friends♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Rin from another SEKAI...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hmm... MEIKO's gone too, so does that mean I'm still dreaming...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "This isn't a dream, Luka!\nIf you pinch your cheeks, it'll hurt, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00118_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, you're right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "You never change, Luka.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, anyway! We were just talking about how MEIKO was probably sent to a different SEKAI like Rin here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Is that what happened...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Then, I won't be able to use her lap as a pillow for a while...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Use her lap as a pillow?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah! Whenever Luka takes a nap, she likes to use MEIKO's lap as a pillow♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wait, really?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Luka napping on MEIKO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00200_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Phew...\nI'm feeling a little tired after practicing so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00015",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hey, MEIKO? Can we take a quick break?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Sure. Would you like for me to do our usual thing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Yes, that'd be lovely.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Zzz... Zzz...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe. Oh, Luka, you're so coddled.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I-Is that what they're doing when I'm not around?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Haha!\nSeeing the Luka from her SEKAI do that would make me laugh so hard.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "On the other hand, it'd be pretty surprising if you didn't know about the Luka from this SEKAI.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, also, where are Miku-P and KAITO?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "They were looking for MEIKO just like us, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Really?! Then, does that mean I can meet them?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Definitely☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, I know!\nWe should give this Rin a tour of our SEKAI♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yeah!\nWe're bound to run into Miku and the others somewhere along the way!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Really?! Are you sure?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Of course.\nSo, let's... Zzz...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Huh?! L-Luka?! Is she okay?!\nShe fell asleep standing up...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hehe♪ She always does this, so don't worry!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Really?! Then, okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "There isn't much we can do, so we'll just have to lead her around as she sleeps.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yup! Anyway, you guys☆\nLet's get going!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wow, an amusement park!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "No fair! No fair!\nI didn't know this kind of SEKAI existed!\nYou guys get to have fun here every day!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Come to think of it, this is the first time school SEKAI me is seeing an amusement park, huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "She loves to have fun...\nSo, I'm sure she's really gonna enjoy herself!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wait, that Ferris wheel's huge!\nI wanna go on it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh, we can also look for Miku and the others from up there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Good idea.\nI should be able to take a nice, long nap...♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hey, quit taking so many naps!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Singing Flower",
+   "Line": "——♪ ——♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, these flowers are singing!\nThis SEKAI's so strange... You've got talking plushies and singing flowers...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "You think so? Does that mean there are SEKAI where flowers don't sing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "To be fair, the flowers where Tsukasa and the others live don't sing either.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, right! Then, Rin, your SEKAI might be more similar to where they're from!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hehehe♪\nWow, this is so much fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin & Singing Flower",
+   "Line": "——♪ ——♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I had no idea roller coasters were so fast!\nIt made my heart jump a few times.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "But it's tons of fun to zoom around on it☆\nJust like with MEIKO's high fly!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "High fly? What's that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "So, it's when MEIKO grabs you and flings you really high into the sky☆\nWe should have her do it on us if we find her♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "O-Okay...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(She flings you high into the sky...?\nIs this SEKAI's MEIKO that strong...?!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Anyway, what do you wanna go on next?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hmm... I can't decide...\nThere are so many that I wanna ride...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hehe. Both versions of me look like they're having fun♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Still, an amusement park...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Actually, I haven't really had much of a chance to enjoy this SEKAI's amusement park.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, I know...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000493",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00122",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Whee!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Riding a merry-go-round in the sky is so awesome!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hehe. Since I'm here, maybe just for a little bit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Still, it feels a little strange to go on this while looking down at the park.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I feel like I'm going for a walk in the sky...\nThis feels so nice!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wow, that was so much fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Thanks for the tour, you guys!\nI've absolutely, positively, totally fallen in love with this SEKAI☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hehe♪ Seeing you smile makes me really happy too, Rin☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hehe. I'm glad for the both of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Thanks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Oh, you guys...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Wait, that voice...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "It's Emu!\nShe's Tsukasa's friend☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Tsukasa...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah, he's the owner of the feelings that made this SEKAI♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Anyway, let's go!\nI'll introduce you to her, Rin☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(Hehe. I can't wait to see what she's like...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,358 @@
+{
+ "title": "Aoyagi Toya — On Foreign Streets〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "Aoyagi Toya",
+  "Card": "On Foreign Streets（4★）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "Time to Take Off!",
+  "scenarioId": "012041_touya01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c003001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "New York Academy of Music - Outside the dorm",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Good morning, Azusawa, Shiraishi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Morning, Aoyagi, Shinonome.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "This dorm's beds are really nice!\nI basically fell asleep the second I lay down on mine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I have a feeling that this place has better beds than any of the cheap hotels around here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, they were very comfortable.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Anyway, the cafeteria on campus that Mr. Lloyd told us about should be opening soon...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Right. Let's go get some breakfast.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Hm? A message?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, it's from Shuji...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Speaking of which, you told him that we managed to meet up with Mr. Lloyd, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, he replied just now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(We ended up asking him for help just after arriving here, and he really saved us.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I'd like to thank him in a more direct manner... Actually, he just replied to my message, so does that mean I can call him now?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We'll see you over at the cafeteria, Toya.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Please give your brother our regards.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, let him know he's a lifesaver and we really appreciate what he did for us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(They're all so considerate...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Anyway, I should first ask to see if he's free to talk right now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(We just spoke yesterday, but I'm a little anxious about calling him for some reason.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00137_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<Morning, Toya.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Good morning, Shuji.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So, I really appreciate what you did for us yesterday. We were able to stay in one of the dorms thanks to you and Mr. Lloyd.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<Yeah, he let me know already.\nHow is your team doing? Good?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, we were all able to get a good night's rest. They all wanted me to thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<That's good to hear.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm sorry. I know you're busy with your performance right now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<Don't worry about that.\nI'm the one who said to ask if you ever needed help, remember?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<If anything, I'm glad that you reached out to me. Not often I get a chance to help you like a big brother should.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<You know, Professor Lloyd said that you remind him of Dad.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, yes... He did say that to me as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Also, I haven't had much chance to ask about this yet, but he told us Dad spent six months studying at the New York Academy of Music as an exchange student...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<Ah, that.\nHe really does enjoy telling stories about Dad.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<To be fair, he was at Dad's wedding, so I have to think that they're really close friends.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...\nThat comes as a surprise. I'd only heard that they were classmates.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<He'll probably tell you all about Dad if you keep asking him. Actually, he might not be able to stop once you get him going.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<Dad's friends with a lot of musicians in Europe and the United States.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<Every time I meet one of them, they ask, “What is Harumichi doing in Japan these days?” and, “When is he visiting here next?”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<Surprised?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I am...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<Remember that trip to Europe we took as a family when we were little?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<This huge crowd of famous musicians gathered in the hotel we were staying at after word got out that Dad brought his entire family.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<Just as things were about to get totally out of hand, he told them to “get lost and go home”. The looks on those musicians' faces were priceless.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Really...?\nI don't remember any of that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<To be fair, you were very little.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<Oh...\nI need to start getting ready soon.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<There are plenty more interesting stories about Dad, and Professor Lloyd knows many of them. You should ask him if you get the chance.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I'll do that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<Toya...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<We won't be able to see each other this time around due to my performance, but let's try to meet in person soon.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I'll be looking forward to seeing you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

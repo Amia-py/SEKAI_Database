@@ -1,0 +1,478 @@
+{
+ "title": "World Bloom — Turning Pain Into Drive — Episode1 A Different Now",
+ "meta": {
+  "Event": "Turning Pain Into Drive",
+  "Event Type": "world_bloom",
+  "Episode": "Episode1 — A Different Now",
+  "Event Outline": "The members of Vivid BAD SQUAD check in on the tree growing in the plaza of their SEKAI. Suddenly, each of them is thrown into a dream showing them a different life, in a world where their paths diverged...",
+  "scenarioId": "wl_street_02_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, let's stop here for today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "*Nod*\nNice work, everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "You all seemed pretty solid today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You can't beat singing in SEKAI.\nNo other place gives you this sense of comfort, you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Maybe it's because we can relax while we sing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Especially since things feel so different overseas.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "On top of being in an unfamiliar place, we're dealing with a new climate. It's hard not to feel uncomfortable with the drastic change in temperature and humidity.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh, I guess that's why everything sounds different as a result.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Wow, really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Now I'm curious to know how it's different.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I've heard that some artists go abroad in order to record their music.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Is something the matter, KAITO?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, I was just marveling at just how much they've all grown.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "You were already steadily improving before traveling overseas, but I feel like you've all been finding new gears since then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I don't think we're doing that well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "But I understand what KAITO is trying to say.\nIt's clear that you've all absorbed quite a lot based on the way you're singing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Which would explain why that tree has been growing so fast.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "That tree...?\nAre you talking about the one in the plaza?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Speaking of which, it was but a little sprout not too long ago. Now, it's become quite a robust specimen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Normally, it'd take a lot longer for a tree to reach that stage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "You must all be accelerating its growth.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Us...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hey, why don't we all go check up on it together?!\nIt might've grown even bigger since then!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah, let's go! I wanna see it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay, why not?\nI don't really have any other plans today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, me neither.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Then, that's perfect!\nWe can all go over together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len & Rin",
+   "Line": "Woohoo!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00258",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Plaza",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hurry, you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Slow down.\nWe're coming...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "They both seem so excited.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "They are always watering it. I think they especially want to see it grow big and strong.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see... That's quite the commitment.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, I also water it! Sometimes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Me too! Me too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Then, you two also deserve some credit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Honestly, you both just want to hear some praise...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "What's taking so long, you guys?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah, hurry up! Look how big it's—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len & Rin",
+   "Line": "O-Oh nooooo...!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hey, what's wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "The tree...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "It's turned black.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Y-Yeah...\nAnd its leaves are all drooping...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "But why?!\nIt was full of life just yesterday!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hmm...\nIs it possible for it to get sick?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes, plants can become sick...\nBut not this quickly, from what I understand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "What could have happened...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "It would seem that the tree itself hasn't turned black.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes. Upon closer inspection, I'm seeing all these black fragments coating it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, you're right!\nWhat are these things...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "No idea...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "These black things weren't here yesterday, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "N-No, they weren't!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "And its leaves all looked really healthy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see. We have no proof at this point...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But these black fragments appear to be the reason why this tree looks so sickly now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah. I mean, you can tell that they're bad news just from looking at them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "But why...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Miku?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "No, never mind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "We have nothing to go on right now, but we should focus on helping this tree.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What if we picked the fragments off...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm worried that the tree's going to get even sicker if we don't.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Kohane...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, let's give it a whirl!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wait, all of them? Is that even possible...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The ones on the ends of the branches seem like the easiest to remove.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "So, like here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "...! No, Kohane, wait!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00843",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "???",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c003101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

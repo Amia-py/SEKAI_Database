@@ -1,0 +1,463 @@
+{
+ "title": "World Bloom — In an Ephemeral Embrace — Episode8 Chasing Shadows",
+ "meta": {
+  "Event": "In an Ephemeral Embrace",
+  "Event Type": "world_bloom",
+  "Episode": "Episode8 — Chasing Shadows",
+  "Event Outline": "Several days before the meeting in the Asahina family household, the members of Nightcord at 25:00 notice something strange happening to the tree in their SEKAI. They each soon find themselves dreaming of very different lives.",
+  "scenarioId": "wl_night_02_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link2_night_op4",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "Are you sure about this, Mafuyu?\nWe don't mean to drag you along.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Yes, of course.\nI was actually hoping to take a breather today anyway.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "Okay, that's good to hear!\nLet's have as much fun as we can today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Hehe. I'm looking forward to it already.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "Rare item: Print Stickers with Mafuyu, obtained!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "My skin looks so good in these photos. What a surprise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "That's the selling point of this machine, after all. I actually like the one over there a little more. Wanna give it a try next?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "Check out this blouse! Isn't it adorable?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Yes, it is. And it suits you very well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "Thanks!\nOh, Mafuyu, I bet this skirt would look great on you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "You think so? I do own a few clothes with similar designs, I think.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh, that reminds me. There's a shop that I was hoping to visit. Can we go there next?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "Yeah, let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e002701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00047",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Dolce Apparel",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "Wow...! This shop's so cute!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "Still, Mafuyu, I didn't realize you liked these kinds of shops.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I've been meaning to visit it after spotting it on my way home the other day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "Oh, I see! I don't usually wear these kinds of clothes, but it's fun just looking at them, huh.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "Since we're here, let's have a good look around.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Welcome!\nAre you looking for anything in particular?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh, umm... No, not exactly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Everything's just so cute.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You're right about that!\nI also really love all the clothes we have here♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You know, miss, you look very grown-up, so I might have a dress that suits you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "We just got it in the other day.\nWould you like to take a look at it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, you don't have to try it on!\nI just personally think that you'd look really amazing in it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Okay. Then, maybe just a quick look.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Really?! Thank you!\nRight this way...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a005701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "*Sigh*\nI had so much fun today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Yes, so did I.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "Don't act like the day's over.\nWe can't go home until we've had these pancakes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Their heart-shaped fruit pancakes are very famous. Anyway, let's eat.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmates A & B",
+   "Line": "Let's eat.\nLet's eat!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00166_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Mmm... This is delicious.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "This whipped cream isn't too terribly sweet, so I can just keep on eating.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "Me too! I might have room for seconds!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "Uh, wouldn't that be going a little overboard?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "These pancakes are just that good!\nApparently they have different flavors for different seasons too. I wonder what they are.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "Let's come back again some day when Mafuyu's free!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Hehe. Sure.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "I hope Yoisaki can join us next time.\nShe said she couldn't today because she'd be busy working on a song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "She's really famous online, right?\nDo you think that means she writes new songs every single day?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "I'm sure she's free sometimes. Let's invite her again sometime soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Yes, I agree...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000602",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Asahina Household - Living Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00166_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Mmm... This beef stew's delicious.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Mother",
+   "Line": "Oh, you like it?\nI tried preparing it a little differently today, so I'm glad you're enjoying it so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "*Nod*\nEverything you make is good, Mom.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Mother",
+   "Line": "Oh, Mafuyu, that's so sweet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Come to think of it, Mafuyu, have you already decided which school you're going to apply to?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "You mentioned a little while back that you'd like to become a doctor, so I figured that you'd be trying for schools with medical programs...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh, um...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Mother",
+   "Line": "So, about that... We actually discussed that the other day. Mafuyu said...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Mother",
+   "Line": "She isn't completely set on becoming a doctor.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Mother",
+   "Line": "It sounds like she wishes to do something that allows her to be there for people. So I think we should give her time to think it over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Father",
+   "Line": "Ah, I see.\nYou wish to be there for people. You really do have a big heart, Mafuyu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Mother",
+   "Line": "Hehe. Regardless of the path you choose in life, I'm sure you'll find a way to succeed, Mafuyu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "♪———— ♪————...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_wl_2nd_schoolrefusal_2025_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_wl_2nd_schoolrefusal_2025_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

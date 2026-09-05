@@ -1,0 +1,144 @@
+# Unit Event — On This Blank Canvas, I Paint — Episode7 I Don't Want to Run
+
+- **Event**：On This Blank Canvas, I Paint
+- **Event Type**：marathon
+- **Episode**：Episode7 — I Don't Want to Run
+- **Event Outline**：As N25's music evolves, Ena struggles to capture the true essence of their songs in her art. In the interest of keeping up with the group, she considers going back to her old art class...
+- **scenarioId**：event_53_07
+
+## 正文
+
+| Speaker | Line | _kind |
+|---|---|---|
+|  | bg_e000303 | Background Change |
+|  | Ena's Room | Caption |
+|  | se00028 | Sound |
+| Rin | (Well, I'm here...) | talk |
+| Rin | (There's definitely a chance that she's gonna call me a worrywart or something for surprising her like this...) | talk |
+| Rin | <Oh...> | talk |
+|  | se00109 | Sound |
+| Rin | <Ena?> | talk |
+| Ena | No...<br>This isn't it at all... | talk |
+| Ena | More colors...<br>No, this part needs to be darker... | talk |
+| Ena | Ugh... It looks like a mess...<br>Now I have to redraw it... | talk |
+| Rin | (Ena... She's in so much pain...) | talk |
+| Rin | (What do I do...?) | talk |
+| Rin | (Isn't there anything I can do for her...?) | talk |
+|  | bgm00000 | Sound |
+|  | bg_s000060 | Background Change |
+|  | bgm00065 | Sound |
+| Rin | <♪————> | talk |
+| Ena | Huh...? | talk |
+| Ena | Rin...? | talk |
+|  | bg_e000303 | Background Change |
+| Rin | (Thank goodness...<br>She seems a little better now.) | talk |
+| Rin | <Are you okay, Ena...?> | talk |
+| Ena | ... | talk |
+| Ena | No... I don't think so... | talk |
+| Ena | Nothing's working. I keep drawing and drawing, but it looks all wrong... | talk |
+| Rin | <...> | talk |
+| Ena | I have to get better to keep up with the rest of N25. I have to catch up to them... | talk |
+| Ena | But it hurts so much... | talk |
+| Ena | I know that I have to keep drawing, but every time I do, I become so overwhelmed with pain that my mind goes blank... | talk |
+| Rin | <Ena...> | talk |
+|  | se00004 | Sound |
+| Ena | Huh? A message...?<br>From who...? | talk |
+| Mizuki's Message | <Enanan, would it be possible for us to talk?> | talk |
+| Ena | ... | talk |
+| Rin | <They're all worried about you.<br>They want to help...> | talk |
+| Ena | Okay...<br>Thanks, Rin. | talk |
+|  | se00001 | Sound |
+|  | bgm00000 | Sound |
+|  | bg_e000501 | Background Change |
+|  | bgm_area00005 | Sound |
+|  | Empty SEKAI | Caption |
+| Ena | Sorry for making you wait, Mizuki... | talk |
+| Ena | Kanade? Mafuyu? You're here too? | talk |
+| Kanade | Yes, after much discussion. | talk |
+| Mizuki | We didn't realize Rin was with you. | talk |
+| Rin | Also after much discussion... | talk |
+| Ena | More importantly, I'm so sorry.<br>I keep getting stuck after promising to get this thing done... | talk |
+| Kanade | That's okay.<br>We know that you're trying your best, Ena. | talk |
+| Kanade | Also... Sorry, but we had Mizuki tell us more about the art class you've been attending. | talk |
+| Ena | Oh... | talk |
+|  | bgm00000 | Sound |
+| Ena | ... | talk |
+| Kanade | I feel awful for not realizing that you think you need to get better to catch up to us... | talk |
+| Ena | It's not your fault, Kanade.<br>It's my fault for not being a better illustrator... | talk |
+| Ena | It's like all that time I was gone has come back to haunt me. | talk |
+|  | bgm00016 | Sound |
+| Ena | Everyone else seems to know exactly how to draw what they want to draw... | talk |
+| Ena | While I'm so far behind that I'm struggling to do even the most basic things... | talk |
+| Ena | My mind's telling me to just keep drawing and doing whatever I can to get better. | talk |
+| Ena | But my body can't handle it...<br>Every time I go, I start shaking because I'm so scared of going to that class. | talk |
+| Ena | I can't do what the others can do and I know I'm never going to receive positive criticism. More than anything, I can't forgive myself for letting this all happen... | talk |
+| Ena | I keep asking myself, “Why did I run away that time...?” | talk |
+| Rin | Ena... | talk |
+| Ena | But I want to keep drawing...<br>I want to prevent being left behind by N25 at all costs... | talk |
+| Ena | At least, that's what my mind's telling me. | talk |
+| Kanade | ... | talk |
+| Kanade | I don't think you were running away from anything, Ena. | talk |
+|  | bgm00000 | Sound |
+| Ena | Huh...? | talk |
+| Kanade | It may be true that drawing illustrations for N25 won't necessarily give you opportunities to learn anything new or improve your skills. | talk |
+| Kanade | But in my opinion, your art has improved compared to when we first met. It's clear that you're always looking for the best way to illustrate the music Mafuyu and I make. | talk |
+|  | bgm00039 | Sound |
+| Ena | ... | talk |
+| Mizuki | I've recently been catching myself thinking just how much I like what you draw, Ena. You have this way of conveying so many different feelings all at once. | talk |
+| Ena | But feelings aren't enough.<br>Those alone won't get me anywhere... | talk |
+| Ena | At this rate, if I stop growing as an artist... | talk |
+| Mafuyu | ... | talk |
+| Mafuyu | I don't know if you've grown as an artist... | talk |
+| Mafuyu | But I remember being confused by your old illustrations in terms of what you were trying to express because of how you used odd colors and bent lines. | talk |
+| Ena | What? FYI, that was all on purpose...! | talk |
+| Ena | (But in retrospect...<br>I guess I could've done better to get my message across.) | talk |
+| Mafuyu | But now, things seem a little different. | talk |
+| Ena | Huh...? | talk |
+| Mafuyu | I'm still confused sometimes, but I understand your art better than before. | talk |
+| Ena | ... | talk |
+| Kanade | Ena... | talk |
+| Kanade | I know this is a lot to process...<br>But I don't want you to think that these past two years were a complete waste. | talk |
+| Kanade | Your illustrations have helped us so much. They've helped N25 so much. | talk |
+| Ena | Kanade... | talk |
+| Ena | (During these past two years, I...) | talk |
+| Ena | (I found N25 and decided to give art another try.) | talk |
+| Ena | (After that... We met for the first time in SEKAI, I did terribly in that contest and became almost incurably depressed...) | talk |
+| Ena | (But I realized that I want to keep drawing for N25...) | talk |
+| Ena | ... | talk |
+| Mizuki | Ena, you gotta see this.<br>All of N25's videos! | talk |
+| Ena | Huh? | talk |
+| Mizuki | I mean, look. We're up to this many now because Kanade keeps churning out new songs. | talk |
+| Kanade | Sorry. I can't help myself since I'm still determined to compose a song that can save people... | talk |
+| Mafuyu | Why are you apologizing?<br>I need you to keep composing for the foreseeable future. | talk |
+| Kanade | Right... | talk |
+| Ena | Whoa, talk about a blast from the past... | talk |
+| Mizuki | I really like what you drew for some of our old stuff! It's kinda rough, but it gives it that sort of edge, you know? | talk |
+| Mizuki | Oh, this one too!<br>Remember how you had some trouble coming up with ideas and we ended up making it together? | talk |
+| Ena | Yeah, I redrew it so many times because I didn't know which motifs to go with and it took forever to finish. | talk |
+| Rin | ... | talk |
+| Rin | I like this one. | talk |
+| Ena | Huh? This one...? We uploaded it just the other day, didn't we? | talk |
+| Rin | Yeah. As much as I like your old illustrations, I like your recent ones more. Your weird choice of colors is like an expression of who you are, Ena. | talk |
+| Ena | Is that supposed to be a compliment? | talk |
+| Rin | Yes. | talk |
+| Ena | Huh? | talk |
+| Rin | I don't know much about art... | talk |
+| Rin | But if you really felt like running away, I doubt you would've drawn all these things. | talk |
+| Ena | Oh... | talk |
+| Ena | I... | talk |
+| Ena | (Is she right?) | talk |
+| Ena | (I don't know... No, I ran away for two years... That's just the cold, hard truth...) | talk |
+| Ena | (But...) | talk |
+| Ena | (I really drew all these...) | talk |
+| Ena | (Together... With N25...) | talk |
+| Ena | ... | talk |
+| Ena | Thanks, all of you... | talk |
+| Ena | I feel like trying a little bit more now... | talk |
+| Rin | ...! | talk |
+| Rin | Okay.<br>Good luck, Ena. | talk |
+|  | bgm00000 | Sound |
+
+
+## Outline
+
+https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）

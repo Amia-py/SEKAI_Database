@@ -1,0 +1,753 @@
+{
+ "title": "Mixed Event — Screaming?! Welcome to the Forest of Wolves! — Episode2 Let's Make A Haunted House!",
+ "meta": {
+  "Event": "Screaming?! Welcome to the Forest of Wolves!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode2 — Let's Make A Haunted House!",
+  "Event Outline": "The Miya Girls School Festival is fast approaching. Kohane was thinking about inviting the rest of Vivid BAD SQUAD and wondering what they could do throughout the day, but her class, 1-A, decided to do something An's not very fond of... A haunted house!",
+  "scenarioId": "event_75_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka Girls Academy - Class 1-A",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "The idea you came up with just now was so good, Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "You think so?\nHehe. Thanks...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But I was only able to arrive on that because of you, Minori. There's no way I would've thought of doing a haunted house based on a fairytale if you hadn't said what you said...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "All of the things you've been doing with MORE MORE JUMP! might be turning you into an idea person.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "R-Really?!\nThat'd be great if you're right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "My initial thought was that I wouldn't mind doing something for class as long as it didn't get in the way of band practice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "However, since you two came up with such a good idea, I'll try doing what I can for it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yay!\nAlright, let's do our best again during tomorrow's discussion!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Thanks to them, we might actually be able to put on a haunted house that even An and others who aren't good with scary things can enjoy...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I hope the four of us get to have lots of fun then...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00249",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Class President",
+   "Line": "We'll now begin discussing how we'll be putting everything together for our haunted house. First, let's talk about decorations...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmates",
+   "Line": "Wait, shouldn't we start with how we're gonna put up drapes to darken our classroom?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmates",
+   "Line": "That's also important, but don't the routes and layout take priority? We can just use cardboard or our desks to make all the walls we need, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmates",
+   "Line": "Hang on! What about costumes?!\nHow real do the wolves need to look?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Class President",
+   "Line": "U-Uhh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "N-Now that we know what we'll be doing, everyone's super excited about putting a haunted house together...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But the Class President is being bombarded with all these different suggestions...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, there's a lot to do, so getting everyone and everything organized isn't gonna be easy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Class President",
+   "Line": "Um, so... We should start with...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(Wait, I've seen this happen before...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(For the choir recital, Honami said that it was really hard to get everyone to compromise and agree on one plan.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(To be fair, we don't seem to be splitting into two camps like her class.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Class President, I have a suggestion!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Class President",
+   "Line": "*Gasp*\nY-Yes, Hinomori?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Why don't we start by figuring out everything we need to do, and then deciding who's going to be in charge of what task?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "That might smooth out this process.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Class President",
+   "Line": "Oh...\nYes, you're right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "We shouldn't just bombard her with all of our ideas at once. Let's give our suggestions one person at a time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmates",
+   "Line": "R-Right...!\nWe're sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmates",
+   "Line": "I guess we couldn't help but blurt out every idea that came to mind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Class President",
+   "Line": "No, it's okay...\nAnd thank you very much, Hinomori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "There's no need to thank me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00347",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Shiho... That was so cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah...!\nThat really calmed everyone down!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Huh? It did...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, Shiho, you did an amazing job of that! Not many people are able to say what's needed in these sorts of situations.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Most people usually say that I'm being too harsh... But I'm glad what I said helped.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Class President",
+   "Line": "Alright, let's start figuring out everything that we need to do. I ask that you please raise your hand and wait to be called on before speaking!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh! Please, pick me!\nI have a lot of suggestions!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000402",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Class President",
+   "Line": "Okay, now that we've decided who our task leaders will be, let's call things here for today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00188",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm glad we managed to get to assigning roles to everyone today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Unfortunately, Shiho, you're on the maze team, Minori, you're on costumes, and I'll be promoting our haunted house...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Haha. We got completely split up...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "But I think the tasks we've been assigned suit us all really well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah.\nIt's too bad that we got split up, but let's do our best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho & Minori",
+   "Line": "Yeah!\nYeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Okay, let's dive right into designing costumes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmates",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "Can we start with the designs for the wolves?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "Are they gonna be putting on wolf's heads? As for their suits or clothes... What do you think they should wear?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "In terms of how our wolves' faces are gonna look, we can go in a lot of different directions.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "Yeah, I just did a quick search. I'm seeing a mix of stuff from anime and really realistic ones...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "How our wolves are gonna look...\nOh, I know!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "What if we started by thinking about how our guests are gonna feel when they see them?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "How they're gonna feel?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah! For example... We could put lots of bows and ribbons on them if we want more kids to stop by, or paint on blood if we want them to look really scary!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "So, it might be good to think about what sort of audience we want to target.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "Yeah, that makes a lot of sense...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hehe. To be fair, I'm sort of just parroting what other people told me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "Hmm... Cute is probably the way to go if we want our haunted house to be enjoyable for all ages, but there are plenty of thrill seekers out there... So, why not both?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "Good point.\nAnd it'd be pretty boring if all the wolves looked the same. Can we try designing each of them differently?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah!\nIt'd probably be really fun to see so many different wolves!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "Oh, then! Let's make one super scary for the thrill seekers out there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah, like a zombie wolf!\nGimme one second to draw a quick sketch.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00213",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "The maze team needs to paint trees onto the plywood that are gonna act as the walls for the haunted house, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate C",
+   "Line": "Yup! We already came up with a blueprint. Hinomori, can you have your group work on the exit? We just need each of you to paint three and then we'll be done!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Three trees per person?\nOkay, we'll get started on that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(I can use this brush to paint on each leaf... Hmm... Painting on plywood's actually pretty fun...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00178",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(But it feels kinda flat for some reason...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(Using just one shade of green is probably the issue... Which means I should add in some shadows.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(Here, here and...\nYeah, that looks much better.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate C",
+   "Line": "Hey, wanna try lining our trees up to see how they look together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Oh, sure...\nWe can line them up by that window...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Huh...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(Mine looks a little too real...\nMaybe I should've kept things simple...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate C",
+   "Line": "Whoa...!\nYours looks so realistic, Hinomori!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate D",
+   "Line": "Yeah!\nI can tell that you worked really hard on it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Th-Thanks...\nBut doesn't it kinda stand out?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate C",
+   "Line": "Huh? I don't think so... Oh, I know!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate C",
+   "Line": "We can put the cute and cartoonish trees at the entrance. As you venture deeper and deeper into the forest, they'll gradually start looking more real. How creepy would that be?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate D",
+   "Line": "Yeah, that's a great idea!\nOkay, let's try painting a few more realistic trees.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate C",
+   "Line": "Hinomori, can you show us how you painted yours?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Sure, I can do that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. Looks like everybody's having fun...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Minori and Shiho are also doing their best, so I need to do the same as we make flyers for our haunted house.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate E",
+   "Line": "Hmm... How should our flyers look?\nHave any of you made anything like this before?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, I might be able to help. I've recently been putting together flyers for some events.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate E",
+   "Line": "Really?\nCan you tell us how you make them?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "So, I start by taking photos that more or less represent what a particular event's gonna be like. Then I shop them together on my computer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate F",
+   "Line": "Photos?\nWhat kind would be good for a haunted house?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate E",
+   "Line": "Really old mansions come to mind...\nBut we're having people walk through a forest, so pictures of a real one might work...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "A real forest...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001503",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I actually went camping a little while ago, so we might be able to use the photos I took then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "They should be on my phone... Oh, here they are! How about the one I took of the forest at night?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Classmate E",
+   "Line": "Whoa! That looks amazing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate F",
+   "Line": "You took this, Kohane?!\nIt looks totally professional!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe... Thanks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate E",
+   "Line": "Oh, I really like this one!\nIt feels nice and creepy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate F",
+   "Line": "Yeah, me too!\nMind if we use it, Kohane?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay, let's go with that.\nBut we may also want to try making a few flyers that use different fonts and photos.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate F",
+   "Line": "Yeah, I agree!\nIt might be fun to try a bunch of variations. We're gonna need all the help we can get from you, Kohane♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wh-What I'm doing is no big deal, really...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But I'm glad to see that I could help...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate F",
+   "Line": "Hehe. You've changed so much since the start of the school year, Kohane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "H-Huh...? I have...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate E",
+   "Line": "Yeah, totally! You used to be so quiet, but we've been getting to hear so much more about who you really are lately!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(That's because...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Because I have them now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,643 @@
+{
+ "title": "Unit Event — Grow Glorious Glow — Episode2 Overpowering Light",
+ "meta": {
+  "Event": "Grow Glorious Glow",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — Overpowering Light",
+  "Event Outline": "MORE MORE JUMP! haven't received any job offers in a while, but one day, an email arrives for Shizuku. It invites her to audition for popular cosmetics brand Grand Fleur's new commercial...",
+  "scenarioId": "event_151_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Audition Venue",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00045_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Models",
+   "Line": "Pardon us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "Ah, come in.\nPlease find a seat along the wall according to your number.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_005_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(I was under the impression that we'd be called one at a time, but I guess they're having us audition in groups...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(I see three judges...\nOne appears to be from Gran Fleur, another from the production company and...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Huh...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Judges",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(That person seems awfully familiar...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Oh...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Oikawa",
+   "Line": "Alright, it's great that you have a lot of presence, but I think you're going a bit overboard.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oikawa",
+   "Line": "So, try instead to stand out less.\nHow about you turn around and look over your shoulder? Your side profile's enough.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "O-Of course...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(It's Mr. Oikawa...!\nHe helped me so much when he was the creative director for Cheerful * Days.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(He's become so famous within the industry that some call him the “big hit machine”.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(This means I have to do my best today to win his approval...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "Alright, let's get this audition started.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "First, this commercial is going to require two people. As such, two will be selected in the end.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "Now, we will be looking for you to be “overwhelmingly brilliant”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Overwhelmingly brilliant...\nThat's the tagline from the document we received.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "We'll be using the front camera to take shots from afar and up close. Please pose accordingly based on each situation.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Regardless of how many times I've done this before, expressing myself while standing motionless is still incredibly challenging for me...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(But I need to strike the perfect poses here!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "Alright, we'll start with number eleven.\nPlease come forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Model #11",
+   "Line": "That's me...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Model #11",
+   "Line": "Number eleven, Tomomi Yuki.\nThank you for having me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(It's begun...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(We're starting by shooting from a distance...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Model #11",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Oh...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(She's very good...\nHer core seems so solid, and her pose is refined...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(In particular, the way she's lifting her hair. She's making it so the viewers' eyes are naturally drawn to her own.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "Next, the camera will be moving in for a close-up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Model #11",
+   "Line": "Ready!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Her facial expression is mesmerizing...\nShe seems so strong and composed.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "Okay.\nWould either of you like to see her do any other poses?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oikawa",
+   "Line": "Hmm... Nothing from me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Me as well...\nI think I've seen enough.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(What...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(They don't sound all that satisfied...\nBut I thought she did such a beautiful job...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "Unfortunately, Ms. Yuki, that will be it for you. Thank you for coming.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Model #11",
+   "Line": "Thank you again for having me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(This audition is going to be much more difficult than I expected...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Oikawa",
+   "Line": "Hmm... Stop there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Quiet Model",
+   "Line": "Okay...\nThank you for having me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(I thought she also did a wonderful job...\nBut the bar they've set seems to be very high.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Still, I've done everything possible to prepare for this day. I just need to believe in myself and strike the best poses I can.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "Next, number fourteen, please come forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oikawa",
+   "Line": "Oh, Hinomori, you're next?!\nI'm ready to get totally blown away by you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Th-Thank you very much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Mr. Oikawa remembered who I am.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Which means I can't afford to let him down...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_005_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Number fourteen, Shizuku Hinomori.\nThank you for having me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(First, I'll be posing from a distance.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Their new line of eye shadows are slightly more intense than normal and include lamé... They're Gran Fleur's most showy yet.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Coupled with their “overwhelmingly brilliant” tagline, the makers must be trying to say...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(“Have confidence in yourself.”\nThat has to be what they want the wearers of this eye shadow to feel.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Which means...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(I need to look proud and confident.\nPuff out your chest and stand tall...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "...!\nShizuku Hinomori really has a brilliance to her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oikawa",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "Next, we'll move in for a close-up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Understood!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(I'll need to come up with an even better expression for my close-up.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(In order for me to put on a proud and confident expression, then I need to...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Interesting.\nWhat a captivating gaze.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oikawa",
+   "Line": "Yes, it's not bad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oikawa",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oikawa",
+   "Line": "Something seems different about you, Hinomori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Huh? Different...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oikawa",
+   "Line": "Hmm... No, nevermind.\nAnyway, could you give us a different angle?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Y-Yes, of course...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Ah, that's also a nice expression.\nIt encapsulates the tagline very nicely.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Th-Thank you very much...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oikawa",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Mr. Oikawa still seems unsatisfied.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Am I missing something...?\nWhat is it that I'm failing to capture...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Also, what did he mean by me being different...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "We'll have you stop here, Ms. Hinomori.\nThank you very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Y-Yes...\nThank you for having me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "Next, number fifteen, please come forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yu",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Oh, Hagiyama...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_005_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Yu",
+   "Line": "Number fifteen, Yu Hagiyama.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yu",
+   "Line": "Thank you for having me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oikawa",
+   "Line": "Oh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Hagiyama's expression just changed...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(She has a much stronger and sharper look on her face now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "We'll be starting from afar. Please pose when you're ready.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yu",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(I can't look away from her...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Her pose is astonishingly simple...\nAll she did was shift her weight onto one leg.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Her eyes are so powerful...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(The combination of her sharp gaze and natural pose gives her an overwhelming amount of presence.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(She isn't pandering or yielding to anyone.\nShe's as good as saying it out loud.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oikawa",
+   "Line": "This is good...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oikawa",
+   "Line": "Can you give us a different angle, Hagiyama?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yu",
+   "Line": "Of course!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Now I see...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Now I know what I was missing. It was this...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(This painfully bright light...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(It really is blinding...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

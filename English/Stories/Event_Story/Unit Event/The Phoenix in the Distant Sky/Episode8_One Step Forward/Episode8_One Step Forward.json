@@ -1,0 +1,778 @@
+{
+ "title": "Unit Event — The Phoenix in the Distant Sky — Episode8 One Step Forward",
+ "meta": {
+  "Event": "The Phoenix in the Distant Sky",
+  "Event Type": "marathon",
+  "Episode": "Episode8 — One Step Forward",
+  "Event Outline": "At the Otoris' suggestion, Tsukasa and the rest of WxS are set to perform in the Phoenix Stage's 30th Anniversary Show. What's more, they'll be performing a show starred in by Tsukasa's idol. Tsukasa leaps at the chance to audition for the same role as him!",
+  "scenarioId": "event_88_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "The day of the audition",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Phoenix Stage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“Well, good day to you, my clumsy hunter.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cast Member A (As Rio)",
+   "Line": "“Thanks for helping me deal with that witch. I really appreciate it, Phoenix...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cast Member A (As Rio)",
+   "Line": "“For now, farewell!\nI promise to visit your forest again someday!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00061_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Stop there...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "That wasn't bad. Your portrayal's improved quite a lot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cast Member A (As Rio)",
+   "Line": "Thank you very much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(This audition is based on three-minute segments of scenes that each candidate wishes to do...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Therefore, which scene one chooses will prove crucial...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I suspect he's already made his choice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "*Whimper*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Emu...\nAre you sure you don't want to lie down for a bit?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "What's wrong, Emu?\nAre you not feeling...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, it's just... My chest is starting to feel super tight because Tsukasa's going really soon...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It's rare for you to be so anxious...\nYou hardly ever feel nervous even when we're about to perform at a big venue.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But I think I know how you feel...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Tsukasa... He worked himself until he was torn to shreds. So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You can do it, Tsukasa...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, I agree...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We should believe in our leader.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Alright, next...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That'll be me, Tsukasa Tenma!\nThank you for this opportunity!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "So, which scene would you like to do...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, page seventy-eight of the script...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The scene where Rio falls into deep despair after letting his final chance to catch the phoenix slip through his fingers...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "(Yes, it's his big scene just before the climax.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "(But it's also the most demanding one at the same time...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "How will he perform...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Then, let's begin.\nSakurako, are you ready?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Yes, I'm ready whenever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I hope we do well, Seiryuin...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Of course.\nDo your best for me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "And...begin!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00061_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "(This is nothing like what Tenma's been doing until now... And it only took him an instant to create this tense atmosphere...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Don't move...!\nPlease...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Mom is going to die when the sun sets today...! That's what the witch said!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“She said it's unavoidable if I don't deliver your heart to her!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "(I see...\nHe must've worked very hard.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“Then, catch me...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“I am here.\nRight in front of you.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“I enjoyed being chased by you very much these past few days. It is the most fun I have had in a very long time...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“But that ends today...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“So, come hither.\nTake my heart from me!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“*Sob*\n*Roar*”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00531",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Oh...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00107_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“M-My legs... What happened...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“They must be exhausted...\nYou have been running around this forest for several days straight.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“I suspect you will not be able to catch me now...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“Goodbye, Rio.\nForever...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00533",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“But...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(She's moving further and further away...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(She's rising above the forest and into the sky. Along with the heart I've been chasing after...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I need to catch her...\nI know that, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Because I'm so powerless...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000172",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I can't reach her...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“*Sob*”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“*Cry*”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Argh...!\nWhy...?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00207",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Why...?!\nWhy?! Why?! Why am I so...?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_sky_2023_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_sky_2023_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_sky_2023_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Why am I like this...?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Why...? Just why...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cast Member",
+   "Line": "Oh...\nUm... Isn't this where they're supposed to stop?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Y-Yes, you're right...\nIf the next person will...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“What a foolish child...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Huh...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(That should've been the end of the scene. They're gonna keep going...?!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“I can finally have some peace and quiet now.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“I doubt I will encounter another child bent on catching a phoenix with but a silly net.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“...\nHehe. What a strange turn of events.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“Until just a moment ago, I was willing to give him my heart. But I ended up choosing life instead.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“In other words...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "“You made me want to keep on living a little bit longer.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I see...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(You decided that you couldn't leave Tsukasa's Rio be.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Because your phoenix...is just that kind.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“...?\nSomething just fell from the sky... Is this...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“A phoenix feather...?\nThese are supposed to have the power to cure wounds and diseases...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Is she leaving this for me...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Yes...\nYou... You were always so mean, but also kind...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“You were willing to become my very first friend...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“I'm sorry, Phoenix...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“I'm so sorry...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00061_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Stop!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It's...over...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00533",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00533",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Nicely done, Tenma.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Seiryuin...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Your Rio was marvelous.\nI couldn't help but want to keep going.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I see...\nTo be honest, I was so desperate to get into Rio's mindset that I have no idea how well I did...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But I couldn't be happier hearing what you just said, Phoenix.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Oh? It's not just me, you know?\nTake a look out at the seats.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00538",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That was so...sooo amazing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00040_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Are there any of you who believe you can top that performance...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Then, it's decided.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Our boy, Rio, will be played by Tsukasa Tenma of Wonderlands×Showtime!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00208",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00040_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "H-He did it...!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "I look forward to working with you more starting today, Tenma.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Now that we know you'll be playing my counterpart, get ready for some even tougher practices...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes...\nOf course...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I'm ready for that!\nI, Tsukasa Tenma, will take on whatever trials are thrown my way!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Hehe... That's what I like to hear!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "*Sob*\nNene, he really did it!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah... I'm so glad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I... I also wanna get better.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I wanna break through my ceiling...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. Our star is shining so brightly...\nI think I'm starting to tear up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(In order to allow this star to shine high in the sky...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(And for us to shine together...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I believe it's time for me to act...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00306_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(They're all smiling...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I can't even begin to show just how much I appreciate them. I wouldn't have been able to do this without them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I was able to grow because they were willing to believe in me and give me their support.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Above me are thousands...\nNo, tens of thousands of actors.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Where I'm trying to go is far over the horizon, and I have no idea if or when I'll get there.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(But what of it?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(It doesn't matter that I don't know when or if I'll be able to reach it. The path I must take remains the same.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I'm going to become a star!!!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "To think that he could grow this much in such a short amount of time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "The 30th Anniversary Show is shaping up to be a truly great one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00239_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

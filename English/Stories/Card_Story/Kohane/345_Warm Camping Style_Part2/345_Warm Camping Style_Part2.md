@@ -1,0 +1,65 @@
+# Azusawa Kohane — Warm Camping Style〔Part2〕Side Story (Part 2)
+
+- **Character**：Azusawa Kohane
+- **Card**：Warm Camping Style（2★）
+- **Part**：Part2 — Side Story (Part 2)
+- **Event**：Same Dreams, Same Colors
+- **scenarioId**：009013_kohane02
+
+## 正文
+
+| Speaker | Line | _kind |
+|---|---|---|
+|  | bg_c000101 | Background Change |
+|  | A week after the camping trip. | Caption |
+|  | Weekend Garage | Caption |
+| Akito | Alright, we can head over to practice once we're done drinking these. | talk |
+| Kohane | Oh, can I have a minute before we do...? | talk |
+| Toya | Yes, Azusawa? | talk |
+| Kohane | I finished putting together the digital album for our camping trip. | talk |
+| Kohane | Would you like to take a look before we start practice? | talk |
+| An | A digital album? Like the one you made for Haruka, Minori and me after we went to PXL? | talk |
+| Kohane | Yeah. I had my dad help me with that one, but I made it all on my own this time! | talk |
+| Toya | Ah, now I see why you wanted us to send you any photos we took during our trip. | talk |
+| Kohane | Yeah, especially since our trip was all about us envisioning the same thing as we sing a song. | talk |
+| Kohane | So I thought it'd be nice to have something that can remind us of what we saw and experienced together. | talk |
+| Akito | Whoa... The ones you took in continuous mode look pretty much like a video. | talk |
+| An | Yeah, this is awesome!<br>This makes it so easy to remember what we thought or felt at any particular point! | talk |
+| Toya | And just the sheer number of photos... You took so many different kinds too, Azusawa... | talk |
+| An | I know, right?! Everything from landscapes to these little birdies... She captured us really well too. Oh, here's one of me cooking. I look like I mean business♪ | talk |
+| Kohane | I thought about using just the ones where we're smiling at first, but I feel like this gives us a much better picture of what happened during our trip. | talk |
+| Akito | Oh, here's one of An looking really depressed after not being able to figure out how to pitch that tent. | talk |
+| An | Hey, I figured out that you had to follow a certain order to stick the poles in, didn't I?! | talk |
+| Akito | But you didn't remember the actual order, so that doesn't really count. | talk |
+| Kohane | Hehe. I'm really glad you suggested that we divide up roles, Shinonome. That really helped us out a lot in the end. | talk |
+| An | Yeah, and sounding like you knew what you were doing helped too... | talk |
+| Toya | When's this one from...?<br>Akito seems very worried... | talk |
+| Kohane | Oh, that happened while you were chopping vegetables. | talk |
+| Kohane | I was hoping to get a picture of each of us prepping for dinner, but I couldn't resist taking this one... The expression on Shinonome's face was so priceless. | talk |
+| An | Hehe. Yeah, you're right.<br>His brow's almost as furled as Toya's! | talk |
+| An | Oh, Akito, you worrywart! | talk |
+| Akito | Quiet, you.<br>Wouldn't you also be worried if someone was holding a knife for the first time? | talk |
+| Toya | I apologize for making you feel that way. I promise to be more careful so that you can be at ease next time. | talk |
+| Akito | Thanks, but it's not like we're gonna be using knives all that much. | talk |
+| Toya | And this one has Azusawa in it... And Shiraishi in front of her, I think...? You look mad for some reason, Azusawa... | talk |
+| An | Ah, that... | talk |
+| Akito | Oh, I took that one. | talk |
+| Akito | An was sneaking in a few bites but got caught by Kohane and then she got mad at her. It was too funny to not take a picture. | talk |
+| An | It wasn't funny and you didn't have to do that! | talk |
+| Kohane | Hehe... Oh, look.<br>It's us picking those wild plants. | talk |
+|  | bgm00000 | Sound |
+| An | That was a really long album!<br>But really good too! | talk |
+|  | bgm00024 | Sound |
+| An | Thanks for making that for us, Kohane! | talk |
+| Kohane | Thank you for going through it with me! I'm really glad I made it now. | talk |
+| Toya | It certainly helped us remember everything that happened and all that we gained during our trip. | talk |
+| Akito | Alright, why don't we start practice while that's still fresh in our minds? | talk |
+| An | Yeah! | talk |
+| Kohane | (I'm glad they like it so much...) | talk |
+| Kohane | (I hope we get more chances to take trips like that in the future, together.) | talk |
+|  | bgm00000 | Sound |
+
+
+## Outline
+
+https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）

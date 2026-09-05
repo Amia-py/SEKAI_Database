@@ -1,0 +1,453 @@
+{
+ "title": "Shinonome Ena — Hermit Searcher〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "Shinonome Ena",
+  "Card": "Hermit Searcher（4★）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "What lies behind. What lies ahead.",
+  "scenarioId": "019013_ena01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Ena's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Okay, good night!!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Night.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00098",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "*Sigh*\nI couldn't focus at all today despite knowing that I'm behind schedule.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Ugh... This is all Mizuki's fault.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "So Mizuki's...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I wonder what Luka and MEIKO were talking about...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Maybe tomorrow... Oh, I guess today... Anyway, I could ask before we start working...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, what if I'm told, “I'm busy”...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "And I might get an, “I'm sleepy,” and miss my chance if I ask after we're done...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Okay, I guess I don't have any other choice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e001003",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shinonome Household - Living Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ena & Akito",
+   "Line": "Let's eat!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "Enjoy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Um, Mom...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "Oh, did I use too much soy sauce?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "No, that was really good.\nIt's about something else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "About us doing stuff together this Sunday... Mind if we postpone that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "Sure, I don't mind.\nAfter all, it was you that asked me first.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "But this is very sudden. Did something come up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Well...\nI'm sort of worried about one of my friends.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "And I'm thinking about inviting them out this Sunday to see how they are.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Are you talking about Akiyama...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh? Wh-What if I am...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Didn't you ask one of my teammates the other day about how Akiyama's doing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "After refusing my offer to ask them for you too. You're really that bothered by whatever's going on?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Why do you care? It's my business, not yours...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Okay...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(But that does remind me.\nMizuki's friends with someone on his team.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002402",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e001003",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Yeah, it's her.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "That's right. Mom, you've gotta hear this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I met the girls on Akito's team for the first time the other day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "Oh, what are they like?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "One's really quiet and polite.\nThe other was, well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "How do I describe her? She seems clingy, you know...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "That's what you saw?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Am I wrong?\nShiraishi, right? She's probably a nice person and all, but also doesn't seem to know how personal space works...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, I do get what you're trying to say.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Apparently, the first time she met Kohane, she immediately asked her to be her singing partner and invited her to perform at an event.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "P-Partner?! Like you and Toya?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "During their first meeting?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "Hehe. She seems very tenacious.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I mean, Akiyama's not really any different, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What are you talking about...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Mizuki keeps an eye on what mood everyone's in and always seems to be thinking about how much space is between us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Really? I never would've guessed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Ugh... Changing the topic just led me right back to Mizuki...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Anyway, good luck.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It's been a while since you've openly cared this much about someone else. Not since Momoi, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Like I said, good luck.\nAnd thanks for dinner.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00031",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hey, wait...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Seriously, what was that just now...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(But he might be right.\nAiri and Mizuki might be the only people I've ever cared about this much.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e001003",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I'm almost never able to get a straight answer, but I can't just leave things the way they are...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Okay...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Once I'm on Nightcord, I'll try talking to Mizuki about doing something this Sunday!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

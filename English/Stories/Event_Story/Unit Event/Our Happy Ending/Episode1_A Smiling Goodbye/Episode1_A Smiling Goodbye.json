@@ -1,0 +1,743 @@
+{
+ "title": "Unit Event — Our Happy Ending — Episode1 A Smiling Goodbye",
+ "meta": {
+  "Event": "Our Happy Ending",
+  "Event Type": "marathon",
+  "Episode": "Episode1 — A Smiling Goodbye",
+  "Event Outline": "Following the successful 30th Anniversary Show, the Wonderlands×Showtime cast feel renewed determination for their respective dreams. Emu, realizing that the troupe will part ways sooner or later, attempts to put on a brave face and say goodbye with a smile. Meanwhile, Rui makes a bold proposition to the Otori brothers.",
+  "scenarioId": "event_104_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Morning",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Otori Household - Living Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00253_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Rise and shine!\nIt's another fun and exciting morni-morni-morning!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I wonder what's for breakfast♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Ah, Emu, you're awake.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "You're up earlier than usual today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup!\nWe've got practice this morning, so I wanna head out as soon as... Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What are you guys doing?\nThe table's all covered in papers...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Ah, these are the attendance figures for last month, as well as the results of our customer satisfaction survey.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "They just came in yesterday, so we've been going over them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Attendance figures, and a survey...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Can I look too?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I wanna know how many visitors the park got, and how happy it made them... Can I see?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Then, why don't you start with these figures...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hmm...?\nSo many numbers...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "To be fair, it's hard to figure anything out just at a glance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "These are last month's attendance figures. This section separates our guests by age and gender. And if you compare these numbers to the previous month...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...!\nWow! They went up a whole lot!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Yes.\nIt's clear that the 30th Anniversary Show ended up becoming a big hit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "It was also good how we advertised that the ever-popular Phoenix Stage would be doing a show with Wonderlands×Showtime...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "And you all did an astounding job.\nAs a result, the Phoenix Stage has seen a new influx of fans.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Really?! Woohoo!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Speaking of which, we also got the survey results for the 30th Anniversary Show.\nWe were planning to send them over to everyone involved later, but... Would you rather look now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, I wanna see!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "(The Phoenix Stage is our chief moneymaker, but the Wonder Stage just keeps getting more and more popular...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "(Truth be told, Emu and the rest of Wonderlands×Showtime really delivered for us again.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "(As the operators of this park, we need them to stay as long as possible.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Let's see...\n“'The Happy Phoenix' was great!\nI hope we get to see another showing of it someday!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, I wanna do it again too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Now, what did this next person say...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“My heart ached so much when I saw how conflicted Rio was between wanting to save his mother and not wanting to sacrifice his friend, the phoenix!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“It was amazing how the Cowardly Canary sang with everything she had despite being so scared. She inspired me to also do my best even when I'm afraid.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe...! That's so great...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Tsukasa and Nene both worked really, really hard on their roles.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I'm really glad to see that their performances made everyone smile!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(They're both much sparklier compared to before. I bet they're going to keep sparkling more and more.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(And go out into the world...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I might have to say goodbye to them soon...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00215",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(That really does make me sad...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Um, Emu... You don't have to make yourself smile if something is making you feel sad!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(What Len said was so thoughtful...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004703",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Y-Yes, we probably will have to go our separate ways in order to pursue our dreams...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "The thought of that happening is really sad and makes my heart sink...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But when that happens...\nI have a feeling that it'll be the moment when we take a big step towards achieving our goals...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Nene...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "So... So...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "So, when that happens... I'd like it if we could all smile and laugh in support of one another...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I want to give them a proper goodbye with a smile...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I want to be able to say, “I'm really happy for you guys! Good luck!”)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(So...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00032",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonder Stage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah...! “My eyes began welling up during that scene when Rio cried.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "*Nod*\nThey empathized with Rio just that much! I couldn't be happier!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "“The Cowardly Canary put on such a wonderful performance. I started to think that she was a real bird partway through. I couldn't believe what I was seeing.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It really is nice to hear back from the audience like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah.\nThis show was really worth the effort.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, and I believe that's the last of the surveys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thank you for bringing these with you, Emu! The motivation we gained today will serve us well tomorrow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe! I know, right?!\nI'm really glad they let me borrow these!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Still, the 30th Anniversary Show truly proved a great experience.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah...\nI feel the same way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "To be perfectly honest, if we hadn't done this show, I probably never would've realized that my singing was missing something.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I understand now that I need to keep learning and experiencing new things if I want to improve as an actress...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. I agree.\nYou both grew quite a bit through this show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah!\nYou two sparkled like crazy before, but you were really dazzling this time around!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Like a super duper sparkle nova!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "That sounds like a character's finishing move...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Still, what you said about experiencing new things... That's a tricky one...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Emu's brothers kindly extended us an opportunity this time, but we probably won't be receiving them frequently...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wait, they did this for us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, that's right...!\nWe were so busy that I didn't get a chance to tell you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "After our last ambassadorial performance, I actually went to ask them if we could somehow keep putting on more.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What?! You did?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes. Unfortunately, they said it wouldn't be possible...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But I think they asked us to be in the 30th Anniversary Show because of what I said.\nI'll need to thank them again the next time I get a chance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I didn't know he went to talk to them...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(That must be just how much he wants to keep learning and performing in different places...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, you have a point...\nI doubt they can keep serving up stuff for us on silver platters.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Which means we have to start thinking about what we can do ourselves...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Right.\nWe can start by seeing if we can do more with our shows at the Wonder Stage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What else is there...?\nWe could each start attending short workshops on our own time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But long-term workshops and collaborations with other troupes will prove a challenge. They'll likely conflict with our own shows...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "However...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "If only we could...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Then, let's try putting our heads together! We might figure something out that way!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You said it before yourself, Tsukasa.\n“We can overcome anything as long as we work together! That's what Wonderlands×Showtime is all about!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, you're right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hehe. Thanks for that, Emu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I was thinking we could discuss that now, but...\nWe need to start on our basic training for the day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Agreed. We mustn't deviate from our daily regimen! We can discuss this matter another day!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "When the time comes for them to say that they wish to leave the Wonder Stage, will you try to follow in their footsteps?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Nope.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Because my dream is to protect Grandpa's amusement park and keep it the way it is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And make a place where everyone smiles!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Emu's mind is already made up...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(While...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'm having trouble letting go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Sorry, everyone...\nWould you mind if I said something?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm? Is something wrong, Rui?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Apologies, but I'll have to leave practice early today. I have an appointment after this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You do? That's fine, but... You made an appointment?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "A very important appointment.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

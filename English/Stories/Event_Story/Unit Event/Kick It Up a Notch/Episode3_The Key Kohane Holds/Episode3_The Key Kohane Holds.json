@@ -1,0 +1,683 @@
+{
+ "title": "Unit Event — Kick It Up a Notch — Episode3 The Key Kohane Holds",
+ "meta": {
+  "Event": "Kick It Up a Notch",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — The Key Kohane Holds",
+  "Event Outline": "Vivid BAD SQUAD is all set to perform at \"Crawl Green\" and are very excited about it. Kohane and the others are also looking forward to seeing Taiga there, but he happens to get a phone call which...",
+  "scenarioId": "event_86_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shibuya Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00100",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(It's already time for practice...!\nThe others said that I didn't have to come if I became too pressed for time, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00074",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Hmm... You produce such a clean sound, Toya. It's actually a bit of a shame that you're trying to keep everything short and sweet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I see...\nThen, I'll try sounding a little rougher by using more power than usual.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Which means...\nSorry, Akito, but I'll need you to give me some extra time for that part.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, no problem.\nWe can find a balance as we go along.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(They're all sound so serious. Plus...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(The air feels so tense.\nThey're all really focused...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(But... I guess that makes sense...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(We get to perform where those three... Where RADder made their big debut.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(They were still in high school too...\nWhich means they were our age.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(In that sense, we're sort of alike...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(That means I need to do my best.\nAlso, what Taiga said earlier...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, Kohane...!\nWelcome back! You done practicing with Uncle Taiga?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hi, An, everyone.\nSorry for running late.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "That's okay.\nWe knew that there was a chance you wouldn't be able to make it today, Azusawa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "By the way, what did you do with Taiga today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "We went around taking photos of people in this city. But I didn't really understand what that had to do with singing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see. His methods really do seem strange at times.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Hey, Azusawa, you made it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, now that we're all here, let's call practice here and start discussing our next event.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, it'll be better to have this discussion sooner rather than later since it's going to affect how we practice moving forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "Right.\nThe people who go to the venue are a tough crowd, so I don't want to take any chances.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Plus, it's pretty rare of the owner to allow someone else to rent out the place and put on an event there. I have to think that expectations are going to be very high.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "In other words, this is a huge chance for us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, this is really exciting.\nSo, what kind of event do you guys want this to be?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Well...\nWe chose a theme during our last discussion, so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "S-Sorry...!\nThere's something I need to ask you guys. Mind if I butt in...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hm? What's up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "So, um...\nA-About our next event...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'd like to open for us. By myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What do you mean? By yourself...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah. So, Taiga told me just now that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So, Uncle Taiga put you up to this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Makes sense...\nAlso, Azusawa, you already have some experience performing solo, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Y-Yes, I do. Right after we formed our team, I performed a little here and there to gain more experience...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But the events you were in back then weren't all that big... This time, I mean... We're talking about Crawl Green here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah... I know that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Were we wrong about her this whole time...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Is she better than we could've ever realized...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I'm for it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Based on where Kohane is right now, she should be able to handle flying solo. However, she's gonna need to practice for it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Also, I think it's worth a shot since you might strike it rich again like you did during STAY GOLDEN. After all, you getting better means we get better as a team.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "At the very least...\nI'm willing to bet on your performance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Shinonome...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "I'm on the fence.\nIn terms of going solo, I feel that I would be the better choice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "If Kohane believes she has what it takes to reach even greater heights... Then, I'd like to give her a chance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Greater heights, huh...?\nYeah, I wanna give Kohane a chance too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So, if it's okay with you guys, I'd like to let Kohane do this. I mean, we still have plenty of time before the event.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I agree. Let's move forward with that in mind. At minimum, Azusawa definitely has what it takes to succeed here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "I don't mind either and I agree with Shinonome. I have a feeling that Azusawa is going to transform again like she did during the last STAY GOLDEN.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thank you all very much.\nI promise to do my best! I won't let you down...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00142",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪————!! ————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(My intonation's still off.\nI need to sing more with more precision...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(It's going to be my job to get the crowd going from scratch. I need to really burst out of the gates sprinting...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(And this may be Taiga's last chance to see me perform. At Crawl Green of all places too... I can't let this opportunity go to waste...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "She seems so focused.\nYou said she's been like this every day lately?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah... Outside of team practices, she's apparently been singing on Vivid Street, at Nonogi Park and other places.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Just the day before, she lost track of time and stayed out super late, and her dad got really mad at her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "The day before yesterday? So, after we practiced?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see. I didn't realize that had stayed back so late...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "*Sigh*\nI've been practicing with you guys for a while now, but I still can't believe sometimes how much stamina you all have.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "However, the way she sang just now concerns me a little...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪————",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huff... Huff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Sorry, Azusawa, do you have a minute...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, of course. How can I help?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The way you sang just now... I thought I should mention that I feel like you're straining to sing louder.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hmm... You guys thought so too?\nI dunno how to describe it, but it's like you're having trouble finding your highest gear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "You think so? I thought she was singing fine...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, this might be because we're so used to hearing her sing and know what she sounds like when she's at her best...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I was doing my best to not let it affect my singing, but I guess I can't hide it anymore...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I think I'm starting to feel the pressure of having to set the pace for the entire event...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I mean, we don't blame you.\nBut it's not like you're singing bad or anything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "True. You've accrued plenty of experience up to this point, Azusawa. I believe you'll do just fine if you practice like we normally do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay...\nThanks, you guys.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, Tono, Mita!\nWould you mind practicing with me for a little bit?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "You've both been performing by yourselves for a long time, so I'd like it if you could tell me anything that bothers you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Haha. As tireless as ever, I see.\nThen, why don't we continue over there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Yeah, let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001502",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It's starting to get dark. Let's call practice here for today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh no! Tono, Mita, I'm so sorry...!\nI didn't mean to make you practice with me for so long...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Don't mind us. I'm happy to help whenever, so don't hesitate to ask!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "You still have a couple of rough patches to work through, but I think you'll be fine in time for our event as long as you keep practicing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "O-Okay! Thank you very much.\nI promise to be ready by then!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(I really want to help Kohane somehow since she's been working her butt off every day...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Oh, An, about our meeting tomorrow...\nAn emergency came up, so I won't be able to make it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "An emergency...?\nThen, I guess I'll just have to go it alone...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, I know!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Kohane, are you free tomorrow?\nYou too, Akito, Toya!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, I don't have any animal caretaker committee duties to do tomorrow, so I was planning on going home early to practice somewhere...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I have library committee business to take care of tomorrow... But I may be able to leave early if I tell them what's going on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I'm free too. I don't have work tomorrow, so my plan was to go train somewhere.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Then, let's all go to Crawl Green!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What? To Crawl Green...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah. Kohane, Toya, neither of you have been there yet, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "It'll be an opportunity to actually see what it's like, and it should be a nice breath of fresh air for Kohane. Two birds with one stone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, you're right...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, I've been wanting to see what it's like. I can't wait to find out...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Me too.\nI've been curious as to what the place where Ken and his team debuted is like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, sounds good. I also kinda want to go since that message has been bothering me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Thank you all very much.\nI really appreciate it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "No problem!\nThen, we'll meet at my place after school and head over to Crawl Green together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

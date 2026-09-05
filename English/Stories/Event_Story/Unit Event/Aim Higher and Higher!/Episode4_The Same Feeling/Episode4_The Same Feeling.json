@@ -1,0 +1,653 @@
+{
+ "title": "Unit Event — Aim Higher and Higher! — Episode4 The Same Feeling",
+ "meta": {
+  "Event": "Aim Higher and Higher!",
+  "Event Type": "marathon",
+  "Episode": "Episode4 — The Same Feeling",
+  "Event Outline": "The day of Taiga and Ken's event has finally arrived. The members of Vivid BAD SQUAD are looking forward to this world-class event, when an incident leads to an unexpected reunion.",
+  "scenarioId": "event_169_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a005701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00423_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, this is delicious.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The acidity and bitterness are exquisitely balanced. I can tell they pay close attention not only to the quality of their beans, but to the preparation as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "This whipped cream on top isn't too sweet either, so it works really well!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Mmm... Their cafe au lait's good stuff too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "I'm glad you're all enjoying everything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "Your drinks were made using the beans Ceddy always gets, Toya, Kohane! So, it's nice to hear that they're to your liking!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see. You and I may have a lot in common, Cedric.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "You also mentioned that you can purchase beans here, so I'd appreciate it if you showed me which ones later.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "Yeah, no problem.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "Anyway, now that we've had a chance to properly reintroduce ourselves, let's get down to business.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Umm... You're talking about how you two know RADder, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "That's right.\nStill, where do we begin...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I wanna hear it all! For example, how did you two meet Aunt Nagi and her team?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "How we first met?\nActually, it's not all that different from the way we met all of you today...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Us...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Do you mean, they helped get your wallet back after somebody stole it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "Oh, no. Not like that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "We tried to steal Taiga's wallet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "Slade, don't start there...\nThey have no idea how to react.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "Oh, sorry, my bad!\nYeah, that would be pretty shocking, huh!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "In our defense, that attempt ended in failure. Still, we know it was bad, and we regret it a lot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "B-But why...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "The truth is, when we were little, our family was really poor... For a while there, we couldn't even put food on the table.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00215",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "One day, we were absolutely starving. That was when we spotted RADder...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "They looked like rich tourists, so we decided to try picking their pockets.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "But we ended up failing spectacularly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "They grabbed us by the scruffs of our necks and gave us looks that'd strip paint.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "Remember Taiga's face?\nHe was so scary.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, I can just picture it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "Then, just when we thought they were going to clobber us, they said, “Promise to never do this again and we'll let you go.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "Now that we're older, we understand that they could probably tell our situation wasn't the greatest...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "Anyway, they began asking us a bunch of questions.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "If we had parents, and how we were getting by each day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "We didn't tell them anything at first, since we figured they didn't actually care at all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "But those three did care. Nagi in particular seemed genuinely worried. Eventually, we felt comfortable telling them everything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "That was the first time in our lives that grown-ups had actually asked if we were okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "*Nod*\nAnyway, after they learned about how we were living, they told us to come hear them sing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "They invited us to the event they were scheduled to perform in.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "Taiga said, “It won't put food in your stomachs, but it might put some meaning in your lives.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. That's so like him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "We replied that there was no point if it didn't put food in our stomachs, and he got really mad at us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "Back then, to us, all music just sounded like pointless noise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "But they kept insisting that we go...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "And when we heard them sing...\nOur lives were changed forever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "It probably sounds like we're exaggerating, but it's all true.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "Until that day, all the sounds of the city had just felt like noise. But the way they sang was...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a005701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "It was amazing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "We learned the true meaning of having your heart moved.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "Music. Singing.\nWe learned that those things have the power to light a fire inside of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "That moment changed us forever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Music changed their lives.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(That sounds like...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a005701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So RADder lit a fire inside you two too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "Yup...\nSince then, it's been music sunup to sundown, 24/7!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "We began practicing like there was no tomorrow, because we wanted to sing just like them!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "We even begged them to give us lessons every time they came over here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "Gradually, we started getting asked to perform at local venues. We even began streaming our own stuff.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "Yeah. In the end, we're able to put food on the table just through our music now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "We really can't thank those three enough.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Your story is remarkable...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wait, now I remember...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Remember what, An?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I remember Dad and them saying how they'd taken a pair of twins over in the United States under their wings.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "They must've been referring to you two!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "They also told us about you, An.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "Nagi loved to talk about this little girl she knew who was such a talented singer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hehe. That's great to hear...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "We even saw you as our rival!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "It sounded like you weren't too much younger than we were, so we got all fired up, like who does this kid think she is, getting all that praise!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "Slade here kept saying, “RADder's only allowed to praise us!”\nHe was so jealous.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Haha. Imagine that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "It sounds like you two were very close with them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "Yeah... We wouldn't trade the time we got to spend with those three for anything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "No, we wouldn't.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "So, An, this might not fully answer the question you asked us earlier...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "But to us, those three from RADder are our saviors, heroes and family!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "They gave us music... They showed us a new way to live. And most importantly, they taught us human compassion.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "That's why we want to see what lies beyond Nagi's dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "Just like you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "The way you guys sang during RAD BLAST was so awesome. But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "We're gonna be the ones to see what lies beyond Nagi's dream!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a005701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So that's what you guys meant...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, it's like all the dots have been connected now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "*Nod*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I think I understand what you felt when music came into your lives for the very first time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Even though you were entering uncharted waters... Even though you were experiencing something completely new...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "After music... After singing came into my life, everything changed for me, too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The same applies to me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "How we were all touched by them may vary, but RADder's music has affected all of our lives. Not only that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "They're essentially the reason we're talking to each other right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, it's like Aunt Nagi brought us all together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cedric",
+   "Line": "You might be right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "Hey, since the event isn't gonna start for a bit, wanna browse the flea market together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "I mean, we're all going to the same place, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Slade",
+   "Line": "And after talking with you guys, I'm sorta not ready to say goodbye yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. I agree.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Then, once we've finished these drinks, let's head back over there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

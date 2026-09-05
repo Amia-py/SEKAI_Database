@@ -1,0 +1,623 @@
+{
+ "title": "Mixed Event — A Gentleman Thief's Thrilling White Day?! — Episode4 The Gentleman Thief and the Chocolate Fairy!",
+ "meta": {
+  "Event": "A Gentleman Thief's Thrilling White Day?!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode4 — The Gentleman Thief and the Chocolate Fairy!",
+  "Event Outline": "Not long before White Day, Tsukasa is set to perform as an extra at a facility where visitors can make their own chocolates. Meanwhile, Mizuki has come up with plans for White Day return gifts, and invites Akito along for some chocolate making.",
+  "scenarioId": "event_51_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a004401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Chocolate Factory",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, so this is where they're making their culinary creations! It's like an enormous kitchen...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<This looks like so much fun!\nEveryone's making all sorts of different chocolates!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Indeed they are! From what I understand, they're all free to make whatever they like!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Chocolates that look and taste however they imagine with any topping they please!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Really?! That sounds like way too much fun!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<I wanna try making some!\nMiku would love it if I made some that looked like her!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, wonderful idea!\nThat may be something I should try...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Green Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But where could Hamano be...\nAt this rate, we won't have enough time for a table-read, let alone a rehearsal.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<He said he went out for some fresh air, right? He couldn't have gone that far... Oh, I think that's him...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, thank goodness!\nLen, stay hidden in my pocket.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Okay!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00043",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Hamano",
+   "Line": "*Sigh*\nSorry for taking so long. An emergency just happened to come up...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No, that's perfectly understandable!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "More importantly, you really don't look well. Are you sure you're feeling okay...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hamano",
+   "Line": "Yes, I'm fine...\nThank you for being so concerned.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hamano",
+   "Line": "I know we lost a lot of time with me being gone, so let's read through this script and get to rehearsing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Great!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Chocolate Factory",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Staff",
+   "Line": "You've all been doing a wonderful job.\nNow, we'll need to wait for our chocolates to cool.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. I can't wait.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Me neither. They should turn out pretty well as long as they maintain their shape.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "You did put quite a lot of effort into yours, Hinomori. If I didn't know any better, I'd think your rabbits and shooting stars were professionally made.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "You really inspired me to do better.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "A-Are you sure...?\nI'm happy with what I made, but I don't think they turned out that well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "But thanks...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Humhumhuuum♪\nI hope they turn out really cute♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "They already did while you were decorating them. Aren't you asking for too much at this point...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'm not being greedy or anything!\nI just can't wait until they're done! Don't you feel the same way, Li'l Bro?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Kinda, not really? I do just want to try them already...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "That means you're looking forward to yours too! We're both just as excited♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Also, I can't believe how amazing everyone's chocolates look. You can tell they worked really hard on them!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, I agree with you there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Green Room",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Employee",
+   "Line": "Ready, Hamano, Tenma...?\nWe need you on stand-by!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Great!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hamano",
+   "Line": "Ready...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "(It's almost showtime!\nYou've got this, Tsukasa...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Chocolate Factory",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Are they finished yet?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "When are our chocolates gonna be done?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. The little ones seem so excited.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "They were smacking their lips the whole time while making them too... Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“Hah hah hah hah!!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Visitors",
+   "Line": "Wh-What was that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Is someone laughing...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Hang on... I know that voice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "That voice... It can't be...\nWhat would he be doing in a place like this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "What are you jinxing yourself for, Li'l Bro?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“What a sweet smell!\nProof that there is chocolate here!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Choco Maniac",
+   "Line": "“I am the great phantom thief, the Choco Maniac! The greatest lover of all things chocolate!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00127",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You've gotta be kidding me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Whoa! It's really Tsukasa!\nIt's your lucky day, Li'l Bro!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What are you talking about?\nYou're making it sound like I brought him here or something.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Choco Maniac",
+   "Line": "“Heh heh heh.\nI'm sensing some delicious chocolates in these refrigerators!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Choco Maniac",
+   "Line": "“Your yummy treats will all be mine!\nLet's start with the ones in here!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "No!! Stop!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "We made those chocolates!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "(Uh oh! Here come all the kids!\nThey're really eating this stuff up!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Excellent. The guests seem to be enjoying everything so far. Next is...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chocota",
+   "Line": "“Stop right there, Choco Maniac!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Choco Maniac",
+   "Line": "“Who goes there?! Chocota?!\nYou may be some kind of chocolate fairy, but you're not about to get in the way of my fun!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chocota",
+   "Line": "“No, stop right there!\nMy friends here poured their hearts and souls into these chocolates! They are not for you to take!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Choco Maniac",
+   "Line": "“Their hearts and souls?\nWhat are you going on about?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chocota",
+   "Line": "“These are for their own friends and loved ones. They all worked very hard to make these!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chocota",
+   "Line": "“If you still refuse to understand, then why don't we ask some of them? How about you there? From where do you hail...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Me? Uhh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Hehe. Say, “We're from Shibuya.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "We're from Shibuya!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chocota",
+   "Line": "“Shibuya, is it? Wonderful!\nAnd to whom are you giving these chocolates?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Oh, they're for my mom and dad!\nThey're my way of saying, “Thank you!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chocota",
+   "Line": "“Your mother and father? How delightful! That means you must've worked very hard on these!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Choco Maniac",
+   "Line": "“G-Grr... Yes, that's very sweet... Fine, I won't take yours...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Choco Maniac",
+   "Line": "“But there are plenty more chocolates where that came from! For example, you there, the well-groomed gentleman!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Older Gentleman",
+   "Line": "Me?\nUm... These are for my wife because she's been so good to me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Why's Tsukasa here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Is something wrong, Hinomori?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Um, well... The guy playing the Choco Maniac... I sort of know him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh, isn't he in the same troupe as Otori...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Wait, Kiritani, you know Tsukasa?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes, we've spoken a little before.\nI didn't realize you also knew him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Actually, I only know him because he's Saki's older brother. He's a good person, but kind of a handful to deal with if you catch my drift...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. I see.\nHe certainly knows how to project his voice, but this is a wonderful show. The little ones seem to really be enjoying it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, I guess that's true...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chocota",
+   "Line": "“How about one last person? Who are you making your chocolates for...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boy",
+   "Line": "Me...? They're for my friend, Haru, who lives next door to me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boy",
+   "Line": "She always gives me snacks and sweets for Valentine's Day, so I want to give something back for White Day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boy",
+   "Line": "And I want to keep doing this for Haru until I'm old and gray!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "That's so sweet.\nThey'll get to exchange gifts with each other forever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, it really is...\nHuh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chocota",
+   "Line": "“...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Chocota's gone all quiet for some reason...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "(Hm? What's going on...?\nThe show's still going, right?\nDid something happen..?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(The one asking questions, Hamano in this case, is supposed to provide a suitable reaction here...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(But he may've forgotten, so maybe I should take his place and...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hamano",
+   "Line": "*Sob*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hamano",
+   "Line": "*Sob*\n*Cry*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I-Is Chocota crying...?!)",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,858 @@
+{
+ "title": "Mixed Event — Rise as One! — Episode4 Instinctive Fear",
+ "meta": {
+  "Event": "Rise as One!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode4 — Instinctive Fear",
+  "Event Outline": "On one of his daily runs, Akito has an encounter with a dog and his owner. The pair has been training day by day in the hopes of one day winning a national disc dog competition. But the day before their next competition, this dog owner sprains his ankle...",
+  "scenarioId": "event_126_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Nonogi Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "Alright, let me give you guys a quick rundown of the rules.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "It's actually pretty simple. The thrower will throw the disc, and you get points if your dog catches it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "You have sixty seconds to throw it as many times as you like, and you'll be competing based on how many points you can score.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I see... So, you want to get in as many throws as possible during that time?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "Actually, that's not entirely the case.\nYou can score more points if your dog makes a long-distance catch.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Which means you can form a strategy based on a lot of short throws or try to maximize the points you score with each throw by going long.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "Exactly! Also, you get no points if the disc hits the ground first.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "That's why I've been aiming up a little and having Max make catches by jumping.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah... Now that you mention it, even when I threw his disc in a panic the other day, he jumped up to catch it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "I can show you how high and far Max likes you to throw the disc as we go along.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "Anyway, let's start practicing.\nOnce you've gotten the hang of throwing the disc, we'll let Max join in.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, in that case...\nWould you like us to keep an eye on Max in the meantime?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "That'd be great...!\nThank you both very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "Alright, Shinonome, let's get started!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Several dozen minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Keep your arm flat while at chest level and...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Throw.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00728",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "Whoa! Nice throw, Shinonome...!\nYour control's perfect!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I think I've got the hang of things.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So, next...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "*Nod*\nI'll go let the others know that we're going to start practicing with Max!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Things have been going well so far, but the hard part starts here...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Your dog catching the disc you've thrown isn't the end of it. You have to get it back in order to throw it again.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Getting a disc back from a charging dog...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00732",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Now's not the time for that...\nYou've gotta honor the commitment you've made.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00173_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "Thanks for waiting, Shinonome!\nWe're back!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Max",
+   "Line": "Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00732",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, I'll try throwing it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "Okay, let me know if you don't feel comfortable. I'll make sure to stop Max.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "You can do it, Shinonome...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Alright...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Max, catch...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Max",
+   "Line": "Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00732",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00728",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00726",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh wow... That's incredible, Shinonome.\nThe disc's flying so straight.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah, and Max is going right after it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Max",
+   "Line": "Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, he jumped up and caught it! That was so cool...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "That just leaves...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Now I have to get it back from him and throw it again...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Max",
+   "Line": "Pant... Pant... Pant...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00725",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Keep your cool...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Max",
+   "Line": "Pant...! Pant...! Pant...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(...!\nKeep your cool...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Little Akito",
+   "Line": "N-Nooooo...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "Uh-oh...!\nMax, stop!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Max",
+   "Line": "Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00732",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "Alright, good boy. Come here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00726",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Damn...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Are you okay, Shinonome...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(What am I doing...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "I'm sorry, Shinonome. I know this isn't easy for you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Why are you apologizing?\nI chose to take this on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "If anything, I should be the one apologizing for freaking out. I know he's your partner...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "Shinonome...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Lemme give it another try...\nI'll get it right this time for su—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "*Howl*\nWoof! Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00724",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Huh? That wasn't Max or either of our other dogs. Was someone else's nearby...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Hm? Shinonome, is that you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wait, huh...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "What are the odds of us bumping into each other here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Kamishiro...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, Mochizuki, Hanasato.\nHow have you both been? Good, I hope.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yes, and it's very nice to see you again!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "Sorry, this is...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh, he's a senior at my school. Not the best example, though.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Is this your dog, Kamishiro?\nIt's so cute and fluffy and... Hang on a second...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "It's making this sort of buzzing noise...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Don't tell me. It's...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, a dog robot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I happened to come across this old build while cleaning my room. So, I decided to give it some upgrades and take it out for a walk to see if it still works.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Wh-What...?!\nYou made this dog yourself, Kamishiro?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Th-That's astounding...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What can't you make at this point...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Dog",
+   "Line": "Woof!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00723",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Whoa, it even barks like a real dog...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "By the way, can I ask what you were all doing just now...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh, we were practicing for a disc dog competition...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Disc dog...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "Yes. He's taking my place due to an injury that I've sustained.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh, I see.\nStill, are you sure about this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Based on your behavior, I get the feeling that you're having quite a lot of trouble.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In particular, when it comes to interacting with a dog.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What? How did you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. I'd rather you didn't underestimate a director's intuition.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Urgh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But you're right. It hasn't been going all that well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I see...\nYou have no problem throwing the disc, but have trouble taking it back from the dog.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yes. That's why I need to get back to practicing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I could conceivably take his place in this competition...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But Shinonome seems to be doing his best to work with Max...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(So, I should try giving him whatever support I can.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I understand why you feel so pressured since the competition is tomorrow, but I feel that you first need to get used to being with a dog before practicing with the disc...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I fear that you'll never succeed while this phobia of yours goes unresolved.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "So, let's see...\nYou could start by petting or playing with him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Playing with him?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Would that really work?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I agree with him!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Me too...\nI feel that you'll be able to take the disc from him without any issues if you take things slowly one step at a time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...\nYeah, I guess that makes sense...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But I'm still not sure about petting him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, in that case, why don't I start by petting him while you watch...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "He's only just met me. So, seeing me pet him should in theory make things a little easier for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ishihara",
+   "Line": "She has a point...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Then, if you don't mind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "First, introduce yourself by letting him smell the back of your hand. Like this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Introduce myself?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes. Dogs are no different from us humans. We don't like being touched by strangers.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Which is why it's important to give dogs a chance to first learn your scent. That's the initial step towards forming a bond with them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "When you go to pet him, try starting by gently scratching his jaw. I'd avoid his head or bottom since many dogs don't like being touched there immediately.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "That's about it. How do you feel, Shinonome...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, I'll give it a try...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(First, present the back of your hand...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Max",
+   "Line": "*Sniff*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh no...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "This is going to be far more difficult than I realized...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Argh! I can't stop my body from pulling away whenever a dog comes near...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Is it impossible for me to even introduce myself to him...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "May I ask how long you've been afraid of dogs, Shinonome?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Understanding the root cause of your phobia may help us find the right solution. Would you mind telling us what happened exactly?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, I'll tell you guys...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It happened one day when I was still in preschool. I went to play at the park with my family and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,768 @@
+{
+ "title": "Unit Event — Whip Yourself into Shape! — Episode6 Our Bout Begins",
+ "meta": {
+  "Event": "Whip Yourself into Shape!",
+  "Event Type": "marathon",
+  "Episode": "Episode6 — Our Bout Begins",
+  "Event Outline": "An psyches herself up to work on the task she's been given, but there's hesitation in her singing. When she realizes that her unease over Kohane is causing the problem, An calls her out to Vivid Street to settle things once and for all.",
+  "scenarioId": "event_129_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002603",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm90040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "An's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, the thought of disappointing someone is scary.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But telling them the truth can lead to new doors opening.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "At least, that's what I believe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002603",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Telling her the truth might help me figure out what to do about the way I've been feeling.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Actually, it probably won't be the end of all that. I honestly have no idea what's going to happen afterwards.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(But if there's a chance of a positive outcome...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...\n*Sigh*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Man, I'm such a lame person.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(I'm down to my last card, but I'm too scared to play it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What would Aunt Nagi do in this situation...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(What would she have done if she saw Dad or Uncle Taiga turning into superstars or something...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nagi",
+   "Line": "——————",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002603",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hehe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "That's definitely something she'd say.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "“I'll just have to overtake both of you.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "And she wouldn't just talk things through. She'd battle it out...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Battle it out...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah.\nThat is an option.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Alright, let's go with that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So that I can finally become her real partner.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "You want me...to battle against you, An...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I've been feeling so uncertain.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00215",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Of how quickly you've been growing.\nOf how much your singing has improved.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I'm scared that, someday, I won't be able to excite you anymore...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Also...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I didn't want you to know that I've been feeling this way, Kohane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I was afraid that you'd feel disappointed after seeing how lame I really am...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...!\nNo, I'd never...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "*Nod*\nI know.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You'd never feel that way about me.\nBut...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I can't stop myself from feeling scared.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "An...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Anyway, I gave this a lot of thought.\nAbout how to deal with this fear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "And then Aunt Nagi popped into my head.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "She'd never have hid anything from her teammates.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "She'd talk about everything about herself she thought was weak or pathetic, and she'd...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Try to go further.\nThat's what I realized.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Go further...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "If you're afraid of seeing people get better than you, then you just gotta overtake them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You gotta go higher and further.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So, I know what I need to do now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I have to keep staying ahead of you, Kohane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00098",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I need you to keep looking up to me. And to prove that I will...I want to battle you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Ahead of me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I'm sorry for asking you to do this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I need you to battle against me. Please.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "An...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm sorry, An.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "The truth is, just now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I felt really happy for a moment.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Happy...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "This is probably going to sound really weird, so sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But I'm happy to hear that you want to win against me so badly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "So, An, I accept.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Thanks, Kohane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00035",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Thirty minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend Garage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Well, we're here...\nSo much for not having practice today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Yeah, but I was starting to get antsy at home. Practicing here help gets rid of all that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I know how you feel.\nBut given that Shiraishi and Azusawa aren't here, they must be resting as per our original plan.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Yeah. We've been told to give our throats a break today, so let's just practice for a bit and then go—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Local Musicians",
+   "Line": "Hey!\nWhere's that thing happening?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Local Musicians",
+   "Line": "I think over there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00134_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hm...?\nWhat's happening outside?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Is someone singing outside?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Hey, perfect!\nLet's go watch for a bit!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wait, we don't have time for... Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "That's...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Hm? What's wrong, Akito?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_004_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Hey, wait!\nWhere are you going, Akito?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_004_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_004_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Where'd he go?!\nI could've sworn I just saw him walk past the cafe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hey...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Okazaki! You guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "...!\nShinonome...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "What are you all doing here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "EVER Member",
+   "Line": "Oh... We just happened to be in the neighborhood...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "We owe the guy from the record store a favor, and he asked us to help sort out the inventory.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "We just finished, and we're about to head out...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "But all these people are blocking the way because of those two... There's no way for me to get my motorcycle out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Huh? Who are you guys talking about?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "Wait, you haven't heard...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "Shiraishi and Azusawa.\nThey're apparently having a battle just down the street.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "What?! Shiraishi and Azusawa...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Those two?! Why...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "She chose to battle against her...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "In order to overcome her fear of seeing her partner dash ahead?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "Her fear...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Huh? What are you guys talking about?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "There has to be a reason behind them having a battle.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "In any case, let's go!\nWhat happens with them moving forward might hang on this battle.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Also, Okazaki, everyone...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "If there's even a tiny part of you that still wants to perform with us, then please come see her resolve for yourself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Anyway, let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Huh...?!\nHey, wait for me!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

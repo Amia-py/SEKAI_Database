@@ -1,0 +1,663 @@
+{
+ "title": "Unit Event — Tying Tomorrow's Ribbon — Episode7 A Dazzling Sight",
+ "meta": {
+  "Event": "Tying Tomorrow's Ribbon",
+  "Event Type": "marathon",
+  "Episode": "Episode7 — A Dazzling Sight",
+  "Event Outline": "Things have calmed down for N25 since Mafuyu's return to living with Kanade. Meanwhile, Mizuki's sister is back in Japan, and the two have much to talk about. After hearing how she first found her dream in life, Mizuki in turn begins to think about the future.",
+  "scenarioId": "event_177_07"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<What do you think is going on with her?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Maybe she's interested in the dress that your sister designed?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "No, even if I were to wear something like this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "There might be more to it than just that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Huh?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Um, excuse me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Are you interested in that dress over there? I'm sorry about us clumping up around it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "We were just talking about how cute it is... But we're done looking at it now, so it's all yours!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Oh... Th-That's okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "I'm happy just looking at it from over here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Her eyes... They sorta remind me of...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(The way mine used to look.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "If you'd like, you could try it on?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Sis...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Try it on?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "I'm sorry for butting in.\nBut if you're interested in this dress, I'd be happy to help you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "But...\nThere's no way it would look good on me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "I disagree.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Hmm... Are you sure?\nBut...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "This is actually a very personal matter...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Because I'm the one who actually designed this dress. And I'd love it if it was picked up by someone who loves cute things.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "So, if you do find this dress to be cute, then just seeing you try it on would put a big smile on my face.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I knew it. She was the one who designed it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Someone who loves cute things...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Umm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Then, would it be alright if I tried it on...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Thank you very much.\nThe fitting rooms are right this way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'm so glad that she decided to try it on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Me too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Mizuki... Thanks for what you did back there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "That customer's actually come by a few times before. But she's always seemed hesitant to actually try anything on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "We've been worried that asking if she needs anything might just pile even more pressure on her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "If you hadn't spoken up, I would never have gotten the chance to talk to her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Yeah. I'm sure she has her reasons...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "But I hope she likes it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer's Voice",
+   "Line": "E-Excuse me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Yes, how can I help you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer's Voice",
+   "Line": "Umm, so...\nIt's a very cute dress, and I don't have any particular problems with it, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "If you'd like, would you like to have a look at yourself in the mirror out here? I have shoes that go with that dress too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer's Voice",
+   "Line": "Oh... Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_tomorrow_2025_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wow, she's adorable...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "The big mirror is right this way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "This is so cute...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00175",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Hehe. It suits you very well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Does it really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Yes, as the designer, I couldn't be happier.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Haha...\nWhat a strange feeling.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Strange?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Yes. This is such a new look for me that I really can't tell if this suits me or not.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "But I've always wanted to wear something like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "I feel like I finally understand that about myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Do you like cute clothes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Yes, I do. I've always adored them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "But ever since I was little, I've never owned any clothes that I would call cute.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "I never thought they would suit me... Even the people around me kept telling me how I'm the cool type.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "As a result, I've never really been able to come out and say that I like cute things.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "I did work up the courage one time and try on a cute dress similar to this one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "But my friends said that it didn't suit me, and even asked, “What's gotten into you?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "That must have been hard.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "I know they weren't trying to be mean or anything. But even so... It sort of broke my heart.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Ever since, I've avoided clothes like this. I tell myself it'd only be a waste.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I see...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(That explains why her eyes looked the way they did.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(She couldn't wear the clothes she wanted, and had to suppress her desire to just be herself...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(And yet...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "This dress was just so cute...\nI couldn't get it out of my head because I kept wondering how I'd look in it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "I ended up coming so many times...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Thank you very much.\nI'm glad you decided to stop by today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "I'm very happy that I was able to see you wearing that dress.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "And your wonderful smile.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "If you wish to wear cute clothes in your heart of hearts...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Then I'd like for you to cherish that feeling.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Cherish that feeling...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "Yes, I will...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "I love cute clothes, and I want to wear them.\nI don't want to lie to myself anymore.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "So, thank you very much...\nYou've helped me realize something I want to cherish about myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "I love cute things. And cute clothes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Customer",
+   "Line": "And this dress. I absolutely adore it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "It looks wonderful on you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Yeah, now I see...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "When I saw my clothes giving someone the push they needed... I felt this indescribable feeling welling up inside me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "I realized... This is what true happiness must feel like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(This must be one of those moments.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Your sister's such an amazing person...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "*Nod*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "She's so dazzling.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I also wanna be able to do this someday.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

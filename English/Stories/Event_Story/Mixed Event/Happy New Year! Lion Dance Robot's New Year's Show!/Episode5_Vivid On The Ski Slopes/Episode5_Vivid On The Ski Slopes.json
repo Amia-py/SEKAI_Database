@@ -1,0 +1,728 @@
+{
+ "title": "Mixed Event — Happy New Year! Lion Dance Robot's New Year's Show! — Episode5 Vivid On The Ski Slopes",
+ "meta": {
+  "Event": "Happy New Year! Lion Dance Robot's New Year's Show!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode5 — Vivid On The Ski Slopes",
+  "Event Outline": "After successfully wrapping up their ambassadorial performances, Wonderlands×Showtime is preparing to put on a New Year's show at the new and improved Wonder Stage. Unfortunately, Lion Dance Robot seems to be feeling a bit under the weather...",
+  "scenarioId": "event_81_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a005301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Morning",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Ski Resort",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_liondance_2023_004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Go, Akito, go!\nStraight ahead!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<You can still win, An!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Just a bit more...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "There's no way I'm gonna lose!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_liondance_2023_004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_liondance_2023_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Woohoo!\nOver the finish line!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Grr... So close...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000150",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hehe. I won this round!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<So close!\nIt was like a ten-centimeter gap!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Heh heh heh!\nIncluding the matches from yesterday, we're at three wins, three losses and three draws for the snowboarding competition!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Why are you bragging, Rin?!\nAn's the one doing all the work!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a005301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Now now. It's understandable to want to defend the person you're rooting for♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<So, KAITO, I win our little bet♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<No... My ice cream for today...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "*Sigh*\nI thought I had a winning record in the bag, but we're back to being even.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But this is far from over.\nWe need to declare a winner before we leave!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You're on.\nI hope you're not underestimating my stamina.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Right back at... Wait, huh?\nWhere'd Kohane and Toya go?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "They were practicing just over there...\nOh, I think I see them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_liondance_2023_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...!\nU-Uh oh... I can't stop...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Pizza, Aoyagi! Turn your skis in!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_liondance_2023_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Pizza? L-Like this...? Ah, I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Toya's having some trouble since it's his first time skiing.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<However, he looks happy getting to experience something new.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Haha. I thought he was fine after spending yesterday teaching him, but I guess it just isn't that easy. Maybe we should go help them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00467",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Kohane! Toya!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hi, An!\nHow'd your contest go?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Everything's back to being even after me winning just now! But I'm definitely gonna win it all in the end!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...\nI wish I could do what you and Akito can do, Shiraishi. I still have quite a bit of work ahead of me it seems.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You just need some time to get the hang of it, Toya! I mean, I've been coming here since I was really little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, same here.\nStill, I wasn't expecting to go on a New Year's skiing trip together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "We have Ken and his friends to thank for that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah! I couldn't believe it when my dad and his friend asked us to do a show at their lodge... But thanks to them we get to be here! Lucky us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. That's true.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "It's so nice to spend New Year's together like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“What a wonderfully snowy village!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Hm? That voice...\nBut there's no reason for him to be...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "No... Based on my experience, he appears when you least expect it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Snake Deity",
+   "Line": "“Brr... So cold!\nI will need to go into brumation to survive this.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lion-Dog",
+   "Line": "“But it's so pretty! There's snow as far as the eye can see! I really wanna run around in it!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasanosuke",
+   "Line": "“Yes, I can empathize. You do not come across such beauty every day. I, Tsukasanosuke Tenma, feel very moved by this view!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I knew it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, does this mean Wonderlands×Showtime is going to do a show...?! Here of all places...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<We wouldn't want them to see us, so we should probably hide.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Yes, I agree.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shapeshifting Fox",
+   "Line": "“Well, it is nice to see a troupe like this for a change. It may actually be worth this shapeshifting fox's time to join in on the festivities.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shapeshifting Fox",
+   "Line": "“Let us see how it goes...\nHello there, traveling performer. Do you have a moment?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasanosuke",
+   "Line": "“Hm? Yes, what is it?\nAh, could it be that you wish to perform with us?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shapeshifting Fox",
+   "Line": "“Yes, more or less.\nI happen to be well versed in these sorts of performances, so I believe my skills will be of some service to you.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasanosuke",
+   "Line": "“Really?!\nThen, we would love to have you!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shapeshifting Fox",
+   "Line": "“However, I do not wish to take part in any poorly thought-out performances. I must see more before I deem your show worthy...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shapeshifting Fox",
+   "Line": "“So, do not mind me.\nPlease perform as you all normally do.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Snake Deity",
+   "Line": "“Perform? For you...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasanosuke",
+   "Line": "“For someone who wishes to join us on our journey, you ask quite a lot of us...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasanosuke",
+   "Line": "“However, I also find that admirable!\nSo, in that case...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasanosuke",
+   "Line": "“You are more than welcome to join us!!!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shapeshifting Fox",
+   "Line": "“Hmm...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasanosuke",
+   "Line": "“H-Hm? You seem dissatisfied...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Snake Deity",
+   "Line": "“Of course he is...\nI strongly doubt that he is some sort of simpleton.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lion-Dog",
+   "Line": "“So, what do we do?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lion-Dog",
+   "Line": "“Oh, I know!\nLet's have everyone here help us!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasanosuke",
+   "Line": "“Ah, excellent idea!\nThese villagers can... Hm?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?\nIs Tsukasa looking towards us...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Toya, don't make eye contact...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I have a feeling that he has already seen us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasanosuke",
+   "Line": "“You there, villagers!\nLet us hear what you think!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Ugh, really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasanosuke",
+   "Line": "“I would very much like to have that fox join us, but he will not at this rate.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasanosuke",
+   "Line": "“Do you know of any better ways to invite someone to join your troupe?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "H-how to invite someone...?\nU-Uhh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "That's actually a very difficult question.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Invite them... To join your troupe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What if you made him excited somehow? You could try convincing him that great things will happen if he joins you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Snake Deity",
+   "Line": "“Excited, huh...?\nYes, that is an interesting proposition!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lion-Dog",
+   "Line": "“Oh, then! Can you tell us what makes you excited the most?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Me?\nWell... Whenever I hear a song like this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasanosuke",
+   "Line": "“Hm?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "♪————————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00098",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasanosuke",
+   "Line": "“Ah, yes!\nYou have an astounding voice!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Don't I?\nBut if you really want Mr. Fox here to become your friend, you might wanna try something like... This!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "♪~~~~~~!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Skiers",
+   "Line": "What was that?\nIs someone singing? They're really good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Skiers",
+   "Line": "Is there a singer performing somewhere?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Boy",
+   "Line": "Whoa! That was so cool...!\nI wish I could sing like you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hm?\nDo you wanna sing with me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Boy",
+   "Line": "Me?\nBut... I'm not really good at singing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "That doesn't matter one bit!\nWhat's important is whether or not you want to sing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "And it's the best feeling in the world!\nSo, let's sing! Together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. Then, I'd like to join in!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasanosuke",
+   "Line": "“Ah, I would not have thought of this...! Singing with this sort of power will surely convince our fox here to join us!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasanosuke",
+   "Line": "“Everyone! Please help us!\nLet us all sing together!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Skiers",
+   "Line": "Haha! That sounds fun!\nLet's do it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Skiers",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Everyone on the slopes! I hope you're all ready! And try to keep up, okay?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An & Kohane",
+   "Line": "♪————————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Skiers",
+   "Line": "Whoa...!\nI have no idea what's going on, but something amazing's just begun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Skiers",
+   "Line": "This is so cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Geez, they're gonna melt all the snow if they're not careful...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(They got the crowd this excited in so little time...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Their energy! Their ability to invigorate an audience! This is incredible!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I would definitely love to have this sort of explosiveness!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Nicely done, Shiraishi!\nYou had the entire ski resort eating out of your hand!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Haha! Thank you very much!\nI had a lot of fun being a part of your show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "An, you were so cool just now...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, you sure do tend to leap before looking.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, what's that supposed to mean?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00471",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Tsukasa!\nWe're all set to move to our next location!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wonderful!\nParting is such sweet sorrow, but we must get going!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thank you all for participating!\nUntil next time! Farewell!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Break a leg, Tsukasa!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_liondance_2023_005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. That was so much fun. We got to be in a surprise New Year's show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, it was a nice way to start the new year.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "That might depend on who you ask, but you guys did put on a good performance...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Didn't we though?\nI've been doing street performances since I was little, so I'm always good to go, wherever and whenever!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Hehe. That's good to hear.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, Miku!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<You all sounded like you were having fun, so I decided to watch. That was a great performance, An, Kohane.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I'm looking forward to hearing more fun and exciting songs from you in the future.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An & Kohane",
+   "Line": "Thanks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,563 @@
+{
+ "title": "Unit Event — Tying Tomorrow's Ribbon — Episode4 The Spark of a Dream",
+ "meta": {
+  "Event": "Tying Tomorrow's Ribbon",
+  "Event Type": "marathon",
+  "Episode": "Episode4 — The Spark of a Dream",
+  "Event Outline": "Things have calmed down for N25 since Mafuyu's return to living with Kanade. Meanwhile, Mizuki's sister is back in Japan, and the two have much to talk about. After hearing how she first found her dream in life, Mizuki in turn begins to think about the future.",
+  "scenarioId": "event_177_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c002401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Airport",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hey, over here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Mizuki!\nThank you for coming all this way. You're a lifesaver.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You're welcome!\nWhew, look at all this luggage. I'm glad I came.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "*Wince*\nI worked really hard to cut it down this far.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wait, you say that with four suitcases?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Passerby A",
+   "Line": "Whoa, look at those two.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Passerby B",
+   "Line": "Wow.\nI'd never pull off those kinds of flashy-colored shirts and stuff.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Passerby A",
+   "Line": "But I kinda envy them.\nI mean, they look so chic.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Oh, they look like...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Are those people over there your coworkers, Sis?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "That's right.\nThey've been aching to meet you, Mizuki, so I'll be sure to introduce you to them later.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You will?\nHehe. I can't wait...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(They're all so fashionable. I can hardly look away.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Their clothes and accessories are so unique... You can tell that they're world-class designers!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(But there's more to it than just that...\nSomething else that makes them so dazzling.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00533",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00533",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Oh, are you Mizuki?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Wow, you look so much like Yuki!\nI'm so glad to finally meet you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "U-Uhh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Calm down, Rina.\nYou're scaring Mizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rina",
+   "Line": "Oh, sorry! I just couldn't wait any longer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Honestly... Anyway, Mizuki, let me introduce you. This is Rina. She's one of the designers I work with.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rina",
+   "Line": "Nice to meet you!\nI've wanted to meet you forever, since Yuki's always bragging about how cute you are!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rina",
+   "Line": "She also said you really have an eye for fashion... And she was right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rina",
+   "Line": "That outfit looks so amazing on you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hehe. I really appreciate you saying that!\nI really went all-out with one of my favorites today♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Your outfit's also really cute, Rina...!\nDid you design it yourself?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rina",
+   "Line": "I did! It's a little different from what our brand has to offer, but this is the style that I like to wear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rina",
+   "Line": "There really is nothing better than wearing your favorite clothes, am I right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Our designers are all like this. Our personal preferences are all over the place too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Right...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(All of them treasure their own likes...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Maybe that's why I was sorta starstruck.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(That's... That's so cool!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rina",
+   "Line": "Oh, Mizuki, did you hear?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rina",
+   "Line": "At the pop-up store we're running this time around, we're gonna be selling some of the clothes Yuki designed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "What?! Your clothes, Sis?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Why didn't you tell me?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Haha. I wanted to surprise you.\nSo, drop by if you get a chance!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'm going! No matter what!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hehe.\nNow I really can't wait♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Mizuki's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "*Sigh*\nI'm finally done unpacking.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Nice, that was quicker than I expected.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "All thanks to you.\nI appreciate you lending a hand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Oh, that reminds me.\nI have so many things that I want to give you. Let's see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Here's an assortment of snacks from over my way! Be sure to share the fruit candy with your friends, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "There's also... These cookies!\nThe tin they come in is so cute, I just had to buy them. I thought you'd like them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wow!\nIt looks like it's covered in shiny gemstones! This is so cute...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "I'm thinking about giving Mom and Dad these cat decorations. Aren't they cute?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Haha. Talk about funny poses! Are they doing handstands?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Speaking of them, they're really happy about you coming back, Sis. They were even heralding your “triumphant return home”!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Oh, they always blow things out of proportion.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But you're really doing amazing, though! Your clothes are gonna be sold in an actual store!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "I know...\nBut I feel like I still have a lot to learn. I mean...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "My dream is to start my own brand and have it expand to Japan. That means I have to keep growing as a designer!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Your dream...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Mizuki? Is something wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, no. It's nothing big.\nIt's just...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Lately, I keep being reminded how amazing everyone is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Amazing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "*Nod*\nThis is about some kids I know...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "They're all chasing after their dreams, training in different places, aiming to stand on top of the world with their music... Facing their art head-on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "And you've always been just like them, Sis.\nYou're working super hard towards making your dream come true, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Which is why I think you guys are all really amazing. Because I don't really have a dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "So, Sis...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "What made you want to become a designer?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You told me how I was the reason why you wanted to make others smile by making clothes for them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But how did that become your dream?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "Hmm... Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "I think it's because I realized those were my happiest moments.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Your happiest moments?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "*Nod*\nIn my case, it's not like it was my dream from the very start. It's just...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "When I saw my clothes giving someone the push they needed... I felt this indescribable feeling welling up inside me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00257",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "I realized... This is what true happiness must feel like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Sister",
+   "Line": "I think that's my reason.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "That's a wonderful reason.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I don't know what the happiness she felt in those moments was like for her...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(But those moments must have a special place in her heart.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(So special that she made them into the dream she wants to make come true, no matter what.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "They're really...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "All amazing people.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

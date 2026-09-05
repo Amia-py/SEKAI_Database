@@ -1,0 +1,808 @@
+{
+ "title": "World Bloom — With Your Sights on Stardom, Set Sail! — Episode5 Who Do You Want To Be?",
+ "meta": {
+  "Event": "With Your Sights on Stardom, Set Sail!",
+  "Event Type": "world_bloom",
+  "Episode": "Episode5 — Who Do You Want To Be?",
+  "Event Outline": "Wonderlands×Showtime's training continues as they each pursue their dreams. When they're called over to SEKAI by Rin and the others one day, they find an expansive new land awaiting them!",
+  "scenarioId": "wl_wonder_01_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Harbor",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00171_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Excuse me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "Huh? You're that person from earlier...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I'm sorry, but another turtle told me about what's been going on with you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Your dream is to carry people across the river on your back, but you're too scared to swim in the water, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "I see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Wh-What do I do now...?\nI didn't really think about how this conversation would go...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Don't worry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Just say what you feel, Nene, and everything should be fine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Just say what I feel...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "The thing is, I think I know what you're going through right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00215",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I also have a dream.\nI want to become a world-class musical actress...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But... There was a time when I didn't think I could.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "You didn't think you could...? Why?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I can't remember my next line!\nWhat should I do? What should I do!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I ended up ruining our show...\nEveryone was so sad and disappointed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "After that, I became too scared to stand on stage...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "But you're okay now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, I'm not afraid of standing on stage anymore, but I still feel scared about a lot of things...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "The thought of performing in places I've never been before alongside people I'll be meeting for the first time is kinda scary to me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "And I've met some people who are so good that I've worried that I'll never be able to do what they can, even if I try.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But whenever I feel that way, I'm able to muster enough courage to keep moving forward...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "Courage...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "Where does that courage come from?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Where? A few different places...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "My friends, for one, because of all the support they've given me. But also...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Little Mermaid",
+   "Line": "“♪————!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Nene",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I think about my hero... The person who gave me my dream. The person who showed me what I wanted to become.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "And then I can keep moving forward, even when I'm scared.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "By thinking about your hero...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I understand that you're scared.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But I'm sure you'll get closer to achieving your dream if you find the courage to take the next step forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "So, please...\nIf you still want to make your dream come true...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I'll help. So why don't we make it happen together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "You're such an amazing person.\nIf I can be just like you—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushie B",
+   "Line": "Thanks for the ride!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Plushie B",
+   "Line": "Riding on the back of a turtle was so much fun! I'll be back again soon!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie C",
+   "Line": "Sure thing! Come back soon!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "Those plushies look so happy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "Yes, they and the turtles all seem to be enjoying themselves very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "I wish...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "I wish I could be like them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "I want to carry everyone across, and have them feel happy like that...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "You do...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "I... I...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "I'll try. I'm still scared...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "But I'll give it a try...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "*Nod*\nI know you'll do great.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "You can do it.\nThe edge of the water is just right there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "R-Right...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "I-I'm not afraid. I can do this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00710",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "*Gasp*\nN-Now, just dive in...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "You can do it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "H-Here goes nothing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00711",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "He did it! He is in the water.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00092",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "I did it...! Look! I'm in the water!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, congratulations!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "He looks stable in the water.\nI believe he should have no trouble carrying the other plushies across.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "O-Oh, about that... Can I ask you for a favor?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "A favor?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "So, I'd like to try carrying someone across. If possible, would you be willing to ride on my back...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Okay.\nLet's go for a ride.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000290",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wh-Whoa...\nWe're gliding across the water...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00238_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Eep. The water's so cold...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "Yeah, but it feels really nice...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "I never realized just how much fun it is to swim at full speed while carrying someone on my back...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hehe. I'm so glad for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "Thanks! Anyway, hang on tight...!\nI'll take you wherever you want!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "Welcome back, you two.\nYou both seemed to enjoy yourselves very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "We did. That was my first time riding on a turtle's back, but it was really fun...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "That was incredible.\nThis means you should be able to carry everyone across to the other side now♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "Thanks. I wouldn't have been able to work up the courage to do that if it weren't for you...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "So, I should be fine now...!\nI feel like I can carry anyone across.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "That is wonderful to hear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "Oh, that reminds me...\nYou guys wanted to go to the other side, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "Why don't I take you all across?\nI promise to do a good job!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You will? Thank you...\nThat'd be incredibly helpful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Actually, while we're at it, can we ask you for something else?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "Sure, what's up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Would you also be willing to carry our friends across? There's quite a lot of us, if that's okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "No problem!\nIt'd be great to carry so many people across!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "Thank you very much.\nThen, I shall go let them know.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00250_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I'm so happy that our turtle friend's back in the water.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Me too...\nAnd thanks, Luka.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh? Did I do something worthy of being thanked?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You gave me the push I needed to help him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I did?\nI honestly just said what I felt...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "But I'm glad to hear that I was able to help you, Nene♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "*Yawn*\nSeeing everyone smile so much is making me sleepy for some reason...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Would you mind if I used your lap as a pillow, Nene?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh...? My lap? You plan on sleeping here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Yes. Also, I'd like to sleep on our turtle's back as he swims. I have a feeling that I'll have a wonderful dream about swimming in the sea...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Zzz... Zzz...♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? She fell asleep while standing...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Still... I'm really glad that I could help him.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "Alright, I'll practice swimming while we wait for your friends to get here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Turtle Plushie",
+   "Line": "I'm still a little scared of the water... But I'm gonna keep trying my best...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Right.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(The future's full of scary and not-so-nice things...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Not just the turtle's... Mine as well...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a005701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I just have keep remembering my dream. My hero...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I have to maintain this courage and keep moving forward.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_wonder_ed2",
+   "_kind": "Effect"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

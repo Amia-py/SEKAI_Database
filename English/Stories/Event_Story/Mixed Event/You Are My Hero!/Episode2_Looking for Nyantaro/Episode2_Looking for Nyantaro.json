@@ -1,0 +1,553 @@
+{
+ "title": "Mixed Event — You Are My Hero! — Episode2 Looking for Nyantaro",
+ "meta": {
+  "Event": "You Are My Hero!",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — Looking for Nyantaro",
+  "Event Outline": "On one of his runs, Tsukasa rescues and befriends a stranded cat. At the same time, a cat-themed carnival has arrived in Shibuya.",
+  "scenarioId": "event_160_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Nonogi Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Nyantaro! Where are you?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Hmm... No sign of him here, either...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Not a trace... Since that day, I've had a chance to see him each time I've come to do a run. What could've happened to him...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Does he not want any dried sardines today...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I don't know. I just hope he isn't going hungry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki's Voice",
+   "Line": "Hey, Tsukasa!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00632",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_003_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Akiyama?\nOh, and if it isn't Airi Momoi! Long time no see!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Are you two heading somewhere together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Again, why do you always call me by my full name?! No, I keep responding the same way... It's like some sort of weird reflex now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Haha...\nWe were on our way to check out a carnival that's in Shibuya right now. It's supposed to be all cat themed and really cute!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Anyway, Tsukasa, what were you doing just now?\nWe heard you shouting from way over there...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, about that... I'm looking for Nyantaro.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Nyantaro?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "He's a stray cat I met while doing my usual run here. We became friends after I helped him out of a bind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I've been seeing him here at the park each day and getting to know him better by giving him some dried sardines...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But he isn't at our usual spot today.\nIn fact, I can't find him anywhere.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "So that's what's going on...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But stray cats come and go all the time.\nHe might be somewhere else today, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I mean, cats are pretty independent.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, but I'm worried that he isn't getting enough to eat...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I see...\nI also love cats, so I understand your concern.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Why don't we help him look before we head over to the carnival, Mizuki? We still have some time before it opens.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, works for me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You're going to help?! Thank you both very much...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "In that case, since I've already searched this area, let's look over that wa—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Huh? Tsukasa?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_003_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Nene?! What are you doing here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Me? I was just getting some running in...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh! Morning, Kusanagi!\nWhat a coincidence!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "M-Momoi? Akiyama...?\nWhat are you two doing here with Tsukasa...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "We're gonna help him look for a cat!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "He's called Nyantaro...\nDid you happen to see him, Nene?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Nyantaro...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I had no idea...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "In that case, I'll help you guys look for him. I was actually just about to take a break.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "By the way, what kind of cat should I be looking for?\nKnowing his breed or the color of his fur would help...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, Nene, your help is much appreciated...!\nAnd as it so happens, he has a wonderful defining characteristic!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Believe it or not, he carries a star upon his back...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "A star?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That's right. On the left side of his back is a patch of fur that looks uncannily like a star. As for the color of his fur, he's an orange and white tabby.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "An orange and white tabby with a star on his back...? That sounds like...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Does that mean you've seen him, Kusanagi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Well, the thing is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "He's right there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cat",
+   "Line": "Meow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "*Gasp*\nN-Nyantaro...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Wait, this is him...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wow, he really does have a star on his back! Haha. Talk about great timing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You're late! I was worried sick!\nI brought you some more sardines toda—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Oh, Nyantaro, are these new friends of yours...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cat",
+   "Line": "Meow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Haha. That explains it.\nI was wondering where you've been going on walks lately. You were seeing your friends.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "P-Pardon me...\nBut you are...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Ah, this is my cat...\nI'm Nyantaro's owner.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "His...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "His owner...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Alright, lemme get this straight...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "First, this cat isn't a stray. He has an owner...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Not only that, his name is actually Nyantaro?! What are the odds?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Inuyama",
+   "Line": "That's right. And I'm his owner, Inuyama.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Inuyama",
+   "Line": "I never expected to meet someone who'd given him the same name.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Th-Th-Th-This...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "This is terrible!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I'm so sorry, Mr. Inuyama!\nI had no idea that he had an owner. I ended up giving him a name and a steady diet of dried sardines...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "How can I ever make up for what I've done...?!?!?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Inuyama",
+   "Line": "No, I'm actually very happy. I've been wondering why he's been heading out in such a good mood lately. Also, based on what I just heard, you saved him from the pond, is that right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Inuyama",
+   "Line": "Nyantaro's a bit of a fraidy-cat.\nFortunately, you were there to save him. Thank you again, Tenma.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Inuyama",
+   "Line": "I know. If you're free, would you like to come visit my carnival...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Inuyama",
+   "Line": "I feel I should thank you somehow.\nI mean, you've been so good to Nyantaro...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait, your carnival...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Inuyama",
+   "Line": "You've noticed that there's a carnival set up nearby, yes? I'm actually the owner of it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You are...?!\nWe were just about to go check it out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Inuyama",
+   "Line": "Ah, perfect.\nI'd like to take this opportunity to invite all of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Inuyama",
+   "Line": "It isn't exactly the grandest of affairs, but your satisfaction is guaranteed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Wait, but... Are you sure?\nInviting Tenma is one thing... But us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Inuyama",
+   "Line": "Yes, you're all invited. I'm grateful that you showed genuine concern for Nyantaro here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thank you very much...\nThen, I think we have no choice but to accept your offer!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "Meow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "*Gasp*\nNyantaro's brushing up against your ankles, Tenma...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Haha. I think this means he wants to join our group.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nyantaro",
+   "Line": "Meow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hah hah hah! You're obviously welcome to join us! We are kindred spirits, are we not...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait, since when...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Inuyama",
+   "Line": "Hehe. Then, I'll lead the way...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, please do!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(Thank goodness they were able to find Nyantaro☆)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(And getting to check out this carnival as a group sounds like a lot of fun♪)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "(Hehe. I'm so happy for you, Tsukasa!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

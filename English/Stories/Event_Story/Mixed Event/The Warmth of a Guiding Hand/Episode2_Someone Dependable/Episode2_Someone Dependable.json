@@ -1,0 +1,533 @@
+{
+ "title": "Mixed Event — The Warmth of a Guiding Hand — Episode2 Someone Dependable",
+ "meta": {
+  "Event": "The Warmth of a Guiding Hand",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode2 — Someone Dependable",
+  "Event Outline": "With so much on their plate, it's getting harder for MORE MORE JUMP! to keep on top of their schedule. Shizuku suggests that Saito become the group's manager since she's proven her talents to them, but things are not so simple...",
+  "scenarioId": "event_111_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Rental Meeting Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "Me?! Managing MORE MORE JUMP!...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I think I agree with Shizuku.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah!\nYou really have supported us and given us so much amazing advice, Saito...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "It's like you know us so well that you always know exactly what we need to hear!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "She's right...\nHaving you around would make me feel so much better.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "So, Saito, what do you say?\nWould you be willing to consider our offer...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I'm really sorry for springing this on you so suddenly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "But I... On behalf of all of us, I'd like to officially ask you to become our manager.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "Me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Remember how you said while we were preparing for our solo show how it was your dream to assist and support idols for a living, and that you'd started studying how to be a manager?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "After helping put on your last event, I've decided that I want to assist and support idols for a living...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "And that's what made me want to learn more about this industry! That's why I also began studying how to become a talent manager while really trying to get the most out of my current job!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Which is why... Your dream, our dream...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "How wonderful would it be to make them both come true together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "Together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh... Of course, you don't have to make a decision right away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah.\nWe sprang this on you kinda suddenly, so you can give us your decision once we've given you all the details regarding your job description, compensation and—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "No.\nI've already made my decision, so please let me tell you now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "This is such an honor.\nI genuinely love your group and couldn't be happier about the praise you just gave me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "I can't believe this is really happening... Am I dreaming...? I'm elated, to put it mildly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Then...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "However...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "I'm sorry.\nI...can't accept your offer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "We understand.\nI'm sure you have your reasons.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "That being said... Would you mind telling us what they are?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "...\nIt sort of has to do with my family...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Your family...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "No, um... It's nothing serious!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "I feel awful about not being able to accept your generous offer... I'm still not sure I'm really worthy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "But I promise to make your next event a good one! So, let's figure out what we can do to prepare for it right now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "Now, in terms of scheduling...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Saito...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Stage SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "So, we have a date and venue booked for our next show. But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "She turned down our offer to become our manager.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "That's so unfortunate...\nBased on what you've all said, she's really been there for you in so many ways. Having her as your manager would've been heartening.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But if she has her reasons, then there isn't much you can do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "She mentioned her family...\nBut she seemed reluctant to discuss it any further.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "But what does her family have to do with all this...? Do you think something happened between her and them?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "In any case, if she doesn't want to talk about it, then it'd be rude to keep prying.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Right...\nWe were really hoping that Saito would accept our offer, but we shouldn't press any further if she has her reasons.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Finding someone like her won't be easy...but we may need to start looking.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Airi's right...\nWe can't force her to become our manager.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Still...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(That look I saw on Saito's face...\nShe didn't seem very happy.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Setting aside her becoming our manager...\nIf something is bothering her, maybe we can try to help...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Everyone...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "This may sound a bit random, but isn't that day fast approaching?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "What day?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "The day you're supposed to travel long-distance for a shoot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Now I remember.\nYou mentioned something about heading over a day early and staying in an inn because going there and back in one day would be too hard.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "No fair! That sounds like so much fun!\nI know it's for work, but you get to travel together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. We do.\nBut we can still have some fun together. We'll be sure to let you all know once we arrive.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Woohoo!\nWe get to stay at a fancy inn too♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000245",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hey, check it out! I found the perfect outfit for our trip in the dressing room! I'm all set now♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "It is a cute outfit, Rin...\nBut your hat's a little crooked.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh! Thanks, Len!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Aren't you getting a little ahead of yourself? They don't go for a few more days, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "But I'm so excited! I can't wait!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "What do you think the inn's gonna be like? I bet their food's amazing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "I read in that magazine they lent us the other day about how their menu centers around local delicacies.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "And above all else, the hot spring's supposed to be first-rate. I wish I could go since theirs apparently does wonders for your skin.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hmm... That might be hard since we can't take our phones in the hot spring with us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "But I'm sure you'll still get to enjoy everything else that the inn has to offer. You at least have that to look forward to.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hehe. It's gonna be a great trip.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hold your horses.\nJust as a quick reminder, we're not going on vacation.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We just happen to get to stay at a nice inn! Our job is still to put together a successful on-site shoot!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I know that, of course!\nI'm just as motivated as usual—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "No, I'm even more energized than ever!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I am definitely looking forward to our shoot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Me too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(KAITO...\nHe must've realized that we were feeling a bit down and changed the subject to try to cheer us up.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(And everyone's looking forward to this trip, so we need to make sure our shoot goes well.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(And yet... I can't help but think about what's bothering Saito.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(We're not scheduled to meet again until after this shoot. I hope she's feeling a little better by then...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

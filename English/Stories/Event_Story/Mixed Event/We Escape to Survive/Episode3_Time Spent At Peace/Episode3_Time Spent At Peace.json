@@ -1,0 +1,938 @@
+{
+ "title": "Mixed Event — We Escape to Survive — Episode3 Time Spent At Peace",
+ "meta": {
+  "Event": "We Escape to Survive",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode3 — Time Spent At Peace",
+  "Event Outline": "With Mafuyu's contact with the group restricted, the rest of N25 think what they can do for her. Hoping to give her some peace of mind, Mizuki comes up with a plan...",
+  "scenarioId": "event_93_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Ena's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Wait, that means...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<We're gonna work on Nightcord while Mafuyu's at school during her lunch break...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Yeah, exactly!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Based on what we know, Mafuyu's only directly being watched at night when she's at home, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<So, why not just work during the day when she's at school?!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<I see...\nThat may actually give Mafuyu time to work...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000108",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Oh, hang on...\nI remember her telling me how busy she is when she's at school. She always seems to have her hands full with student council stuff.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Right...\nThere's no guarantee that she'd have time to get any work done...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<But it might be worth asking her...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Since she may actually start feeling better if we get to work together a little more.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000108",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Yeah, I agree...\nI like this idea.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<...!\nThanks, you two!\nThen, I'll ask her right away!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00001_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(It's only gonna give her some temporary relief...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(But it's also important for her to have that sort of time. So...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00084_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<*Gasp*\nShe replied!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000407",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Oh, you're right...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000409",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Is she hiding under her covers with her phone or something? I hope her mom doesn't find out...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<That means we need to respond quick.\nLet's see what she said...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<I don't know if that's going to work...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<Various people are always asking for my help during the day.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<I had a feeling...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<But thank you for making this suggestion.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Oh...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(No, we can't give up yet...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(There's gotta be a way...\nThere must be a place where Mafuyu can work in private...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Wait, that's it!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<What if you said you want to use your school's study room to work on your cram school assignments and stuff?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00001_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Can't you log into Nightcord on your phone and act like you're doing your homework?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000409",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<At the study room?\nWon't the other students find out?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Yeah, so...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Mafuyu, you listen to us chatting while responding through text.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00001_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000407",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Oh, I see...\nThat way, no one else would know...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Alright, let's see what she thinks...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00084_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Oh, she replied!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<It won't be easy.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<But it could be worth a try.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000307",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Yeah, that's totally fine!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00001_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Let's just try it once to see!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<Okay...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<Then, I'll talk to you all tomorrow.\nWe can talk again during lunch.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Okay! Night!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Thank goodness... We might actually be able to work together...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Yeah!\nI don't know if it's gonna go well, but it feels like we've managed to clear our first hurdle!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<I agree...\nThank you for suggesting this.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Hehe. You're welcome!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Oh, I need to set my alarm to make sure I don't oversleep tomorrow...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Right! You should as well, Enanan!\nOtherwise, you'll definitely sleep through it!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000309",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<No, I won't!\nShe said around lunch, so I should be fine.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Hehe.\nThen, talk to you both tomorrow!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka Girls Academy - Class 2-B",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00005_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Student",
+   "Line": "Class is adjourned!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00249_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Students",
+   "Line": "Ugh! That pop quiz! It had to be today, huh?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Students",
+   "Line": "*Sigh*\nYeah, my stomach sank... I really don't wanna see what I got...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(I need to head over to the study room and...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Asahina, do you have a minute?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh...\nH-How can I help you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "It's about the guidebook for the school trip that's coming up. Do you have some time to discuss it...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh, um...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I'm sorry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "There's something I need to do right now. Would you mind if we discussed this after school?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Oh, of course.\nDon't mind me. I was just hoping to hear what you thought was all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Thank you. If you'll excuse me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I need to hurry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Study Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(There's so few people here during lunch...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(Mizuki's idea might actually work...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<I'm ready.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00084_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Oh, there she is!\nYuki, can you hear us?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<Yes.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade & Ena",
+   "Line": "<...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Awesome!\nHehe. It actually worked!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<I know not being able to talk is gonna be tough, Yuki, but let's try to get as much done as we can!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<She'll be fine.\nI mean, she doesn't talk much to begin with.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<Conversely, Enanan, you don't know when to stop.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Hey, what's that supposed to mean?!\nWe need to communicate if we want to produce good content, right?!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Hahaha!\nI missed this so much.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Hehe...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Anyway, shall we get started?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<Okay.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<The lyrics for the bridge could use a little more work. Yuki, this part about “pulling your hand away”... I'd like you to use stronger language here.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00169",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<Okay, I'll try thinking of something for that.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Oh, Amia!\nI recolored that thing I showed you before. Do you have a minute to look at it?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Again? Really?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<I couldn't even tell what fixes you made last time.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Some people can tell!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Okay, okay. Relax.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Oh, Yuki, that reminds me. The lyrics for the chorus are all set to go, right? It's this song's big moment, so I wanna do something that gives it impact.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<That's fine. That section won't be changed any further.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Okay!\nThen, I'll start looking for some good fonts for it♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<Thank you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I can't hear her voice. I can only see what she's writing...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(But she seems to be enjoying this...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Several minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Okay...\nI really like these lyrics. They're exactly what I had in mind.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<Thank goodness.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Hehe. We're getting so much done!\nAlright, let's keep this up and...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<Sorry, I need to head back soon. Lunch is almost over.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Oh, right...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Yuki...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<I'm really glad we got to do this.\nI hope you can join us again sometime.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Actually communicating with one another definitely does make things go smoother.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<I agree.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<I'd also like to do this again.\nI'll try to make room in my schedule.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Great!\nLet's do this again, Yuki!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu's Message",
+   "Line": "<Thank you.\nAnyway, I'll see you all tomorrow.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00098_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "<Is it just me, or did Yuki seem kinda happy...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Yes, she must've enjoyed getting to work as a group.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "<Thank goodness...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(It's only for a short time, but I think we have a way to give Mafuyu a safe place to work.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I hope this helps her feel a little better moving forward.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

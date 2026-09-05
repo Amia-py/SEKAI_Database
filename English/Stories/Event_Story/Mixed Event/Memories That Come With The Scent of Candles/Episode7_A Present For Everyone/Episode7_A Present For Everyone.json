@@ -1,0 +1,713 @@
+{
+ "title": "Mixed Event — Memories That Come With The Scent of Candles — Episode7 A Present For Everyone",
+ "meta": {
+  "Event": "Memories That Come With The Scent of Candles",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode7 — A Present For Everyone",
+  "Event Outline": "Ichika and Nene aren't sure what to give for Valentine's Day. They ask Honami for some advice and decide to make some scented candles together. Meanwhile, Kanade, who has the same concern, also asks Honami for help...",
+  "scenarioId": "event_84_07"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Valentine's Day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "What's keeping Tsukasa?\nI hope he gets here soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "He has some committee business to deal with... However, it shouldn't take up too much of his time, so he should be here soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, Emu☆\nWhat in that box you got there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'm still keeping that a secret☆ I'll open it once everyone's here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(That box... It's gotta be her gifts to everyone for Valentine's Day... I wonder what she made...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I also brought my scented candles...\nI hope they like what I made...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(N-No, don't worry...! I thought a lot about them as I made these... So, I'm sure they're going to love them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, Nene, your bag seems awfully heavy today...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh...?! N-No, it isn't... I don't know what you're talking about...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. Let's try to wait patiently in the meantime...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, you've already gathered...\nI apologize for making you all wait.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Not a problem. School business takes priority after all, but the gang's all here now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yeah! Alright, Emu!\nIt's time to show us what's inside your box☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay☆ Happy Valentine's Day, everyone! Tadaa!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wow! These dolls are so cute!\nWait a second... Are these all made of chocolate...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup, that's right☆ They're chocolate dolls! But that's not all... Take a look at their faces!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "*Gasp*\nThey... They're us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Correctomundo☆ I tried to have them all resemble you guys!\nSo, how'd I do?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "You did a wonderful job, Emu.\nAnd this one must be me...\nHehe. It seems like a shame to have to eat it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, they're very well made! Thank you, Emu!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I hope you're looking forward to receiving something spectacular in return for White Day!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yay! Thanks!\nAlso, here☆ This is yours, Nene♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Oh, this one... It's like her hair's actually tied off on each side.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(And its face... It looks just like me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Hehe. She must've worked very hard on these to make sure that we liked them...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Thanks, Emu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You're welcome!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "In return, Emu...\nWell, for everyone really...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hm? What's happening now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Um... So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I made these for all of you.\nI hope you like them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What?! Wait, you and Emu both made gifts for us?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You made these yourself, Nene?!\nWow, so many little bags☆ Is this one for me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Um, yeah... There's one for everybody. Please take the bag that has your name written on it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00316",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Let's see... Ah...\nYou made us scented candles?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Scented candles?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "They're candles with scented oils mixed into them. They're designed to release a nice, relaxing fragrance when you light them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, that sounds lovely.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes, Luka, it's perfect for you!\nBut it's dangerous to leave them lit while you sleep, so please be careful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hey, they're all different colors!\nThat's so cute☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh, you're right!\nThey seem to suit each of us very well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Wait, hang on... Does that mean...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah. I chose colors and fragrances based on the person receiving them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Really? Lemme take a sniff...\nOh, mine smells like oranges☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Thank you, Nene.\nThese are wonderful!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Y-You're welcome...!\nI'm glad to see that you like them so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I didn't realize that you knew how to make something like this, Nene. Did you research how to do this on your own?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "No, I had Mochizuki teach me.\nI made them with Hoshino... Also, Yoisaki... Remember? She's the one who helped us out during our show the other day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah...\nIt sounds like this was a wonderful experience for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Y-You think so...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I wasn't sure how my scented candles would turn out at first...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(But it gave me a chance to get to know Yoisaki and Mochizuki better... Plus, everyone here seems to really like what I made.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(So, I'm really glad that I did this...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Empty SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Heh heh heh... The time has finally come... Happy Valentine's Day!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "As promised, we brought gifts!\nAnd everyone seems to be present.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Why do I need to be here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Why? Because Mizuki and the others said they'd bring gifts for all of us, so we should all be here to accept them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah. Sorry, but we'll need you to bear with us for a bit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Alright, fine...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hehe. I'm looking forward to seeing what you all brought for us. So, who's going to start us off?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I wanna see what Mafuyu brought.\nIf you don't mind, can you show us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Sure.\nHere...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, this box! It's from that shop that sells those really fancy chocolates. I heard that they're always sold out...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I asked some of my classmates about what to get and they suggested these. I had to wait about an hour in line.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, that seems pretty normal for this time of year.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But you really went out of your way to get these!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Thank you, Mafuyu...\nWe really appreciate what you did.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Then, I'm glad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Alright, let's move on to our next present-giver...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wow... You all brought so much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00181",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Mizuki brought cookies that look like different animals, Ena brought chocolates shaped like lollipops...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Heehee! Aren't they cute?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hey, don't forget about mine.\nI worked really hard to get them to look cute by using pink chocolate and colored sugar.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hmm... Yeah, they do look cute...\nBut I feel like you had ulterior motives...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I mean, you said yourself that they'd look great in selfies and stuff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What?! FYI, I'm allowed to use my creations however I like!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "So you did take selfies with them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "But it definitely looks like you worked really hard on the wrappers. They have their recipients' names written on them and illustrations to match.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, I did. I mean, I wanted everyone to like them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Still, Kanade, I think you gave us the biggest surprise this time around...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh? I did...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, totally! I don't think anyone was expecting to receive homemade scented candles from you, Kanade! Not only that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "They're beautiful...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, they really are!\nPlus, each one has a different color and scent!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "And knowing you made them with us in mind, Kanade... I think it makes us all just that much happier.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "That includes you. What do we say when someone does something nice for us...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Thank you, Kanade...\nI'll try using it when I get home.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay...\nI'm just glad that you all like them so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Len...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh...? Y-Yeah?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "You haven't said a word this whole time. Is something wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "No... Um, so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Len, I believe you have something to tell them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "What's she talking about...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "U-Umm...\nThe truth is... I also have something for all of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "For us...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Y-Yeah... Kanade taught me how to make scented candles... And we made one together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "And... Here it is... It's only one for all of you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "What?! L-Len, you also made a candle?! And it looks amazing! It even had flowers in it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah...\nKanade, you really taught him how to make this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Also... I'm seeing sweet peas, roses and all sorts of flowers... They're gorgeous...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "So... Kanade helped me pick out flowers that suited each of you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "She also helped me choose the color and fragrance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I had no idea... Thank you, Len. You too, Kanade.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Y-You're welcome...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hey, it smells like apples...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh, actually... It's chamomile.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, Len, which flower did you pick for me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Um, yours is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Good for you, Len...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Th-Thanks...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "I really appreciate what you did for me, Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "You helped make this Valentine's Day feel really special...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "No... I should be the one thanking you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "You made me realize something important.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I had a lot of fun making these scented candles with you and the others.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

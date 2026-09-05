@@ -1,0 +1,738 @@
+{
+ "title": "Unit Event — Knowing the Unseen — Episode5 I Have to Look Deeper",
+ "meta": {
+  "Event": "Knowing the Unseen",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — I Have to Look Deeper",
+  "Event Outline": "Ena debates whether she should aim for art school post-graduation. With this inner turmoil comes restlessness, which begins to affect her art. Mr. Yukihira notices that she's struggling, and after she divulges the cause, he invites her to take part in an excursion.",
+  "scenarioId": "event_127_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e002301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "How are things coming along on your end, Shinonome?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, Mr. Yukihira...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I've got everything set up here.\nI just need to clean, and then I'll be done.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "I see.\nSo, what can you tell me about this painting?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Were you able to learn anything from your father's work?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Um, I'm sorry.\nI didn't pay much attention to it while setting it up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "I see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "In that case, let's examine it together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "This painting...\nCan you tell me what it's about?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "It's titled “A Peony Blooming in the Night”...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "If I recall, the night I was born, he saw a single peony blooming on his way home from the hospital. So, he decided to draw it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Is that all...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "What you just told me is simply the backstory.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "That is not what I'm talking about.\nI was asking what you felt after seeing this painting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What I felt...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Yes.\nI'd like for you to think about what you feel as you look at each of these paintings with your own eyes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "To see what they're really about.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "With my own eyes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "I will take care of the rest of your duties.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "So, have at it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Ena...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I honestly don't want to go around looking at his stuff...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Because each one is a reminder of how far I am from his caliber.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(But if this is what Mr. Yukihira wants me to do, then I might be able to find whatever it is that I've been missing...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(So...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I have to do this.\nI have to take a hard look at his art...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Sorry, Len, Rin. I know you guys are worried about me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But I'm gonna go around to look.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<B-But... Don't push yourself too hard, okay?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "*Nod*\nI'll be fine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Anyway, I'm thinking about starting from the beginning, so let's go over there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00272",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<This one's also really beautiful.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yeah...\nAnd really powerful...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(All of his paintings are overwhelmingly good...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(The framing and even the application of the colors are innovative...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Oh...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<This painting of a river at night... It feels so strange and surreal. Almost like something out of a dream...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, yeah. The river in this painting's actually right near my house.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Wait, it is...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, unlike how it's depicted, it's actually a pretty ordinary place. I tried painting it one time, but it didn't turn out very well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "And yet, with him, it turns into this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<I see...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<That's pretty incredible...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Also, I know I'm supposed to see how it makes me feel, but I really don't know.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I understand all the technical aspects behind it, like how he's framed the river in a way to make it look bigger...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<How it makes you feel...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Oh...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<What's wrong?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Umm... This might be just me...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<But it feels kinda dark for some reason...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Dark...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<I mean, don't all his paintings?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yeah, a lot of them seem to take place at night...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I'm guessing it's because the theme of this exhibit is “Deep in the Night”. Hence all these night paintings.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<I see...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Still...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Is something the matter?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, it's just... I think when he drew these plays a big role in terms of what sort of impression they give off.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "The paintings at the beginning take place at night, but they seem to focus more on a source of light, like the moon or the streetlamps.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "So, they didn't feel that dark.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But the ones on this wall...\nThe pieces in this period don't give off the same impression.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<How are they different?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hmm... How do I put it...?\nI can't place my finger on it, but they feel a lot darker for some reason.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Darker...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<What about that painting...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh? Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<A dark room with empty cans and paint everywhere...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<That's a canvas, right...?\nIt's on the ground for whatever reason...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<This painting actually feels kinda scary...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I remember seeing this one when I was little...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<You do?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah. He had it in his studio.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But he sorta leered at me when I saw it, and immediately put it away afterwards...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<I guess he didn't want you to see it.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Maybe. But why...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Come to think of it, this painting...\nHis brush strokes look a lot rougher.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Rougher?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "His style had always been pretty rough. I mean, you can basically see each brush stroke...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But this painting...\nThis goes beyond that. It's like he was all over the place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Was he feeling pressured? Maybe he was in pain or something...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<He was feeling pain or pressured...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, like nothing mattered to him anymore.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But he felt that he needed to keep painting...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<He felt that he had to...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Like you back then?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I have to draw something... Anything!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But if I lose my ability to draw, then I'd really...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00213",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Why...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Why can't I draw anything...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Why am I so bad at this...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e002301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(She's right...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00215",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I drew stuff in the same way back then.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(After he told me I should give up on my dream, I drew and drew as much as I could... But I wasn't able to produce anything good. I was in a state of panic. I didn't know what to do...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(His painting turned out better...\nBut I felt the chaos I'm seeing here...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<What if...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<What if your dad was having trouble painting, Ena?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(He was having trouble painting?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Him?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Still, I am sensing pain in this picture.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(But why...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I'm jealous of how he can paint like this...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(So, what made him draw this...?\nSomething that looks like pain and suffering...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Oh...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Ena, the next painting is...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(The painting of that peony...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "I'd like for you to think about what you feel as you look at each of these paintings with your own eyes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "To see what they're really about.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I don't know. I can't say for sure...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(But I have to look at it and see how I feel minus all assumptions or extraneous information.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Then, I might be able to find the answer...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

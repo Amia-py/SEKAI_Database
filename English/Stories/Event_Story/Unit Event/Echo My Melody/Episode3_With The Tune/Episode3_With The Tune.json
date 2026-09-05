@@ -1,0 +1,668 @@
+{
+ "title": "Unit Event — Echo My Melody — Episode3 With The Tune",
+ "meta": {
+  "Event": "Echo My Melody",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — With The Tune",
+  "Event Outline": "After putting on a successful show, Leo/need decides to start posting videos to a video platform so that their music can reach more people. Meanwhile, Ichika tries to help out the band by creating songs using digital tools, but is still struggling...",
+  "scenarioId": "event_76_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kanade's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh wow! So much equipment...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Did you buy all of these, Kanade?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "No, my dad used to be in the music business, so most of them originally belonged to him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Your dad...?\nI see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Still, if I had this much equipment, I wouldn't know where to begin...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Actually, you'd be surprised...\nMore often than not, I end up using the same ones.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'll try something different when I want to achieve a different sound... But I definitely have my favorites since I don't seem to mix well with some of them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Interesting...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Anyway, Hoshino, what would you like to ask me? About how to create a melody? Or about using software...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, right. Um... I'm having several issues, but I'd like to start by asking you to listen to my song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I just need one second to open it on my computer...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "♪————",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That's about what I have right now.\nNo matter how hard I try, I can't produce the sound I have in my head...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "When I played it through one of the speakers at the rehearsal studio we rented the other day, I noticed that it lacked so much depth... I really don't know where to begin fixing it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Also, Hoshino, I hadn't realized that you were having Miku sing your song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Y-Yes, that's right.\nI like Miku a lot... And I want to write songs with her if I'm going to do this seriously...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, um... I mean I want to make them using Miku!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hehe. I see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That reminds me of how we first met...\nWe were both hoping to listen to that one creator's new song which also featured Miku!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, there are so many songs that make Miku's voice sound so beautiful on top of being well put together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I know what you mean.\nI really admire the people who can produce those kinds of Miku songs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "But I'm having so much trouble now that I'm trying to write my own song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Up until now, I've been listening to all these Miku songs made by a variety of people with different feelings... And they've all been wonderful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Which is why I want to try doing that myself now. Unfortunately, things haven't been going very well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I just want to let her singing voice shine, so I feel terrible about how I've been making her sing such an incomplete song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hoshino...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Don't worry.\nI think you deserve more credit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, it's a bit hard to clearly see what your song is about... However, I did sense a hint of kindness. Like this song was encouraging me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "*Gasp*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "You mentioned how you weren't getting the sound you wanted.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "That also means you know exactly what you want from your song, so I think all you have to do is keep working on it with that in mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "So... Can I ask specifically what kind of song you're trying to write?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "What kind of song...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "The thing is...\nI'm writing this song because I want some people I care about very much to listen to it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "People you care about very much...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes. So, I put a lot of thought into what kind of song they'd like to hear...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Something that gives them the courage to change themselves and move forward...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Something that'll be a source of support when they're facing their pain to go beyond their limits...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Something that tells them that they don't have to hold back when I know they're capable of so much more, and that I'll catch up to them someday...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I want to write a song that gently encourages those who I care about most...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...\nA song that gently encourages them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I hadn't thought of saving others like that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I understand what you want now.\nNow, about the instruments you wish to include...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Do you plan on playing this song as Leo/need once it's complete?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes, that's the plan...!\nI tried choosing sounds based on the instruments that we all play...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "But it sounded so off when I listened to it. I began doubting myself as to how we usually sound...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "The guitar sounded fine to me, but the other instruments don't quite seem to fit into your song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "*Gasp*\nI knew it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I didn't have much trouble with the guitar since I play it, but for the rest I could only rely on how everyone else sounds while playing their instruments...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see. That may partly explain why you're not getting what you're looking for, since just a few different sounds can greatly change the overall feel of a song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I want to say that experience is also important... But that won't exactly help you right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "So, for now, let's try coming up with a way to make it sound more balanced...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "...!\nI really appreciate it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay, I'd like to start taking a closer look. It should be easier to see everything on my computer since it has bigger screens. So, I'll just send the file to myself...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00320",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000133",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Alright, it's open.\nI'll mute everything except the drums.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That's amazing...!\nYou really know what you're doing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "This is nothing special.\nI just moved a few things around on the screen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "We'll start working on your song now...\nFirst, let's listen to how the drums sound...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00320",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00320",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00320",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm90040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Several dozen minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Wow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Thank you so much!\nThis is the closest it's sounded to what I initially imagined...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "That's good to hear...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I also enjoyed how your vision slowly started coming to the surface as we worked on your song, Hoshino.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Really?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Do you think they'll understand my message...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "That may need a little more work, but I believe you're on the right track.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "As it is, what you're looking for is there. I definitely felt encouraged by your song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Now I feel like composing something.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Huh? You too...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes.\nHow about...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00320",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade's Song",
+   "Line": "♪————",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "*Nod*\nThat should work...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "*Gasp*\nTh-That's incredible... You came up with a melody just like that...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Honestly, this is all I really do...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hmm... I'd like to work on this more.\nThe first verse might stand out too much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "So, I can make this part sound more subdued...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00320",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(W-Wow... It's like she's a professional songwriter...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(And she helped establish the foundation for my song...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(All that's left for me is to use my computer to get it over the finish line!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

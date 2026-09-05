@@ -1,0 +1,513 @@
+{
+ "title": "Unit Event — Over Rad Squad!! — Episode1 One Week to Go",
+ "meta": {
+  "Event": "Over Rad Squad!!",
+  "Event Type": "marathon",
+  "Episode": "Episode1 — One Week to Go",
+  "Event Outline": "The time to surpass RAD WEEKEND has come at last. Kohane is nervous about the task ahead, but musters up her resolve as she looks back on everything she's overcome to get this far. Will Vivid BAD SQUAD finally do it?!",
+  "scenarioId": "event_135_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "Hey, have you guys heard the news?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "What news...? Oh, are you talking about their event?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "Of course we heard!\nEveryone around here's been asking about it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Musicians",
+   "Line": "Next week at COL, right?\nI can't wait to see what it's like...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Locals",
+   "Line": "I wonder how their event's going to go.\nRumor has it that An and the others are training pretty hard for it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Locals",
+   "Line": "Surpassing RAD WEEKEND won't be easy... But after seeing An and Kohane battle that time... They proved themselves as incredible singers, so maybe, just maybe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend Garage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, we all done warming up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, I'm ready to start whenever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We only have one week remaining, so we gotta make the most of every second we have left.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Don't go easy on us, Dad.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Oh, I won't.\nGet ready to cling on for dear life.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Just one week to go...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(In one week's time, it's really happening.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(It felt like we had plenty of time to prepare when we first chose that date...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(But this is it...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "I went to hear what the locals were saying yesterday...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "The air was buzzing with anticipation.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Surpassing RAD WEEKEND meant having to get all our pieces on the board.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "And now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Akito, you ignited everyone's hearts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00123",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Toya, you completed your song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "An, you got the locals behind you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Kotaro, EVER...\nYou guys found the courage to get back on your feet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "And last but not least, Kohane, you unlocked your potential.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "It's now or never.\nThings have reached a fever pitch, so this is your best chance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...\nRight!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We found people to staff our event too, so now we just gotta focus all our attention on the task at hand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, and we really don't have a second to waste.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Then, let's start preparing like we mean it for next week. Are you all ready?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Everyone",
+   "Line": "Yeah!\nYes!\nOkay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(It's really happening...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Our moment!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000703",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm90040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kohane's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Phew...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Everyone was much more motivated than usual during practice today.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(There was a nice tension in the air. But I'm exhausted after singing for hours and hours.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Still, I am feeling a lot better now as a result...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Just one week to go...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "This is it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Kohane? Are you still awake?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hi, Miku.\nWhat brings you here so late?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Sorry, I know you must be tired.\nBut I wanted to talk to you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh? To me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Yes.\nIt's one week from today, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I guessed you might be feeling a little anxious, so I'm here to help you relax.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "You really are incredible, Miku.\nYou saw right through me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I can't seem to stay still.\nI mean, everything's coming to a head next week...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Don't worry, Kohane.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I'm sure you'll do just fine.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Because you've never once run away from your feelings.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Miku...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thanks, I really appreciate it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(She's right...\nI was put to the test over and over along the way, but I'm standing here right now because I kept trying.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I mean, I've overcome so much...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few months earlier",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Weekend Garage",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Go show them that you're just as passionate about what you're doing as we were.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, I will!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Alright, that takes care of An's task...\nWhich just leaves yours.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...!\nRight!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(My task...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(What's he going to ask me to do?\nThe others' tasks all sounded really hard.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Let me start by saying...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "You'll be tackling two.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Two...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "That's right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "However, I'll only be telling you about one today. I'll tell you about the other after you've completed this one so that you can stay focused on the task at hand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "U-Understood...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Now, for your first task, you'll need to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Become a powerful singer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "I'm not talking about just polishing your skills.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "You need to be powerful enough to blast a hole in the moment RAD WEEKEND became a legend.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "B-Blast a hole...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,578 @@
+{
+ "title": "Mixed Event — An Unmissable Spirited Affair — Episode3 Familiar Faces",
+ "meta": {
+  "Event": "An Unmissable Spirited Affair",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode3 — Familiar Faces",
+  "Event Outline": "Kamiyama High School's second-years are headed to Kyoto! In contrast with Tsukasa's excitement for their school trip, Rui is less enthused. But will his feelings change when one of his classmates approaches him?",
+  "scenarioId": "event_99_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a005901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next morning",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "School trip - Day two",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yawn... I'm still pretty sleepy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "My legs still hurt from having to sit on my feet after getting caught. Honestly, this is going to haunt me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But it's time to get back to business!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Because this is day two!\nWe're free to spend the day however we like!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Today, we'll be visiting Kiyomizu-dera Temple, and then seeing the Hyakki Yako Parade, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That's the plan!\nWe'll also have some time before the parade to look for souvenirs!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Understood.\nOh, also...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Miyake and the others said that they'd like to meet up before the parade begins. Would you mind them joining us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "They sounded very interested after I told them that I'd be seeing it with you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, of course!\nThe more the merrier I say!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Still, you all chatted up a storm during our game of cards last night! I can say now that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You've made some wonderful new friends, Rui!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. I'm also glad.\nIt's been quite a while since I had fun with my classmates like that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, here's the bus for Kiyomizu-dera Temple!\nLet's get on, Rui!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kiyomizu-dera Temple",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Wow☆ This place is amazing!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<But, is this really a stage?\nAren't there seats for the audience somewhere?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, no seats are necessary.\nEspecially since this is where one is supposed to perform for the temple's principal image.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<The principal... Huh?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "A statue of a very wise person who lived long ago and reached a state of pure enlightenment. It's over there. You face towards it when you perform.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Cool!\nSo you get to do shows for a statue!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Indeed! And if you look over there, you get a spectacular view of all of Kyoto!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len, Rin & Miku",
+   "Line": "<Wooow!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Thank you for agreeing to Miku and the others' request during your trip, Rui.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. It's my pleasure.\nPlease let us know if there's anything you'd like to see as well, KAITO.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<I appreciate the offer...\nBut...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<We should probably head back soon since there's quite a crowd here. We wouldn't want any of them to see us by accident.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yeah.\nRui, we want you and Tsukasa to have lots and lots of fun!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<What he said!\nOh, but you guys have to tell us all about what you did later♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<What she said!\nSo, enjoy your trip, you two!\nWe hope you make lots of fun memories together☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, thank you.\nWe'll see you again in SEKAI.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Okay♪ Bye bye!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It was brief, but I'm glad we had a chance to show Miku and the others what Kyoto looks like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "As am I! I'm sure we'll have plenty of stories to tell them, but we should get them some of those famed mutsuhashi as a little gift!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. I agree.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Airi, Asahina, look!\nIt's so big!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That voice I just heard sounded awfully familiar...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Yes, it's very beautiful.\nI can see why this is a World Heritage Site. The temple looks so solidly built.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "And this view!\nWait, are you taking another video?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Of course!\nI'm going to tell Minori and the others all about how our trip's going and... Oh no!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "The screen just went black...\nI wonder what happened.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Huh?\nHang on... Don't tell me you've only been taking videos since this morning!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, is that bad?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Of course it's bad!\nYour battery's probably totally drained!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I brought a portable charger for this trip, but I unfortunately lent it to another classmate this morning... Do you happen to have one, Momoi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "No, I left mine behind.\nI didn't think we'd be streaming or anything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Wh-What should I do...?!\nMinori sounded so excited about hearing how our trip is going...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "*Sigh*\nAlright, I'll take a few videos here and there for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "You will?!\nThank you so much, Airi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "That means I need to remember as much as I can about what we see and do so I can tell Minori and the others later...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku & Tsukasa",
+   "Line": "Oh...!\nWhaaat?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh, you're...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I thought it was you, Shizuku! Your mask threw me off at first...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, with Airi Momoi in tow!\nOh, and you... We met during Shibuya Festa and New Year's...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Her name's Asahina, Tsukasa.\nWhat brings you all to Kyoto?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "We're here for our school trip.\nAre you two as well, Kamishiro...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What...?!\nMiya Girls is also here for a school trip?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "What a coincidence...!\nI never thought we'd see you two here, Tsukasa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Tsukasa...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "You two must be very close to call each other by your first names.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, because our little sisters are incredibly close!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh, I see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Still... Hehe. This is quite the chance encounter.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Do you all know where you'll be visiting next?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We're free until the tour we signed up for this afternoon, so the three of us were thinking about visiting the shrine for the performing arts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "There's a shrine for the performing arts...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, it's supposed to be dedicated to the deity of entertainment and the performing arts. Shizuku and I are idols after all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We invited Asahina to join us and she said yes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "A shrine for the performing arts you say?! That sounds wonderful...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Do you two have plans after this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We were planning on walking around and buying some souvenirs for now. Later this evening, we'll be seeing a parade called the Hyakki Yako Parade where people dress up as folkloric spirits!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Folkloric spirits...?\nThat sounds interesting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I agree...!\nI'd like to see it since it sounds like a wonderful event to see in Kyoto.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We've set aside some time this evening to go buy souvenirs, so we could conceivably join you guys.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm...?\nShizuku, your group is about to visit that shrine... And our group will be seeing the parade later tonight...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Why don't we do both together?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In other words, you think we should merge groups...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Indeed! Us meeting feels like more than just a coincidence! So, would you mind if we joined you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Of course, if you'd like some privacy, we'll understand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I don't think we mind...\nBut weren't you guys gonna go look for souvenirs?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Not a problem.\nWe seem to have given ourselves more time than we needed to see Kiyomizu-dera Temple, so we can just see what's available along the way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Okay...\nThen, let's go together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh, also... Some friends will be joining us for the parade if that's alright with all of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Today, we're just students here to enjoy our school trip. Let's just try to have fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Hehe. It looks like this will be a fun day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Then, we're set to go!\nThank you, Shizuku, Asahina, Airi Momoi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Sure thing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Wait, why are you only calling me by my full name?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, so... Saki always used to shout, “It's Happy Everyday!” whenever she saw you, so I began remembering that as your name...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "In order to overwrite that, I've made it a habit to call you by your full name. I apologize if that feels awkward in any way...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "O-Oh, I had no idea...\nIn that case, I don't mind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Really?! Thank you, Airi Momoi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hey, keep your voice down!\nHave you forgotten that I'm an idol?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "No, you're right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Honestly, Tenma, it feels like I'm on a variety show whenever I talk to you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. Anyway, thank you all for having us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Likewise, Kamishiro.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Let's have as much fun as we can today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

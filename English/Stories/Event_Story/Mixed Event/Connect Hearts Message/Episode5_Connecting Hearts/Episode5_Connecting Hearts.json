@@ -1,0 +1,593 @@
+{
+ "title": "Mixed Event — Connect Hearts Message — Episode5 Connecting Hearts",
+ "meta": {
+  "Event": "Connect Hearts Message",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — Connecting Hearts",
+  "Event Outline": "The second-years at Miyamasuzaka Girls Academy are assigned a work shadowing program. Interested in learning about making fun memories for visitors, Saki, Emu and Shiho choose to visit an event planning company.",
+  "scenarioId": "event_159_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_b002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "The day of the event",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Event Venue",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Phew... That should do it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Shiho! Emu!\nI'm done setting up the stationery.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "We're also done setting up the tables.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "This event's gonna be so good☆\nI've been so excited that I haven't been able to sit still for weeks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehe. Same!\nLet's do everything we can to make this event a success!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah! Let's make it a really wonderhoy event!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah, super wonderhoy!\nC'mon Shiho, join us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Huh? No, I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kizaki",
+   "Line": "Hello, you three.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh! Hello, Ms. Kizaki!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kizaki",
+   "Line": "Thank you for agreeing to help set everything up. We'll be opening soon, so let's all do our best today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yes, we promise to do our very best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki & Emu",
+   "Line": "We promise!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Would you be interested in writing message cards for White Day?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00311",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Come make cards to attach to your gifts for White Day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "If you just want to make a message card, that's also okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Guest",
+   "Line": "Oh...\nDid you say message cards...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(Wait, this person seems interested...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Welcome!\nAre you looking to make a message card?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Guest",
+   "Line": "Y-Yes...\nI just bought a present for my wife, but I still need a card... Would you mind showing me what you have?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "These are the cards we have available.\nThere are thirty types in total, so please choose whichever one you like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Guest",
+   "Line": "Wow, I didn't realize you had so many.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yes! We have many different types available because we want everyone to find the perfect card!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You can even decorate your card using these stickers and stamps. Please have a look if you like!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Guest",
+   "Line": "Thank you.\nIn that case, do you have anything with animals? My wife just can't get enough of them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "She likes animals?\nIn that case, she might enjoy these stickers over here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Guest",
+   "Line": "I see...\nBirds, rabbits, squirrels, cats... They're all very cute.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "We also have a sample card which uses them. Feel free to take a look.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You can even use these speech bubble stickers. It's really cute when you make it look like the animals are talking.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Guest",
+   "Line": "Oh, that's a great idea!\nI know she'd love that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Guest",
+   "Line": "Then...\nWould it be alright if I wrote her a card?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Of course! Thank you very much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Male Guest",
+   "Line": "How does this look?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh wow...! So many different animals!\nThis is absolutely adorable☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Guest",
+   "Line": "Haha. Thank you.\nIt's been so long since I last wrote a message card...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Guest",
+   "Line": "It's nice, making a card with someone specific in mind. It makes it easier to put your feelings into it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Guest",
+   "Line": "I can't wait to give this to my wife.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "We hope she really enjoys it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe. He looked so happy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, and it was nice to see just how much he liked the products we recommended.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Definitely♪ Alright, we gotta keep up the good work and help everyone send their thoughts!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kizaki",
+   "Line": "Nice work so far, you three. Do you happen to be free right now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, yes! How can we help you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kizaki",
+   "Line": "We're starting to see a drop in guests...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kizaki",
+   "Line": "Would it be possible to have one of you three go out with these samples to advertise our event?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, yes! I can go do that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wait, are you sure? That sounds really hard...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'll be fine♪ I used to do this all the time at Phoenix Wonderland. It's been a while, so I wanna give it a try☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kizaki",
+   "Line": "Thank you very much. Then, if you don't mind, I'll show you where we've been given permission to advertise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Roger!\nWish me luck, Saki, Shiho!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I promise to send over lots and lots of guests☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Good luck!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_003_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Alright, let's keep calling over all the guests we can here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Right! Who seems interested...? Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Female High Schooler A",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "(That girl... She's probably around our age, right? She's inspecting each product really closely...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Welcome!\nAren't these pens just the cutest?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Female High Schooler A",
+   "Line": "Oh, yes...\nThey caught my eye since you don't see many pens in these colors.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female High Schooler A",
+   "Line": "And you have a lot of cards laid out, too. Is this some sort of event?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yes, it's an event sponsored by a stationery maker called Saishi Kobo. We're currently promoting some of their new products by having guests make message cards for White Day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female High Schooler A",
+   "Line": "Oh, that sounds like fun...!\nI actually really love these types of stationery.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "In that case, would you like to make some cards? It'll be your chance to tell those you care about most just how much you appreciate them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "One of these cards alone would also be a really nice gift!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female High Schooler A",
+   "Line": "That's really tempting...\nI know a girl who loves these kinds of sparkly stickers.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female High Schooler A",
+   "Line": "Oh, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Is something the matter?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female High Schooler A",
+   "Line": "Actually, I think I'll pass...\nEven if I made one for her, I doubt she'd accept it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Huh? But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Did something happen between you two...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female High Schooler A",
+   "Line": "Oh, I'm sorry. I didn't mean to say that last part. It's really nothing serious...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female High Schooler A",
+   "Line": "But this person and I are sort of in the middle of a fight right now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Umm... If it's alright, could you tell us more about this person?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female High Schooler A",
+   "Line": "Oh...\nSo, we're childhood friends...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00122",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shopping Mall Premises",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hear ye, hear ye♪\nCome make cute message cards at our fun event!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You can cram all your thoughts and feelings into your cards, and tell people just how much you care about them on White Day!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shopper",
+   "Line": "Hey, can we stop by the arcade before we start looking at clothes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shopper",
+   "Line": "Mommy, I wanna go to the toy store!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...\nEveryone's all focused on their shopping...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What do I need to do to get them excited and interested in our event...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Oh, Emu, is that a frown I see on your face?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<You sounded so excited about your White Day event when we last spoke...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "MEIKO!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Hello! I dropped by to see how you were doing♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So, I'm advertising our event to get more people to come!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But I'm having a lot of trouble right now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<I see, so that's why.\nBut if that's the case...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Hehe. I have a wonderful idea!\nWhat if you...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow, that sounds really fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Doesn't it?\nSo, let's start getting everything ready♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

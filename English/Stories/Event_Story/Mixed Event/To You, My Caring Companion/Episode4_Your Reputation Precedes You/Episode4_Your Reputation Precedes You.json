@@ -1,0 +1,733 @@
+{
+ "title": "Mixed Event — To You, My Caring Companion — Episode4 Your Reputation Precedes You",
+ "meta": {
+  "Event": "To You, My Caring Companion",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode4 — Your Reputation Precedes You",
+  "Event Outline": "Honami notices that Kanade has been more focused than ever on composing lately. When Emu gives her tickets to a bridal fair, Honami decides to invite Kanade in the hope of her employer taking a break.",
+  "scenarioId": "event_96_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a005701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "So, two toast sets and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "One curry set, please!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Waiter",
+   "Line": "Understood.\nWe'll have those right out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "It's good we didn't have to wait at all to get a table. And this place looks so nice!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Their lunch menu also looked very good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, it did.\nOh, I need to go use the restroom for a bit...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Okay! Do you know where it is?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I think so. I saw a sign for it pointing towards the back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Alright, Honami, now it's just the two of us. Let's take this opportunity to get to know each other a little better.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. I'd like that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "When we were walking around the fair, Akiyama, it was clear how much you like fashion and cute accessories.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'm also interested in fashion...\nI even make scrunchies and other accessories, so it'd be nice if we could talk more about that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Really?! I'd love that too!\nIt's so hard to find people to talk to about sewing and stuff!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, but... I think there's something we need to get out of the way first.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "My name!\nThis has been on my mind since this morning, but it's totally okay to just call me Mizuki! We're the same age, right? Also, I've already been calling you by your first name.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Huh? O-Oh, of course...\nThen, if it's alright with you...Mizuki...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hmm... You still sound a bit tense...\nBut it's a start and a step in the right direction!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Anyway, Honami, I'm really glad we're getting to hang out like this♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Y-You are?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah! I've been wanting to meet you for a little while now after hearing so much about you from Kanade, Mafuyu and Ena!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "In particular, I wanna hear more about your job. I'm amazed by every story I hear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You help clean and cook for Kanade at her house, right? But she doesn't really care about anything other than composing music. She hardly ever cleans her room and even skips meals whenever she starts focusing on a song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, yes... You could say that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But she's able to work on her music because you're there for her, Honami. So, I've been wondering what you're like all this time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I see... But I've also noticed that Ms. Yoisaki's been changing recently. Compared to before, she eats more regularly, and even goes out more often.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "And most of all, she seems much more relaxed and has been smiling more.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I think you and your group are having a positive effect on her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I dunno if we have anything to do with that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But it's obvious that you pay close attention to her, Honami.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "It's clear based on what you just said that you really care about her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Is there some reason behind that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "When I first began doing this job, Ms. Yoisaki's grandmother made a request.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "She asked me to please do my best to look after her granddaughter even though she can be a handful at times.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "However, it's not just that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I think I'm worried about Ms. Yoisaki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "When I first met her, she looked like she was in so much pain... She was always saying how she had to keep composing and create a song that could save people...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I don't know what led to her thinking that way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But after spending so much time with her, it's become clear to me that she's a wonderful person...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "So, I may not be able to do much for her...\nBut...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "She always gives her all for the sake of others...\nI decided that I want to do what I can for her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I know this all just sounds overbearing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "No, I don't think that at all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'm really glad you told me that...\nI now know for a fact that you genuinely care about Kanade's well-being.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I feel a lot better knowing that she has someone like you by her side.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, I'm just...\nAgain, I can only help out so much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Don't say that! You invited Kanade out today because you wanted her to take a break, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You did that because you care, and I think it's gonna benefit Kanade a lot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Mizuki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I've also been kinda worried considering what's happened to us recently...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh...\nAre you talking about your friend?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wait, do you already know about that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Only vaguely...\nI was told that your friend is in trouble and Kanade is trying to compose a song for her sake.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, so... She's in a bit of a tough spot and is really being pushed to her limit right now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Plus, Kanade promised to save her.\nOut of all of us, she's definitely the most worried about all this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "To save her...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00001_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a005701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(So, Ms. Yoisaki really is doing everything she can to save her friend...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Which explains why I thought she was acting the way she did when I first met her...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "So, Honami, it's pretty huge knowing that you're there to check up on Kanade.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "At the very least, she's not gonna collapse on us since she's finally eating better♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I know I'm in no position to be saying this, but please keep looking after her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "O-Of course...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hey, Kanade, welcome back!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "We were actually just talking about you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh? About me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah! I was asking about what you're like at home and what you eat on a regular basis!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, um... I-I'm sorry...\nI know I haven't been eating much recently, but I promise to from now on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. That's perfectly fine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Right now, Ms. Yoisaki feels that she needs to focus on helping her friend...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Is there anything I can do to help her...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(I'm not in her group like Mizuki and the others, so I can't exactly help them with what they do...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(I mean, all I can do at the moment is cook, clean and do the laundry for her...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(But she agreed to join me for this fair today, so I'd like to help her enjoy it as much as possible.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a005801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00078",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Several dozen minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Phoenix Bridal Fair Venue",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Phew, I'm stuffed!\nAlright, where to next?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hmm... We still haven't seen...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "*Gasp*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Huh? That sounded like...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00531",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00531",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Honamiii!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Emu?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe. What are the odds of us running into each other here?!\nThank you so wonderhoy for coming!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, you're with Akiyama and Yoisaki!\nSo you all came together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You remember us?\nLong time no see, Emu! Not since New Year's, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Umm... You're Mafuyu's junior from what I remember...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, Otori, that's it.\nI didn't realize you'd be here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, I'm here to help my dad because his company's hosting this fair!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, I see.\nIt's been a wonderful fair so far, Emu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe. Thanks!\nI'm actually done for the day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But I wanna learn as much as I can about how events like these are run! So, I've been exploring to see what everything's like!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hey, that's pretty cool!\nWait a second... Your dad's company...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Emu, does that mean you're an Otori as in the Otori Group?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Emu's the one who gave me this ticket.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Then, that means we were able to attend because of you. Thank you, Otori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe. You're very welcome!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hey, I know! Emu, since you're here, wanna check out the fair together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, are you sure?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah! There's still lots we haven't seen, and we'd love to hear your recommendations!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I agree. Would you mind, Emu?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Leave it to me!\nI'll be more than happy to show you all the best spots!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Perfect!\nAlso, there's no need to be formal. We're all friends here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, that would make things much easier...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Really?! Then...\nLet's go, Mizuki, Kanade!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So, have you three already seen the dress exhibit? They have all these sparkly dresses that are so fun to see!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, we saw! They were so pretty that I totally didn't know what to do with myself!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "We also looked at the accessories, attended a workshop... Oh, and saw the fashion show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That fashion show was super fun!\nI wanna go see it again if we have time♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That leaves... Oh, have you tried on any wedding dresses yet?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "What? You can try them on...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So, they booked the chapel next door for this event, and you can try on all the dresses you want over there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Trying on a wedding dress...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "That sounds amazing! We gotta go check it out! How does that sound, you two?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, that sounds good.\nI'm guessing you're going to enjoy it quite a lot, Mizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. I'd like to go as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Then, I'll lead the way!\nWe're gonna try on the cutest dresses we can find☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

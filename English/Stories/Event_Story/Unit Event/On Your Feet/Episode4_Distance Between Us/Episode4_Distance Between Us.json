@@ -1,0 +1,653 @@
+{
+ "title": "Unit Event — On Your Feet — Episode4 Distance Between Us",
+ "meta": {
+  "Event": "On Your Feet",
+  "Event Type": "marathon",
+  "Episode": "Episode4 — Distance Between Us",
+  "Event Outline": "After learning the truth behind RAD WEEKEND, Vivid BAD SQUAD are more determined than ever to surpass that legendary night. The group decide to do what they can for the time being, but Kohane's thoughts linger on her former mentor Taiga.",
+  "scenarioId": "event_103_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000703",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days earlier",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Hospital",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Alright, this track's coming along nicely.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "(It's become a lot better...\nIt sounds much more balanced. I think I've got a good grasp on that now.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "For today, I'll keep working on it for a little while longer and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00046_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Soma, you there...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "(Whoa, that was close!\nHe didn't see what I was working on, did he...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Don't scare me like that, Arata! Couldn't you have called ahead or—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "There's something I need to tell you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "You don't look so good...\nDid something happen?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Sorry...\nI...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "I'm giving up on trying to surpass RAD WEEKEND...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00016",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Huh...?\nWhat are you saying all of a sudden?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Seriously, what happened...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "We battled against Taiga...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "And he showed me just how hopeless I am. No matter how hard I try, I'll never be able to sing like him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "It's not just that...\nThat event...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "RAD WEEKEND...\nNagi fell desperately ill, and it was meant to commemorate her life.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "What...?\nHer life...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "You're kidding, right...?\nI thought she was overseas doing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "I couldn't believe it either at first.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "But it's true...\nTaiga said so himself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "(That night really was something else...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "(It was so electric that I didn't know what was going on at times. All I knew was that I was seeing something legendary...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "(But that makes a lot of sense...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "(Nagi was at the center of it all.\nEveryone wanted to honor her life...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "(Still...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Arata...\nI understand what you're saying.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Surpassing the event that Taiga and everyone put on to commemorate Nagi's life won't be easy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "But let me ask you this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "You're not the kind of person who gives up after hearing something like that. If people say it's impossible, you set out to prove them wrong...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "You wanting to give up has to mean...\nWhat else happened...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "What else...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Nothing. Nothing at all...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "In any case, I'm done chasing after this dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "I need to get away from this city for a while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "I need time to think about what I'm going to do with myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Arata, wait...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00047_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "I...see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "That really happened...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "I haven't heard back from him since.\nSeriously, the nerve of that guy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Soma...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "So, that's why I asked you all to meet with me today...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "You guys know what happened to him, right?\nWould you mind telling me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "So, Arata, let me ask you this. Who are you really singing for?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "You're not trying to make Soma's dreams come true. You can't face the pain of having lost him, so you're just clinging to his dreams.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "I wasn't able to respond...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "All I had to say was, “Taunt me all you want! I'll keep carrying his dreams!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Tono wanted to carry Soma's dreams...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(But...\nAre we in a position to talk to him about that...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Okay...\nSo something did happen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "My bad, I take back what I said!\nPlease forget that I even asked!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wait, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "I sort of already knew what I have to do. I need to ask Arata about this myself...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00215",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "So, I'll stop badgering you guys about him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "We're really sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Don't be.\nFor today, I'm just glad that I got to see how you guys are doing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "He looked like the life had been drained out of him, so I was worried that you would be feeling the same way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "But I feel a lot better now after seeing your faces. You guys haven't given up, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, that's right.\nWe still plan on surpassing RAD WEEKEND no matter what.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Yeah, you guys really are tough...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "No, you give us too much credit.\nWe were just as shocked...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But we found a reason to not give up...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "A reason?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yes.\nIt's a bit of a long story...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "The next generation...\nThat's what Nagi wanted...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yes. Because she was willing to place her faith in us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I want us to surpass RAD WEEKEND and see what it's like beyond their dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Thank you for telling me about yourselves and Nagi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "As sad as I am about Arata's decision, maybe this is the way things are meant to be...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "He worked himself to the bone for me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "If this is what it takes to set him free...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Oh, sorry...\nI didn't mean to get all sentimental.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Good luck, you guys...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000703",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Um... Thank you very much for telling us about what happened with Tono.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "No, it was my pleasure.\nThank you for telling me about Nagi and RAD WEEKEND.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Anyway, it's starting to get dark out.\nGet home safe, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "We will. Now, if you'll excuse us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00047_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "They really are a tough bunch...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "I didn't give Aoyagi a proper apology...\nAfter he helped me make this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "To think he's never gonna sing this song now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

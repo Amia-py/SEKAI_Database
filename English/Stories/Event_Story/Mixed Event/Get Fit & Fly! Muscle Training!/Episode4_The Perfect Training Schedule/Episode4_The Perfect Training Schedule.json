@@ -1,0 +1,678 @@
+{
+ "title": "Mixed Event — Get Fit & Fly! Muscle Training! — Episode4 The Perfect Training Schedule",
+ "meta": {
+  "Event": "Get Fit & Fly! Muscle Training!",
+  "Event Type": "marathon",
+  "Episode": "Episode4 — The Perfect Training Schedule",
+  "Event Outline": "Haruka thinks of ways to make exercise fun for MORE MORE JUMP!'s fans. By chance, she meets Tsukasa, who invites her to the athletic event Shinobi Battle!",
+  "scenarioId": "event_142_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Nonogi Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wait, Kiritani...\nYou expect us to do all of these things?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You have everything scheduled down to the minute. Not only that, it says to do “at least” a hundred reps for each of these drills and exercises!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Also, what's written for me looks different from what she's written for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I'm supposed to run five kilometers and do three sets of a hundred squats and twenty-second planks... And that's before heading to school.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You're right. That's different from what I have here. I'm supposed to run, do push-ups and one-legged balancing exercises.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "After school, I'm supposed to run home, then run another eight kilometers. Following that, I have to do single-leg bridges and fingertip push-ups...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And there's more. Strength exercises, straddle splits, more push-ups, back stretches... More one-legged stands, more planking, airplanes, leg cradles...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Finally, how much time we should be spending each day exercising and sleeping, as well as when to go to bed and wake up...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So this is why you asked us for “very detailed” schedules on how we spend each day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I tried to come up with drills and exercises that you both could do whenever you had a minute, since I know that you're both very busy with rehearsals and singing practice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh, I almost forgot to give you these weights. Please put them on whenever you exercise, to maximize your gains.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Weights?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I also came up with diets for each of you to follow until the day of the event. I wrote down the recipes for everything that you'll be having, along with why I chose them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You went that far?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes. Since we'll be training together, I wanted to come up with the most effective solutions for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, it will be important for us to eat right in order to get in shape... But you have our protein and fat intakes down to the gram.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Like what athletes do...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "This is the least we need to do in order to win.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hmm... Yes, you have a point.\nJust finishing my stage is going to require a tremendous amount of strength and stamina.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "This is going to be very hard, but I should be able to manage. I endured everything Mikazukigumi threw at me, after all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "So, challenge accepted!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, this is really well put together. We should be a lot stronger once we get through it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, but still...\nYou came up with these all by yourself, Kiritani?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh...\nI actually had a little help from a friend...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "SEKAI Training Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Here.\nThis is the Shinobi Battle website.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Crossing a log bridge, becoming a water spider, jumping between hanging poles... This looks like a wonderfully fun obstacle course!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Thinking of ways to train for this should be quite a lot of fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. I know what you mean.\nWe'll be doing most of these for the first time, so devising strategies for them is really enjoyable.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But we're in this to win, and I wasn't sure I'd be able to handle it all by myself. So, MEIKO, I really appreciate you helping me like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "No need to thank me!\nI said that I wanted to do this, didn't I♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Thank you.\nStill, you really do enjoy coming up with workouts and such, don't you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes, I do!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000353",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Working towards a goal, trying to figure out what you're missing, thinking about what you need to do, clearing checkpoints as you go along...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Knowing that you're making progress towards your dream little by little is a wonderful feeling, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "*Nod*\nI know what you mean.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "And once you've accomplished everything, you start thinking about what to pursue next.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe. I knew you'd say that, Haruka.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "So, let's start brainstorming, shall we?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Starting with the log bridge. Your teammate's core and abs need to be very strong for this, so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I know!\nWouldn't doing L-sit pull-ups be the best option?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes, that would be...\nBut I feel like I'd be asking too much of him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Instead, what if we had him do one-arm handstands? His goal would be to remain perfectly still.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes... No, that's also asking quite a lot of him!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh, you think so?\nThen...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I wouldn't have been able to come up with training schedules specifically designed for each of you without her help.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "However, we all have our strengths and weaknesses, so I'd like to make adjustments as needed as we go along.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I see...\nNow that I know how much effort you and your friend put into these, we have to do our best to succeed!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "That's not going to be easy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But I made a commitment.\nSo, let's give it everything we have.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes, let's!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "So, let's start training right away!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00052",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I'm supposed to start by doing a hundred underhand chin-ups.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes. The log bridge and spider wall obstacles both test your legs and core, but your arms also need to be strong.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "From what I saw, Tenma, you've already made quite a few core and leg exercises a part of your normal workout routine. So, you should be okay there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Which is why I'm having you start with a focus on strengthening your arm muscles.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I see.\nYes, this really feels like it's been designed just for me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, I'll get started.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Okay. Then, turn your palms towards your face and grab hold of the bar.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00448_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Grab the bar! Lift myself up and... Hold!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Good. Now repeat what you just did.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Will do!\nHmph! Huff! Hnng!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Okay, good.\nYou're doing just fine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00257_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hah hah hah!\nA hundred is going to be a piece of cake!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Then, can you try wearing this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm? This looks like... A vest? No, wait!\nWhy's it so heavy...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Because there are about ten kilograms of weights inside.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What?! Ten kilograms?!\nThat seems like a bit much, don't you think?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Even just three or four kilograms would usually increase the difficulty level of this exercise significantly, but I'm making a special exception today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Because you never know what's going to happen during the event.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "True...\nThen, I'll gladly give this a try!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00448_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hnnnngone! Aaarghtwo!\nHuff! Huff...!\nTh-This vest has made things so much more difficult...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But I'm not about to give up!\nI... I will succeed!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "98, 99, 100... Phew...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Nice work.\nHow were those jumping squats?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Fine... Still, this is harder than I was expecting. My calves are already starting to feel really heavy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Then, that means this exercise is working like I'd hoped. You're going to need to explode over that vault, after all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Your calves feeling heavy is a sign that your muscles are growing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Actually, you look like you can handle a bit more. How about we add some extra weight?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh? Extra weight?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes. Next, try doing a hundred more while wearing these weighted wristbands.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "They will feel a little heavy, but I'm sure you'll do just fine, Shinonome.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...\nYou're joking, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "...98, 99, 100.\nPhew... Okay, that's one set.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comments",
+   "Line": "<You're amazing, Haruka...>\n<Just the fact that you can do one-arm pushups is incredible.>\n<I can't even do push-ups using both arms!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "It's okay to go slow if you're still trying to get the hang of things.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "For example, if you're just starting today, I recommend doing three sets of ten. After that, you can gradually begin increasing your reps.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But if you feel that isn't enough... Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "You can try placing some weights on your back. I'll try doing that now, so sit back and watch me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comments",
+   "Line": "<W-Weights?!>\n<How can you still move...?>\n<Well, you are aiming to compete in SHINOBI...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comments",
+   "Line": "<Lemme give that a try.>\n<Start by doing ten? I think I can do that.>\n<Will I become more like you if I really keep at it, Haruka?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few weeks later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Okay, I think we've gotten everything we can out of these simulated runs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Why don't we call it a day here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm? Already?\nI can still keep going...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "No, we should stop. Tomorrow's our big day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Right. We probably should rest up for tomorrow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Exactly. We don't want any fatigue to linger, so let's do some light stretches and end things here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, sounds good!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Still...\nIt's hard to believe how much muscle we've been able to put on in such a short period.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I'm also surprised.\nI feel like we're going to post a really good time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Me too.\nWe have you to thank for being such an incredible instructor, Kiritani.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We were able to become this strong because you showed neither us nor yourself any mercy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "To be fair, my jaw dropped when I first saw your notebooks...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But thank you for putting in all that effort, and giving us the best shot possible at winning.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Shinonome, Tenma...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. You're both very welcome.\nNow I'm really glad we decided to form a team.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "That being said, don't forget that this was all in pursuit of a goal.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "So, let's make sure we post a good result tomorrow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa & Akito",
+   "Line": "Let's!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

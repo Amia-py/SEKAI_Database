@@ -1,0 +1,363 @@
+{
+ "title": "Mixed Event — The Tomorrow We Hope For — Episode4 Everyone's First Shrine Visit",
+ "meta": {
+  "Event": "The Tomorrow We Hope For",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode4 — Everyone's First Shrine Visit",
+  "Event Outline": "When Haruka stops by the shrine along her usual running route, she sees the shrine maiden who was there for her in her time of need collapse. In order to repay her for her kindness, Haruka decides to help out at the shrine in her stead.",
+  "scenarioId": "event_45_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh! Me! Pick me!!\nI think we should all visit a shrine together!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What?! Where's this coming from?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So I was talking to Honami the other day, and she told me about how she and her friends all visited a shrine together! I thought it'd be great if we went too♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "A shrine...!\nThat's where everything goes JINGLE-JINGLE-CLANG-CLANG, right♪ Sounds like fun☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Jingle-jingle...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I believe she's referring to either the bell you ring when making a wish or the sound of drawing a fortune from an omikuji tube.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Now that you mention it, none of you had a chance to go last year because you spent all your time discussing show ideas here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, really?\nIn that case, why not go this year?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, I wanna go too♪\nDrawing fortunes sounds like fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Me too!\nWhat about you, Luka? I mean, you were the one who suggested this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "No, I want to have a nice, relaxing New Year's where I do absolutely nothing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh no you don't! You're coming with us! I'm not about to let you hibernate through the holidays!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Zzz...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "H-Hey, wake up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I should be free to go.\nHow about the rest of you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Well, Saki said that she'll be staying over at Ichika's for New Year's, so we probably won't be visiting as a family until the evening...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "So I should be free to go around noon!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yay!!\nNene, what about you?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "How about it, Nene?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I can go, but shrines get so crowded on New Year's Day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...\nOkay, fine, I'll go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yay!! Thank you so much!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yaaay!!\nWe get to do a shrine show!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What are you talking about...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, I see... Since we're all going, it'll be good to come up with some special effects to mark the occasion...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Special effects for a shrine visit...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hey! No weird gadgets or contraptions, alright?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Empty SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay...\nHere are those chips that are supposed to be New-Year's-cuisine flavored.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Thanks, Kanade!\nCan you put them in that plate over there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Can I start pouring the juice?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, go for it. Oh, we should probably move everything closer towards the middle so nothing spills or falls over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hehe. I have a feeling this is going to be a wonderful party.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Me too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "What are you all doing...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, Rin, there you are. We were just getting ready to have a party.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "A party?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, a New Year's Eve Countdown Party! The one we did last year was super fun, so we decided to do one again this year♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Lemme guess. You couldn't get tickets to the anime song countdown show again and didn't have anything else to do?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wh-What are you talking about?!\nDon't be a party pooper, Ena.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But since we're all here, why don't we do some other New Year's stuff this year instead of just a countdown?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Other New Year's stuff...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Like eating mochi or visiting a shrine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, speaking of which, Airi just sent me this... <We're volunteering as shrine maidens at a local shrine.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "What?!\nDid she say, “We”...?! Do you know what this means?! Real-life idols dressed up as shrine maidens!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Mafuyu, why does Mizuki sound so excited...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Because Mizuki likes idols and shrine maidens?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "MMJ dressed up as shrine maidens...! We've gotta see this!! How about it, you guys?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Really? All of us...?\nI mean, I was sort of thinking about seeing how Airi's doing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hmm... Kanade, Mafuyu, what do you two think?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I get that leading with seeing idols dressed as shrine maidens wasn't great, but I do kinda want to visit a shrine together with you guys.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It's cold, so I'd rather not go outside...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Actually, it's supposed to be warmer than usual that day, so it shouldn't be that bad.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah. It's been pretty warm all winter, so we'll get an early taste of spring during the holidays. Which is why I'm thinking about going.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see...\nIn that case, I might go...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Awesome!!\nHow about you, Mafuyu? Do you think you can make it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I have to be with my family during the day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "But I always have some free time at night, so I'll ask to see if they'll let me go...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...!!\nThanks, Mafuyu!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "(I was wondering why they were all gathered like this...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "(But I guess there's nothing to be concerned about...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

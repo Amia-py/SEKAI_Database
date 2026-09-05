@@ -1,0 +1,663 @@
+{
+ "title": "Unit Event — Walk on and on — Episode6 I Hope They Understand",
+ "meta": {
+  "Event": "Walk on and on",
+  "Event Type": "marathon",
+  "Episode": "Episode6 — I Hope They Understand",
+  "Event Outline": "In preparation for their next event, Vivid BAD SQUAD, Arata and the others set out to write different songs based on a single theme. Akito and An take on the duty of making the new track, but Toya wishes that he could contribute to lighten their load.",
+  "scenarioId": "event_71_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_walk_2022_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Now then...\nI've finished watering this row, so that just leaves...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, Toya, come on in.\nActually, that sounds a bit strange since we're outside.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Are you watering the flowers in these beds, Miku?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yes, since I want them to keep growing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, that's right.\nKohane also arrived just now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Azusawa's here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yes, we heard from her that Akito and An have finished making their demo.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, that's right. Akito said, “Starting tomorrow, we'll be practicing with the demo and laying down vocals.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I see. You must be very excited about that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I am.\nAnd I need to do my best to put on the best performance of their songs that I can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "*Nod*\nGood luck.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, that's it for here.\nThank you for the lovely chat, Toya.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00054",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Once more, come on in.\nWhat would you like?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "A-Aoyagi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, Azusawa, what a coincidence.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Hello, Toya!\nIt's been quite a while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I apologize for not being able to visit lately. I've been busy and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "That's perfectly fine. We're just glad to see that you're well. Would you like your usual coffee?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, please.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, hey!\nWhat if Toya helped too?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Wait, Rin, shush!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Help with what...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Huh? Because... I'm so sorry!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "What's going on here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, um...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But it would be really nice to have Aoyagi on board...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "So, we've been keeping it secret from the others that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I've recently been working on my own track.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But I was having so much trouble on my own that I'm having KAITO and Rin help me as I go...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "And that's okay with us. Actually, we've mostly just been observing since you're such a hard worker.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah, he's right! We know that you've been trying super duper hard!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I had no idea...\nStill, Azusawa, what made you want to do this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "You, An and Shinonome can all write your own music, right...? That means I'm the only one who doesn't know how.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But that's not your fault...\nYou're still relatively new to all this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I know, but I don't feel great about that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I know I'm being a little selfish by wanting to make my own track. I get that I should be focusing on putting on a good performance right now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Am I asking for too much...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "No, I don't think so.\nThat's just how life is, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Azusawa was going through the same thing.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I don't see any problems with that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "What's wrong with doing what you want to do? If I were in your position, Azusawa, I would've made the same decision.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So, what do you need me to do?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, um...! It's not completely done yet, but I was hoping that you'd listen to what I have and tell me what you think.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I've been rewriting some of it and I think it might've turned out pretty well. At the same time, I may've possibly lost sight of what kind of song I originally wanted it to be.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Then, I'd like to give what you made a listen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Th-Thank you so much! I'll play it now...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_walk_2022_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Hm? This melody...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "How was it...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm also yet to create anything that I feel is satisfactory, so I don't think that I'm in a position to be criticizing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But its quality leaves a lot to be desired. The beat seems a bit off, which is affecting its overall sound.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Its overall sound...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "If that happens, you're going to have a tough time achieving any sort of harmony, and what you originally imagined is going to fall apart.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I see. That explains why I didn't feel too confident about it. The more I worked on it, the further and further I got from what I initially wanted...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Songwriting's so hard...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But I don't think it's bad, since I believe that only you are capable of producing this song, Azusawa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "By the way, did you use a part of one of Shiraishi's songs for the chorus?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh? Y-Yeah, you could tell...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, it sounded very much like the way Shiraishi puts together songs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "You seemed to have listened very closely to what she made and tried whatever you could to make sure her sound didn't go to waste.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Overall, Azusawa, it's very like you.\nI think it's a good expression of your honesty and tactfulness.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It's easy to tell that you put quite a lot of thought into how things would sound moving into the chorus.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "There's this sort of excitement. This nervousness and joy centered around creating your own music for the first time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "That's incredible, Aoyagi.\nThis song's supposed to be based on what I felt when I heard An sing for the first time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Still, how did you figure all that out?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "How? Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Does your background in classical music have something to do with that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, you mean the way he broke down her song just now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "The way he broke down my song?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes. Classical musicians place importance on playing a composer's music exactly the way they originally intended, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "They'll research their background and what kind of person they were before attempting to play their work. That requires good analytical skills.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Based on what Toya did just now, I suspect he's very good at breaking down songs in such a manner.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00161",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya's Father",
+   "Line": "No, again. Your rhythm is off. How many times do I have to tell you? This piece needs to be played slowly, while evoking strong emotions.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00161",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya's Father",
+   "Line": "You did it again. Why does this keep happening? You have a bad habit of rushing after you've realized what you've done. Can't you play it more gently?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya's Father",
+   "Line": "This is a practice piece that the composer was kind enough to write for our family. Happy was likely the last thing he felt as he wrote this... So, if you understand that, you should know how to play this song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya's Father",
+   "Line": "Did you actually take a close look at the sheet music, Toya? You need to think more about what was going through the composer's mind. If you did, you would know how to play this piece already. You're done practicing. Go reread the sheet music again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, my dad was very strict with me when it came to teaching me how to play classical music properly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "In particular, he felt very strongly about understanding what was going on with the composer as they composed a song and reproduce that musically.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I also admired the way he could play... I don't know if I'm actually good at it, but I did my best to learn how to analyze sheet music.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I may've been able to understand Azusawa's song because she and I have been performing together for a while now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "That means you have the power to truly understand what a person's music is about, Toya.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "It goes perfectly with your kind personality.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thank you, Aoyagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "The thing is...\nWhen I decided that I was going to make my own track, I wanted you guys to feel something special when you listened to it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "That's why I chose to turn the moment I met An for the first time into a song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "My goal was to express the incredible joy and excitement I've felt every single day since she introduced me to the world of music.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But I'm still not very good at songwriting, and really worried that my song isn't doing its job...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Which is why I was really happy when you said that you understood what feelings went into it, Aoyagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...\nThen, Azusawa, I'm glad I could figure out what you were feeling.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It's nice to hear that everything I did back then is proving to be so useful now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So, thank you as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh? Y-You're welcome...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Still, Azusawa really impressed me.\nShe was clearly able to turn her feelings into a song.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I need to learn to do the same...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

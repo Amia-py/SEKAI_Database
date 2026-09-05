@@ -1,0 +1,783 @@
+{
+ "title": "Unit Event — Over Rad Squad!! — Episode3 Special Coaching",
+ "meta": {
+  "Event": "Over Rad Squad!!",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — Special Coaching",
+  "Event Outline": "The time to surpass RAD WEEKEND has come at last. Kohane is nervous about the task ahead, but musters up her resolve as she looks back on everything she's overcome to get this far. Will Vivid BAD SQUAD finally do it?!",
+  "scenarioId": "event_135_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "COL",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00285_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Owner of COL",
+   "Line": "Oh, you both made it over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Sorry we're late.\nOur event went on longer than expected, and we got caught up in traffic.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "It's so nice to see you again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I really need to thank you for opening your live house today just for me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of COL",
+   "Line": "I was pretty surprised when Ken said that he wanted to use this place for training. But I feel a lot better after seeing your smiling face.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Wait, why does she get the royal treatment and not me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(COL...\nWhere Nagi and her team held RAD WEEKEND.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I still can't believe that I get to train here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I should be able to get a good sense of what she and her team felt as they sang here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "So...\nWhere is this special coach that you mentioned?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Oh, they should be here soon.\nYou wouldn't think so from the look of them, but they like to be punctual.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00285_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "That must be them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00172_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I'm hearing a lot of footsteps...\nIt's more than just one person?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "RUST Member A",
+   "Line": "Oh, you guys already got everything set up. And it's great to see that you're still alive, Granny.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "Is this Taiga's prized pupil?\nIt's great that we finally get to meet her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Huh...?\nW-Wait a second, they're...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001802",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nagi",
+   "Line": "Next, we have RUST!\nThey're all yours!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00323_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "RUST Member",
+   "Line": "♪————————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00323_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "GLaP day Member",
+   "Line": "Thanks, everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "You all performed during RAD WEEKEND...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00177",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "GLaP day Member B",
+   "Line": "Oh, you recognize us?!\nThanks for remembering!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "RUST Member B",
+   "Line": "Haha! RADder sort of dominated everyone's minds, so people sometimes forget that we were also there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "What are you talking about?\nYou guys are way more famous now. Not a day goes by without me hearing one of your songs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Anyway, these guys are going to be your special coaches.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What...?!\nBut they were such an integral part of RAD WEEKEND! Are you sure about this...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Th-Thank you all very much for doing this...! But you must be very busy people...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "RUST Member A",
+   "Line": "Yeah, we are pretty busy, but Ken made a personal request.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "RUST Member A",
+   "Line": "He asked, “Some kids want to see what lies beyond Nagi's dream, so would you mind giving them a hand?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "We sorta couldn't refuse after hearing that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "We were able to grant Nagi's request for one last event...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "But we've never done anything about her other last request. Helping the next generation carry her dream forward, that is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Right...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(They also want to help fulfill Nagi's final wishes.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Then...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I-I'm looking forward to working with all of you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Group Members",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "My goal—our goal—is to take Nagi's dream and carry it forward! Until we're standing on top of the world!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "So, please help me become strong enough to make that happen!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "What did I tell you?\nSee that look in her eye?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "RUST Member B",
+   "Line": "Yeah, you were right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "RUST Member B",
+   "Line": "She's serious... And all fired up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "Then, why don't we start explaining what we're gonna have you do?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...!\nY-Yes, please do!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "There's no need to be so formal.\nI know you're training, but this is still meant to be fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Fun...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Yeah.\nOriginally, this was a game that we liked to play.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "The rules are simple.\nWe'll play some music and take turns singing a few bars each, freestyle.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "We'll repeat that until it's finished, and the person who did best will be declared the winner. We'll all act as the judges.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "RADder was always so good at this.\nYou guys won basically every time we played.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "But we managed to snag a few wins along the way. I mean, everyone here usually puts up a good fight.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "RUST Member B",
+   "Line": "I mean, we wouldn't be here otherwise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "So, first...\nYou need to become strong enough to defeat us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "Otherwise, you'll never be able to surpass the energy of that night. Not even for one second.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Y-Yes, understood...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "That's what I like to hear.\nThat being said... Winning consistently against these guys is unbelievably difficult.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "So, your goal will be to beat each of them one time. If you do, then you'll pass.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "All of these guys were basically on the same level as Nagi. If you can defeat them, then your chances of blasting a hole in that moment will increase significantly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I'm supposed to beat people who were on the same level as Nagi...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm looking forward to singing with all of you!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "Alright... Let's get started.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "♪ーーーー!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00142",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I don't believe it...\nHe's singing off the cuff, but he still sounds incredible...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(And I'm supposed to defeat all of them...?!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪————————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "Hey, not bad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "RUST Member A",
+   "Line": "Then, lemme kick it up a notch.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "RUST Member A",
+   "Line": "♪————————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Wait, that sort of felt like...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001802",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(It's how I felt that time...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(No, don't get overwhelmed...!\nYou need to try to win!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪...ーーーーーーーー!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huff... Huff... Huff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "RUST Member A",
+   "Line": "You sounded pretty amazing, but this first bout's a loss for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "You still did really well.\nI'm looking forward to seeing how you grow from here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "RUST Member A",
+   "Line": "Although, you definitely weren't singing at a hundred percent. I'd say around fifty. You totally pulled your punches back there...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "I didn't want to take it seriously before giving my throat a chance to warm up. I won't hold back next time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(He held back... That wasn't everything he had...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(This is so frustrating...\nI don't stand a chance against them at my current level...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(But wallowing in my frustration isn't going to solve anything.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I have to keep growing.\nI have to get stronger...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(In order to surpass RAD WEEKEND!!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Two weeks later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huff... Huff... Huff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "Hey, your breathing is pretty ragged.\nWanna take a break soon?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "N-No, I'm okay!\nI can keep going!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "You sure?\nThen, let's go another round.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(What do I do...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(It's already been two weeks.\nWe've been doing this for two hours every single day, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "RUST Member A",
+   "Line": "♪ーーーー!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I can't win...!\nI can't even imagine myself beating them...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(If this keeps up, I'm never going to make any progress...!!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Focus... You need to focus more...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Think back.\nHow did it feel when you sang with everything you had...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(That time, I...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I took what all the locals were feeling and sang in a way that resonated with them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Then, all I have to do now is remind myself of our resolve and express that by singing...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00086",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "♪——————————————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "Oh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "In that case...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "♪ーーーーーーーーーーーーーー~~~~~!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(That still isn't enough...?!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "I thought I saw something there for a moment... But, I guess you're still not there yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "GLaP day Member A",
+   "Line": "If you can take what you just did in that moment and replicate it a hundred times, then you might be able to eke out one win.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "RUST Member A",
+   "Line": "You don't have time to be feeling bad about yourself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "RUST Member A",
+   "Line": "Because that night was nothing like what we're doing here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Right...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

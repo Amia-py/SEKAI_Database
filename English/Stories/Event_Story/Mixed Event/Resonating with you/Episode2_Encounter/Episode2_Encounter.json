@@ -1,0 +1,563 @@
+{
+ "title": "Mixed Event — Resonating with you — Episode2 Encounter",
+ "meta": {
+  "Event": "Resonating with you",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — Encounter",
+  "Event Outline": "Ichika and the others learn that Shiho has been scouted by another band. Shiho is finally able to express what she's been feeling, but how will her bandmates respond?",
+  "scenarioId": "event_20_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Live House",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Okay, sound check's done. Equipment setup's done...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "All that's left is to wait for the band to get here, and today's lineup includes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "We're not open yet...\nWait, are you performing today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Uh, yes! Excuse me!\nI'm with STANDOUT...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(Someone from STANDOUT...?\nI didn't see this person last time, so maybe they're staff or something?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Is something the matter?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Our bassist won't be able to make it today and we were hoping that you'd be able to play in her place during today's show...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "M-Me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Yes, I understand that you can play a few of our songs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Well, I mean...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I can play what I know, but it's hardly anything I'd want other people to see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "More notice in advance would've been preferable...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "I... I'm sorry. I beg you.\nPlease, just for today...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "STANDOUT's not scheduled to come out until the end, right? I still sort of remember what they played last time, so if I start practicing now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Th-Thank you so much!\nHere's the sheet music...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Okay, fine.\nPlease, just don't let this happen again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "I'm so sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "What's going on...?\nNot being able to make it all the sudden...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Maybe they came down with something... Anyways...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "Hinomori!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I-Iori...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "I hate to do this to you but...\nWould you be a dear and sub in as the bassist for our show today...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yes, I already heard and was given some sheet music. Your bassist isn't able to make it today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "Can't make it...?\nWho did you hear that from?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I'm not sure, but she looked around your age, Iori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "Mind if I take a look at those?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Oh, sure. Here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "I knew it, these are Mio's. After promising to get ready for this show too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "She just isn't ready to try and make it as a pro. At this rate, we're gonna need a...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "Anyways, thanks for doing this. We'll adjust our setlist to include song that you can play.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "I want us to play our best together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I know...\nEveryone coming today has been looking forward to seeing you play...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Iori",
+   "Line": "Yeah... True...\nYou're a lifesaver.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00019",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Wow, everyone so far has been so good...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I know, right?! Everybody here's having so much fun! I can't wait to do a show with you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "The next band's probably the last one, right? I feel like there's way more people here now than before...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, I saw the lineup for today. The last band is supposed to be one of the more popular ones out there right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "They're called STANDOUT.\nThey're even about to debut with a major label.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Whoa! They're signed to a major label?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "We need to learn everything we can from them for Shiho's sake!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. Let's do just that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, here they come.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "This is so exciting!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00019",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00067",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "They're so cool.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "They are.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(What an incredible performance, and this girl's singing on a completely different level than me...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(This is what professionals sound like...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "*Gasp*...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wait, Ichi, Hona!\nIs that Shiho playing bass up there?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "It is...!\nShe looks so cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "But why's she playing with them...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "It could be that their regular bassist couldn't make it today, maybe?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah! She subs in for other bands sometimes, right♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00019",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "They sound amazing too.\nI don't think I can ever sing like that...\n",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I want to put on a show like this with everyone...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Outside the live house",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "STANDOUT was sooo amazing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "And Shiho played so well too. It's like she was a completely different person up there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Hehe. Let's do just that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I think I also learned a lot about what we'll need to put on our own show too, like MC'ing and how to get the crowd excited...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehehe. Ichi's gonna be our MC?\nI can't wait to see that♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "M-Me? Oh, right...\nThe frontman usually does all the talking, but what am I supposed to talk about...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What if you talked about any yakisoba buns you want to recommend to everyone, or how Honami likes apple pies so much?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But Shiho might say, Don't get ahead of yourself. Keep practicing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Was that supposed to sound like her?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. That's cute.\nMaybe we should actually ask Shiho herself?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I might burst into tears laughing if she gives the same response.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hahaha♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But where is she anyway...?\nShe should've gotten off work by now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Hinomori, wait...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho's Voice",
+   "Line": "I said we're done talking...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Is that Shiho?\nSomething feels wrong...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00100",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Enough about me joining STANDOUT...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Shiho...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "You guys...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "What's going on...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

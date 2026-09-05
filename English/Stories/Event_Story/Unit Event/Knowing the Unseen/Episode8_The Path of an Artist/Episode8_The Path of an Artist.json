@@ -1,0 +1,683 @@
+{
+ "title": "Unit Event — Knowing the Unseen — Episode8 The Path of an Artist",
+ "meta": {
+  "Event": "Knowing the Unseen",
+  "Event Type": "marathon",
+  "Episode": "Episode8 — The Path of an Artist",
+  "Event Outline": "Ena debates whether she should aim for art school post-graduation. With this inner turmoil comes restlessness, which begins to affect her art. Mr. Yukihira notices that she's struggling, and after she divulges the cause, he invites her to take part in an excursion.",
+  "scenarioId": "event_127_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a001003",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Outside the exhibit hall",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Staff Members",
+   "Line": "Congratulations, Mr. Shinonome.\nThe visitors seemed really enjoy your exhibit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Members",
+   "Line": "I'll be looking forward to seeing you again tomorrow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Likewise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Thanks for letting me help today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Staff Members",
+   "Line": "Thank you for being here!\nI also wish you good luck moving forward!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Th-Thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hey, wait!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Ugh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(This is so awkward...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Besides, doesn't he have anything to say to me for helping out today? Sure, I came as part of a special lesson, but I at least deserve a thank you.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "*Sigh*\n(Maybe trying to go home at the same time wasn't such a good idea...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Still...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hey, uh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "There's something I wanna ask you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "What is it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Is it true that you thought about giving up on painting around the time I was born...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Yukihira told you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "He did, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I sorta got a feeling after seeing your paintings today...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I always thought you had a lot of confidence in your art. But the paintings I saw today seemed to be filled with pain and anguish...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Which is why...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Confidence?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "I've never had any.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Back then, I ended up drawing things that people wanted to see because no one understood what I actually wanted them to see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "I hated myself for appeasing them.\nBut I didn't give up. I clung to my brush and kept drawing what I wanted.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Even then, no one understood... I felt despair...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Which is why you wanted to quit?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "No, not quite.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Back then, I wasn't trying to be an artist. I was just another human trying to make it to the next day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Just another human being...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "That's right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "At that point in my life, I'd achieved nothing as neither a man nor an artist.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "I was a hopeless person who was just floating around aimlessly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "And then, you were born...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Before then, I felt like I was wandering around in the dark.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "But when I held you in my arms for the first time, I saw a glimmer of light...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00175",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "It felt like I finally had something I needed to protect and cherish.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "The man who couldn't create or achieve anything felt compelled to keep you safe as your fellow human being.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Which is why I decided to make one last painting before ending my career as an artist...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "And you painted that peony?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Yes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "I still vividly remember what I saw while walking home from the hospital that night. That flower.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "It was so small and all by itself in the darkness. It felt like a newborn baby, just like the one I held only moments before.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "It felt right for me to turn it into my last painting. It was the small flicker of light that illuminated my miserable existence...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "And so, I put everything into that painting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I didn't know...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "But after I finished painting it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "I couldn't bring myself to break all of my brushes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "I put everything I had into that painting...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Everything I loved and hated about art. All the joy and pain I felt. That's what went into it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "It made me think why was I so ready to give up on my art?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Even though I knew I wouldn't be able to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "That was when I finally realized...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "I can't escape it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "I can't live without art in my life.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Without art in your life...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "That's right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "And then it dawned on me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "I realized that I wouldn't be able to live life without creating art. Which also meant that I wouldn't be able to protect what mattered most.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "So, I decided to keep on living without letting it go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "That's when I was able to fully commit myself to my art...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Fully commit...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(What if I let go of my art...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(What happens to me then...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I'd still be able to go shopping, take selfies, chat with everyone about stuff... I'd get to have fun while doing whatever. Maybe even drawing simple illustrations from time to time...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Is that what I want my life to be?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(No, I'd hate it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I mean...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I wouldn't be me without my art.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I'd never forgive myself if I tossed it all aside...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(So...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "It made me think why was I so ready to give up on my art?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Even though I knew I wouldn't be able to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I get it now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I'm exactly the same...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(No matter how much I think or suffer, I can't get myself to give up...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Commitment, huh...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Thanks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00065",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Hm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I have my answer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I know how I need to live my life now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "How you need to live your life...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I want to keep drawing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I know I don't have talent.\nMost of the things I draw aren't very good, and nothing's going to change at this rate.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But I can't see myself not drawing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "So, I'm going to draw and draw and keep drawing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "And one day... I will become an artist.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Ena...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "But that means...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I know!\nI don't stand a chance against the real geniuses out there by just working hard. Even if I do become an artist, I'm probably going to suffer a lot...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I probably still don't fully understand what I'm up against... But I did learn something after seeing your paintings today...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I learned that I can't quit doing art...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I don't know if it's because I'm your daughter or if it's because I've been surrounded by art my entire life... But I can't live without it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "So, at least give me this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Let me take responsibility for my own life.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "You're prepared to make that commitment...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "*Nod*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Then, so be it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Thanks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(The road up ahead is probably gonna be really rough...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I'm going to suffer creating just like him...\nNo, I'd say even more...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(But I can't run away from my art...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I have to keep moving forward.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I have to keep drawing.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Because that's the only path for me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

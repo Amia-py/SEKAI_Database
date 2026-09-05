@@ -1,0 +1,468 @@
+{
+ "title": "Mixed Event — Show Your Shine — Episode1 In Search of New Clothes",
+ "meta": {
+  "Event": "Show Your Shine",
+  "Event Type": "marathon",
+  "Episode": "Episode1 — In Search of New Clothes",
+  "Event Outline": "On her way to replace her torn jacket at the mall, Kanade has an encounter with Saki that leads to them setting up a teatime chat. That's when Saki asks her to be the model for her fashion project, of all things...!",
+  "scenarioId": "event_155_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Yoisaki Household - Outside the Entrance",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Delivery Person",
+   "Line": "Alright, if you'll excuse me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Here we...go...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00247_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00043_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00052_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Phew...\nWhen was the last time I bought new clothes like this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I was bought that jacket when I was still in junior high school. It was so comfortable that I ended up wearing it until I poked a hole in one of the pockets...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00434_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I tried ordering something that had good reviews online, so let's see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It's not as warm as I'd hoped...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I think I made a mistake...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(What do I do? It's been really cold lately, so I'd like to have a new jacket handy...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(But it's going to take time for whatever I order to get delivered. Plus, I don't want to get the wrong thing again...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Looks like I'm left with no choice but to go to the store...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm visiting Dad tomorrow, so...\nI can stop by the mall on my way home.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Main Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, it's so cold...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I'll quickly buy a jacket and head straight home.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(There's a bit of a crowd, but I should be able to use this street as a shortcut to get to the mall.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "New Hairstylist",
+   "Line": "Oh, you there! Hello!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "New Hairstylist",
+   "Line": "Do you happen to have some time right now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Wait, are you talking to me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "New Hairstylist",
+   "Line": "Yes!\nWould you be interested in becoming a haircut model?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "A haircut model...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "New Hairstylist",
+   "Line": "Yes, I work at the salon just over there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "New Hairstylist",
+   "Line": "The second I saw your gorgeous hair, I just knew I had to ask you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "No, I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "New Hairstylist",
+   "Line": "Oh, your haircut will be free of charge!\nYou'll even get whatever hair treatments you like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Th-That's a really generous offer, but... What should I do...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(If I go to the salon, I might not have enough energy left to go buy a new jacket...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Kanade!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Thanks for waiting.\nAnd sorry I'm late...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Tenma...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "New Hairstylist",
+   "Line": "Oh, you were waiting for your friend...!\nI apologize for interrupting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "No, you don't need to apologize!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "New Hairstylist",
+   "Line": "But here's the salon's card.\nPlease consider stopping by later if you're interested!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Thank you♪\nAnyway, let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh? Uhh... O-Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "So... I'm really sorry about just now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You looked like you were in trouble, Kanade... I mean, Yoisaki... That's why I thought I had to step in and help...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I hope I didn't get the wrong idea...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I see...\nShe jumped in to help by acting like we were supposed to meet there.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "No, I really appreciate what you did.\nThank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Really? Thank goodness!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Also, Kanade...\nNo, I did it again!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I'm really sorry. Ichi always calls you by your first name, and I think that's rubbed off on me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "That's okay.\nYou can call me by my first name if you like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Really?!\nThank you so much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Then, umm...!\nWere you about to go somewhere, Kanade?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, I was thinking about going to the mall.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, really?\nMe too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I want to see what kinds of scarves they have since it's been so cold lately.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, it has been very cold...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm thinking about buying a new jacket.\nUnfortunately, I poked a hole in my current one...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "A new jacket...! That should be fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Isn't it exciting shopping for new clothes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I always have so much fun thinking about which style to get and imagining how it's going to go with my current outfits...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It's fun to think about that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm a little jealous, since I'm not all that particular when it comes to clothes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I do look for things that are easy to maintain and move around in, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I almost prefer to just wear the clothes that other people recommend me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Umm...\nYou don't have to let me if you don't feel comfortable...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But can I help you pick out your new jacket?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

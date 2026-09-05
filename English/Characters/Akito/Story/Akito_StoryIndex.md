@@ -1,0 +1,37 @@
+# Shinonome Akito — Story Index
+
+- **Character**：Shinonome Akito
+- **Unit**：Vivid BAD SQUAD
+
+| type | detail | path |
+|---|---|---|
+| Main Story | Vivid BAD SQUAD（21 eps） | Stories/Main_Story/Vivid BAD SQUAD/ |
+| Card Story | 47 cards | Stories/Card_Story/Akito/ |
+| Event Story | See Stories/Event_Story/ |  |
+
+
+## Main Story
+
+- Ch.1 Ep.1 Opening
+- Ch.1 Ep.2 Graffiti Everywhere
+- Ch.1 Ep.3 The Most Heart-Pounding Song
+- Ch.1 Ep.4 Weekend Garage
+- Ch.1 Ep.5 BAD DOGS
+- Ch.1 Ep.6 Street SEKAI
+- Ch.1 Ep.7 Mysterious Cafe
+- Ch.1 Ep.8 Best Place to Practice
+- Ch.1 Ep.9 I Want to Believe
+- Ch.1 Ep.10 First Ever Event
+- Ch.1 Ep.11 Resolve in Question
+- Ch.1 Ep.12 The Courage I Need
+- Ch.1 Ep.13 I Refuse to Run Away!
+- Ch.1 Ep.14 Vivids!
+- Ch.1 Ep.15 Are You Serious?
+- Ch.1 Ep.16 A Helping Hand
+- Ch.1 Ep.17 The Third
+- Ch.1 Ep.18 Len, MEIKO, and the Reserve Member
+- Ch.1 Ep.19 Distinction
+- Ch.1 Ep.20 Ready Steady
+- Ch.1 Ep.21 Vivid BAD SQUAD
+
+https://storage.sekai.best/sekai-en-assets/scenario/profile/…（SEKAI master database + SEKAI Viewer 资源，官方文本）

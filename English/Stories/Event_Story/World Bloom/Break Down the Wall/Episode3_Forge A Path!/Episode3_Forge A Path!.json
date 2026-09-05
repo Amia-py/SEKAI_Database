@@ -1,0 +1,568 @@
+{
+ "title": "World Bloom — Break Down the Wall — Episode3 Forge A Path!",
+ "meta": {
+  "Event": "Break Down the Wall",
+  "Event Type": "world_bloom",
+  "Episode": "Episode3 — Forge A Path!",
+  "Event Outline": "Vivid BAD SQUAD continue their intensive training, set on surpassing RAD WEEKEND. But one day in the Street SEKAI, a new area suddenly appears: an unfamiliar plaza, in which stands a huge wall...",
+  "scenarioId": "wl_street_01_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What's this doing here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Akito, what's wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh...\nI just found this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh? A flyer...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, for an event I performed in way back when.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wait, but...\nI don't see “Vivid BAD SQUAD” written anywhere.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Well, it did happen a long time ago.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "This was from back when I was in middle school. I entered by myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh...!\nYou mean the thing that Luka and the others mentioned the other day...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah...\nThe event where I dragged Crawl Green's name through the mud...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wait a second...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What if my painful emotions from back then are manifesting in SEKAI?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Before I started singing, I played soccer... But I hit a huge wall.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "And now I've found a flyer of an event where I messed up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Come to think of it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I've messed up a lot.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(The first time was with soccer when I got shown just how unprepared I really was.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Then, I saw RAD WEEKEND.\nI decided to start singing instead, but it didn't go as planned. One dumb argument led to me dragging that place's name through the mud.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(After that, I met Toya and started practicing like there was no tomorrow. Even then, everyone kept making fun of us.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I managed to finally get this far... But I fell at so many hurdles.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "In that respect, Akito, you're an amazing person.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh?\nWhere's this coming from all of a sudden?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Because you always keep trying no matter how hard things get...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "And now, your singing's so good it reignited all of Vivid Street!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Which makes you...an amazing person!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Praise me all you want...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "But I think Len's right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I mean, if I went through what you did, I'd probably have given up the first chance I could!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Exactly!\nNot giving up is really hard!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "And you never did.\nYou just kept blazing your own trail.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Again, that's really amazing...and really cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Cool, huh...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I've never really thought of it that way.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I didn't think I had any other choice is all.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I couldn't quit. I couldn't show any weakness. Not after I decided I was gonna surpass that night. I'd never have forgiven myself if I did...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Which is why I can't see myself as being “cool”.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I mean, I've gotten better, but I'm still nowhere near my goal...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(However...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000239",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I was able to sing with absolutely everything I had that time.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Which helped me figure out how to make everyone realize that we're serious...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I feel like I'm finally on the same level as them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(So...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Len might not be wrong.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "What the...?\nHey, Akito, check out the wall!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hm? What happened?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "There's a big empty white box on it now! It wasn't there a second ago!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah, he's right!\nAlso...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hmm... Is it just me, or does it look like a soccer goal?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "A goal?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, it's about the right size...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(But why's a drawing of a goal appearing instead of an actual one?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(It's like it wants me to kick the ball at that spot.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Len, pass that ball to me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh? Why?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "To give it the attention it deserves.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00242",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I thought this flyer and ball appeared because of what I felt in the past.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(But I might've been wrong.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I kept trying in the face of pain.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I kept pushing forward despite what I was feeling. I was determined to succeed.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(And that determination is what's manifesting here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Including that goal.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(All the times I messed up, all that pain...\nIt's telling me to take what I felt and use it to break down this wall.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000272",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I know I'm gonna come across more walls in the future.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But they won't stop me.\nI'll always find a way through.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "That's why I'm gonna keep doing everything I can to make that happen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Alright, Akito, it's your ball!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00683",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00679",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00681",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Whoa...!\nYou did a tornado shot!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "No, that was just a regular mid-range shoot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But it was so fast! That was really cool, Akito!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, quit exaggerating...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_breakdown_2024_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hm...?\nHey, did you guys hear that just now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It sounded like something hard just cracked...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Look! There's a crack in the wall!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "She's right!\nAkito, did you actually do a tornado shot?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "No, there's no way I kicked it that hard!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "But it's definitely a crack...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What the heck's going on...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_street_ed1",
+   "_kind": "Effect"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

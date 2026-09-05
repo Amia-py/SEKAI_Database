@@ -1,0 +1,408 @@
+{
+ "title": "Mixed Event — Don't Let Doubts Hold You Back — Episode5 Kindness and Courage",
+ "meta": {
+  "Event": "Don't Let Doubts Hold You Back",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — Kindness and Courage",
+  "Event Outline": "It's almost time for the Miya Girls choir recital. Honami is selected as the coordinator for her class, but it's hard to coordinate when everyone's opinions are split right down the middle! What is kindness? Stuck between a rock and a hard place, Honami gives her answer...!",
+  "scenarioId": "event_10_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "School SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I see, so you were fretting about something that happened in class.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I still don't know what to do.\nI asked Ichika, Shiho and Saki too but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe, you girls really are close.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes. They've given me a lot of support...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Ichika was really trying to think things through with me. Saki saw that I was feeling down and wanted to cheer me up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Shiho said some harsh things too, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh, did she?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes. She said I'm fretting so much because I didn't want to do anything that would make people dislike me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "So you're afraid that people might dislike you for making a decision? May I ask why?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "When I was in junior high, my classmates would come to me for advice or just rant a little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "At first, I would just listen, thinking they probably just wanted to let off some steam.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But because of that, they started questioning me, asking me whose side I was on and accusing me of being two-faced. Soon, I was an outcast.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Even though it stopped when I entered high school, the fear of that happening again is still there and sort of haunts me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I thought I overcame that with everyone's help, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "It seems like when you try to be on everyone's side, you end up on no one's...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Which is why Shiho is right.\nI haven't changed at all since then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I wonder if that's really true...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "You're doing your best to work out what's best for your classmates.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "You're doing what you can to change too, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But at this rate...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Well, I don't think there's anything wrong with remaining the kind sort of person you are now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "But sometimes, you need the courage to become even kinder. And I'm sure you'll find that courage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Courage...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "What do you think it means to be kind, Honami?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Being kind?\nUm, well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Anyone would be torn after hearing what you heard today...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Don't do that! A gloomy face scares off good ideas! Why don't we all go get some apple pies together later?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "It means understanding how someone else feels or making them smile when they're feeling down.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "And...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "You're worried because you're afraid, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "What I'm trying to say is... Just do what you think is right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Be candid with them for their own good...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes, that sounds about right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "There are many different ways of expressing kindness.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "You can empathize with someone who's troubled about something, make them smile or be somewhat direct.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "As long as it was done with that person's best interests at heart, no matter what form it takes, it's a form of kindness.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "It's also important to consider how the other person will take it too, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Different ways of expressing kindness...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "How do you want to present your kindness to your classmates?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "The best way to express my kindness right now is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe, that's a much better expression for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Thank you, MEIKO.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Somewhere inside, I've always thought that respecting others' preferences was the only thing I needed to do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "To me, as long as I always went along with what they wanted and made them feel happy, that was kindness.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But that means I haven't changed at all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "So I'm going to think about it again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "About the best way to express my kindness.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Okay, good.\nI know you'll find the answer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Now, how about we switch gears and get some drum practice in?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, thank you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next morning",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka Girls Academy - Courtyard",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "The best way to express my kindness right now is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I don't know if this will actually work but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I... I want to keep moving forward!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

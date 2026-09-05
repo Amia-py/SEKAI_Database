@@ -1,0 +1,423 @@
+{
+ "title": "Unit Event — On Your Feet — Episode7 Hold On To That Feeling",
+ "meta": {
+  "Event": "On Your Feet",
+  "Event Type": "marathon",
+  "Episode": "Episode7 — Hold On To That Feeling",
+  "Event Outline": "After learning the truth behind RAD WEEKEND, Vivid BAD SQUAD are more determined than ever to surpass that legendary night. The group decide to do what they can for the time being, but Kohane's thoughts linger on her former mentor Taiga.",
+  "scenarioId": "event_103_07"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c002401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Airport",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00170_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Thanks for the ride.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "*Sigh*\nYou know I'm not your personal driver, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Hey, quit being so stuck-up. You've got time until you have to open the cafe, right? Don't leave me hanging now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Acting as you please as always...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "I mean, what you did was pretty mean.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Hah. Like you have any right to talk.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "So, how's An been?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "She's accepted what Nagi wanted, and she's decided to move forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "So, does that mean you've put all this behind you now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "No, not yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "There's still something I need to do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "I see.\nI guess Nagi's still got a hold over you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Not her.\nI'm talking about my duty to An and the next generation.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "They're probably at school now, right...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Being a student's so tough.\nYou never have enough time to really sing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "You're joking, right?\nOnly people who actually studied get to say stuff like that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Haha. True.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Anyway, I need to head back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Alright. Later, Ken.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Oh, also...\nYour coffee wasn't half bad.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Thanks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "I still have time, but I guess I should start making my way over now that I'm checked in...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "The folks at that record company are probably gonna chew me out when I get back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "(I guess I have that girl to blame...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_onyourfeet_2023_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Hm? That looks like...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "What's she doing here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...!\nTaiga!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00064_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "You're all here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "It's the middle of the day.\nShouldn't you be in school...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "U-Um, so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "W-We're cutting class!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Whoa, hold on...\nSomeone's been a bad influence on you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Uncle Taiga...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You'll be boarding your flight soon, right? We want to tell you something before you do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I heard everything about Aunt Nagi.\nAbout her, about Dad, about you. All of it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Looks like you've all made up your minds.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00222",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We have. We're gonna answer her call...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But that doesn't mean I'm forgiving you...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Of course, I know telling you to apologize would be pointless, especially since you never apologize to anyone...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So... We're gonna see what's beyond you guys' dream!\nThat's what'll get under your skin the most, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "We're serious about this.\nAnd we don't care how long it takes us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So, just wait for us over there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Alright... I'll be looking forward to seeing you all again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Taiga.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "There's something I need to tell you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Hm? What's up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thank you for everything you've done!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "You taught me so much about so many different things...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Like what it means to sing...\nTaking us to COL because I didn't actually see RAD WEEKEND when it happened...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "And our third event went as well as it did because of what you taught me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "And you showed me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "This frustration that I feel.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000220",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I...\nI'm going to move forward without forgetting this frustration.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00234",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I don't care how long or scary the road up ahead is! I'm not stopping!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "We're going to find an even greater purpose for singing than you, perform even better than you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "We're going to surpass RAD WEEKEND and see what's waiting for us on the other side!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Taiga",
+   "Line": "Knock yourselves out...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "We will!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_onyourfeet_2023_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

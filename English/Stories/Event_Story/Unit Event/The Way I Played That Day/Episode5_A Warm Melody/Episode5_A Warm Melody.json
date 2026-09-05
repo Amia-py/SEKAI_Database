@@ -1,0 +1,653 @@
+{
+ "title": "Unit Event — The Way I Played That Day — Episode5 A Warm Melody",
+ "meta": {
+  "Event": "The Way I Played That Day",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — A Warm Melody",
+  "Event Outline": "Kanade continues to write songs in the hope of saving Mafuyu. When her grandmother calls to suggest that she think more about herself and her own future, her thoughts turn toward the past.",
+  "scenarioId": "event_116_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Yoisaki Household - Kitchen",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "A surprise party...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Yes, since your father's birthday is coming up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "We'll prepare a party in secret and surprise him on the day of.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "We're gonna surprise Daddy...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Hehe. He probably won't know what to do with himself after he finds out that you helped, Kanade.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "So, would you mind lending me a hand?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "What would make him really happy?!\nOh, we should bake him a cake! I wanna puts lots and lots of whipped cream and strawberries on it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Yes, he does like shortcake very much.\nWhy don't we bake one for him together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Really...?! I get to help?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Of course.\nLet's make him the yummiest cake we can!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "What else can we do for him?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "(Our surprise party's gonna be so much fun...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "(Oh, also...!\nI wanna give Daddy a present.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "(What should I get him...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "(I know...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "(Hmm... It should be in this cupboard...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00316_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00316_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "(Found it...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Hm? Kanade...?\nIs that your father's old keyboard? Did you bring it out?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Eep!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "No, I, uhh...!\nI thought I could draw this and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "You're going to draw a picture?\nYou didn't have to bring this one out. There's a much nicer one you can use as a model...\n",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "N-No, I wanna draw this one...!\nI need to focus, Mommy, so can you go somewhere else please?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Understood.\nIn that case, have fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00044_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Okay, if I press here, it should make a noise...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_tone_2023_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Whoa...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_tone_2023_004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_tone_2023_005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_tone_2023_006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Now I can compose my own song...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Wait, but how do I make mine sound like Daddy's...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "*Stare*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "Kanade, what are you doing all the way over there? You can sit next to me like you always do...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "No, that's okay.\nI have to keep things a secret!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "You keep working, Daddy.\nPretend like I'm not here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "O-Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00320_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Press here and here together, and then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_tone_2023_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Oh...\nThat sounded a lot like what Daddy did...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Wait, which ones did I press just now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Mommy! Mommy!\nIs there anything you wanna tell Daddy?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Your father?\nHmm... I should ask him what he'd like for dinner.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "No, not about dinner!\nI'm talking about his birthday!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Oh, I see.\nAre you writing a letter to him?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Y-Yeah.\nIt's gonna be his present...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Hehe. In that case...\n“Happy Birthday.\nThe songs you compose are always so gentle and...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "...——♪ ...——♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kanade's Father's Birthday",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Once again, dear, we'd like to wish you a very happy birthday!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Happy birthday!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "Thank you both so much.\nThis really was a surprise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "This feast you've prepared looks absolutely delicious. I really wasn't expecting anything like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Kanade and I baked the cake together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Frosting the cake was really hard, but I did my best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "Thank you very much, Kanade.\nThis cake looks delicious.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Hehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Also, dear, Kanade's prepared a present for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "Wait, you have?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Yup!\nGive me one second.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00380_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00316_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00316_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Oof. There...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "Huh? That's...\nMy old keyboard?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Wait, Kanade, I thought you were writing a letter.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Hehe. Nope...\nMy present to you, Daddy, is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "A song! It's called “Mommy And Me Really Love You!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "...——♪ ...——♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00255",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "These lyrics...\nIt's what we talked about the other day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "(Mommy and Daddy both look so surprised....! Hehe. I'm so glad!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "(Uh oh... How do I play the next part again...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "(I don't remember... Like this?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "(Oh, this works too...\nIt's not what I practiced, but I can just keep playing like this.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "♪—— ♪————",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "♪——...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Uhh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "Kanade, did you come up with that all on your own...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Yup!\nI don't know if it was as good as your songs, Daddy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "But you always seem to have a lot of fun whenever you sing, so I thought you'd like it if I sang for you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000260",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00029",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "That's incredible!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "I agree! I had no idea you were working on your own song...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Hehe. So my surprise worked...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "Better than that!\nI don't know what to say... I couldn't be happier...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "I'm also incredibly happy about you turning what I said into the lyrics for your song!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Thank you for coming up with such a lovely melody for them! You did a wonderful job!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "You really did... It was nice. It felt so warm.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "Do you think you can compose another song for me sometime, Kanade?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "But to think that a girl her age can compose her own songs... I guess that makes Kanade our little prodigy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Hehe. She certainly is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "(Thank goodness. Mommy and Daddy liked my song so much...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "(Hehe. That makes me so happy.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "(I bet they'd really love it if I composed another one for them...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,863 @@
+{
+ "title": "Unit Event — Someday, From the Depths of Despair — Episode7 And Then We Met",
+ "meta": {
+  "Event": "Someday, From the Depths of Despair",
+  "Event Type": "marathon",
+  "Episode": "Episode7 — And Then We Met",
+  "Event Outline": "Realizing that quite some time has passed since she first met Mafuyu, Kanade starts a conversation about it on Nightcord. As the others pry deeper into the story, Kanade recounts the beginnings of Nightcord at 25:00.",
+  "scenarioId": "event_47_07"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kanade's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000107",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Nice to meet you. I'm Yuki...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Oh...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<It's nice to meet you too, Ms. Yuki...\nI'm K...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Um...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Thank you for replying to my message. It's an honor to be able to work with you like this.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<R-Right... Likewise...\nUm... I can't thank you enough for agreeing to work with me.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<No, it's my pleasure...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Uh...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Uh oh. This could get awkward...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I've never worked on making music with anyone before, so I'm not really sure how to chat or communicate my thoughts...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<I've been listening to your music for a very long time, Ms. K...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000107",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Huh? You have...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Yes, you make such wonderful music... And I couldn't believe it when you asked if we could make music together.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<I see...\nThen, I'm glad I asked...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Still, why did you ask me to join you? What led you to choosing me?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Oh...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Um... Because I listened to your arragement of that song I made, Ms. Yuki...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<I felt some powerful feelings hidden beneath that sound.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Powerful feelings...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Yes.\nYour arrangement painted a very vivid picture for me.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<A world at the depths of despair...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<But within that darkness, I caught a small glimpse of a ray of light.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00029",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<That's the kind of song I want to compose.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<A song that can shine even a tiny amount of light upon that deep, dark despair...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<I became convinced that I could achieve what I was after by working with you because you seem to already know how to express this feeling through sound...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000107",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(She knows it too.\nThat deep sense of despair...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(And she's trying to shine a light on that darkness.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(With her, I just might be able to...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Um... Ms. Yuki?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000107",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<I-I'm sorry...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<I wasn't expecting to hear a comment like that is all...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<But I'm really happy.\nAgain, thank you for inviting me to work with you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Th-Thank you as well...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Anyway, shall we start discussing how we'll actually go about making music together?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<So my job will be to mix your songs, Ms. K...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Yes.\nEventually, I'd like to add lyrics to our songs, but we'll start with this for now.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Understood. I hope we get to make some wonderful music together.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<That just leaves... Oh, right...\nWould you mind staying logged in while we work? I'd like to use voice chat to discuss ideas whenever possible.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<I don't mind, but...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Is there a problem...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<I'm sorry for not mentioning this sooner. My family's very strict, so I likely won't be able to start working until around 1:00 am...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Oh, really...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Yes... That's usually when my parents go to bed.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<I see...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Then, why don't we meet on Nightcord at 25:00? You can always let me know if you're going to have trouble making it...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Thank you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<For now, let's call it a day.\nWe can start working in earnest tomorrow.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Okay.\nI'll see you tomorrow on Nightcord at 25:00.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000107",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm90040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Alright, let's get to work.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Yes, let's. I'll start mixing your new song. Please let me know if anything comes up.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Okay.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(We'll do things like this for now, but I feel like something's missing from this equation...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(If Ms. Yuki's the type of person who prefers to focus on their work, then exchanging files once we're done with them should suffice...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000107",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(No, I should just let her mix this song...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I want to see up close how she actually goes about what she does.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Okay, my rough draft up through the first chorus section's done...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(But the intro could be stronger...\nIt needs to be able to draw the listener in more.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Maybe I should ask what Ms. Yuki thinks.\nBut...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000107",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(She seems busy. I shouldn't bother her...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00084",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000107",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Is something the matter, Ms. K?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Huh...?!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<I-I'm sorry, I didn't mean to startle you. You were unmuted, so I was wondering if you wanted to discuss something.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Oh... I see...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<I just finished the draft of my next song through the first chorus section and was wondering if you could take a look at it... Would you mind?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Of course I'll take a look.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(How did she know...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(It's like she could sense that something was on my mind.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000107",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Another masterpiece...\nI'd expect nothing less from you, Ms. K.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Th-Thank you...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(This song's having the same effect on me...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(It's like each note's finding its way straight into my heart and shaking me from my core...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(But if it felt more...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000107",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<If I had to say, I think it needs to feel more stagnant...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<More stagnant?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<I can feel a sense of urgency, like the walls are closing in on me.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<There's nowhere to else to go. Nowhere to run...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<But by making it feel more stagnant, you could enhance that sense of being trapped. It'd be as if there's nothing left to do expect silently watch as your limbs rot away...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(By doing so, I have a feeling that this song will have an even greater impact.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000107",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Nowhere to go... Nowhere to run...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Thank you. I'll take that into consideration...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00119",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Stagnation...\nShe's right. My songs have been somewhat one dimensional up until now.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I'll try working in what she said during the post-chorus.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000107",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Ms. K...\nHave you been writing songs for a while now?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Huh? Um...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<I remember writing something really simple when I was four, but I started composing music on my desktop like this about five years ago when I was ten.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Five years? You've been doing this for that long?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Oh... And it's been eleven years since you were four, so does that mean you're fifteen now?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Okay.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<That means we're the same age.\nI'm also fifteen.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Oh, I had no idea...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<I was under the impression that you were much older based on how polite you've been with me so far.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Polite? This is just how I talk.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Would it surprise you to hear that I was actually a little nervous about talking to you?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Really? You too, Ms. Yuki?\nHehe. It wasn't just me...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Of course.\nI mean, this is my first time speaking to someone sight unseen like this.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Me too.\nI always had my dad there to help me with this...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Your father?\nDoes he write his own songs too?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Um...\nYes...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<I'm sorry for going off on such a long tangent. Why don't we get back to work...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Okay...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Oh, but before we do...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Please feel free to call me just “Yuki”. Now that we know we're both the same age, “Ms. Yuki” seems a bit too formal.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Okay, I'll do that...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000107",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Why don't you follow suit by calling me “K”? I'd actually prefer that much more.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "<Yuki>",
+   "Line": "<Alright, K...\nI'll talk to you later.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00098",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(This is so strange...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(She doesn't seem to mind if I talk about things other than music.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(It's like she's willing to accept me for who I am and even seems to be okay with avoiding touchy subjects...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(We may be the same age, but she's so much more mature...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(But based on that arrangement she made, it felt like...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "No...\nI need to focus.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Right now, I have to keep composing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

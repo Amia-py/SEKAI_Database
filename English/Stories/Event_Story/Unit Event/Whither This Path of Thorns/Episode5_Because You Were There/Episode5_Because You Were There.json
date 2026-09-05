@@ -1,0 +1,718 @@
+{
+ "title": "Unit Event — Whither This Path of Thorns — Episode5 Because You Were There",
+ "meta": {
+  "Event": "Whither This Path of Thorns",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — Because You Were There",
+  "Event Outline": "Mafuyu's big step forward in her own life inspires another member of N25. Before the School Festival, Mizuki resolves to open up to Ena...",
+  "scenarioId": "event_145_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000506",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kamiyama High School",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Outside Class 2-B",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I'll be fine once we're inside...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(No one should try to talk to me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(But what about the person at reception...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "“Escape From Kamiyama High School”... Is this it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, yeah...! Here we are!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I like how just the name of it already sets the mood.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hehe. It's good, right?\nAnyway, let's head in and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Akiyama.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Toya!\nWere you scheduled to work reception at this time?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No, I had a slightly later shift, but someone asked me to switch...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I see. I didn't know...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hello.\nIt's been a little while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, it has.\nI didn't realize that you'd all be here today...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I hope you enjoy our escape room since I helped come up with a few of the riddles.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Hehe. We will.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "As far as I can see, your classroom's all covered in black curtains... What's waiting for us inside...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "You'll have to go in to find out.\nOh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Since you're here, Akiyama, why don't you be the guide? Solving the riddles probably won't be very interesting since you already know all the answers.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Then, I'll help you all navigate our escape room♪ So, let's go visit a world of riddles!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000306",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It's pretty dark in here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Are escape rooms supposed to be this creepy?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I don't know...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Alright, everyone!\nWelcome to “Escape From Kamiyama High School”!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00127",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wait, what's going on?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I think we're getting the introduction.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "While you were all diligently setting up for the school festival, somebody has trapped you inside your classroom!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Unless you find a way to escape within the next fifteen minutes, your teacher will surely come and scold you all for staying too late...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "So, your goal will be to escape by solving the riddles the perp left behind!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "This seems kinda unfair...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Even though we're the ones who are trapped, we're going to get scolded...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Details, details!\nAnyway, you all need to start solving the riddles!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Umm... Where are they?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Could the paper on that chair be one of them...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hey, you're right. What does it say?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "“Look to the box which has never seen rust”...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "A box that's never seen rust? What does that mean?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Heh heh heh!\nToya came up with that one!\nCan you figure it out?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "By the way, this is the easiest one. If you can't solve this, then the others are gonna be impossible.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Uhh... Wait, gimme a second...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I think I know the answer...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "What?! Already?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "So, what's the answer...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I think it's telling us to look in the broom locker.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh?\nHow'd you land on that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Being resistant to rust is one of the key characteristics of stainless steel...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Most of these kinds of lockers are made of regular steel, but this one must be stainless steel...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, this one's a lot shinier than the ones you see in other classrooms...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Then, I'll try opening it.\nOh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00018_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, here's the next riddle.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Grr!\nYou figured it out so fast!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But there's plenty more where that came from! You gotta keep solving them before time runs out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "“If △〇△ is something red and ◆×◆ represents a nice gentleman, then what comes next?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hehe. This one's my riddle!\nCan you guess the answer?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "△〇△ is something red...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh...\nI think I know the answer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki & Ena",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "You mentioned the other day that you saw a riddle like this on a quiz program. So, the red thing must be...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "What?!\nNo, why'd you have to remember that?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "“The animals which call this land home are birds, deer, bears and...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I think it's telling us to look at the horse that's on display over there...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wait, why?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "You did say that you're good at geography, Mizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What did geography have to do with that riddle?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00675",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "She's right. The next riddle's on the other side of this horse drawing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Nooo! You might actually solve them all!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Seriously, what did geography have to do with that last one?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Alright, the next one is the final riddle!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Toya and I worked really hard on it!\nSo, let's see if you can solve it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I need to get this one right... Wait, we only have three minutes?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Let's see... It looks like a crossword puzzle... We just need to solve this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Heh heh heh. Since you're short on time, here's a little hint! You can solve this crossword puzzle using all the answers that have come up until now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "However, you have to use that solution to find the key to the classroom, so you'll need to hurr—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Ugh, there's no way we're gonna be able to solve this crossword puzzle in time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Uhh...\nOh!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hey, do you think the key's hidden around here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh?\nWhere those plushies are...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I know it goes against the spirit of the game, but this is just my guess knowing Mizuki's personality...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "There's no way the key is hidden somewhere normal or obvious like a treasure chest, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But something tells me it wouldn't be under a desk or behind a curtain or anything like that either.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "What makes you say that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Because it'd be hiding in plain sight. Mizuki has a talent for squeezing out the biggest reaction from someone, you know? Just think about our music videos. We're always talking about where it's gonna climax.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, good point...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Again, this is a complete guess...\nBut I have a feeling that the key is hidden somewhere amongst these plushies.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "We're down to two minutes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Then, let's look.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Aha! There's something rigid in this one...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Wait, really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yes!\nIt has a zipper on its back! I think we can open it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hehe. And I can finally say that I got one of these darn riddles... Wait, huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "It says, “Swing and a miss...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What?! No way!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00083_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "And!\nTime!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Noooo!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Man, you were so close!\nYou actually were on the right track!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wait, so...!\nWhat was the answer?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You were right about the plushies, but you didn't look up! Up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh...\nThere's a plushie hanging from the ceiling. I didn't notice because it was so dark...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "If you'd actually solved the crossword puzzle, then you would've learned the final keyword. Which was “ceiling”. The idea was to get you to look up and find the key inside it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Argh...!\nI was so close!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "But all you did was take a stab in the dark.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Shut up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Haha! Thanks for playing!\nHead back to reception to receive a lovely consolation prize♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Technically, she was right.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00156",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(My original plan was to hide the key in one of the plushies sitting on that desk.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(But Toya said right at the end that we should add an extra layer of intrigue.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(They all know me really well.\nThey get me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(They remember all the things I say during our conversations and understand my thought process when it comes to our videos.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I can't help but smile whenever we're all together.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(In other words, whenever I'm with them, I feel...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I want us to keep hanging out, but I also want them to know...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(So...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,833 @@
+{
+ "title": "Mixed Event — Memories That Come With The Scent of Candles — Episode3 To The Scent Shop!",
+ "meta": {
+  "Event": "Memories That Come With The Scent of Candles",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode3 — To The Scent Shop!",
+  "Event Outline": "Ichika and Nene aren't sure what to give for Valentine's Day. They ask Honami for some advice and decide to make some scented candles together. Meanwhile, Kanade, who has the same concern, also asks Honami for help...",
+  "scenarioId": "event_84_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a001701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shopping Mall",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "We arrived a little too early, but it's roundabout the time we agreed to meet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, it is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(That reminds me... Mochizuki's supposed to be coming with someone else...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I think she said her name's Kanade Yoisaki... Isn't she...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(She's the one who helped us that time...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Thank you for waiting, Ichika, Kusanagi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Hi, Honami. Hi, Kanade.\nYou came together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hello, Hoshino. Yes, we did. And...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Yeah, it's definitely her...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "U-Um...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Um, so...\nYou're the one who played the piano for us during our New Year's show, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh...\nYou performed in that show...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yes. So, thank you very much for helping us out that time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It's okay. I just thought that it'd be a shame for the show to have ended there. If anything, thank you for allowing me to participate in such a fun show...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I didn't realize that you two were already acquainted.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Actually, me neither.\nThis is our first time speaking to one another.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Then, allow me to reintroduce you two to each other.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Um... Kusanagi, this is Kanade Yoisaki.\nShe's in a group that produces music and she works as the composer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Recently, I got a chance to learn a few things about songwriting from her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Songwriting? That's pretty cool...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "And this is Nene Kusanagi.\nShe's an incredible singer who's been teaching me some tips and tricks from time to time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see.\nYou must be very talented if Hoshino is your student.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "N-No, um... I'm really not...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Honami? Is something the matter?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, I'm sorry.\nI just thought it was funny how they're both your teachers, Ichika.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Wait, you're right.\nKusanagi's my singing teacher and Kanade's my songwriting teacher.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "And you get to be a teacher and show us how to make our own candles today, Honami.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. That's right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, um... Before I forget...\nThank you very much for doing this, Mochizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, it's my pleasure.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, Kusanagi, if you don't mind...\nWhy don't we try being less formal with one another since I believe we're the same age?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh...? O-Oh, okay...\nYeah, that would be easier.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Then... Thanks for doing this, Mochizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Of course!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "So... We're making scented candles together today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I need to apologize in advance. I don't really know much about them other than that they smell nice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, same...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Then, I'll begin explaining how we'll be making our candles. In truth, Ms. Yoisaki's statement mostly covers it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Scented candles are simply candles with scented oils mixed into their wax.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "When you light them, the wax melts and the oils release their fragrances to the surroundings.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Scented oils...?\nYou mean the ones that smell like lavender and cypress...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes. This time, we'll be using something called essential oils for the most part, which are natural oils derived from plants...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Depending on which aroma is used, a candle is supposed to help someone focus, relax or even fall asleep.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Really...? So they don't just smell nice...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "A candle's flame also apparently has the ability to calm one's nerves.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "So, between their flames and lovely fragrances, scented candles work wonders for relaxation and soothing the soul.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see...\nI didn't know any of that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Me neither...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "On top of being sort of fashionable, they work as a nice present. I'm sure everyone is going to like them very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I agree!\nUm, so... Shall we start shopping for everything we'll need?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Scent Shop",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "So... Here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wow... Even from over here it smells really nice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah... Oh, I see a whole assortment of bottles on display...! These are all scented oils...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But they have so many. I don't even know where to begin, let alone which to choose...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. In that case... Why not choose the ones that you like the most or suit the person receiving your candle?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "You can also choose based on their various properties, which should be written on their respective labels. Once you know that and how they smell, you should have an easier time choosing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That makes sense...\nThanks, Honami.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Anytime!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Then, for now, would you all like to browse around here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I need to head over to the crafts shop over there to pick up something I ordered.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, then... Do you want me to come with you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, that's okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'd rather you all take your time and have fun while picking out some oils since they have so many available.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Right...\nThen, we'll stay here and keep browsing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00122",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Still, they really do have a lot of choices...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, they do...\nRosemary, bergamot, clary sage, eucalyptus... They even have some blended oils.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I'm honestly having trouble thinking about how some of these will actually smell.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Me too... But they have a few samples here. Why don't we try seeing what they smell like...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, this citrusy aroma's nice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "According to the label, this is sweet orange. There's even an explanation.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Apparently, its sweet aroma helps you clear your head and feel refreshed...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I see... This scent...\nIt reminds me of Saki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Saki...? Oh, Tsukasa's younger sister?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes. Oh, actually... That makes sense since Saki has this way of cheering up everybody around her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Cheering everybody up...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(It sort of also suits those two.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, Kanade, which scent is that one?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Um, lavender. It also has a nice sweet aroma.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Lavender? That seems like a pretty common one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah... Oh, its label even says that it's the most popular scent and how it played an important role in the development of aromatherapy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wow, really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm not very familiar with its history, but this gentle, flowery fragrance is so soothing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Of all these scented oils, lavender in particular seems to be the most effective for relaxing oneself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, in that case... I think I'll buy some. I'd like something that will help everyone relax.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, right...\nIt's not just about what suits who... We also have to think about how we want them to feel.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Good point. Then, why don't we keep browsing since they have so many available here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00101",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Kusanagi, try this one.\nIt's supposed to smell like grapefruits.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh wow... That's such a refreshing smell... It's like there's a pile of grapefruits right in front of me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Kanade, can you guess what this one smells like?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It smells sweet... And fruity... Apples?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes, I thought so too at first!\nApparently, it's chamomile, but it really does smell sweet and gentle like the way apples do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "U-Um... Are you looking for something in particular, Yoisaki?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, so... I liked the lavender we sampled just now, so I was hoping to find some others that are also just as soothing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Soothing...\nI think that shelf over there had more oils like that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Y-Yes. Um, so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Would you like to see some together...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, I'd like that. Thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh... Y-You're welcome...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "*Sigh*\nI need a quick break...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "They had so many more different aromas than I was expecting. Just looking through all of them was fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, but I started getting a little lost as to what actually smells good or nice after smelling so many.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Me too... However, I think we all found a few that we liked, so let's go back once we've taken a little break.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay. Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Look at that display over there... Aren't those scented candles?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, you're right... I didn't know that they also sold the finished product here. They're beautiful, and so colorful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh wow. This one looks like it has a flower inside it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I believe that's a hydrangea. It's so vivid and pretty...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "It looks like they have several with different species of flowers in them. Oh, this one even has an orange and other fruits in it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "It does. That's really cute...\nThe others would probably be so startled if I made something like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "But that looks really difficult...\nI'm not very good at making these sorts of things...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes, it does look difficult... B-But we should be fine since we have Honami as our teacher! So, let's give it our best shot...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh... Yes, you're right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Ah, have you all been resting at this bench?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Honami! Did they have what you ordered?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, and I apologize for making you all wait. So, how did things go?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Well, I found some that should suit Saki and the others. But we decided to take a quick break after being exposed to so many different aromas...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I see. Oh, did you all happen to bring the bottles too close to your noses...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Scented oils are very concentrated, so it's better to waft instead of sniff... I'm sorry. I should've mentioned this sooner.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "No, that's okay... I feel much better after taking a break. How about you two?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I feel much better now too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Thank goodness... Then, why don't we all go back in together? I should be able to give advice if you feel you need it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Right. Thank you, Ms. Mochizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Several dozen minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'm glad you all found some that you liked.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Me too. All that's left is to actually make our candles...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'm sure you'll do just fine.\nI promise to do my best to teach you all what I can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "*Nod*\nThank you, Ms. Mochizuki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, that reminds me. The plan's to make them at my house, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes. But, um... I'm really sorry to intrude since you just had me over at your house the other day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, um... M-Me too...\nEspecially since we really only met a second ago... I'm sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It's okay. I joined in at the last minute, so the least I could do is provide the space for us to make our candles.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Also, my house was a mess before, but Ms. Mochizuki's done a wonderful job of cleaning it up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? Hang on...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh... I-It's nothing. Anyway, it's fine, so don't worry about it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. Thank you for being so generous, Ms. Yoisaki. We'll try not to be too much of a bother.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Then, shall we?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

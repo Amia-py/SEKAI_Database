@@ -1,0 +1,603 @@
+{
+ "title": "Mixed Event — Bustling Cafe ●REC! — Episode2 A Lifeline Gig!",
+ "meta": {
+  "Event": "Bustling Cafe ●REC!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode2 — A Lifeline Gig!",
+  "Event Outline": "MORE MORE JUMP!'s latest gig is a TV segment on location at a popular cafe! Little do they realize, it's none other than the cafe where Minori works!",
+  "scenarioId": "event_102_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Mizuki's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Alright, that rain asset can go here and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "No, this doesn't look right...\nIt feels too simple. I wanna give it more of a twist...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, I know!\nThey have that lace set available on the store! Maybe this is my chance to try it out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "This melody feels kinda heavy, so some cute late assets could be like invoking fun memories of the past and stuff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, let's give it a go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I really liked it because it looked so cute, so I should take this opportunity to buy them! Now, where'd that bookmark go...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "What?! The ones with the highest resolution cost 10,000 yen?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Th-That's a bit outta my reach...\nI don't have much money left to spend because I already bought so many this month.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Nnnghhh... But I've got such a clear picture in my head for this video! What should I do...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hm? A message?\nAt this time? Who could be...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi's Message",
+   "Line": "<Evening, Mizuki!\nI wanted to ask you for a small favor. Are you free now?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, it's Airi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Uhh... <Yeah, what's up?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi's Message",
+   "Line": "<So... Actually, it might take too long to type this all out. Lemme call you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00137_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, there we go!\nHello?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000465",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<Hello? Mizuki\nSorry, I know it's really late.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Nah, that's totally fine!\nAnyway, what's up...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<Remember that cafe we went to with Ena the other day?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, I remember!\nThe one where the staff all wear those adorable uniforms, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b000803",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<Yeah, that's it.\nThey're in a bit of a bind and need someone to fill in for a day.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000465",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wait, really...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<Yeah!\nYou'll get to wear their uniform and be paid the same day! Also...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yes! Sign me up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I get to wear something that cute and get paid for it?! Talk about the best job ever!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I wanna do it!\nNo, please let me do it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000465",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<Wh-Whoa, I wasn't expecting you to jump on it so quickly...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Getting to wear that uniform's important, but I was also just in need of some spending money...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<Oh, really?\nThen, I'm glad I decided to ask you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, your timing couldn't have been better!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "At the same time, Airi, why are you looking for someone to work there...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000465",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<Oh, that's actually a funny story.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "A funny story?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "<Yeah, the thing is...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00115",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The day of the shoot",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Good morning!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "We're MORE MORE JUMP!\nThank you for having us today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Ah, welcome.\nThank you all for being here today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "We appreciate you agreeing to meet with us like this. We know you run a busy establishment, but we felt it was important to get our bearings before our shoot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, since our goal is to do this cafe justice by introducing all its best qualities.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Hehe. I appreciate your diligence.\nOf course, I'd be more than happy to help you all with that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Please feel free to look around as much as you like before the shoot. Minori, would you mind being their guide...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "On it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh, also...\nIs the person I introduced already here by chance?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Ah, yes!\nAkiyama should be changing right now. I'm sure that in a minute or two...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Oh, you guys are already here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Welcome to carino/carina♪\nWell, you get the gist...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Whoa, wait! Minori, I've never seen you in your new uniform in person until now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You look absolutely amazing!\nA million times better than seeing it through a screen!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hehe. Thanks!\nThis cafe's uniform also looks really cute on you, Mizuki!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. Yeah, I couldn't agree more.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, it's like you've been working here this whole time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Really?!\nI can't help but blush when you shower me with that much praise...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, more importantly!\nYou're doing a shoot here today, right?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I can't believe I get to see my favorite group do one live...! I'm so glad I agreed to this! Seriously, best job ever!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I'm glad you're so excited about this, Mizuki. You were definitely the right person to ask.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Thank you for finding someone who could help, Minori, Momoi! You two really saved the day!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "So, um...\nWhat do you need me to do today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Ah, of course. I haven't given you the rundown yet. I'll be asking you to wait tables and do some light work in the kitchen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "The girl who's going to help you with that should be here soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Good morning!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hey, Saki.\nI didn't know you had a shift today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Airi...?!\nWait, you're all here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I'm really excited about this shoot! I've been looking forward to working with you all today...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I mean, I couldn't believe it when Minori and our boss told me that you'd be doing a shoot here and I get to see it with my own eyes! This is so cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Okay, Saki.\nI know you're excited about today's shoot, but I need your A-game today because we're joined by Akiyama here today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Nice to meet you! I'm Saki Tenma!\nI'm looking forward to working with you today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'm Mizuki Akiyama.\nI'm also looking forward to working with you... Wait a second...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Do you happen to have an older brother...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What? Oh, yes!\nHis name's Tsukasa Tenma...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I knew it!\nNo one else has your guys' last name!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I also go to Kamiyama High and talk to him a lot! I've even gotten to see a few of his shows!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wait, really?!\nWhat a coincidence! I had no idea that you both knew each other!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Haha. I know, right?!\nAgain, I'm looking forward to working with you today! So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Can I call you Saki?\nI'm guessing we're the same age...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh! I'm in my first year of high school, so please call me whatever you like!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, we are the same age!\nCall me Mizuki!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wow, really?!\nIt makes me so happy to make new friends who are the same age!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. That's really cute.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "You two seem to be really hitting it off! Saki will be in charge of teaching you what to do today, Akiyama, so feel free to ask her anything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Your tasks will be fairly simple...\nWe'll need you to wait and bus tables... As for kitchen work, you'll be placing the finishing touches on desserts and such by adding fruits and chocolate to them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Waiting, bussing and finishing touches... Okay, I think I can handle that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'm actually pretty good at decorating stuff♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, you are?!\nThat's great to hear!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Let's do our best together, Mizuki!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Anyway, we should get back to work...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "The film crew should be here in about half an hour, so let's take in as much as we can until then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Right!\nI'll be taking them around the cafe now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Understood.\nAkiyama, come this way and we can try making some of these menu items together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Okay!\nI'm ready to learn!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

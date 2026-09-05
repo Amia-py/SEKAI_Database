@@ -1,0 +1,833 @@
+{
+ "title": "Unit Event — Deeper and Deeper — Episode8 What I've Grasped",
+ "meta": {
+  "Event": "Deeper and Deeper",
+  "Event Type": "marathon",
+  "Episode": "Episode8 — What I've Grasped",
+  "Event Outline": "Wonderlands×Showtime agrees to participate in a workshop run by ArcLand. As Rui takes the directors' course, he is confronted with something he's never realized about himself before.",
+  "scenarioId": "event_172_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d006001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(The hunter's words compel the monster to take a hard look at himself.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(At creature that does not belong.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“It's transformed into a human and is currently masquerading around as one of you. However, its true nature is fundamentally inhuman.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“Right...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“I love to have fun.\nThat's why I do things humans view as dangerous, or even hurt people.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“That's what I've been doing until now.\nI may look like a human now, but I haven't actually changed.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“But that is just who I am.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00215",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“I was born this way.\nHow do you change that?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“I...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“I didn't want to be born a monster.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "(For a scene like this, normally you'd have the actor rage and weep, or else visibly struggle to repress his emotions...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "For this scene, I'd like you to refrain from showing strong emotion.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Refrain from it? What do you mean?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In this scene... The monster is feeling a deep sense of despair regarding his own existence.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "He can't run from who he is.\nHe can't change his fundamental nature, either.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "No matter how much he kicks and screams, he'll never be like those around him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "He knows that better than anybody else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d006001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(He's never had someone who can understand him. And that loneliness has been his only, constant companion.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(He thought he'd come to terms with it already... But he finds himself at a crossroads here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“It was only ever a matter of time until I hurt Master or the people of this city...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“Which means it might be time to leave. Tonight.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“But...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“Hold it.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“Hunter...\nOut hunting monsters this late at night? You're certainly dedicated.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“Yes, I am...\nAnd now I've finally pinned you down.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“Humans don't go walking around on moonless nights without even a lantern to light the way, after all.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00106",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_deeper_2025_005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“I will end you here.\nTo avenge all the innocents you have harmed, monster.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“Hahaha! Is that so...!\nI might actually be okay with that.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“If my death will bring peace, then it's a small cost to pay.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minstrel",
+   "Line": "“Please, wait!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“M-Master?! Why are you here?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minstrel",
+   "Line": "“Why wouldn't I be here?!\nAnyone would be worried if their apprentice was acting really strange!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“Please, step aside.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“That thing is not your apprentice.\nMerely a monster wearing a human face.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minstrel",
+   "Line": "“He might be a monster, but he's also my valued apprentice.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minstrel",
+   "Line": "“And a budding minstrel with the ability to make people smile.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "*Wince*\n“I...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“What nonsense.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“Does this mean you're willing to take responsibility the next time this monster harms another person?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minstrel",
+   "Line": "“I...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“It's true. No ordinary human would be able to stop me.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“When I find something fun, I can't stop myself. I prioritize my own desires over everything else.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“So, when that happens...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“You can shoot me dead, then and there.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00208",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“What...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“I will always be a monster.\nThat will never change.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“Still, even so...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“If there are those who will accept me, even knowing that I'm a monster...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“Then, I'd like to stay here.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“Yes, you are right. I have caused harm to others.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“I never cared about them. If we could never understand each other, it didn't matter what I did to them. But...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“Now, seeing people smile as I sing makes my chest feel warm.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“I've become motivated to do better next time and surprise them with how good I've gotten.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“I... Care about these humans now.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“A monster like you has no business uttering such words.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“I know you don't believe me. But I am telling the truth.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“I'll do anything to convince you.\nIf you need me to pay a price, then you can take one of my eyes, legs or anything else.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“So, please... Won't you give me a chance?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minstrel",
+   "Line": "“P-Please, I also beg you!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(The hunter has her own beliefs...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Changing her mind won't be easy. Which is why...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_deeper_2025_006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“You aren't fooling me.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minstrel",
+   "Line": "“A gun...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“An eye or a leg, you said?\nNeither of those will be enough to make up for your crimes.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“Begone.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00876",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“Guh...!!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“You're not dodging?\nNext, it won't be just your leg. I'll be aiming for your heart.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minstrel",
+   "Line": "“P-Please, stop!\nYou'll kill him!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“No, Master, it's okay.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“I'll take as many shots as I need to convince her.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“Kill me if you feel you must.\nYou're right that things will be much more peaceful once I'm gone.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“You...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“Show me your leg. I'll treat the wound.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“What...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“There is no way for me to know if a monster like you can have a conscience. Or if you truly intend to change your ways.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“So, I will set up camp near this city.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hunter",
+   "Line": "“I shall stay until I see that you are able to keep your word.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster & Minstrel",
+   "Line": "“...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00877",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minstrel",
+   "Line": "“♪———— ♪————”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minstrel",
+   "Line": "“That's the end of the monster's story.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“The monster who struggled to change his ways continued to live amongst the humans, but what happened next, nobody knows.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“This story probably doesn't end with a happily ever after.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minstrel",
+   "Line": "“But one thing is for certain...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Monster",
+   "Line": "“He's no longer alone.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00239_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d006001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "Hmm... This definitely wasn't what I was expecting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "Me neither. Honestly, I expected him to give us something straight down the mainstream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“Conceptually, it's a fairytale that adults can also enjoy.”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“The depiction of the lonely, selfish monster's growth, as well as the humanity of those who interact with him, felt so real.”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "I agree.\nBut having this shown at ArcLand...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hmm... They seem to be having a lively discussion regarding what they just saw.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, but I can't hear what they're saying...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, they're waving us over!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I think that means they're finished.\nI'll head over now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d006001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "Ahem. Thank you for your patience.\nWe'll begin announcing our thoughts regarding your show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'm ready.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "First, we all gave your detailed portrayal of the psychological aspects of this show very high marks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "Despite the fairytale setting, you had the audience experience the protagonist's unfair reality and the resulting loneliness and internal conflict he felt.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "However, this was also where opinions split most sharply.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I understand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "Frankly, some sections were a little too raw to attach ArcLand's name to this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "You got together some nice ingredients, but didn't quite cook them properly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“Yes, it felt unbalanced in many ways.”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“But I liked it overall.\nIt was sincere, passionate, and very compelling.”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00296",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "“Thank you very much.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "“This workshop has taught me so many different things.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "“This time around, I wasn't able to strike the proper balance with my audience's demands...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "“But I promise to apply this experience to my next show.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“Hehe. There's no need to rush.”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“You've got a long lifetime of shows ahead of you, after all.”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“Just as today's show was a wonderful expression of everything you've experienced up until now...”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“Moving forward, I'm sure you'll be able to go deeper and deeper. I'll be looking forward to seeing what that results in, Rui.”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "“Thank you. I'll do my best.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Based on his expression, I think he's happy with their assessment.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d006001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "???",
+   "Line": "So, this Kamishiro kid...\nHe got what I was trying to say?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "He did.\nBut he mainly works on stage productions.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ohara",
+   "Line": "The same as you.\nWhich means you'll probably cross paths someday.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d006001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "Bravo, Kamishiro.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "This is going to get very interesting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

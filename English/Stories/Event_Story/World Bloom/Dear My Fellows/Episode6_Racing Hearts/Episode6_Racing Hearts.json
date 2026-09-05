@@ -1,0 +1,683 @@
+{
+ "title": "World Bloom — Dear My Fellows — Episode6 Racing Hearts",
+ "meta": {
+  "Event": "Dear My Fellows",
+  "Event Type": "world_bloom",
+  "Episode": "Episode6 — Racing Hearts",
+  "Event Outline": "Having trained with three famous troupes, Wonderlands×Showtime has certainly grown. While checking for any changes in their SEKAI, they hear of a problem with the tree, and are shown a world where they are each chasing their own dreams.",
+  "scenarioId": "wl_wonder_02_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link2_wonder_op3",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00219",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Music Hall",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Princess",
+   "Line": "“——————...♪”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Princess",
+   "Line": "“No, he's miles and miles away in a different country. He'll never hear me if I keep singing like a squeaky songbird...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Princess",
+   "Line": "“After giving me so much courage too...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Princess",
+   "Line": "“He told me that he liked the way I sing, so I have to make sure my voice reaches him!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Princess",
+   "Line": "“————♪ ————♪”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "Wow... Her voice is so pretty...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "This is her first time playing the lead, right? She looks so poised...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Princess",
+   "Line": "“————♪”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(My voice wavered there a little...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(The audience seems to be reacting okay, but I can't be happy with just this...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I need to do a better job of moving their hearts...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Princess",
+   "Line": "“————♪ ————♪”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "After the show",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Nice work with the last show, everyone.\nOverall, each performance went really well, and the audience seemed to enjoy everything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "This is the result of all the hard work you put in day in and day out. Let's keep doing our best and make our next show just as good!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Troupe Members",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Each performance went really well, huh...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(That's good to hear. I'm glad we were able to get through them all...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Kusanagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, Mr. Amemiya, hello...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Amemiya",
+   "Line": "Nice work out there.\nI wanted to congratulate our star as the director of this troupe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I see...\nThank you for going out of your way to do this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Amemiya",
+   "Line": "You just seem to keep finding ways to get better, Kusanagi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Amemiya",
+   "Line": "When you first joined us, you were pretty rough around the edges. But now, you're regularly competing for leading roles.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Amemiya",
+   "Line": "Naturally, you still have a lot of growth potential... But I have to say, Kazamatsuri brought us a real gem.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Thank you very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I plan on doing even more moving forward in order to win those roles.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Amemiya",
+   "Line": "Yes, I'll be looking forward to seeing how you grow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I can't be happy with just having a lot of growth potential...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I mean, I've auditioned for countless roles... And just finally managed to become the lead for one show.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I have to keep getting better and better.\nOr else...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d006001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I won't be able to go overseas like those two...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Troupe Member A",
+   "Line": "Mr. Amemiya! Kusanagi!\nWe want to throw an after-party! Are you two free to join us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "An after-party?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Troupe Member A",
+   "Line": "Yes, we wanted to give ourselves a big pat on the back! So, we're looking for people who are free to go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Amemiya",
+   "Line": "Ah, that sounds fun. I think I'll go.\nWhat about you, Kusanagi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, umm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I really appreciate the invitation, but I think I'll pass. Please go on without me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Troupe Member B",
+   "Line": "Wait, Kusanagi, are you gonna head back and practice the way you always do?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I am. I start getting antsy if I don't since it's basically a part of my routine at this point.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Plus, our next show is just around the corner.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Troupe Member B",
+   "Line": "Oh, that's right. Yuka Kazamatsuri agreed to appear as a guest star, right?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Troupe Member C",
+   "Line": "I know that she and Mr. Amemiya used to be in the same troupe, but I still can't believe she's coming back to Japan to perform in this show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Me neither...\nI'm excited since she's my hero.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Troupe Member B",
+   "Line": "Right. But you just finished doing a show, so don't push yourself too hard, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I'll be careful.\nAnyway, nice work, everyone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Practice Area",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "“Please put down your sword. I'd rather not see you all covered in blood.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "“And I'm sure your late mother wouldn't have wanted to see you in this state.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "That didn't feel right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Natalie should know exactly why her childhood friend made the decision to go into battle.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Which means she wouldn't just be trying to stop her at all costs. She should be feeling pretty conflicted.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "So, maybe I can try making my voice waver...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "“Please put down your sword... I'd rather not see you all covered in blood.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "“And I'm sure your late mother wouldn't have wanted to see you in this state.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...\nLet's take a look at that video I just took of myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(My voice sounds more like how I thought it should, but the way I'm moving still looks kinda funny...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(She's torn between wanting to respect her friend's wishes and hoping to stop her from going. In order to clearly express that internal conflict...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "That really startled me...\nI totally forgot to turn off notifications.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Emu sent me a message...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Come to think of it, she said she wanted to throw a farewell party for Rui and Tsukasa. I wonder where we're doing that...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Phoenix Wonderland...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I see...\nWe're doing it there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I guess it is the perfect place for us to gather.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Wherever they are right now, they're all doing their best.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Which means I also need to keep practicing.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003803",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<I want you to be the one to figure out what's truly best for you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<And I'll do whatever I can to help you find that answer.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<It won't be easy, but doing your best by working together as a team to get through this will do wonders for you in the future.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Huh...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Who said that just now...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00018_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Yuka",
+   "Line": "Oh, Nene, it's been so long...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh...? M-Ms. Kazamatsuri?!\nWhat are you doing here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yuka",
+   "Line": "I got back to Japan a little while ago.\nAmemiya let me know his troupe would be throwing an after-party today and invited me to join. He wanted to introduce me to everyone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Yuka",
+   "Line": "That's where I heard that you were probably still practicing, Nene. So, I'm here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "It's so nice to see you again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "And I'm really looking forward to performing in that show with you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yuka",
+   "Line": "*Nod*\nI'm also looking forward to working with you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yuka",
+   "Line": "Have you been taking breaks, Nene...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? Oh, yes...\nI've been taking quick breathers here and there while checking over the videos I've been taking of myself...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yuka",
+   "Line": "Haha.\nAmemiya was right. You really do have an incredible work ethic.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yuka",
+   "Line": "But you need to take proper breaks. To be perfectly honest, you look pretty tired.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I do? I'll be careful...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yuka",
+   "Line": "Anyway, now that I've had a chance to see you, Nene, I'm going to head back. I'd rather not be in your way for too long.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yuka",
+   "Line": "But promise to take real breaks, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "O-Okay...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yuka",
+   "Line": "Then, I'll see you later.\nAnd don't push yourself too hard.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Thank you. I promise to be careful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00261_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Ms. Kazamatsuri's such a nice person.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(She came all this way just to see me, and she expressed genuine concern...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I have to do my best...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,423 @@
+{
+ "title": "KAITO — A Lively DJ Appears?〔Part2〕Side Story (Part 2)",
+ "meta": {
+  "Character": "KAITO",
+  "Card": "A Lively DJ Appears?（4★）",
+  "Part": "Part2 — Side Story (Part 2)",
+  "Event": "STRAY BAD DOG",
+  "scenarioId": "026008_kaito02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Crase Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Okay, KAITO.\nHere's that blend we were talking about.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00059",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Thanks, MEIKO!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, that's nice...\nYou really do make the best coffee.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh, stop. Flattery won't get you anywhere with me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Aww...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "But you really love coffee, don't you, KAITO?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "It's just so interesting, you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Interesting how?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Each type of bean, how they're blended together, how fine or coarse they're ground, how they're steeped, how they're brewed... All of it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "The sheer number of combinations gives you so many paths to choose from. There's no end to them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I see. So you enjoy trying different types and blends?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "And speaking of which... Toya is a bit of a connoisseur himself, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I finally got to meet him, but we didn't get a chance to talk about coffee.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "They had their hands full with what was going on with Akito, so I'm not sure he would've had the time to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I agree. But now that things have settled down, you may get your chance soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Ah, lo and behold...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane & An",
+   "Line": "Hello!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, it's so nice to see you!\nEspecially you, Toya! I've been waiting to have a chat with you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Huh? M-Me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes! I heard from MEIKO and the others that you're a bit of a coffee expert, and I've been wanting to pick your brain about a few things!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm not really an expert...\nI just enjoy good coffee is all...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "That's what I'm saying! It's natural to want to enjoy something you like to the fullest, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Come, sit with me!\nI'll be borrowing a few things, MEIKO!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I, um... Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Please excuse him, Toya. I'm sure you and your team have plans to discuss...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "No, we were heading home after finishing practice and decided to stop by...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh, if that's the case, would you mind lending Toya to us for a while? KAITO's been desperate to talk to him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We don't mind, but it's up to you, Toya.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You okay with that, dude?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I don't mind if it's just for a little while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "KAITO helped us with how to get through to Akito, so I feel like we owe him at least this much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright. Uh, sorry for making you do this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No, if it's about coffee, I'll be happy to oblige.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. KAITO looks so excited to see you too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah! Don't keep him waiting!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Okay. I'll go talk to him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Thanks, you guys.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "KAITO's been waiting such a long time to find someone to talk to about coffee. I hope you'll understand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "That's all good. I don't think any of us knew just how much KAITO loves coffee...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "He really does. He's very particular about how he wants his made and we also told him about how Toya is a little like him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Thank you for joining me, Toya.\nThe truth is, I want to create the greatest blend ever out of all the different kinds of coffee I've discovered!\n",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Would you mind doing a little taste test with me? I'm curious to hear what you have to say.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Interesting...\nAre you sure about someone like me doing this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Of course! I want to hear from someone who truly loves coffee! Let's start with the first blend...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, I see... These are quite different. The first is fruity and the second has a floral accent, yes...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Nicely done!\nEach one uses a different type of bean as its base.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "They've been roasted in what should be the most optimal way as well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Maybe we should've done an actual cupping session instead of a taste test like this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, excuse me. Have you heard of what cupping is? It's when you compare different beans or blends and give each a detailed score.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I have no idea what they're talking about...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe. KAITO is as knowledgeable about coffee as he is about music.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "He may not look it, but he's very good at researching topics. What I know about coffee pales in comparison to what he knows.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh? Really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, I didn't know there was that side to him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "That part of him is a little complicated.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "The best way to put it may be that he gets what he has to do out of the way so that he can fully enjoy what he wants to do, I guess?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Fully enjoy what he wants to do?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yes. He generally doesn't want to spend time on anything other than the things he wants to do or enjoys doing most.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I see. I sort of get how he feels.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "But KAITO will be KAITO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wait, what does that mean...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len's Voice",
+   "Line": "Hey, KAITO...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "You promised that you'd practice singing with us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "*Gasp*!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00015",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Um, I did...? I did, didn't I...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yes, you did!\nWe've been waiting forever!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah! KAITO, you big, stupid dummy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00106",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Ahh, please...!\nI'm sorry! I'm sorry!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "See? That's probably his biggest fail.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Haha...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Seriously, one minute he sounds cool and the next he just falls flat on his face...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

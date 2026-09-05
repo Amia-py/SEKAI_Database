@@ -1,0 +1,638 @@
+{
+ "title": "Mixed Event — Bustling Cafe ●REC! — Episode5 The Kitchen's At Capacity!",
+ "meta": {
+  "Event": "Bustling Cafe ●REC!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode5 — The Kitchen's At Capacity!",
+  "Event Outline": "MORE MORE JUMP!'s latest gig is a TV segment on location at a popular cafe! Little do they realize, it's none other than the cafe where Minori works!",
+  "scenarioId": "event_102_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a001401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "carino/carina",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Wrestlers",
+   "Line": "Mmm!\nThat parfait was amazing, but these waffles are also mega good♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Wrestlers",
+   "Line": "There's always some sort of catch involved with the cafes and stuff that go viral online, but everything this place serves is so good! And they come in generous amounts!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Fujin",
+   "Line": "Definitely.\nWhy don't we keep going and try everything that's on the menu? The waffles were great, so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Fujin",
+   "Line": "Excuse me!\nCan we have eight of your old-fashioned coffee jelly? And five more plates of these waffles!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Eep...!\nThey're ordering more...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But we still haven't finished making their last order...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "They ordered six earlier, and asked for five more... So, twelve in total...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Saki, hang in there!\nEven doing simple addition is starting to become a challenge!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(And I'm not gonna be able to finish all these in time...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Fujin",
+   "Line": "*Sigh*\nSweets really are the best! Let's think about what to order next while we wait for our waffles to get here♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Customers",
+   "Line": "Excuse me!\nWe'd also like to order!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Th-This is bad...\nIf we don't get these out soon, we won't be able to start on the other customers' orders.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(But what can we do...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We apologize for interrupting your wonderful meal! But may we have a quick word?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Airi...?!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Wrestlers",
+   "Line": "Oh, hey!\nIsn't this the shoot you were talking about?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Wrestlers",
+   "Line": "Cool!\nWe get to be on your show?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes. If possible, we'd like the cooperation of all the customers in this cafe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "O-Ohh...!\nI didn't notice at first, but aren't you Riser☆Fujin, the professional wrestler?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I can't believe you're really here!\nWould you mind telling me how you're enjoying your parfait?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(...!\nNice one, Minori!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(But we're also gonna need to start working on her acting skills since she's gonna need them moving forward...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Fujin",
+   "Line": "Yes, of course!\nI couldn't be happier that you want to interview us for your show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Fujin",
+   "Line": "So, where should I start?\nWe've actually just finished going through the second page of this menu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh, that's impressive!\nThen, would you mind telling us all which you recommend the most...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Now I see!\nThey're running cover for us...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Saki, this is our chance!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Airi and the others are interviewing that group to keep them from ordering even more stuff!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Which makes this our chance to get these orders out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Airi is...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Happy Everyday really is the best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Okay!\nLet's get to work!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Several dozen minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Still, I'm honestly staggered.\nI'd heard rumors, but to see that you can all eat so much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Wrestlers",
+   "Line": "Of course we can!\nAlso, we've been seeing some people take pictures of their food without actually eating it! If we catch anyone doing that, they get to be on the wrong end of a German suplex!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Fujin",
+   "Line": "Each establishment does its best to produce high-quality dishes, so we want to respect the hard work they put in!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hehe. That's so wonderful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00170_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Thank you for waiting!\nEight more coffee jellies and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Eleven plates of waffles!\nWe'll just leave them here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Thank goodness...\nMizuki and Saki seem much more relaxed now.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Also, I'm really glad Ms. Fujin agreed to do this interview for us.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(And I bet the producers are gonna be ecstatic when they hear that we managed to grab a few sound bites from an influencer like her.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(She's so charismatic and always says the funniest things! We couldn't ask for juicier footage!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hello!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Huh? Isn't that...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "Wow...\nIt smells so nice in here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, it's like the sweet and fluffy kingdom of yummy treats! I feel even hungrier than before!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Emu?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh! Hi, Saki!\nAnd Mizuki?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "Oh, Emu, are they friends of yours?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup!\nThis is Mizuki! And this is Saki! She's Tsukasa's little sister!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "Oh, I see.\nIt's nice to meet both of you. My name is Hinata. I'm Emu's big sister.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You're her big sister?!\nThank you for always looking after Tsukasa!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hey, wait a second. Mizuki, I didn't know you also worked here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, actually, I'm just helping for the day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "They needed an extra hand because of this shoot they're doing right now for a TV show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "For TV?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehe. I know, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "See over there? They're shooting right now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, wow!\nIt's everyone from MORE MORE JUMP!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah, the cafe's bustling with more activity than usual today... If you're okay with a little bit of background noise, I'm sure you'll still enjoy your visit♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "Thank you.\nWe'll be more than happy to stay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah!\nSo, two Mount Everest strawberry parfaits please!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Whoa, that was fast!\nDid you two plan on getting these from the start?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup!\nI wanted to give it a try after Sis' friends told us about it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wow.\nIt really has gone viral.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Still, it's pretty big. Are you sure about getting two? Splitting one might be a better option...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We'll be fine!\nI can fit a lot into my tummy, but Sis can eat even more!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What?! Really...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Interesting. She definitely doesn't give off that sort of vibe.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Okay!\nWe'll get started on your order right away!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Great, thanks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00170_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Two Mount Everest strawberry parfaits...\nThat should be a piece of cake for us now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, that group's onslaught of orders definitely helped me get up to speed!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Also, Airi and the others stopped them just in time. We have a chance to work on everyone else's orders now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Fujin",
+   "Line": "*Sigh*\nAll this talking is making me hungry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki & Saki",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Fujin",
+   "Line": "This interview's given our stomachs a chance to digest everything. I think we're all ready for another round!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "A-Are you sure...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Wrestlers",
+   "Line": "We're like starving wolves after matches. Also, we haven't touched the third page of this menu yet. So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Fujin",
+   "Line": "Let's start the second half!\nFor now, eight of your cream-tastic mille-feuilles and twenty of your fruit macaron sets please!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wait...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki & Saki",
+   "Line": "Whaaaaat?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "They just screamed again...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(And we shouldn't overstay our welcome...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(This is probably it for our interview. We've gotten a lot out of them and probably have more than enough good footage.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(But if we don't do something...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(The entire cafe is going to get hectic again and the staff might not be able to attend to the other customers.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "This could be bad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(The manager's had a worried look for a while now. It wouldn't be right for us to just go back to shooting...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Isn't there anything we can do...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Y-You know!\nEverybody working here is wearing such cute uniforms! I wish I could try one on!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, also!\nHow amazing would it be to work here?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Minori...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "That's a pretty bold suggestion!\nDon't come crying to me when the staff scolds you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00231",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, um... I-I'm sorry!\nI just blurted out the first thing that popped into my head!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yeah, that does sound fun...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Would it be possible for us to help making parfaits and such?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Y-Yes.\nWaiting tables and serving food sounds fun, but so does making parfaits.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Yes, they caught on...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Whoa, hold up! You two agree with her?! Think about the manager! It's not easy to juggle all these new employees!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "No, don't mind me...!\nI was actually hoping to show what goes on in the kitchen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "And we just happen to have an extra uniform available. Please feel free to try it on!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(The manager caught on and went along so naturally.\nThank goodness...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh, also...\nWe should see what the director has to say!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. Great!\nWe just got the green light!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "So, following a sudden turn of events...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "It's time for MMJ's Impromptu Cafe featuring carino/carina!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

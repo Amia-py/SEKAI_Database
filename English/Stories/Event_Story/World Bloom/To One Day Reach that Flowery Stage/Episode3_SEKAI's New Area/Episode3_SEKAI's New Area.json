@@ -1,0 +1,643 @@
+{
+ "title": "World Bloom — To One Day Reach that Flowery Stage — Episode3 SEKAI's New Area",
+ "meta": {
+  "Event": "To One Day Reach that Flowery Stage",
+  "Event Type": "world_bloom",
+  "Episode": "Episode3 — SEKAI's New Area",
+  "Event Outline": "On MORE MORE JUMP!'s first free day in quite some time, they have been enjoying school life to the full. Their recent TV appearance has caused a buzz among their classmates, renewing their determination to keep working their hardest. That's when they each find themselves in an unfamiliar part of SEKAI...!",
+  "scenarioId": "wl_idol_01_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_b003101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "???",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Wh-What is this place...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Airi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Your timing couldn't have been better...!\nI was about to go tell the others that a new area just appeared in SEKAI.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Len...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I knew it. This place wasn't always here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "But why now all of a sudden...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "I don't really know either.\nBut you've gotta remember that this SEKAI is a reflection of you and the others' feelings...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Which means this area must've appeared as a result of something having changed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "With our feelings...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "But what's changed...?\nI can't think of anything off the top of my head...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "I dunno either...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "So why don't we try exploring this place to see if we can learn more about it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "There might be some clues scattered around as to why it appeared.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "True...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Then, let's try going for a little walk.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We've been walking for a while now...\nBut it's like there's no end to this field of flowers.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00077",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "It's like there's no other side.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Regardless, this place is beautiful.\nA lot of these flowers are still just buds, some are starting to bloom. And the air feels great.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "As strange as this place is, I can't help but smile. I feel happy for some reason...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yeah... In that sense, it's like when we're watching you girls put on a show or make an appearance on TV.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh, speaking of TV...\nYou were able to go to school for the whole day for the first time in a while, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "How was it?\nDid you get to hear from your classmates about how your last appearance went?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, we weren't expecting to get such a huge response! It's probably our biggest yet, which had made us really happy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Not only that, but I received a new offer while walking home from school!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Wait, really?\nWhat does it involve?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Appearing on a variety show with a bunch of comedians. It's apparently one of those programs where anything goes, but I'm excited since it'll be my first solo gig in a while...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh, that's awesome!\nI'll be looking forward to seeing it since that sort of stuff is your forte.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. Thanks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I know that idols aren't really supposed to fall into booby traps or jump into ponds, but I plan on doing everything I can...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Is something wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "This flower... Look, it's glowing for some reason.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh, you're right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But there are plenty of other ones that are blooming. Why only this one...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I don't understand either.\nBut what if I touched it...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Huh...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "...?!\nThe light from this flower's...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg00026",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len's Voice",
+   "Line": "A-Airi?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Huh? Where am I...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "That's weird.\nI was with Len just a second ago...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Th-Thank you for coming today, Happy Everyday!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Wait, that voice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Whenever you feel down and out, come and see me! I'll help cheer you up and see how wonderful tomorrow is going to be!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shy Girl",
+   "Line": "Okay!\nThanks, Happy Everyday!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shy Girl",
+   "Line": "Oh, also...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shy Girl",
+   "Line": "I really like you as an idol too! You're the best, Airi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "This is from...\nWhen we went put on an event at that elementary school...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "But what's that got to do with...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku's Voice",
+   "Line": "I'm saying this because I've been looking up to you ever since we were still in training.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Shizuku...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003803",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "You're one of my favorite idols, Airi, as well as my role model...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "You've been that ever since the day we met...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "And this is from...\nWhen we held that training camp.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Wh-What's going on here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Woman's Voice",
+   "Line": "Airi's so good at interacting with crowds!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b002002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "And this is... The venue where we held our first fan event. But I don't recall hearing that comment...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Why am I seeing...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Woman A",
+   "Line": "Her quips are always spot on, and she makes the best reactions. I guess this is when her experience as Happy Everyday comes in handy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Woman B",
+   "Line": "Yeah, probably.\nI mean, Airi is more of a variety show star than an idol!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(I still haven't jumped back into the deep end in terms of variety shows as a member of MORE MORE JUMP! yet...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(But I guess that's still how most people typecast me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Which sort of means that I should make the most of my talents and...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Woman C",
+   "Line": "Wait, really?\nI've always seen Airi as an idol.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Woman C",
+   "Line": "To be honest, I'm new and don't know what Airi was like when she was still with QT. But based on her behavior, it's clear that she just wants to cheer everybody up and make them smile...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00175",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Woman C",
+   "Line": "The way she interacts with people and reacts is proof of that. And that's...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Woman C",
+   "Line": "That's what I really love about her.\nThat's why I see her as a pure idol.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I forgot...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(I was so happy when people said that they like me as both Happy Everyday and an idol...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Which is why...\nI made the decision to accept both sides of who I am as an idol, and do my best...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(But somewhere along the way, I must've convinced myself that I had to choose one or the other...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b003101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh...!\nThe light's starting to fade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Are you okay, Airi?\nYou were engulfed by that light and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Now I see...\nYou didn't see any of what just happened, did you, Len?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "It was so strange...\nWhile I was in that light, it was like I was looking into someone's memories.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "And I realized that I was needlessly drawing lines in the sand for myself...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00216",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Lines?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah. I spent so much time doing variety shows that I thought I had to keep appearing on them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I'd make the most of my talents on those, while having Shizuku and the others take the spotlight as actual idols.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Airi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "But I realized just now that I don't have to choose one or the other.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Because there are people out there who like seeing me do both of those things.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Either way, I'm still an idol.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "It doesn't matter how you do it. As long as you're doing your best to spread hope to others, then you're still an idol, Airi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "You're always doing your best as a singer, dancer and an enthusiastic guest on variety shows.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "That's why I admire you so much as an idol.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Come to think of it, Ayumi said...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "But what you just said about not being a pure idol...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b003101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(She might've been trying to tell me that I was getting the wrong idea.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Thanks, Len.\nI feel a lot better now after hearing what you just said. Also...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I'm kicking myself for jumping to such a foolish conclusion while knowing that plenty of people have been supporting me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But I feel like you're gonna become an even greater idol now after making that realization.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. Yes, I am!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "It's not going to matter where I work.\nI'm going to do my best for everyone out there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "As a singer, as a dancer and as a variety show star! I'm gonna keep evolving and become a super idol who can do it all!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hearing you say that puts such a big smile on my face, Airi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Good luck.\nI'll be right here cheering you on!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Alright...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Thanks, Len!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_idol_ed1",
+   "_kind": "Effect"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

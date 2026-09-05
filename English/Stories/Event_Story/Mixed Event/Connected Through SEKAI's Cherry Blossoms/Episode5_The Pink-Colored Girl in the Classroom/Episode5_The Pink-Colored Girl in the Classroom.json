@@ -1,0 +1,523 @@
+{
+ "title": "Mixed Event — Connected Through SEKAI's Cherry Blossoms — Episode5 The Pink-Colored Girl in the Classroom",
+ "meta": {
+  "Event": "Connected Through SEKAI's Cherry Blossoms",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode5 — The Pink-Colored Girl in the Classroom",
+  "Event Outline": "In the Empty SEKAI, Miku's words inspire a discussion among Kanade and the others about having a cherry blossom viewing party. Meanwhile, everyone in the other SEKAI is also planning ways to make the most of the season...",
+  "scenarioId": "event_54_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_f000904",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00342",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "???",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Where am I...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(I remember finding that fragment of a feeling on the rooftop...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(But I could've sworn that it flashed before I touched it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(Could it be that it's not the sort of fragment we're used to encountering...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(I can't say for sure, but I probably should investigate this place a little bit...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours earlier",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "School SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hmm... Not here either...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I'm not seeing any either.\nI guess it just means there aren't any in this SEKAI.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "No, there has to be some!\nThis is a school for pity's sake!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, there are quite a few other trees...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "None over on the north side either.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I was afraid of that...\nWe've looked once before too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Yes, but we didn't find anything that time either.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I suppose that means there just aren't any cherry blossom trees around here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Noooo!\nWhat kind of school doesn't have any cherry blossom trees?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Sorry, but there isn't much we can do about that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "But knowing that is a bit disheartening. I was really hoping that we'd be able to find some together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, me too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "It's unfortunate that there aren't any cherry blossoms here, but you can still show us the ones around where you live, right...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah, I know...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "It is unfortunate, but that seems to be our only option at this point.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Why the long faces?\nThere's no need to look so down...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yeah, we can always use your phones to pop over if we ever do want to see some cherry blossoms, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, right.\nLen, you didn't get a chance to hear what we were talking about before we started searching.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Huh?\nWhat were you guys talking about?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "We were wondering if there was a way for us to have a picnic under some cherry blossom trees over here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Huh...?!\nW-Wait, Ichika...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That was when Miku said, “Cherry blossoms are just like Luka.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh?\nThat's so nice of you, Miku.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I-It just sort of popped into my mind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe. But we all agreed with you, didn't we? Even on its own, a cherry blossom tree is a beautiful sight that you can stare at endlessly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, she has a point...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yeah.\nThat explains why you were looking so hard.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Exactly.\nOn top of all that, we wanted to show Luka some actual cherry blossoms.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "That's right. We thought Luka would look so pretty as she looked up at some cherry blossoms from underneath a tree.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, and picturesque.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, thank you all very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "And we can always have a picnic over on our side if it turns out that there aren't any in SEKAI...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "True. They're in bloom right now, so I'm sure you'll enjoy seeing some for yourself, Luka.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah...\nBut I was really hoping that we'd find some cherry blossoms here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "You're still dwelling on that, Saki?\nWe're still having a picnic together, so cheer up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But if you're trying to introduce your favorite band to someone you really care about, you'd want to go see them at a live house together, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Not the best example...\nBut I get your point...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "See? That's why I want us to see some together in the “same SEKAI”...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But wishing won't make any cherry blossoms sprout from the ground, so why don't we have a spring-like session instead...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, that sounds fun! Nice idea, Sakki☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I like it too!\nLet's do it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Alright, here we go!\nEveryone ready?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay, we should probably head back soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "We'll let you know when we find a good day to have our picnic!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Okay, thanks!\nSee you later!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "We'll be waiting♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(Cherry blossoms, huh...?\nI never really gave them much thought until now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "See? That's why I want us to see some together in the “same SEKAI”...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(I want to support those girls and their feelings as much as I can...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(So I'll keep looking.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Still nothing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Even around the gate and behind the school, I'm not seeing any such trees. That just leaves...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Rooftop",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(I should be able to see pretty far from here. Maybe, just maybe, I'll be able to find something...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(But this SEKAI just seems to be devoid of them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I really wanted to make Saki and the others smile, but I think I'm out of leads...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Wait, is that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "A fragment of a feeling...?\n*Gasp*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00092",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000904",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "???",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(This field seems endless...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(That tree's the only prominent feature...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(It looks like cherry blossom petals are falling from it, but I don't think those are actual cherry blossoms...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(But if that was really a fragment of a feeling, then this must be a brand-new SEKAI...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "(Let's go take a closer look...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

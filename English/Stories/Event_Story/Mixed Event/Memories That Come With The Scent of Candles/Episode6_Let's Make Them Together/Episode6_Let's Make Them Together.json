@@ -1,0 +1,753 @@
+{
+ "title": "Mixed Event — Memories That Come With The Scent of Candles — Episode6 Let's Make Them Together",
+ "meta": {
+  "Event": "Memories That Come With The Scent of Candles",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode6 — Let's Make Them Together",
+  "Event Outline": "Ichika and Nene aren't sure what to give for Valentine's Day. They ask Honami for some advice and decide to make some scented candles together. Meanwhile, Kanade, who has the same concern, also asks Honami for help...",
+  "scenarioId": "event_84_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Yoisaki Household - Kitchen",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Thank you for having us over, Ms. Yoisaki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Th-Thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Today really was a lot of fun.\nAnd thank you again for letting us use your house for this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Thank you as well. I'm happy that I was able to do this with all of you. I hope we meet again soon...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00044",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(For some reason, the house seems even quieter than usual now that everyone's gone...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(But I'm used to being alone here...\nWhy does it feel so eerily silent?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I know... I can try lighting the candle Hoshino gave me again. That might help calm my nerves...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Just light the wick and...\nYes, it really is beautiful...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_candle_2023_006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I wonder what Hoshino felt as she made this candle?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I can't say for sure, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(It feels kind and emits this gentle, flowery aroma... It's kind of like Hoshino...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm glad I got a chance to make these scented candles. I hope Miku, Len and the others like them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Oh, speaking of which...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Len seemed a little down that time...\nI wonder what happened...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Empty SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "(It's almost Valentine's Day...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "(But so much time has passed since I began thinking about what to do for it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "What should I do...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Ah, Len...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Good. I was just looking for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Kanade...?\nI-Is something the matter?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "So... I probably should've asked you this sooner, but you said something the other day that caught my attention...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "You also seemed a little down at the time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Which time...? Oh...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But I wish I could do something like Mizuki and the others...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh? Uhh... N-No, it's nothing serious...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I know you said it wasn't anything serious, but I'd like you to tell me if something is bothering you. I may be able to help...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "So, um... I was hoping to give Miku, you and the others some gifts for Valentine's Day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Gifts? For us...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yeah, because I heard that you're supposed to spend the day giving gifts to those who mean the most to you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "All of you have helped me so much, so I'd like to give back somehow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But I've been having so much trouble thinking of what to give...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Then, would you like to make some scented candles with me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Ms. Mochizuki... I mean, the housekeeper who I have cook and clean... She taught me how to make them earlier.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I can make them on my own now and still have materials left to make some more, so I can teach you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "That is, Len, if you'd like me to.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Y-You will? Are you sure?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Then... P-Please teach me...!\nI want to make everyone gifts for Valentine's Day!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay, then let's make them together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Yoisaki Household - Kitchen",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "That's about it. How do you feel? Are you ready to make one?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Y-Yeah...! I think...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Don't worry. If you have any questions, I'll be right there to answer them for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Still, I'm sorry that we couldn't make yours in SEKAI...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Unfortunately, I don't have any portable stoves in my house.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<N-No, that's okay.\nI'm happy just being able to make them with you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "You are? Then, I'll do my best to help you make yours... Again, feel free to ask me for help whenever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Then, shall we get started...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay, it's changing colors nicely...\nWe'll mix the wax a little longer, and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Um... Let it cool, so we can put in the scented oil next...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh... Yes, that's right.\nYou have a good memory, Len.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<H-Hehe...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Then, while we give it a chance to cool, why don't we pick out some fragrances?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Okay, umm...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "There's no need to think so hard.\nYou can just choose the ones you think are nice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Oh, really...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, but... If you still have trouble deciding, then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. In that case... Why not choose the ones that you like the most or suit the person receiving your candle?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, um... I was thinking about everyone who'd be receiving my candles, as well as which colors and flowers would suit them best...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000161",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "You could try thinking about the recipients of your candles.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<The recipients?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes... For example, you could think about what suits them best or will make them smile and such. That may help you find the answer you're looking for.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<I see...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "And if that still seems a bit too difficult, you can try remembering what everyone's like...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Okay... I'll try that...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<So, Miku, Rin, Luka, MEIKO...\nYou and everyone else...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Miku and the others aren't always together... They're separated most of the time, but they're always willing to help me whenever I get lost.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Not just Miku. Rin, Luka, MEIKO...\nThey're all really nice...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<So are you and the others, Kanade.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Us too...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yeah... There are times when you look like you're in pain, but you're always doing your best to try and save others...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Which is why I think you're all so kind. And that makes me want to support you in your efforts.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<So... I'd like to choose a gentle fragrance that feels warm and can help cheer you up...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<*Gasp*\nI'm sorry. I didn't mean to yammer on like that...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "No, that's okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Still, alright... A warm and gentle fragrance...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It smells sweet... And fruity... Apples?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes, I thought so too at first!\nApparently, it's chamomile, but it really does smell sweet and gentle like the way apples do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Then, let's try this one.\nIt's chamomile, but it smells like apples.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It has a sweet and fruity fragrance to it, which I also vaguely think has some warmth to it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Oh... O-Okay...! That sounds perfect...! I think I'll go with that...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hehe. Then, let's try using it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay, it's hardened. Your candle's all done, Len.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Len? Is something wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Oh, um... I just thought that it looks really pretty... Also, I'm amazed that it turned out so well...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Now... I can make candles like you and your friends, Kanade...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, and I'm sure everyone will enjoy your gifts to them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Kanade... Um... Thanks...\nI'm really happy that I have something to give now...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<I wouldn't have been able to do anything like this by myself...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "No, don't say that...\nYou were able to make this scented candle because you said that you wanted to and put in the effort, Len.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "All I did was help you a little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Thanks, Kanade...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Um... I really appreciate you teaching me how to make scented candles... And I'm really happy that I got to make one with you...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "With me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yeah. I think it's always fun when you get to do stuff like this with someone else.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Fun...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, I agree...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Oh, Kanade, before I forget...!\nPlease keep what we did today a secret.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Because... I want to surprise everyone with my Valentine's Day gifts.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay... Oh, in that case...\nPlease keep the fact that I made scented candles for everyone a secret as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "My plan is to also surprise them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<O-Okay...! Then, this will be our little secret.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

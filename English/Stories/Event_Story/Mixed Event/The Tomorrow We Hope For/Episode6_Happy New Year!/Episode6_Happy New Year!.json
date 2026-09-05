@@ -1,0 +1,663 @@
+{
+ "title": "Mixed Event — The Tomorrow We Hope For — Episode6 Happy New Year!",
+ "meta": {
+  "Event": "The Tomorrow We Hope For",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode6 — Happy New Year!",
+  "Event Outline": "When Haruka stops by the shrine along her usual running route, she sees the shrine maiden who was there for her in her time of need collapse. In order to repay her for her kindness, Haruka decides to help out at the shrine in her stead.",
+  "scenarioId": "event_45_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002504",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "New Year's Eve - 11:30 pm",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shrine Hall",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "We're here♪\nWhoa, this place is packed!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Yeah! Wow☆\nI just caught a glimpse of a bunch of food stalls too!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Rin, what are you doing?!\nYou can't just pop out like that!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Ugh. They won't see me as long as I'm in her pocket!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Sorry, Rin. We'll try to find a place where you can have a better look, so just bear with us for a bit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hm?\nIs something bothering you, Shiho?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "So, uh... Shizuku sent me a message saying that she's been volunteering as a shrine maiden here sometime tonight...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "S-She is?\nShizuku as a shrine maiden?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wait, won't this place get swarmed if people find out about that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "No, she said she has a disguise ready to cover her face. I'm just worried about what would happen if she sees me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku's Voice",
+   "Line": "Hm? I could've sworn that I heard Shii's voice just now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "That voice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Back in line, you guys. Try to blend in...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I feel like you should at least tell her you're here. Hm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hello, Hoshino, Tenma.\nOh, Hinomori, Mochizuki, you're here as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Thank you all for visiting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "No way!\nYou're here too, Haruka?! You look adorable as a shrine maiden!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I agree! It suits you so well...!\nYou look like a real shrine maiden...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. Thank you.\nSome things came up and we decided to lend this shrine a hand as MORE MORE JUMP!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I had no idea...!\nDoes that mean Minori and Momoi are here too?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yeah. They should be at reception right now. If you have some time to spare, why not go take a peek?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Airi's here too?!\nWe've gotta see this...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Hehe. You really can't get enough of her, can you, Saki? I mean, you just got her autograph the other day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I know, but I'm a huge fan!\nI watched the variety shows she was on all the time when I was in the hospital♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. That's great to hear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Why not go let them know that you're here? I'm sure they'll be happy to see some familiar faces. Also, Hinomori, Shizuku should be just over there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Thank you so much, Kiritani!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "You're welcome.\nAlso, it's dark out, so please watch your step.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "Reception",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Let's see... Hey, there's Airi!\nShe's the one selling charms and stuff!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I'm gonna go buy one!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Wait, Saki, don't run like that...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Okay, a ceremonial arrow, a traffic-safety charm and a talisman. I believe that's everything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Whoa, that was so fast...!\nShe's a total pro!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, it's like she knows exactly where everything is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Alright, next up... Oh?\nIs that you, Tenma?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Y-Yes!\nYou remember who I am, Airi?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Of course!\nHow can I forget?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh wow...! I don't know what to say...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "You went through the trouble of lining up, Saki. Why don't you get something?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, you're right!\nI'll get... A charm for good health!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "You got it.\nThey're pink and really cute, just like you, Tenma.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "And here you are!\nOne charm for good health filled with some of Airi Momoi's love♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Really?! Thank you so much!\nYou're the best, Airi...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "You're welcome. I'd love to stay and chat, but we're pretty busy tonight.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Thank you, Momoi.\nI hope you'll keep an eye on my sister during the new year as well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yes, of course!\nSpeaking of which, have you seen Shizuku yet? I'm sure she'll be happy to see you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Uh... Well, I don't want to be a bother... But I guess I should if you insist...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. Good!\nAnd good luck with your band!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki & Shiho",
+   "Line": "Thank you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "We're back!\nAiri's seriously the best! I like her even more now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Hehe. Good for you, Saki.\nWe still have some time, so why don't we draw some fortunes...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Good idea.\nIt's probably gonna be really crowded later if we put it off.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Okay...!!\nLet's head over!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I don't think people usually get this worked up over Omikuji.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "It's like she's going into battle or something...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "It should be... Oh, found it!\nLook, Hanasato's behind that counter.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Really?\nWhy don't we do our drawings there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Oh, I wanna see what I get!\nCan you draw mine for me, Hona?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<I'd like to see as well!\nHow about you, KAITO?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<I am a little curious...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Wait, won't it be weird if you drew fortunes for six extra people?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Oh, he's right. Why don't we just have one collective drawing instead? How would you feel about that, Honami?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "A-Are you sure...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, you can count on me!\nI promise to draw something good this time...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I-I'm worried about Honami...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<So am I...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Let's see...! #39!\nHere's your fortune. Next please.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Good evening, Hanasato...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hi, Honami! What a nice coincidence!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Alright, here's the Omikuji tube!\nI recommend shaking it a few times before drawing anything out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Okay... Here goes nothing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_prayer_2022_004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(H-Honami has such a stern look on her face! I don't think I've seen anyone take this so seriously...! Does she have a really big wish or something...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'll take this one! Please!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Okay, lemme see!\nUh... #66! That should be right over here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "A-Another “great curse”!! How?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00015",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00088",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "A... A “great curse”?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, I knew this would happen...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yeah, she's been jinxing it left and right...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(Wh-What do I do...?!\nI need to cheer Honami up somehow...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Don't worry, Honami!\nYou'll be rewarded as long as you keep trying your best! I'm sure of it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "H-Hanasato...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "H-How about you do another drawing...?! You'd still, unfortunately, have to pay for it, but I'm sure it'll be better than your last one...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "That's a small price to pay...\nOkay, #34!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_prayer_2022_004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Alright, here you are!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "A-Another “curse”...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "No, that's a good thing! That means you're improving! I'm sure you'll do even better if you keep trying!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, you're absolutely right! Again...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_prayer_2022_004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I don't think that's how these fortunes work...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I doubt it too...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I did it...! I got a “good blessing”!\nHanasato, I finally got one!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "C-Congratulations!!\nI knew you'd succeed as long as you kept trying!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehe. Hona's happy, so it's all good♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, I guess you're right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00100",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Thank you for waiting!\nI finally drew a “good blessing”!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Hehe. I can see that.\nOh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00153",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "The bell...\nIt's already past midnight.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "You're right.\nWhen did that happen...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I-I'm so sorry...\nWe missed our chance because I got so caught up in drawing a good fortune...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "No problemo!\nWe can just do it now. Ready...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Everyone",
+   "Line": "Happy New Year!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00116",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Now then, shall we go make our wishes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah!\nI'm gonna wish for a ton of stuff this year!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

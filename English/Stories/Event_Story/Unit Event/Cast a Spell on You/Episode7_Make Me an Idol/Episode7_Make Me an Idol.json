@@ -1,0 +1,688 @@
+{
+ "title": "Unit Event — Cast a Spell on You — Episode7 Make Me an Idol",
+ "meta": {
+  "Event": "Cast a Spell on You",
+  "Event Type": "marathon",
+  "Episode": "Episode7 — Make Me an Idol",
+  "Event Outline": "Having held their real-life event, Shizuku and the others feel that their bond with their fans has grown even stronger. While exploring ideas with their fans, one of them suggests making MORE MORE JUMP! stage outfits as their next endeavor!",
+  "scenarioId": "event_52_07"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b002101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few weeks later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Cheerful * Days Theater - Green Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Good morning.\nI'm looking forward to another wonderful day!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Leader",
+   "Line": "Morning, Shizuku!\nLet's start by getting changed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Let's make today another good one, my Enchantress.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Leader",
+   "Line": "Enchantress?\nYou gave your outfit a name, Shizuku?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, I'm sorry...\nI know it's strange.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "But whenever I wear this, I feel like I can become someone entirely different.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "It's an outfit that has the power to transform Shizuku, plain and simple, into an idol that really shines... Like an enchantress.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Leader",
+   "Line": "Hehe. Now I see.\nIt is a bit strange, but I understand how you feel.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Leader",
+   "Line": "We'll be wearing new outfits for our next song, so we might get to see a totally different side of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "New outfits...?\nOh, I see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(It's unfortunate that I have to say goodbye to this one, but I'm looking forward to what our new outfits can do for me...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "That went so well!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Leader",
+   "Line": "Great show, Shizuku!\nYou were amazing on stage today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Thank you!\nI'm glad that all of our fans enjoyed everything so much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Thank goodness...!\nI was able to do everything without letting my nerves get in the way. I have my outfit to thank for that.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Leader",
+   "Line": "We'll start working on our new song tomorrow, so let's keep doing our best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Right! I'll be looking forward to it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Oh, Shizuku.\nDo you have a minute?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Huh? Yes, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "I just received an offer for you about some work. If you don't mind, I'd like to discuss that with you now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "An offer for me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Yes, they seemed very eager to have you after seeing you perform on stage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "But... Isn't this offer more appropriate for a more senior member...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Leader",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Leader",
+   "Line": "You need to take these opportunities whenever they come your way, Shizuku! At the same time, you'll still need to practice our new song as we normally do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, thank you very much...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(They're making this offer because of how I performed on stage...? I don't know what to say...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hehe. It must be because of you.\nThank you, Enchantress.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shoot Location",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I'm Shizuku Hinomori. Thank you for having me today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Designer",
+   "Line": "Thanks for coming, Ms. Hinomori!\nI'll start by showing you what you'll be wearing today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(I never thought that I'd end up working as a model like this...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(I'm not sure if I'm suited for this...\nBut I have to do my best as a member of Cheerful * Days!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Designer",
+   "Line": "First, this one-piece...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, that's so lovely...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "It's simple but so elegant and mature!\nThe little frills are a cute touch too...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Designer",
+   "Line": "Hehe. Thank you.\nThis is sort of based on Cinderella.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Cinderella...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Designer",
+   "Line": "Yes, I'm sure you're familiar with the scene where her fairy godmother turns her rags into a beautiful ball gown.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Designer",
+   "Line": "I made this dress so that a girl can become someone different just by wearing it. A chance to become someone special.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "That's such a wonderful theme...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "My stage outfit does the same thing for me. It's like someone's casting a spell on me whenever I put it on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Designer",
+   "Line": "Wait, Hinomori, you too?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes. To tell you the truth, I wasn't all that confident about being an idol.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "But my stage outfit allowed me to become someone other than my usual self...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Designer",
+   "Line": "I see.\nIf that's the case, your outfit may actually be enchanted, Ms. Hinomori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Designer",
+   "Line": "With a kind spell that turns you into an idol.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "A kind spell...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hehe. You may be right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I promise to do my best during the shoot. I promise to show everybody just how wonderful this dress really is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I also want other girls to experience the beautiful magic that's been imbued in this dress...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b000903",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "A kind spell that turns me into an idol...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hehe. I remember now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Quite a lot happened after that and I became so entrenched in other things that I couldn't even put any thought into my stage outfits.) ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "(Back then, that outfit was really my saving grace in terms of being an idol.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "There must be a way for me to cast a spell like that on MORE MORE JUMP!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00213",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka Girls Academy - Rooftop",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Do we all have our designs ready?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah! I'm all set!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Same here!\nBut it wasn't easy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Your design was already that good before, so I can't wait to see how it turned out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "The same goes for your designs as well, Minori, Haruka♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I take it that you figured things out?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, I finally found the design I was looking for.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I've never actually designed an outfit like this before, so I'm not confident about how it looks aesthetically...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. Don't worry!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "If you really did figure out what “you want to convey”, then I'm sure it turned out great.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Airi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I mean, this is my first time too, so I had a feeling that you were thinking the same thing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "She's right. I'm really looking forward to seeing your design, Shizuku.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Me too! Me too!\nYou used to be a model too, so I have to think you have a talent for this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Thank you all very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Alright, I believe it's about time we started.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah! Let's make sure our stream puts a smile on everyone's faces!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku & Minori",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Thanks for waiting, you guys!\nIt's time for another MORE MORE JUMP! stream!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comment",
+   "Line": "<Finally!>\n<I live for this!>\n<Ready and watching!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. Thank you all for joining us again today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Remember how we talked about having a little design competition for our stage outfits during our stream the other day?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comment",
+   "Line": "<Yeah, I remember!>\n<Did you guys design something?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, I think we've all come up with something very nice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But it really wasn't easy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I daydreamed a lot about what I've always wanted to wear if I ever became an idol and thought I'd get some ideas really fast, but I couldn't think of anything good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comment",
+   "Line": "<Fan first, idol second.>\n<One of Minori's best qualities.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "You did come up with page after page of designs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, you have such a vivid imagination.\nCompared to me who only just figured out a design yesterday...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "As much as you struggled, Shizuku, I'm sure you managed to come up with something really good! I can't wait to see yours!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Me too. I'm sure we're all excited since none of us have seen any of our final designs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comment",
+   "Line": "<Really?!>\n<Let's see the rejects too!>\n<Show us! Hurry!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hehe. Seems like they're just as excited.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "In that case, let the games begin.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Ready, everyone! One, two...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori & Haruka",
+   "Line": "“MMJ's Stage Outfit Design Competition☆”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "song00004_off_f",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "song00004_off_f",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku & Airi",
+   "Line": "Yay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Let's start by explaining the rules.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "The four of us will be presenting a design for a stage outfit that we want to wear as MORE MORE JUMP! Once we've presented our designs, you'll get to vote for your favorite one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Comment",
+   "Line": "<Cool!>\n<I can't wait.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Our first presenter will be... Minori!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Okay! Everyone, I hope you're ready!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

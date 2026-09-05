@@ -1,0 +1,36 @@
+# Kagamine Len — Story Index
+
+- **Character**：Kagamine Len
+- **Unit**：VIRTUAL SINGER
+
+| type | detail | path |
+|---|---|---|
+| Main Story | VIRTUAL SINGER（20 eps） | Stories/Main_Story/VIRTUAL SINGER/ |
+| Card Story | 49 cards | Stories/Card_Story/Len/ |
+| Event Story | See Stories/Event_Story/ |  |
+
+
+## Main Story
+
+- Ch.1 Ep.4 Secret Practice
+- Ch.1 Ep.5 Because I'm Your Senpai
+- Ch.1 Ep.6 An Unusual Side
+- Ch.1 Ep.7 Sparkling Days
+- Ch.1 Ep.8 All-Out Show!
+- Ch.1 Ep.9 Cheer Up
+- Ch.1 Ep.10 A Blue Stage
+- Ch.1 Ep.11 On Stage Together!
+- Ch.1 Ep.12 MEIKO's New Menu
+- Ch.1 Ep.13 An Adult's Palate
+- Ch.1 Ep.14 A Step Towards Reconciliation
+- Ch.1 Ep.15 Let's All Sing!
+- Ch.1 Ep.16 Mascot Wonderland
+- Ch.1 Ep.17 Endings and Beginnings
+- Ch.1 Ep.18 A Show to Make You Smile
+- Ch.1 Ep.19 The Flying Show?!
+- Ch.1 Ep.20 The First Song
+- Ch.1 Ep.21 Painful Note
+- Ch.1 Ep.22 Right Here With You
+- Ch.1 Ep.23 Your Music
+
+https://storage.sekai.best/sekai-en-assets/scenario/profile/…（SEKAI master database + SEKAI Viewer 资源，官方文本）

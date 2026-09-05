@@ -1,0 +1,708 @@
+{
+ "title": "Unit Event — Someday, From the Depths of Despair — Episode6 Another Encounter",
+ "meta": {
+  "Event": "Someday, From the Depths of Despair",
+  "Event Type": "marathon",
+  "Episode": "Episode6 — Another Encounter",
+  "Event Outline": "Realizing that quite some time has passed since she first met Mafuyu, Kanade starts a conversation about it on Nightcord. As the others pry deeper into the story, Kanade recounts the beginnings of Nightcord at 25:00.",
+  "scenarioId": "event_47_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Hospital",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Groan...\nHuh? Where am I...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Honami",
+   "Line": "Gasp...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Housekeeping Center Rep",
+   "Line": "Mrs. Yoisaki! Kanade's awake!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "Kanade?! Oh, thank goodness...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "G-Grandma...?\nWhat's going on...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "And who are all these people...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "They're from the housekeeping service that I mentioned.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "I know you said that you'd be fine without them, but I couldn't help but worry... I took the liberty of asking them to go over to your house.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "You did...?\nBut why am I at the hospital...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Housekeeping Center Rep",
+   "Line": "We rang the bell to your house several times but thought you were away since nobody was answering.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Housekeeping Center Rep",
+   "Line": "That was when Honami here realized that you'd collapsed, Ms. Yoisaki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Honami",
+   "Line": "I'm sorry, it's just...\nIt sounded like someone had fallen over...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "You don't need to apologize.\nWe were able to help Kanade because of you, so I can't thank you enough.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "Still, I'm surprised to see a young lady such as yourself working as a housekeeper these days.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Honami",
+   "Line": "Oh, actually, I'm not working as of yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Honami",
+   "Line": "I asked my family if I could work part-time after entering high school, and they found an opportunity for me to observe with this housekeeping service through an acquaintance...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "Ah, that's very interesting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Housekeeping Center Rep",
+   "Line": "In any case, we were able to quickly call an ambulance because of Honami here. After that, we just needed the landlord to open the door for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Thank you very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Honami",
+   "Line": "No, you don't have to thank me. I'm just glad you're okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "It's clear to me now just how much you want to keep composing and making music.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "But you won't be able to one day if you don't stay healthy... Like your father...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "If something were to happen to you after what happened to him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00016",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "I... I wouldn't know what to do with myself...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "So please, Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "I want to ask a housekeeper from this service to cook and clean for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "Would you be willing to agree to that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Grandma...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(What happened to dad was my fault...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(That's why I have to keep composing. I have to make a song that can save people. Honestly, I'd rather be composing than wasting time dealing with a housekeeper.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00107",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(If I keep living like this, it's going to start affecting my ability to compose...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay, I'll agree to it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "You will?!\nOh, thank goodness...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Housekeeping Center Rep",
+   "Line": "Wonderful. We'll be in touch regarding when we can start sending someone over as well as scheduling.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "Oh, also...\nCould we request Honami to be our housekeeper once she does enter high school?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Honami",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Grandmother",
+   "Line": "There must be some meaning behind you two meeting like this. That is, as long as you don't mind, Kanade.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I don't mind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Honami",
+   "Line": "...!\nI'll gladly accept if I do receive an opportunity to work for this service.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "O-Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Honami",
+   "Line": "But for now, please make sure to get as much rest as you can after you do get home, Ms. Yoisaki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Thank you.\nI will...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm90040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kanade's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm finally home...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I need to get back to composing as soon as... Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Right.\nI didn't get a chance to upload the song I was working on before I collapsed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I should do that now.\nThis song should be able to save a lot of people...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "A lot of people...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(The way that person arranged my song...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Oh, interesting...\nThe chorus sounds completely different when it's arranged like this...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00120",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(They made it so the effects they put in really shine through and give the listener an opportunity to have all these different images pop into their head...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(This is incredible...\nIt's even helping me get a better idea of what I should do for my next song...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I'm getting a startling number of ideas for songs now.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(It's as if I could physically feel this sense of pure despair and not wanting to disappear.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Maybe with this Yuki person, I'll be able to do more...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I'll try asking them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(If I create a social media account and send them a DM asking them if we can talk...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00320",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Mafuyu's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00043",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(I can't motivate myself to do anything...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(But I have to keep going...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(Because I...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Someone left a comment for my video...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Who could it be...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00320",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Wait, is this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Kanade's Room",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00037",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, Yuki replied...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(<I'd like to work on making music with you as well...>\nThank goodness...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "<Thank you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(But how do we actually go about this. We could exchange files and our thoughts via email...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(No, trying to communicate nuanced ideas and finer details just through writing would be too difficult...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I know. What if we used something with voice chat?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I vaguely remember seeing a good app for discussing music and composition somewhere.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Let's see... It was called...\nOh, “Nightcord”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I'll see what Yuki thinks about using Nightcord, and send her a link to the app...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm90040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Mafuyu's Room",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I'm in...\nNow to wait until it's time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(Trying to make music on my own turned into another dead end...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(But maybe, just maybe...\nIf I work with the person who's had such a profound effect on me...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(I might actually be able to change...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(But it could still be another dead end...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00084",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(Oh, they're here...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000107",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Hello..?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Is this Ms. Yuki I'm speaking to...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000203",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(Her voice is so soft but she still articulates very clearly...) ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(So this is K...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(This is the person whose song shook my heart awake.)",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,688 @@
+{
+ "title": "Shinonome Akito — Post-Competition Feast〔Part2〕Side Story (Part 2)",
+ "meta": {
+  "Character": "Shinonome Akito",
+  "Card": "Post-Competition Feast（4★）",
+  "Part": "Part2 — Side Story (Part 2)",
+  "Event": "Get Fit & Fly! Muscle Training!",
+  "scenarioId": "011038_akito02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e001003",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shinonome Household - Living Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Akito & Ena",
+   "Line": "Let's eat.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Let's eat.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "What do you think? I tried seasoning and breading them a little differently this time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Mmm... Juicy and delicious.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, this is good...\nBut I asked for fish today, since you've been pandering to Akito lately by making all those meat dishes for him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "Hehe. They were having a sale, so I couldn't help myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Another meat dish tomorrow would be nice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "That's where you and your father are so alike. When we were younger, he did quite a lot of manual labor, so he always asked me to make him these hearty meals.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "Come to think of it, his agility and dexterity were also very good. We went camping for one of our dates, and he caught a fish with his bare hands.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What? Like a bear...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "I managed to corner it, which made it easier to catch.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "And he did that during a date?\nWas that actually any fun for you, Mom?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "Oh, neither of you would be sitting here right now if I didn't enjoy being around him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Think you can still move like that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Depends... But that obstacle course you said you did is likely beyond me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I mean, that thing was designed to be stupid hard...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Actually, I heard that they made it a lot easier after the event so that kids could play on it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(A couple people have been bugging me to take them, so I guess we can all go check it out.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a006701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Nonogi Park Obstacle Course",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, this is it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Wow, cool!\nIt's really that obstacle course!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It's also my first time here. This area's quite spacious, isn't it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, look over there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Hurry, Daddy! Jump!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "I will in a second.\nI'm not as athletic as all of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "They look like elementary schoolers.\nHow are they able to maintain their balance on those thin planks above the water...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<That looks like fun!\nLet's go over there first, Akito!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I know that Toya doesn't like heights and Kohane isn't all that athletic, but that bridge shouldn't be much of a problem for them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Then, let's go with Len's suggestion.\nWe'll try crossing the wobbly bridge.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An, Kohane & Toya",
+   "Line": "Okay!\nYeah!\nSure.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright...! Hup!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00775",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00776",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin & Len",
+   "Line": "<Whee!>\n<Woohoo!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<That was amazing, Akito!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<It felt like we flew across the water just now!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I'm glad you both enjoyed it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "How do you feel, Toya?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<It's okay to put away your phone if you need to free up your hand, Toya.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<You're worrying too much, MEIKO.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Just follow the advice Akito gave you a second ago, Toya. It should be easy to maintain your balance as long as you jump from the center of the plank.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Right...\nThen, let's go...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "You can do it, Aoyagi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Hup!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00777",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Whoa!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00779",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...!\nI did it! I made it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Cool!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Nice...!\nYou just gotta jump once more to get to this side.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Alright, I'm next!\nReady, Luka, KAITO?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka & KAITO",
+   "Line": "<Ready!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Takeoff!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00778",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka & KAITO",
+   "Line": "<Yay!>\n<Whee!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00779",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wow! Th-That was so cool.\nYou were as light as a feather...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Join me, Kohane!\nDon't worry! I'll make sure to catch you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay...!\nH-Here goes...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wait, lemme put my phone away first...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "——Nothing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00775",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<She jumped!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wait, she jumped way before the end!\nShe might just barely make it to the other plank...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00779",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "O-Oh nooo!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00773",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka & KAITO",
+   "Line": "<Whoa!!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a006701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Phew... Thank goodness...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<An, your phone!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "H-Huh?!\nWhere'd my phone go?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO's Voice",
+   "Line": "<Look up!!!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<We're falling!!!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Help us!!!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a006701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh no! I threw it up into the air by accident!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<No fair! I wanna do that too!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "No way!\nToya, hold my phone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "O-Okay...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00777",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00778",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Don't tell me...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "He plans on catching it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00775",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00776",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(A little more to the left! But I'm running out of space to stand...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00777",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00602",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Got it!\nLuka, KAITO, are you still with us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00779",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Nice catch, Akito...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<We're okay! We're still here!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm so sorry, Luka, KAITO!\nI didn't mean to...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "No, it was my fault for throwing my phone into the air...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<It's okay!\nAs startling as that was, it ended up being quite thrilling♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<To be fair, even if we did fall we would just return to SEKAI. There was no actual risk of us getting hurt.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You sure shouted “Help us!!!” loud enough, for people who weren't in any danger.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "If anyone else were here, they'd also have heard you guys.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Haha. I couldn't help it.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Still, Akito, that was a magnificent save! Your training has really done wonders for you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I can't believe how quickly you were able to cross that plank and catch her phone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Thank you so much, Akito!\nI promise to pay you back sometime!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It's no big deal.\nBut some juice might be nice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

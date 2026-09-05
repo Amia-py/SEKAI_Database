@@ -1,0 +1,378 @@
+{
+ "title": "Shinonome Akito — Flame Passed On〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "Shinonome Akito",
+  "Card": "Flame Passed On（4★）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "Burn My Soul",
+  "scenarioId": "011030_akito01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "WEEKEND GARAGE",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "♪——————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Akito, let's take a break here...\nYou're going to lose your voice at this rate.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huff... Huff...\nOkay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Here, have some water.\nTry to cool yourself down a little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh, thank you...\nBottoms up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00240_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Phew...\nThank you. I feel a little better now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Okay.\nThat's good to hear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Sorry for only being able to offer you water. Under normal circumstances, I'd be making you some coffee while you took a break...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "No, I really appreciate this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Ken's coffee...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(We used to drink coffee, have food and throw after-parties here...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Akito...?\nYou there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh, um... Sorry.\nIt's nothing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I was just remembering what this place was like when it was still open. Like where the tables used to be and stuff like that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "I see.\nAs the owner, I couldn't be happier hearing a valued customer say that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Come to think of it, Akito, you're one of my oldest customers. You came when I first opened up shop, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh, yes... I had heard the rumors about KEN from RADder opening his own business.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Heh, that takes me back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Me too...\nThat day, I remember...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00035",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few years earlier",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Hey, welcome.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Akito",
+   "Line": "(Whoa, it's really KEN...\nAnd he's right in front of me...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Sorry, all the tables are full...\nIs the counter okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Akito",
+   "Line": "Oh, um... Yes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Alright, let me know when you're ready to order.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Locals",
+   "Line": "Ken! Can we get another pizza and some refills?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Locals",
+   "Line": "Us too! Give us everything you've got!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Hey, aren't you guys going a little overboard...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Locals",
+   "Line": "Don't say that!\nWe're all here to celebrate!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Locals",
+   "Line": "Yeah! I mean, you started your own business? How cool is that? You expect us not to celebrate?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "I appreciate it, but try to celebrate responsibly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Sorry about them, kid.\nThey're usually not as raucous.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Akito",
+   "Line": "N-No, that's okay...\nI didn't realize you'd be so busy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Yeah, I've been on my feet the entire day. But it's nice to see that business is off to a good start.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Akito",
+   "Line": "I see...\nOh, um...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Akito",
+   "Line": "K-KEN...?\nCongratulations on your grand opening...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Hey, I really appreciate that.\nAs thanks, have a drink on me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Akito",
+   "Line": "Wait, really?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Of course.\nCall me over when you know what you want.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Akito",
+   "Line": "O-Okay!\nThank you very much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "You were so nervous and anxious that I couldn't help but smile. You weren't the person I expected from the rumors I heard.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wait, what...?!\nPlease don't make fun of me like that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Also, what rumors...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Oh.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "I remember people talking about “this Akito Shinonome kid who's been picking fights with everyone”...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "I was surprised to find out that kid who came into my shop was you. You were so quiet and kept looking at the floor. I figured you must be the type to change gears easily.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "C-Cut me some slack...!\nHow was I supposed to act in front of my hero...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Haha. Thanks for calling me that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "I'm sorry for pushing your buttons, Akito.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "I can't offer much, but come back for another free drink when all this is over and I've opened this place back up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I will...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

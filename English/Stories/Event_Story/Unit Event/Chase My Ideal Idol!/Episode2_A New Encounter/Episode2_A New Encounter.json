@@ -1,0 +1,633 @@
+{
+ "title": "Unit Event — Chase My Ideal Idol! — Episode2 A New Encounter",
+ "meta": {
+  "Event": "Chase My Ideal Idol!",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — A New Encounter",
+  "Event Outline": "MORE MORE JUMP! receives an offer to appear at Idol Lovers Festival, the big break for many young idol groups. During rehearsals, Airi is shocked by the performance of another group...",
+  "scenarioId": "event_138_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_b002001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few weeks later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Joint Rehearsal Venue",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Th-This is where we're having our joint rehearsal?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I guess these are all the idols who are going to be performing at Idol Lovers...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "So many in one place. This is incredible.\nI'm even seeing some faces that I recognize from TV.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "S-So many famous idols in one spot... I-Is it really okay for someone like me to be here...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "But you're a famous idol in your own right now, too, Minori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Still, I think I'm in the same boat as her this time around. Seeing all these established groups in one place is pretty overwhelming.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yeah.\nThey each have a distinct aura to them, you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "What's up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Mr. Hiiragi's over there...\nI think I'll go say hi to him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "In that case, why don't we all take this opportunity to go over and greet him?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "What?!\nGreet him?! But he's the producer that made ASRUN!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Wh-Wh-Wh-Wh-What am I supposed to say...?! Should I start by thanking him for turning Haruka Kiritani into a super idol...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I wouldn't based on why you're here right now. You'd probably really confuse him if you did.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. I want to introduce all of you to him, so let's go over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00172_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hello, Mr. Hiiragi.\nIt's been quite a while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Kiritani? It has been a while...\nI'm glad to see that you're doing well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I never thought that my group would end up performing with your new group like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Me neither.\nThis wasn't quite how I expected us to meet again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Anyway, I'd like to take this opportunity to introduce you to everyone in MORE MORE JUMP!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "N-N-Nice to meet you...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Haruka's told us all about you, Mr. Hiiragi.\nWe're looking forward to working with you very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Thank you for taking the time to do this.\nI also look forward to working with all of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Also, Mr. Hiiragi...\nThere's something I've been meaning to tell you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Haruka?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I know I ended up causing you a lot of trouble after I made my decision to leave ASRUN.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But everything you taught me when I was still a member has had a big impact on my life. Even now, your knowledge serves as a guide for my work.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I really can't thank you enough.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Haruka...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "I see you're still as polite as ever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "But you don't need to thank me.\nAfter all, you're no longer a member of ASRUN. Now, you're Haruka Kiritani from MORE MORE JUMP!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Right.\nBut we really are looking forward to working with you on this performance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saito",
+   "Line": "So, if it's possible, we'd like to greet everyone from ReLight as well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Oh, in that case...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Wow, it really is MORE MORE JUMP! Nice to meet you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "I watch your streams all the time!\nAlso, I was so moved by the way you made those bookmarks for everyone on “The Town Revitalization Team!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Y-You're...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Slow down, Akari.\nYou haven't even introduced yourself yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chiharu",
+   "Line": "Sorry about that.\nI'm Chiharu Tsubaki from ReLight. This is Yu Hagiyama.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Yu",
+   "Line": "Nice to meet you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chiharu",
+   "Line": "And Miss Sunshine here is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akari",
+   "Line": "Oh, I'm Akari Enosaki!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akari",
+   "Line": "Sorry if I startled you guys.\nI just got so excited after seeing that you're really here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I-It's them...\nIt's really ReLight...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chiharu",
+   "Line": "So, there's actually four more of us, but they're all getting ready somewhere else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "Excuse me, Mr. Hiiragi?\nWe have that meeting soon and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Oh, is it that time already?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hiiragi",
+   "Line": "Sorry, but you'll have to excuse me here.\nBe on your best behavior, Enosaki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akari",
+   "Line": "Oh... Sir, yessir...!\nTake care, Mr. Producer!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(They seem pretty nice as far as I can tell.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(I guess those rumors about their agency doing all the heavy lifting and them not having the best personalities were just that. Rumors.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Thank you for coming over to introduce yourselves. Also, we weren't sure you'd recognize us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akari",
+   "Line": "Of course we recognize you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akari",
+   "Line": "Also, please stop being so formal!\nYou're our seniors when it comes to being idols!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "S-Seniors?! No, but...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We'd like to keep things friendly as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Incidentally, we were just talking about how we stand to learn a lot from such a famous group.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "You're all so good at singing and dancing...!\nI get so excited every time I see you on TV!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yu",
+   "Line": "Our performances get you that excited...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chiharu",
+   "Line": "Thank you for saying that!\nThat's actually what we're going for as idols!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akari",
+   "Line": "Everyone, including our producer, has been saying how we still need a lot of work...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akari",
+   "Line": "But we want to become idols who can make people all across Japan smile through our singing and dancing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "All across Japan...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akari",
+   "Line": "We've been putting a ton of effort into our singing and dancing, so we couldn't be happier to hear MORE MORE JUMP! praise us like this since you're basically our heroes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akari",
+   "Line": "We believe that we have a lot to learn from you as well. We're really looking forward to performing with you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, likewise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Through their singing and dancing...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(That sounds like us...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Staff Member",
+   "Line": "Thank you for your patience!\nWould everyone from ReLight please join us on the stage? We'd like to do a quick run from the top!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yu",
+   "Line": "Oh, that's us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chiharu",
+   "Line": "Right, we're up first.\nLet's go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akari",
+   "Line": "Please watch if you have time!\nWe promise to do everything we can to make our joint performance the best show ever!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, we will.\nBreak a leg!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00525_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I didn't know ReLight would be taking the stage first.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Me neither. I know this is just a rehearsal and not the real thing, but I'd be so nervous if I were them!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Me too!\nMy heart would probably explode if I were in their shoes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00066",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, they're starting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Their expressions...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akari",
+   "Line": "Let's go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chiharu",
+   "Line": "♪——————!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yu",
+   "Line": "♪——~~!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "W-Wow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yeah, the expressions on their faces when they started... It's hard to believe that they're the same people we just talked to.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "It's like they were able to pull everyone into their world the second they took the stage...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I've seen them perform on TV many times before...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But this is unreal.\nI can't take my eyes off them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(I can't believe they're able to do this live...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Idols",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Everyone's totally awestruck.\nThe way they're making eye contact with the audience and using their fingers...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(The expressions they're making match the lyrics so well. No, it's not just that... Everything they're doing is perfect.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Akari",
+   "Line": "Everyone, including our producer, has been saying how we still need a lot of work...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Who can say that they still need a lot of work...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(They're idols through and through...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b000804",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b002001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Exactly like the ones I looked up to since I was little.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

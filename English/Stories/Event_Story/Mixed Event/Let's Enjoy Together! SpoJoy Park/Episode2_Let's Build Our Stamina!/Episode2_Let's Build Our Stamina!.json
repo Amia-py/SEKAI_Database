@@ -1,0 +1,768 @@
+{
+ "title": "Mixed Event — Let's Enjoy Together! SpoJoy Park — Episode2 Let's Build Our Stamina!",
+ "meta": {
+  "Event": "Let's Enjoy Together! SpoJoy Park",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode2 — Let's Build Our Stamina!",
+  "Event Outline": "Kanade's fatigue has been catching up to her as of late. Worried that it might affect her compositions, she decides to put effort into building her stamina alongside Ena. They hear that a new sports facility called SpoJoy Park just opened near the station...",
+  "scenarioId": "event_63_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka Girls Academy - Class 1-A",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Humhumhuum♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I accomplished my goal of running 3 km yesterday, so I've gotta keep it up and keep training!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But Haruka does two 5-km runs every day in the morning and evening... I really hope that I can run like her someday!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00200",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Don't stress too much, Minori.\nAfter all, you can't become an idol in a day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00089",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yes, Haruka!\nI'm gonna take it slow and go at my own pace!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Wait, is it okay for me to go so slow...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Minori, were you just talking to yourself?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Good morning, Minori!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, Shiho, Kohane!\nGood morning!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "The thing is, MORE MORE JUMP! is scheduled to do a solo show, so I've been trying to increase my stamina!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Really? A solo show? That's pretty amazing. Shizuku hasn't said anything about that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm sure she would've told you when things were more or less set in stone. Oh, she may've been waiting to surprise you too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh no! Does this mean to ruin her surprise! Wh-What should I do...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I know!\nShiho, would it possible for you to act like you didn't hear any of this...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I really don't think that's going to be necessary.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. Still, Minori, I can't wait to see all of you perform.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hehe. I'll let you know once we have a date set. Until then, stay tuned!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, of course!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Shizuku's probably not going to leave me alone if she sees me, but it is your very first solo show as a group...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yay! Thanks!\nIf you're all gonna come see us, then I need to keep trying more and more!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "For now, I'll work on getting myself to be able to run 3 km every morning and evening!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Every morning and evening...?\nTwice a day?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yup! Haruka said she does it every day, so I also decided to start running the other day!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But I was only just able to run 3 km yesterday evening...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "No, that's still really impressive!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, I mean, just running 1 km sounds tough since you're just starting out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "So why not just take it one step at a time? I feel like endurance training is more about making it a routine as opposed to pushing yourself really hard.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Thanks!\nI'll try to take it slow and not push myself too hard!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Still... Having more stamina...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I get really exhausted while singing sometimes, so maybe I should start exercising too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Come to think of it, Saki mentioned something about a new indoor sports facility opening up by the station.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "She said it's called “SpoJoy Park”, I think?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, I heard about that too...!\nIt's the place where you can play soccer and tennis and ride around on rollerblades, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "What?! That sounds super fun...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(SpoJoy Park...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(It could also be fun to do a stream there. I'll bring it up as an idea for a segment the next time we meet...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Minori's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "One, two, three, four...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Alright, I'm all stretched and ready to go! I'm gonna do my best during my jog today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But what's my route gonna be?\nI could go by the park and the station... Wait, I almost forgot!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Ichika said she'd be doing a street performance down by the station today! I should stop by once I'm done jogging!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hehe. I can't wait!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Nonogi Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Kanade, are you okay...?\nWanna take a quick break?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I-I'm okay...\nWe just got started...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Are you sure? Don't push yourself too hard, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I thought walking would be better than jogging since I'm with Kanade, but is this still too much for her...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(And it's really hot out today...\nMizuki egged us on to do this, but maybe it wasn't such a good idea.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(But I think I have gained a little weight, so I really should exercise...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "*Sigh*\nLet's walk in the shade to make sure we don't get sunburnt.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "And this is your first day, Kanade, so you should take it easy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huff... Huff... But I need to build my stamina...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Maybe I'll keep walking a little more since you're so motivated, Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Look, this way has more shade.\nIt should be a bit cooler, so wanna go together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "O-Okay...\nThank you, Ena.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00143",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Phew...\nWe're finally at the center of the park.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, there's a lake over on the other side. The way the sunlight's being reflected off the surface is so pretty... It might be nice to try drawing a scene like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I honestly didn't see myself going out for a walk on such a hot day, but it's a nice change of pace.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What do you think, Kanade?\nIsn't it...? Hm? Kanade?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "K-Kanade...?\nShe was right next to me a second ago. Where could she...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh no!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Kanade, are you alright?\nHang on. If you're not feeling well...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, I'm okay...\nI just stopped to take a break. I was surprised by a cicada that came flying towards me and I fell as a result.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "R-Really...?\nBut you fell, right? Are you okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, I feel fine.\nStill... My legs are starting to get fatigued. ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, we've probably walked at least a kilometer now. Considering your usual lifestyle, I think you've done really well, Kanade.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "So let's not overdo things today and try again when it's cooler out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay, sure...\nEna, thank you for...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Oh, you're done already...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh? Luka?\nWhat are you doing here all of a sudden...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Hehe. This isn't something you normally do, right? It seemed interesting, so I decided to take a look♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I'm not sure “interesting” is the right word...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Also, we were just about to call it a day since Kanade looks pretty exhausted.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Really? That's too bad. Even after I came all this way to give you some encouragement.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Encouragement...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000090",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<I'm here to support Ena too...\nBut Kanade, you dread exercising, but decided to try it out as a way to help you focus on composing, yes?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<You have noble intentions, so doesn't it seem like a waste to stop here?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, I see your point...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I get what you're trying to say, Luka, but I really think we should call things here for now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I mean, we've already walked a kilometer!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "A-Although, it probably wasn't as hard as it could've been because we took so many breaks...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hey, we get an A for effort!\nThis wasn't easy for me either!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Okay, but it's still unfortunate...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<I'm looking forward to seeing what kind of song Kanade composes after she increases her stamina.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "You say that, but what she composes won't drastically change, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Still, I started exercising for the sake of composing songs, so I'd like to do it right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "W-Wait, Kanade!\nI know composing is important to you, but you really shouldn't push yourself too hard! We can go for another walk whenever, can't we?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Huh? Hang on. Is that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hanasato...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, Kanade, Ena, I thought it was you two! Hello!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hello.\nUm, Minori... You helped Kanade out the other day, right? I really should thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "No, I didn't do anything special!\nI just happened to bump into her while I was out for a jog...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But it's great to see you again, Kanade!\nWere you two out for a walk together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, so I can keep composing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "So you can keep composing...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, so... The thing is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Wait, you want to increase your stamina?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, we're the indoorsy types, so we thought it might be good to go out for walks every once in a while...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "But I think we overdid it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Sorry, Ena.\nAfter you agreed to do this with me and everything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "No, it's okay.\nI mean, it's just so hot out today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Right...\nI could keep going a little more if it weren't for this heat...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "In that case, why not try SpoJoy Park by the station?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "SpoJoy Park...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah, it's this sports facility that opened just the other day! You're supposed to be able to have fun while playing all sorts of different sports from common to really uncommon!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "And it's indoors, so you can avoid the heat!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, I had no idea that a place like that existed...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Exercising while avoiding the heat sounds nice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "And we can have fun while we do.\nI guess, why not?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "...!\nIf it's alright with you two, do you want to go all together now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I've also been trying to build up my stamina and I'd like to take a look around since I'd like to possibly do a MORE MORE JUMP! stream there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hmm...\nIt'll be nice and cool inside and it does sound fun...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What do you think, Kanade?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, I'm okay with it...\nThat is, if it's okay with you, Hanasato.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yay! Thank you so much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, before we go, there's somewhere I'd like to stop by first...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Stop by? Where?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Outside the station",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Let's see... It should be around here... Aha!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What's going on?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "——♪ ——♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Wait, that voice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

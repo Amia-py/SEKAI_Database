@@ -1,0 +1,418 @@
+{
+ "title": "Otori Emu — Fishing Before The Storm〔Part2〕Side Story (Part 2)",
+ "meta": {
+  "Character": "Otori Emu",
+  "Card": "Fishing Before The Storm（4★）",
+  "Part": "Part2 — Side Story (Part 2)",
+  "Event": "Desperate Times?! Island Panic!",
+  "scenarioId": "014017_emu02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a004501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Backstage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Are you all ready to rehearse?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "After we got off that island, we've been scrambling to practice and get ready, but we finally made it to this point.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, and Robo-Nene was also able to receive some much-needed maintenance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Thank goodness you got looked at before you got all rusty, Robo-Nene♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "Yes. I was afraid that I'd have to change my name to “Robo-Nene the Rust Bucket”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hehe. We wouldn't want that to happen, now would we?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah. We like you the way you are, Robo-Nene!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, everyone! I know we usually don't, but we're going to give this rehearsal everything we have!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Okay, we get it.\nThere's no point in rehearsing unless we treat it like the real thing, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Precisely!\nAnyway, we're on standby!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay! Oh, I'm gonna move over there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "*Gasp*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Shosuke! Wait, Keisuke, you're here too?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Ah, there you are.\nHow's your rehearsal going?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We're just about to get started☆\nI'll be appearing from over here♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "I see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I didn't know you were coming to Okinawa too, Keisuke!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Oh, I rushed over as soon as I received word that you all became stranded...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "But I'm glad to see that you're neither hurt nor ill.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup! I'm so full of energy that I can't stay still☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Also, I really can't wait to show you our show♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "I see. As usual, you seem to be in as good a mood as ever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Wait, where did that come from...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "I was just describing what I saw.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Oh, um... Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Anyway, since your rehearsal's about to start, we should probably move somewhere else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "We're leaving the show in your troupe's hands, Emu. Give it everything you have as per normal.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We will! We're gonna do our best to make sure the audience smiles from ear to ear!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Alright.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shosuke's Voice",
+   "Line": "So, about what we were discussing... Everything that happened during this voyage was all my fault...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "I wish I'd checked the weather forecast more closely and learned more about the surrounding islands beforehand...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "I was far too hasty with my preparations and wasn't able to deal with the inclement weather as a result. And I ended up putting everybody's lives in danger...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Shosuke...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "I have no excuse for what happened this time around. I'm prepared to take full responsibility for what happened.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Shosuke...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Take responsibility...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(But he's an adult... And the managing director... Even if I tried to say something, he'll probably just...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, I almost forgot!\nKeisuke, Shosuke, listen♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Emu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Huh? You're still here...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe! There's something I forgot to tell you, Keisuke!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup☆ Guess what? We got to do some fishing when we were aboard the cruiser! And then, I felt something really big get caught on my line!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I tried to reel it in, but it wouldn't budge at all! That was when I had Tsukasa help me out...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And it turned out that we were trying to reel in the Earth☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Emu...\nShould you be getting ready to rehearse instead of telling us that story...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, also!\nWe decided to have some sandwiches for lunch and all these seagulls started flying towards us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Then, Robo-Nene used her angry eyes to scare them off and we got to eat our sandwiches in peace!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "After that, Rui got really seasick...\nI think it was because he was reading the whole time, but we all did our best to make him feel better!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So, we all had a lot of fun on the cruiser!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And Shosuke worked really, really hard to fix the radio while we were on that desert island! That's why we were able to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wah! Shosuke, my hair's gonna be a mess...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Quiet, you. I know you'll have time to fix it before you go on stage. Also, what's a kid like you doing trying to cover for an adult?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Emu, did you have fun during this trip?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup...! It was super duper extra fun!\nI'm sure Tsukasa and the others will say the same!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa's Voice",
+   "Line": "Hey, Emu!\nThe rehearsal's about to start!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Sorry, I've gotta get going!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "We'll have a chance to discuss all this later, but at the very least, you all seem to have enjoyed yourselves very much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "I'm glad for you, Shosuke.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Me too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

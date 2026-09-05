@@ -1,0 +1,713 @@
+{
+ "title": "Mixed Event — close game/OFFLINE — Episode3 An Unexpected Rival",
+ "meta": {
+  "Event": "close game/OFFLINE",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode3 — An Unexpected Rival",
+  "Event Outline": "Nene finds out there will be a gaming tournament taking place at an arcade, and decides to participate in hopes of winning the grand prize. But just around the same time, Toya is also thinking about participating...",
+  "scenarioId": "event_66_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a004901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Wh-What are they doing here...?!\nThey don't seem like the gaming type...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Th-This might get awkward...\nI'd prefer it if they didn't recognize me...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hm? Hey, they seem really familiar...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, it's Tsukasa's friends!\nRight, Nene?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? E-Emu, wait!\nNot so loud...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hey, wait...\nAren't you in Tsukasa and Rui's troupe? Don't you guys do shows together...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Kusanagi...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "H-Hi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hello!\nYou're Tsukasa's friends, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'm Emu Otori!\nIt's really nice to meet you☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I wouldn't call us friends.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Nice to meet you. My name is Toya Aoyagi. I've had the pleasure of knowing Tsukasa since we were both very little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Nice to meet you. I'm Akito Shinonome.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Akito and Toya. Got it☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hm? Something seems different. I could've sworn that you were smiling while greeting us just now, Akito...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "That's sorta just the way he is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Still, Kusanagi, I wasn't expecting to see you at this tournament. Do you like playing video games as well?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Y-Yeah, there's that...\nBut I also want to win the tickets that are included as the prize.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Interesting.\nAs it so happens, we're also after those tickets.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait, you guys too...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, because there's a famous team performing at that event, and it's always very hard to get tickets to see them. They'll be performing on the main stage it seems.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "They're top-line performers, so we want to see what kind of show they put on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Right...\nBecause you and your team also sing and perform.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "However, this means we'll have to compete against each other for those tickets...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "That makes us rivals...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, it does. Let's both do our very best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Okay, that's all of our participants!\nNext, allow me to explain the rules for this tournament!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00052",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Man in the Audience",
+   "Line": "Yes, here we go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Homemaker in the Audience",
+   "Line": "Good luck, everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "We're The Best A",
+   "Line": "The other teams look pretty weak.\nJust what you'd expect from an arcade that no one goes to.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "We're The Best B",
+   "Line": "Yeah, and we probably won't have to do “the thing”...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(They're We're The Best, right?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(What did they mean by “the thing”...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "We've prepared three games for this tournament and your team will earn points based on where it ranks for each one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "The team with the most amount of points in the end will be declared the winner!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "That makes sense.\nSimply put, winning is the best way to earn points.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah. We still don't know which games they're gonna throw at us, but we just gotta do what we can to win.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "It's all about to begin, Nene!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, we gotta do our best...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Also, three games...\nThe question's gonna be which ones...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(But this is a gaming tournament, so I've gotta think they'll have us play something that involves PvP. That means we have a decent shot at winning, especially if fighting games or shooters are chosen...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "We will now be announcing the games that will be played during this tournament! Our first title is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "“Print Stickers”!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene, Toya & Akito",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Print Stickers...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00015",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wait, why...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yay, this is gonna be great!\nAnd super fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Um, excuse me...\nCan I ask a question?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You just said, “Print Stickers”...\nAre you talking about those booths where you take pictures and draw all over them?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Yes, exactly! They're all the rage primarily amongst high school girls because of how you're able to edit your own pictures by giving yourselves larger eyes and such!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Does this mean there's also some sort of player-versus-player function built in...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Dude, there's no way...\nAt least, I don't think so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Muscles Are Everything A",
+   "Line": "H-How are we supposed to compete using pictures...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "We're The Best A",
+   "Line": "It's not even a video game!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(They're right...\nI'm having a hard time wrapping my head around this one...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Homemakers in the Audience",
+   "Line": "Oh, Print Stickers.\nI remember those. We used to do them all the time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Homemakers in the Audience",
+   "Line": "Same here. I remember customizing my student ID holder and trading stickers with my friends. Back then, you didn't have many background options...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Th-They're not bothered by this at all...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "I'm sure many of you are surprised, but I'd like all of you to try out as many different things in this arcade as possible during this tournament!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Furthermore, this arcade has booths where even male patrons can feel right at home, so please be sure to check them out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Now I get it. It's a way to promote the arcade as a whole albeit a bit crude...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you for giving us a full rundown. Now, how exactly are we supposed to compete against one another?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "The team that takes the picture with the most “likes” from the judges will be declared the winner.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "The judges include three members ranging from a high school girl to a homemaker with seemingly different tastes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "It will be your job as participants to take pictures that make them think, “Oh, I like that!”\nAgain, the team with the most points will be the winner.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "So, let's begin!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00052",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Whoa, wait... Right now?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Woohoo! Print Stickers! It's been ages!\nLet's go, Nene♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "E-Emu, wait!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Look at that!\nThe Wonderhoy Button Mashers are already headed towards one of the booths!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "*Sigh*\nThis isn't exactly my thing, but I guess we don't have a choice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hey, what's wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The thing is... I've never made any Print Stickers before...\nDo you think we still stand a chance...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Dude, don't let that bother you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I don't have much experience with this stuff either. I mean, I don't know anything about editing pictures or making them more buzz-worthy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Right...\nThen, winning the first round may be difficult for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I know it's just a game, but Toya's been looking forward to this tournament because we'd get a chance to play a bunch of different stuff...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(So, on top of wanting those tickets, I want him to win.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, let's just give it our best shot...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow! Look at all the lights!\nEverything's so bright and sparkly!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Ugh... So bright...\nThey're brighter than stage lights...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Wow, you're right!\nYou get to take pictures in here?!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "M-Miku?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Hehe. I couldn't help it. This looks like so much fun☆ Plus, no one will see me here!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<You're gonna take some pictures in here, right? Have you decided on a pose and stuff?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hmm... How about something like this☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00089",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What? I don't think I can get myself to do that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But we don't get many chances to do stuff like this. We should just go all out and strike a really fun pose!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<What she said!\nI bet everyone will pick you guys' picture if you decide to be bold and do something really cute☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<It might even help later on when you need to strike a cute pose during a show!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Grr... Y-You're right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(This is gonna be really embarrassing, but I should probably do as they say...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Alright, Nene, ready☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "R-Ready...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00075",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow!\nThe lights made our eyes so sparkly!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<You both look so adorable!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "N-No, this is way too embarrassing...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Don't say that!\nYou're totally gonna win with this picture☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Oh, I wanna show this to everybody in SEKAI♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, we should show it to Tsukasa and the others too! I wanna give a copy to everyone☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "N-No, that won't be necessary!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Also, you're really okay with this kind of picture? I mean, this is a competition. Should we think about how the judges are gonna react?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, I completely forgot!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Then, what kind of picture should you take?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hmm... Some way that'll make everyone who sees our picture smile...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Oh, what about that thing you guys always do when you want everybody to smile?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait, you don't mean...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, that should be enough doodling. Hm? Toya, something wrong...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm just impressed with you is all, Akito. You seem to have some talent for choosing poses and pasting stickers onto these pictures.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "All I could come up with was writing my own name on it. If we went with that, it's likely that it would've ended up looking like some sort of student ID.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, I really don't think I did anything praiseworthy... I mean, this isn't something I want to be proud of being good at...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So, don't tell anyone about this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Why not?\nIt turned out very well, so I think we should show...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Hm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What's up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It's nothing...\nI thought I heard some people shouting together just now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It's probably just one of the other teams taking their picture, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Anyway, it's done printing.\nI still have no idea if this is what the judges are looking for...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I wouldn't worry. At the very least, I believe this is the best photo we could've taken, so let's just turn in what we have.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, I guess you're right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,463 @@
+{
+ "title": "Mixed Event — Nocturne Interlude — Episode2 Restricted Melody",
+ "meta": {
+  "Event": "Nocturne Interlude",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — Restricted Melody",
+  "Event Outline": "Toya has decided to create street music as a member of Vivid BAD SQUAD. But something happens to make him wonder if classical music still has some hold on him, leading to some self-doubt...",
+  "scenarioId": "event_12_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend Garage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So everyone's cool with this set list for our next event?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, I have no complaints. This is probably the best song order based on today's practice too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Welcome! Whoa, it's you...!\nLong time no see!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Customer",
+   "Line": "Hey, Ken. It's been a while.\nI was hoping to talk to you about something... Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Customer",
+   "Line": "Wait, they're all already here!\nPerfect timing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hm? Is that customer looking our way?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh? Hey, isn't that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Customer",
+   "Line": "You're Vivid BAD SQUAD, right?\nMind if I request a song?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Old friend of yours?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Yeah. He worked as sound technician in a live house nearby and we often went for drinks after a show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "He helped me with a lot of stuff when I opened this shop too, like the sound system for the stage area.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "I was out of the area for work and only came back recently. I decided to go to a live house for the first time in a while and saw you guys perform.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "You obviously had great potential so I just had to talk to Ken about you guys.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "I had no idea it was actually you and your friends, An! I thought it sounded like your singing style, but what a pleasant coincidence.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Haha, I've grown up a lot since you last saw me.\nWere you surprised to learn it was me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Her ego's grown a lot bigger too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Say that again, dad?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "Haha. You two haven't changed at all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "Anyway, mind if I ask you guys to sing something?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You don't even have to ask!\nAlright, everyone! Let's do this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "His advice is always spot on, so he can definitely help us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "If that's the case, I don't mind at all. I'm not about to turn down a request from one of Ken's friends.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yes! Same here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Same.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Let's see... Then why don't we do that thing we're planning to do for our next event?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah! Maybe we should film it too... This'll be the first time we actually perform it on stage after all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Dad, can you film us with my phone?\nJust press this button once we start.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "No problem.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Awesome! Let's make it a good one, guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "Bravo! Bravo! That was fantastic!\nThank you! You've made my day!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Haha. You're more than welcome!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "Your voice is so much more powerful than before too, An. Not to mention your stage presence! I couldn't look away!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "As for you, the versatility of your voice really added depth to the group's performance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "And the way you sing sounds emotional, but is actually the result of carefully observing those around you. It provides a good balance for the team.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "And you... Your voice never wavered even during the difficult parts. This sort of pitch accuracy had to have come from years of hard work.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "Each member shines in their own way and that's exactly why I'm excited to see how far you can go as a group!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Thanks so much! And we won't disappoint you because we're gonna be the ones to surpass RAD WEEKEND one day. Just you wait!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "Great! You have my support!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, that's all for today. Remember to meet here instead of at the park tomorrow because we'll be rehearsing with actual equipment.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Got it. Kohane, tell your dad we can't wait to meet him!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I will! I'll be sure to give him the tickets and event flyer too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Maybe I'll do some solo practice after this....)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Dad's still going to be awake now so...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "Oh, hey. Do you have a minute?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "M-Me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "Yes. I was just wondering... It's unusual for kids your age to sing on pitch so well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "Could it be that you have experience with classical music?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, that's right.\nI've been doing it since I was little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "I knew it!\nIt all makes sense now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "Maybe that's why your singing felt...\nYou know, rigid at times.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "I feel like your performance would be more interesting if you tried expressing yourself in your own way a little more, you know...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Regular",
+   "Line": "That said, you should absolutely nurture your existing talents too. Your pitch accuracy is the backbone of the team, so keep working on it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I... I see...\nThank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(My singing feels rigid...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Excuse me, Shiraishi.\nCan I see the video you just took?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Sure, of course!\nI'll send it to you later.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Great, thanks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Scramble Crossing",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "See you tomorrow, Toya.\nDon't practice too hard on your own, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I know. I won't.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The video Shiraishi sent... Here it is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "<♪————>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(He's right...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Akito, Shiraishi, and Azusawa's singing is more free-form and expressive.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(But mine is...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00016",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya's Father",
+   "Line": "That's not the right rhythm.\nDo it again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya's Father",
+   "Line": "Read the sheet music more carefully and stick to it.\nHow many times do I have to tell you this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya's Father",
+   "Line": "No deviations whatsoever!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Am I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Am I being held back by classical music...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

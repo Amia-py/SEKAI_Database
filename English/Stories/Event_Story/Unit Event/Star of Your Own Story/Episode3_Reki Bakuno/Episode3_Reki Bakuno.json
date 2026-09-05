@@ -1,0 +1,803 @@
+{
+ "title": "Unit Event — Star of Your Own Story — Episode3 Reki Bakuno",
+ "meta": {
+  "Event": "Star of Your Own Story",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — Reki Bakuno",
+  "Event Outline": "Wonderlands×Showtime have decided to work with other troupes, starting with the long-established Shunmeiza. Given a minor role with just three lines, Tsukasa faces a seemingly impossible task: to convince the director that his character is a real person.",
+  "scenarioId": "event_113_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d002401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shunmeiza - Studio",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "Care to explain why you're late, Bakuno?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "I-I'm sorry...\nSomething came up at my part-time job and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Bakuno...?\nThat means...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(He's Reki Bakuno. The “superbly talented actor” Rui just mentioned.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "I'll give you a pass this time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "But since everyone from Wonderlands×Showtime is here, why don't you introduce yourself to them first?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Y-You're really here...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Um, I need to apologize for running late to practice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "I-It's nice to meet—\nI mean, m-my name is... I'm sorry. I'm not used to doing this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I can kinda relate to this guy...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(He's just like Nene when we first met her!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "M-My name is... Reki Bakuno... I'm looking forward to working with all of you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Likewise!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "We'll be taking five and doing a table read right after, Bakuno. Will you be able to join us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "Y-Yes.\nI should be able to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm? Is something wrong, Rui?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It's just... Remember how I said he was superbly talented when I saw him on stage?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But seeing him like this... I'm honestly having a hard time believing that he's the same person who I saw.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Of course, I understand that he would seem like a different person when he's in character, but still...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hmm...\nSo, his acting skills are just that good?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, that may be the case.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Still...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "...yes...which is why...is how...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(It took me thirty minutes to read through this script, but he only has five... What's he going to do?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(His character, Hino the editor, also doesn't have that many lines. Deciding how to play him doesn't seem easy.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(His lines are similar to Nakayama's.\nThey all involve work.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(He only has two lines for the opening scene.\n“That's going to be a problem, Kishi,” and, “This is it. No more chances.”)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(His lines later on don't stand out all that much either...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "I'm finished.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(What...? Already?\nBut he has so little information to work with. He already knows how he's going to play his character...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "Then, let's begin our table read.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "Oh, before I forget.\nEveryone, please feel free to stand up and move around if you deem it necessary. Try to stay loose.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Everyone",
+   "Line": "Understood!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "Alright, begin.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00061_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shunmeiza Member A",
+   "Line": "“The old gramophone in the parlor was playing something I hadn't heard in a very long time.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00247",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shunmeiza Member A",
+   "Line": "“Hearing that warm and beautiful sound made up my mind. To end my life here and now.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(He's only narrating, but it's so captivating...\nShunmeiza certainly knows how to deliver.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(No, stop acting like a member of the audience. Focus on his acting.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(First is this soliloquy by the protagonist, the failing novelist Kishi.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Then, we learn about the setting in which he lives.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Member C",
+   "Line": "“Ichiro! What is the meaning of this? Why haven't you been in touch? Your father is still waiting for you to come home. Honestly, it's high time that you quit being a novelist and took over the family business.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Member D",
+   "Line": "“I'm sorry, Kishi...\nI need to raise your rent soon, and...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Member E",
+   "Line": "“I heard that a strange man's been wandering around here lately. He's dressed shabbily, has messy hair... Ah, there. Just like that one. Be careful, everyone.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(His mother back in the countryside wants him to come home and take over the family business, he's likely going to get evicted when his rent goes up and people around town believe he's some kind of vagrant.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(And now, on top of all that, his editor's going to tell him that he's out of chances when he asks for another extension on his deadline.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Enter Bakuno.\nPlaying the editor, Hino.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(How is he going to play him...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "“That's going to be a problem, Kishi.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Member A",
+   "Line": "“P-Please, I beg you...!\nJust three more days! I promise to have my manuscript ready by then...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "“...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I didn't recognize him for a second...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(He's nothing like how he was a second ago. Not only that...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(The way he's moving and speaking. It feels so real...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(This isn't the first time Kishi's asked for an extension. Hino's clearly had it up to here with him.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(In the script, Hino lets it slide but says, “No more chances.”)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(But... Unless...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Is Kishi about to lose his job?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "“This is it.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "“No more chances.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Member A",
+   "Line": "“I understand...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Yes... Of course.\nHe can't get fired. It's right there in the script.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(And yet...\nI was just overcome with the feeling that Hino had finally had enough of Kishi's antics.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(He can even make someone who already knows the plot do a double take.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(What an incredible actor...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(What... What just happened...?\nIt's like he turned into a completely different person...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(His abilities may be unparalleled.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(We've previously encountered some talented actors around our age, such as Asahi and Seiryuin...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But to be able to produce such a fleshed-out performance in such a short amount of time... Even they would have trouble accomplishing such a feat.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(No, I don't have time to marvel at his performance! The scene where he and Nakayama talk is coming up!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Based on his lines, Nakayama seems like a younger fellow. But as the two are friendly with each other, I imagine he's been at this magazine for a little while, so I'd say he's in his late twenties.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "“Good morning.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Okay, that's my cue...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Morning.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Member F",
+   "Line": "“What took you so long to get back, Hino?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“That novelist giving you trouble again?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "“Bingo.\nChief, he asked for another extension. He's really cutting it close this time.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Member F",
+   "Line": "“Honestly, that no good...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Member F",
+   "Line": "“This will be his last month.\n'Shiranami' may mean 'white-crested waves', but we don't want anyone taking the magazine through rough seas.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Reki",
+   "Line": "“Understood.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“No choice, I suppose.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(No...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I don't feel like a part of the conversation. I'm just giving them replies. How do I become Nakayama like Bakuno has become Hino...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(More to the point...\nAm I even playing this character right...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "We'll end practice here for today.\nThank you all very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Everyone",
+   "Line": "Thank you very much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "*Sigh*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(As happy as I am that we get to be in their play, it looks like I have another tough challenge on my hands...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Is everything okay, Tsukasa?\nYour face is all wrinkly and scrunchy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, well...\nIt seems that we have another steep hill to climb.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah...\nI mean, everyone here's so good.\nJust keeping up with them is hard.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Especially Bakuno. I still can't believe what I saw.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Me neither.\nHe's playing a relatively minor character, but... His acting was something else, to say the least.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "As he moved and spoke, it was like the character was there in front of us. I could practically see the Showa period cityscape spring up around him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Me too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "Tenma.\nDo you have a moment to talk?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huh? Y-Yes!\nSorry, I'll be right back!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "O-Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Huh?\nWhat do you think's going on?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Sir, you wished to speak with me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "There's actually something I need to tell you, Tenma.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Tell me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "Yes, starting with how I've taken the time to see some of your performances.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "Please allow me to say this as a humble director.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "Tsukasa Tenma, I sensed a spark within you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "Your acting has a way of tugging at your audience's heartstrings. You have the potential to become a great actor... That's my belief.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Th-Thank you very much...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "However, there's the other side of that coin.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "It appears that, unless you have a part that involves dramatic emotional shifts, your acting becomes mediocre.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "And I have a feeling that you know what I'm talking about.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "Which is why I'm going to give you a task.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(A task...?!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "The character you're playing, Nakayama, is just an average man from the Showa period.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "He's neither going to gain human emotions amid the trials of war, nor will he forge an unbreakable bond with a phoenix.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "He's just an ordinary human being.\nAnd your job will be to convince me that he's a real person.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "A real...person...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shunmeiza Director",
+   "Line": "I'll be happy to answer any questions that come up. For now, I wish you the best of luck...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thank you.\nI appreciate the offer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(He wants me to convince him that an ordinary man is real...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(It's true that I haven't played many characters like this. I suppose Thorpe would be the nearest example...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(But it was much easier to pick up on how Thorpe was feeling from the script. That's why I was able to establish an emotional connection to him.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Doing that with Nakayama is going to be difficult...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And I have no real leads...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Which means...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I'll just have to learn what I can from the best.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Let's go...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

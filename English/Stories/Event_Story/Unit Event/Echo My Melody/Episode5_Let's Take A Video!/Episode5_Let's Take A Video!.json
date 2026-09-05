@@ -1,0 +1,528 @@
+{
+ "title": "Unit Event — Echo My Melody — Episode5 Let's Take A Video!",
+ "meta": {
+  "Event": "Echo My Melody",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — Let's Take A Video!",
+  "Event Outline": "After putting on a successful show, Leo/need decides to start posting videos to a video platform so that their music can reach more people. Meanwhile, Ichika tries to help out the band by creating songs using digital tools, but is still struggling...",
+  "scenarioId": "event_76_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Rehearsal Studio",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "This is it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "The day when Leo/need shoots its very first video has finally arrived!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Yay♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Hehe. This should be fun.\nEspecially considering how much you girls practiced for this day.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Ichi, you gotta sing the best you possibly can today.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yawn...\nOh, um... Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Did you not get much sleep last night, Ichika...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Maybe it's because of all the practice you've been doing.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "No, I'm just...\nYes, I'm a little tired from practicing, but there's another reason...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, really?!\nDid you stay up late playing video games or something?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "She's not you, Saki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I don't stay up super late playing video games... That much...! Even if I do it sometimes with movies and manga!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Don't those all fall into one category?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Are you sure you're okay, Ichika?\nDo you feel tired because...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "No, I'm okay.\nThere's no need to worry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I'm actually almost finished with it.\nI just need to make some final adjustments.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "...!\nReally?! That's wonderful...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "But choosing just one is taking more time than I initially expected. I've been trying to remember what Kanade said the other day, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "It's okay to give something important a lot of thought. In any case, Ichika, I'll be looking forward to hearing your song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, what are you two talking about?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Uhh... N-Nothing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Anyway, let's start shooting since we've asked Miku and the others to come over from SEKAI.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "R-Right.\nI brought a few different smartphone tripods with me today. I'm hoping that they'll allow us to take a nice video.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Oh, I haven't seen one of those before...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I was wondering why you were carrying so much stuff today, Hona! It was all stuff for our shoot!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But do we really need all these tripods...? We're only using one camera, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, it'll be difficult for us to make a dynamic video with just one camera. Using several will give us shots from different angles, which we can stitch together for our music video.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "So, would it be okay if I borrowed your phones...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Sure, I don't mind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You're always super reliable, Hona, but you seem like you're really on your game today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Th-Thank you, but this is nothing special, really!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But I want to do what I can since this video is going to help determine Leo/need's future...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Honami...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Alright, let's take a really awesome video!\nGet ready! We're on standby♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Wh-Whoa...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Wait, Saki, don't push...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay, we're in position now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "How do we look?\nAre we all in the frame?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<No problems with this camera.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Same here!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Ours looks good too.\nI think you girls can start shooting.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Alright, then...\nShould we start playing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "O-Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I'm getting nervous... And not like when we're about to do a show either...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "To be fair, we're not trying to do this in one take. We can always shoot again if we don't like what we see. So, let's just give it a try.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Right...\nThen, let's just try to relax and play the way we practiced...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Okay, I'll count us in.\nOne, two, three, four...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00158",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "♪————",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(I don't understand. We all seem to be playing just fine...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(But something feels different...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Hmmmm...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<We've done quite a few takes already...\nBut something does seem strange here...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yeah...\nAnd it's not like they have been playing bad...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<But it's like...\nI dunno how to describe it!!!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<They're not playing with enough power...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Yeah, that!\nNice one, KAITO!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<They're all clearly playing like they mean it... But they're not quite fully committed.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Wanna stop for a sec...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I knew it. We're missing our usual power.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I kept trying to refocus myself after each take, but I can't seem to play the way I do during shows...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "The way we play during shows...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah...\nWe really gave it everything we had that time... It almost felt like each note shined, you know...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, I totally know what you mean!\nBefore the show, the tension felt kinda different compared to normal...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "And things were completely different during it! I could hear the audience talking and stuff like always, but I was way more focused on the show itself...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah, it'd make for a great video if we could play like that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "That's easier said than done...\nWe were able to play that way because of the crowd and the atmosphere.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Then, why not try to recreate that...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wait, what do you mean...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Oh, I think I get what he means.\nI doubt you girls have a spare live house just lying around...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<But what if you had some spectators?\nWe can be your crowd!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Does that mean...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Oh, I get it!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<We get to have Leo/need play a special concert just for us☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "A special show just for you...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah, that could actually work...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I agree.\nIt'll help to have a visible crowd that we want to have hear our song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "We'll do everything we can to give you guys the best performance possible, Miku...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Hehe. Let's see what you can do.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Okay, it's time for Leo/need's special show...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Let's go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,868 @@
+{
+ "title": "Unit Event — No seek No find — Episode8 The Best Song We Can",
+ "meta": {
+  "Event": "No seek No find",
+  "Event Type": "marathon",
+  "Episode": "Episode8 — The Best Song We Can",
+  "Event Outline": "Leo/need has decided to perform at a new live house to take the next step in their journey. Saki writes a new song to play at the show, but it doesn't seem to resonate with the audience at all...",
+  "scenarioId": "event_65_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Tenma Household - Living Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Welcome, everyone...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "*Nod*\nPardon the...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Y-You're in your pajamas?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh no! I completely forgot!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "This is so embarrassing!\nI stayed up to work on my song and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "You kept working even after I sent you that message...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Does that mean you pulled another all-nighter? Are you sure you're feeling okay...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I'm fine!\nNot even a bit tired! See?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, speaking of which, Ichi, Shiho, you sent me messages at the same time! I couldn't believe it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "And those delicious sandwiches you brought over really put a smile on my face, Hona! Thank you so much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'm glad to hear that.\nWere they to your liking...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Absolutely!\nThey were so good that I kinda want you to keep making midnight snacks for me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. That's nice to hear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But you were all pretty worried about me, huh? I'm really sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Saki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "However!\nBecause you were all willing to place your faith in me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I finished writing our new song!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "You did?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Nice work, Saki.\nYou really delivered.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Heh heh heh.\nYou can praise me after you've had a chance to listen to it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I'm sure you'll all be really surprised by it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Are you sure you want to raise the bar so high for it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah, totally!\nI'm just that confident!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "So, let's head up to my room!\nFollow me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Saki?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Are you sure you're okay?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehe. Sorry...\nMoving so suddenly made me feel a little light-headed...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "You really need to be more careful. Collapsing just after finishing a new song would sort of negate your efforts, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "We know you did your very best, so please get in some well-deserved rest once we're done here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Okay...\nThanks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But I won't be able to sleep until I hear what you all think about this song! I need you to listen to it ASAP!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00253",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Saki's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Okay, here it goes...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Okay...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(What kind of song did she come up with...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(A song about Saki trying to better understand loneliness...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00149",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(Right out of the gates...\nThis is nothing like what we've played before...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(This is incredible...\nSaki really came up with all this...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(How do I put it into words...?\nIt's so sad and painful...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(But at the same time, it's so warm...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(I had no idea Saki was capable of creating this kind of music...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "This is amazing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "It's like Saki's trying to cheer us up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah, I can almost hear her voice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Like she's saying, “You're not alone. We're right here.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Whew...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "That about wraps it up...\nH-How was it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "...\nI thought it was amazing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "R-Really...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "You said that you wanted to write a song about “understanding loneliness”, but I really wasn't expecting this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "And it definitely feels different from anemone's songs. This is something only you can write, Saki, and I think it suits Leo/need really well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Shiho...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Thank you for going the extra mile for us, Saki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "No, you were willing to give me this chance, so I should be the one thanking you. That made me really happy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "And through writing this song, I think I got a better idea of why Saku didn't think much of our music...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "It was probably because I wasn't giving our songs as much thought as they deserve.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Not enough thought...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah. I think I'm supposed to really dig deep and get more in touch with my feelings when I'm writing music...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Remember how Saku seemed to kinda like our second song?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, the one you wrote for Hanano and her brother...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "For that song, I thought a lot about them and when I couldn't be with any of you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I also thought about the happiness of being together and how to turn those feelings into music.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Which is why it probably sounded more complete.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But outside of that, I was missing something...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Initially, I focused on what it means to feel “lonely” and believed that I found the answer after remembering what I went through in the past...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But that wasn't enough. I was only scratching the surface...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I sort of understand what you mean...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I mean, it's pretty clear that you put a ton of thought into this song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehe. I couldn't be happier to hear that from you...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "All the pain and sadness I felt. All the things I really hated... I'm so glad I decided to take a hard look at all of that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Saki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "But I still like the songs you wrote for us before...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Since you really put everything you had into them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Shiho...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "So, moving forward...\nI promise to cherish the songs you've written for us and the ones you will write for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Thanks, Shiho!\nThat means so much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "This experience really taught me that you really gotta dig deep and think about what you're feeling when writing songs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "That's why I'm gonna do more of that in the future.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "By doing that... Just maybe...\nNo, we're definitely gonna write a song that moves people's hearts!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "You're so incredible, Saki...\nNo matter how hard things get, you keep thinking and doing what you can...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "It's really cool and I stand to learn a lot from you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Me too. You're an incredible person, Saki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehe. You think so?\nI can't help but blush after hearing this kind of praise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Let's feature Saki's song during our next show...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wait, you mean it?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yes. I'm absolutely certain that this song will really hit home with everyone at that live house.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Whoa...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "This is so cool! I can't wait!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Then, we'll need to start practicing it right away...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, hold on!\nWe still have to hammer out the details...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "We'll take care of that, Saki.\nYou should take today to rest.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What?! But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "You've done your part for us.\nNow, it's our turn.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Shiho...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Okay, got it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Good luck!\nI'll leave the rest to all of you, so I'm gonna..\n*Yawn*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Good night...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Live House",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Live House Staff",
+   "Line": "Alright, you just need to fill in these parts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00042",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Thanks to Saki, we have a great song in our repertoire now. I'm really looking forward to our next show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, and we can't let her efforts go to waste. We have to make this show a good one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saku's Voice",
+   "Line": "On second thought, I'd rather not.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Wait, that voice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Scout",
+   "Line": "Is there any way to change your mind?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "Based on what you just told me, you want to sell us as a band made up of high school girls, no? We're not really interested in that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Is that an agency scout...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Looks like it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Scout",
+   "Line": "You're getting the wrong idea!\nWe know that anemone's sound and style are things that no one else can copy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Scout",
+   "Line": "However, it's always better to have an eye-catching trademark or two when it comes to marketing your brand...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "If that's the case, please talk to someone else...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "I know. How about that other band?\nThey're called... I forgot their name, but they mentioned that they want to debut with a big label...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "You should be able to see them perform if you really wish. Their music has that cute, mainstream pop sound you're after and they even look the part. A band made up of high school girls through and through.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "Honestly, you'll probably have better luck with them than us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "Oh, now I remember.\nThey're called Leo/need.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "They'll likely be much more interested in such an offer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Wait, Shiho...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Hey, what did you mean by that just now...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "Hm? Oh, perfect.\nThis is who I was just...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Answer my question!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "Why are you so angry...?\nI was just about to introduce you all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "You want to debut with a label, right?\nIn that case...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yes, we want to go pro, but that doesn't mean we'll take whatever we're given...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I... We want to do that by getting recognized for our own music. We're no different from you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "Hm? Your music...?\nIs that so?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "Don't you know how many other girl bands have that same, cutesy sound as yours?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "I mean, it just seems like the right way to go, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "You have no right to make that sort of judgment about us... And...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I'm through talking with you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "We'll be performing here again in a month.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "If you think that little of our music, we'll just have to let it do the talking for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "We'll prove you wrong and make you eat those words.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "Oh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Let's go, Ichika.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Huh? O-Okay...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "Hmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "Not bad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "Hehe. I'm guessing they have a good song prepared if she's willing to say that much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saku",
+   "Line": "I'm looking forward to hearing it.",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,518 @@
+{
+ "title": "Unit Event — Our Constellation of Song — Episode1 The Journey Goes On",
+ "meta": {
+  "Event": "Our Constellation of Song",
+  "Event Type": "marathon",
+  "Episode": "Episode1 — The Journey Goes On",
+  "Event Outline": "Leo/need has done it at last. They've been signed by a record label! Reflecting on all of the people whose support has taken them this far, Ichika thinks of a way for the band to show their gratitude.",
+  "scenarioId": "event_101_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_f000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Ichika's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay, it's signed here and all sealed...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That should do it for our contract.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(They were definitely worried about us signing with a label at first, but I'm glad Mom and Dad agreed to this...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(They even said they'd be willing to support us after I told them why we're going pro...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(That's on top of going through all the fine print and discussing our finances... That really put me at ease.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "All that's left is to hand this over to Mr. Shindo.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "And I think it's almost time for me to go.\nWhere'd I put my phone...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I still have a little time.\nHuh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(This news headline... A meteor shower...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "“The Perseid meteor shower, one of Japan's three biggest meteor shower events, is just over the horizon. This event will go on for about a month, with the peak days being...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "A meteor shower...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That reminds me of the time we watched one when we were little...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000005",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00091_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Ichika",
+   "Line": "There's another one!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "We practiced playing that Miku song and just happened to see it happen on our way home...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00175",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I couldn't believe how beautiful it was...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(But then, in junior high...\nWe slowly began to drift apart...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(I wasn't sure if we'd ever get to watch another meteor shower together like that again...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "It'd be great to see another one together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Scramble Crossing",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00100_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Thanks for waiting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Okay, we're all here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Ichi! Did you fill out your contract okay? I'll lend you my pen if you forgot to sign anywhere!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Th-That's okay. My parents went over it with me multiple times at home.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Okay, that's good to hear!\nTsukasa and I totally panicked earlier this morning after I found a spot that I forgot to sign.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Don't worry, Saki, only you would be so scatterbrained.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What?! Shiho, you're so mean!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Anyway, shall we head in...?\nWe wouldn't want to keep Mr. Shindo waiting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Right... Let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm90040",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Solis Records",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "Okay, I think we're all set.\nI officially accept your contracts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Which means...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "W-We... We're...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "Yes. From now on, you'll be producing music under this label. We're looking forward to seeing you get started.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00048",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "W-We did it! We're finally pros...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "At the same time... We knew a while back that we'd be doing this, so I don't think this part is anything to get so excited about.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh? Then, Shiho, why are you grinning?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I-I'm just... I mean, of course I'm happy for us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe... We finally made it to this point...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000902",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I'm still not sure what it means to commit to trying to become a pro...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "But I know that I want to be in a band with you, Shiho. I want to perform in shows with you. I want others to be moved by our music...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "If that means aiming to become professionals, so be it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(We made the decision to go pro that time...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(We didn't know if it'd actually be possible, and there were times when we felt unsure of ourselves...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(But we really did it...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(We won't be debuting for a while... But we should be able to play in front of more and more people compared to before.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(And I want to do everything I can to move their hearts... Through our music.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "Now, about how things will proceed moving forward...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "Your band will be making its debut as an artist for the label sometime in the future.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "However, there's a list of preparations that need to be made before you can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Preparations?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "Well, you need to produce some new songs, while we need to promote your name around your debut date.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "I'll start putting some proposals together soon that discuss how you might be billed and such.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "Naturally, that includes what kind of band you want to become, how you wish to be perceived and what your music means to you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "You'll need to know those things in order to see what you wish to achieve. And we can't do any marketing if we don't know what you want.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "I'll set up some meetings for us in the future to discuss all of that. So, let's take the time to talk through it all carefully.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Y-Yes...!\nThank you very much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "Then, that's about it for today...\nAgain, your contracts all seem to be in order, so I'll be taking them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "We unfortunately need a bit of lead time with these... So, for now, please keep practicing as you have been.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "And feel free to contact me if anything comes up on your end.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "O-Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Thank you very much for talking with us today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

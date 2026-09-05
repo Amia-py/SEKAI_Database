@@ -1,0 +1,568 @@
+{
+ "title": "Azusawa Kohane — Happy Birthday! 2025〔Part2〕Side Story (Part 2)",
+ "meta": {
+  "Character": "Azusawa Kohane",
+  "Card": "Happy Birthday! 2025（BD）",
+  "Part": "Part2 — Side Story (Part 2)",
+  "Event": "",
+  "scenarioId": "009034_kohane02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a005601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Yokohama",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...\nSo this is the place you wanted to visit, Azusawa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh... This foot bath's got a real amazing view of the water.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Mhm! A guidebook I read featured it as a spot with great views, so it really stuck in my mind!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "And the weather is nice today, so I had a feeling the water would look beautiful... That's why I wanted to come here no matter what.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You're right, the water looks so dazzling and beautiful!\nThe view's great, and my feet are nice and warm... Now this is what I call paradise♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. I figured it'd be two birds with one stone... I get to see this amazing view with all of you, and we get to reenergize after that event too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, I guess this might be just what we need on a day like today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Indeed. I haven't really made use of a foot bath in the past, but it feels particularly pleasant after an event.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "For sure! Actually, it kinda feels like we just came here on a normal trip now...\nChilling out like this once in a while isn't so bad, huh!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Sorry, that took a while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, Dad! Welcome back!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Welcome back!\nWhere did you go?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "I went over to the Chinatown for a bit, but it sure does get crowded this time of day on everyone's day off.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Actually, An asked me to go buy these.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00187_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh...? Oh, sesame balls!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "They're your favorite, so I was looking around to see if there might be anywhere that sold them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "That's when Dad offered to go buy some on the down-low.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see, so that's why you went off on your own.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Exactly. Here, I've got enough for all of you.\nI got them fresh, so be careful not to burn yourselves.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Sorry to have you do this, I know you're tired too.\nWe appreciate it. Let's eat.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Mm... My body's warm, the water is beautiful, and I even get to have my favorite food... Is it okay to unwind this much?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Of course it is!\nHappy birthday, Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito, Toya & Ken",
+   "Line": "Happy birthday.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thanks, everyone...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "One hour later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Sightseeing around Yokohama sure was fun...\nThank you so much for today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "I'm just glad you all had the chance to take a breather.\nAlright, we're here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thank you very much!\nWait, huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "This is Miyamasuzaka...\nAren't we going back to Weekend Garage?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Haha. Actually, there's somewhere I wanna take you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "You're taking me somewhere...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, we'll be heading back first.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wait, we're not all going?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Right. We just heard about it as well, but this next bit is all Shiraishi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Have fun, Azusawa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Uh... S-Sure thing...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00699",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Alright then, shall we?!\nI'll leave our destination as a surprise for when we get there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane's Voice",
+   "Line": "Wait... This is—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Voice",
+   "Line": "We're heeere!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00009_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hi, Kohane!\nWelcome to your surprise party!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00230",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Minori...!\nAnd so many other people too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Thanks for bringing her for us, An!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You're welcome!\nSo, here's your delivery of one Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Alright, if you'll excuse me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?! You're going back too, An?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Today's your birthday, so I figured it'd be kinda unfair of us to hog you all to ourselves.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So, enjoy this time with your pals from Miya Girls!\nWe'll see you again later, you know the place!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. Actually, I heard that An helped out quite a bit with the planning for this surprise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Originally, I was thinking we probably couldn't celebrate with you today since I heard you'd be out practicing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But then An got in touch to ask if I was planning anything and if I could plan it for the day of. So we planned this together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "So that's how it went...\nI had no idea she was doing that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "The way I see it, that's just how much she wanted you to enjoy the surprise. That's a partnership for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay, Kohane, come this way.\nWe all helped out to decorate the cafe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wow...!\nThe place looks amazing...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hehe. We went all out with our preparations.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "We sure did! I asked my manager and got permission to use this place after closing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "It's not much, but we have some dishes prepared as well.\nPlease have some if you're hungry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thanks, everyone...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(To think they'd set up a surprise for me like this... That makes me really happy.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I went sightseeing with everyone in Vivid BAD SQUAD, got a surprise from my school friends... This day has turned out to be a pretty special one.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I'm gonna relax to my heart's content for today, and then get back to working hard tomorrow!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000288",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00241",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Happy birthday, Kohane!\nI was happy to see you enjoying the mini cakes I made with Minori and Hona!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe, I was too.\nYou must have practiced hard today. I admire your daily efforts, Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Happy birthday, Kohane!\nShiho actually helped me pick out that towel I gave you! I hope you'll get lots of use out of it at different live houses!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Happy birthday, Kohane. When I heard you've been taking part in all kinds of events and singing off against some amazing people, it hit me just how cool you are. I'll always be rooting for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Happy birthday!\nI hope I get to hear you sing another cool song sometime. Your practices always seem tough, but I'm rooting for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Happy birthday, Kohane!\nSo, I decided to try my hand at making peach buns this time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "You can see the Momoi seal branded right on the...\nActually, it'll be more fun to look for yourself♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Happy birthday, Kohane!\nHaruka and I picked out some things that might help with taking care of your feet. I hope you'll give them a try next time you take a bath.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "We're cheering you on too, Kohane... We hope you'll get to rejuvenate yourself a bit and then keep moving closer to your dream. I wish you and your team the best of luck.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Happy birthday.\nWe had a fun time with that photo contest, didn't we? I'm rooting for you to achieve that big dream of yours, Azusawa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Happy birthday! I hear so much about you from An, so I can confidently say I'm a Kohane expert by now! Let's invite An along to go get sweets or something one of these days♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Happy birthday, Azusawa!\nI believe you'll be receiving a DVD from Emu in the near future! It's a recording of one of our shows... Please do accept it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I think we put on a show that you'll appreciate... So I hope it'll be an enjoyable breather when you watch it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Happy birthday, Azusawa.\nIt feels rather nostalgic to look back on all the times you watched our shows so intently at the Wonder Stage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We've employed some tricks in this production, so that you can once again feel as though you're taking part in our show. Come, won't you join us on a grand adventure?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We'll be waiting for you on our biiig brave adventure!\nAnyway... Kohane! One more time, happy happy birthday!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Happy birthday, Kohane!\nGetting to go sightseeing with you in Yokohama was great! I'm glad I took a chance on asking my dad for permission!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I had a feeling you'd talked to him about it... Well, it did mean we got some good rest in.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes. It was a very relaxing outing thanks to all of Azusawa's suggestions.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Once again, happy birthday.\nLet's get back to doing our best tomorrow, so that we can surpass RAD WEEKEND.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We'll get refocused and go all out as usual.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I feel like nothing's impossible as long as we're together, Kohane. No matter how far, let's make it there. All this to say... I'll be counting on you, Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "It makes me really happy to know that An put in so much thought for my special day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I have An by my side, and Shinonome and Aoyagi too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Just remembering that makes me feel like I can go way above my limits!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "That's why I'll keep singing my hardest.\nBecause I want to surpass RAD WEEKEND...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I hope you'll keep watching over me until that moment comes.\nThanks so much for today! Um... See you later.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

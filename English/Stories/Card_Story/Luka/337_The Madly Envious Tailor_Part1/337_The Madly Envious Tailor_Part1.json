@@ -1,0 +1,453 @@
+{
+ "title": "Megurine Luka — The Madly Envious Tailor〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "Megurine Luka",
+  "Card": "The Madly Envious Tailor（4★）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "",
+  "scenarioId": "024014_luka01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Court of Law",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Government Official",
+   "Line": "All rise!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Magistrate",
+   "Line": "Kayo Sudou...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Magistrate",
+   "Line": "You stand here today to face charges for the murders of Mirokuya and Mei. How do you plead?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "Guilty, your honor.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Magistrate",
+   "Line": "Care to explain why?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "She came between my husband and myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Magistrate",
+   "Line": "And you are also the one behind what happened to Mei's daughter, Miku, as well as her sister, Rin?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "Guilty, your honor.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Magistrate",
+   "Line": "Why?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "She came between my husband and myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Magistrate",
+   "Line": "Anything further...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "No, your honor.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "(No matter how many times anybody asks, my answer will not change...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "(The rest of what I know will go with me to the grave...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_i000103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00103",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "One year earlier",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Enbizaka",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "Phew...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "(I have not been sleeping well as of late... I may be more fatigued than I realize...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "Regardless, I must deliver the kimono that the soba restaurant ordered...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Commoner A",
+   "Line": "Hey, it's that tailor...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00291",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Male Commoner B",
+   "Line": "The one that got caught in that fire four years ago? I remember her getting treated for those horrible burns, but I guess she's back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Commoner  ",
+   "Line": "Looks like it. But she seems so frightening now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Commoner  ",
+   "Line": "I was out with my kids the other day and happened to run into her, but she began leering at us for some reason.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Commoner A",
+   "Line": "Hold on, you sure you didn't do anything to her?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Commoner  ",
+   "Line": "No, of course not! We were just minding our own business when it happened.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Commoner  ",
+   "Line": "Losing her “family” may have made her jealous of others who've managed to find happiness...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Commoner  ",
+   "Line": "I even heard that she'd finally lost it. Rumor has it that she speaks as if her husband and son are still alive when no one is around.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Commoner B",
+   "Line": "I heard that too...\nSomething about her kid working for that Perrié guy at his shop, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Commoner  ",
+   "Line": "Yes, that.\nAnd how her husband is always out and never home.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Male Commoner  ",
+   "Line": "Poor thing...\nIf only that fire had never happened...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_i000103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "Phew. Delivered as ordered.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "(But I still have plenty of other orders still unfinished. I should head home and...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oyuka",
+   "Line": "Well, if it isn't Kayo!\nOut delivering a kimono?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "Oh, Oyuka. Good evening.\nYes, I was just delivering a kimono to the soba restaurant.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oyuka",
+   "Line": "Look at you. Already hard at work just after coming back. Eikichi could learn so much from you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "Eikichi...? Oh, the private detective?\nYou are both from the same village, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oyuka",
+   "Line": "Yes, and because of that, he's got it in his mind that he can slack off and use my shop as a hideout.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oyuka",
+   "Line": "I know! Why don't you get him to find the perp that started that fire four years ago?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oyuka",
+   "Line": "Oh... I'm sorry, Kayo.\nI didn't mean to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "No need to apologize... You lost your store to that fire as well, so I know you understand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oyuka",
+   "Line": "S-Sure, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "You have nothing to worry about when it comes to me. After all, Oyuka, I have you to talk to.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oyuka",
+   "Line": "Are you sure that's enough...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00291",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Sorry about that...\nHaving you deal with one of them like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "No, it's okay...\nIt was really no trouble.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Oyuka",
+   "Line": "Oh, it's Mirokuya and his wife, Mei.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mei",
+   "Line": "I really would rather have you treat that burn instead of fussing over me so much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kai",
+   "Line": "Nonsense. Look, my fingers are moving fine now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kai",
+   "Line": "So many were lost to that fire.\nWe have the gods to thank for us still being here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mei",
+   "Line": "I suppose so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00291",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Oyuka",
+   "Line": "He got caught up in that fire too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "Oyuka...\nPlease, excuse me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oyuka's Voice",
+   "Line": "Sure.\nCome visit again soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "......",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": ".........",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "Back to work...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_i000103",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00103",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00292",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00293",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Oyuka's Voice",
+   "Line": "Kayo, it's terrible!!\nHow can you be sweeping like nothing's happened?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "Is something wrong, Oyuka?\nYou seem startled.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oyuka",
+   "Line": "Wrong doesn't even begin to describe it! Mirokuya's wife...! Mei...! She...! She's...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "Oh my...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oyuka",
+   "Line": "It happened last night. Must've been some rogue or rebel. They even took that red kimono right off her back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oyuka",
+   "Line": "And just when I thought that things would finally go back to the way they were.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oyuka",
+   "Line": "You need to be careful out there, Kayo. Even if it's for work, it's not safe to walk around at night when there aren't any people around.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "Thank you for this, Oyuka.\nPlease, stay safe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Oyuka",
+   "Line": "I will.\nWait... I left my shop wide open!\nSee you later, Kayo!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00293",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "Anyway, back to work.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kayo",
+   "Line": "I should start by doing something about this hole in the breast area.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

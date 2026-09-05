@@ -1,0 +1,878 @@
+{
+ "title": "World Bloom — Link the Beats! — Episode11 Bonded by Music",
+ "meta": {
+  "Event": "Link the Beats!",
+  "Event Type": "world_bloom",
+  "Episode": "Episode11 — Bonded by Music",
+  "Event Outline": "VIRTUAL SINGERS in each SEKAI are caring for their respective trees when they are vanished away by a mysterious light. Witnessing this, their counterparts in the space between worlds enter SEKAI to search for them.",
+  "scenarioId": "wl_piapro_02_11"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wh-Whaaaaat?!\nYou're KAITO from another SEKAI?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Uh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "You're as energetic as ever, Tsukasa☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "This is Tsukasa, the owner of the feelings which created this SEKAI. He's the leader of a troupe called Wonderlands×Showtime.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes. It's very nice to meet you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I wish we could introduce you to the other two, but they had things to take care of, so they'll be arriving later in the day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Anyway, this is Rui.\nHe's the director for Wonderlands×Showtime.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Um, nice to meet the both of you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Umm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Does your SEKAI by chance have something to do with a school, KAITO?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Because your outfit looks like a school uniform. KAITO and the others from this SEKAI are all wearing outfits which look like costumes for shows because our SEKAI was born out of a strong desire to make people smile.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Judging from that, it makes sense that your clothing was also influenced by the feelings that made your SEKAI.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh... Y-Yes...\nOur SEKAI is a school.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, really?!\nThen, does that mean those on your end truly wish to become teachers or something?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Not teachers, probably...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Our SEKAI was born from four people wanting to be together forever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Together forever...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes. They've been friends since childhood, but drifted apart a little while growing up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00215",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "They wanted to stay close as they went to school, but couldn't...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "And then, that desire to be together grew to the point of giving birth to our SEKAI.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "They wanted to be together but couldn't...\nThat's very sad.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "But...\nThey're okay now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Through their music, their hearts came together... And they've overcome plenty of trials since then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "And I'm sure they'll get to stay together moving forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "That's great!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It sounds like they've forged some incredibly strong bonds!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. I'm glad to hear that their wish came true.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Me too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elephant Plushie",
+   "Line": "Heeeelllp!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_wl_2nd_piapro_2025_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Huh?!\nWhat's wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elephant Plushie",
+   "Line": "They're having a big argument down by the harbor!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What?! An argument?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hm... It sounds like we need to step in, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Agreed! Let's go, everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "G-Go? Where...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Things are better when everybody's smiling♪\nSo, it's time for Operation Make Up to get underway!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "U-Umm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Harbor",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huff... Huff...\nToday's involved so much running for some reason...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00624",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00624",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm? Everyone, stop!\nThings seem a bit chaotic over there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That must be where the plushies we were told about are.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Alright, let's go over and get them to make up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Are things really going to be okay...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ducky Plushie",
+   "Line": "But you just got to play the hero!\nIt's my turn next!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "No, I'm gonna play the hero!\nYou're not good enough for it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ducky Plushie",
+   "Line": "Why not?! Also, saying things like that means you're not good enough either!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ducky Plushie",
+   "Line": "I'm done doing shows with you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "Fine! I'm never talking to you again!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh no...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It sounds like this argument began over a casting issue.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I understand why someone would want to play a certain role...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "But they said that they're never gonna talk to each other ever again!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "It'd be terrible if they actually stopped doing shows together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "But what can we do...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That's obvious!\nThis situation calls for one thing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ready?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh? One thing...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "Hmph! I'm never forgiving you for this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ducky Plushie",
+   "Line": "Right back at you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“Why?!\nWhy is everyone calling him the hero and not me?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "Huh...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hero A",
+   "Line": "“Okay, all those nasty bugs are gone from this field.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Thanks, Mr. Hero!\nNow I'll be able to harvest lots of veggies!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Former Legendary Hero",
+   "Line": "“I... I brought peace back to this world after defeating that evil secret society! And yet—!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Former Legendary Hero",
+   "Line": "“Time has made everyone forget that fact.\nAnd now, airheaded interlopers such as him are being lauded as heroes! Why is that?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Former Legendary Hero",
+   "Line": "“I am the true hero...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“Honestly, when did you get this way?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Former Legendary Hero",
+   "Line": "“You're... The professor?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Professor",
+   "Line": "“Long time no see, hero.\nOr rather, former hero, no?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Professor",
+   "Line": "“Back then... You weren't like this when you were desperately trying to return peace to the world. You never obsessed over titles and fame.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Former Legendary Hero",
+   "Line": "“What?! My feelings have not changed since then. I want the world to remain a peaceful place...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Professor",
+   "Line": "“Yes, but we're all heroes in that sense...\nIncluding the ones you claim aren't fit for the title.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Professor",
+   "Line": "“We all want the world to remain peaceful.\nWe all feel the same way as you.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00175",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Former Legendary Hero",
+   "Line": "“The same way...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Professor",
+   "Line": "“Just take a look. Those fishing by the harbor, the proprietors providing food for others and the ones providing transportation to everyone... They make the world go round.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Former Legendary Hero",
+   "Line": "“Oh...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Professor",
+   "Line": "“You may not realize it yet, but this world is filled with heroes.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Professor",
+   "Line": "“If you can't see that, then I'm not sure that you can continue being one.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Former Legendary Hero",
+   "Line": "“I had no idea...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Former Legendary Hero",
+   "Line": "“I... I was so convinced that I was the truest of all heroes...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ducky Plushie",
+   "Line": "I... I just kept thinking about myself...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "The plushies have stopped arguing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "They're rethinking things after seeing that show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "But will it get them to make up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ducky Plushie",
+   "Line": "We made a terrible mistake, didn't we...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Wow. Their minds were changed so quickly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(I thought getting them to stop arguing would be so difficult... But look how they did it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ducky Plushie",
+   "Line": "I'm sorry. Let's make up...\nWhat if we both play the hero this time?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_wl_2nd_piapro_2025_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh no...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "No, he ran towards the city!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Let's split up and try to find him!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "O-Okay...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I thought he went this way...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Are you okay...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "*Gasp*\nWh-Who are you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I'm sorry. I saw you arguing earlier...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Umm... Do you not want to keep doing shows with that other plushie?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "What's it matter to you?! I don't care if I ever...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00016",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(It would be hard to listen to the words of an outsider such as myself...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(But something tells me that he's just trying to act tough.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(I want to help him, but I don't know what to say...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "This is a tricky one.\nHe's feeling defensive, and he isn't being honest with how he truly feels.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I'm sure you'll be able to help him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "After all, you know how to put on performances which move people's hearts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(I can't stop them from arguing by putting on a show like Tsukasa and the others.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(This feeling...\nI can empathize with him through sound.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00069",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "What a gentle sound...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "I'm starting to remember all the times I hung out with him. Why is that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "I wonder if...we're really never ever gonna do another show together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "I want to hang out with him again... So I should see if we can make up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "I'm gonna go find him!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_wl_2nd_piapro_2025_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Thank goodness...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Nicely done, KAITO!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Were you all watching just now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00322",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We're sorry. We know we should've said something, but your performance was just so beautiful that we had to sit and listen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "You're such an amazing guitarist, KAITO!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "*Nod*\nYour sound is so gentle.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, how do I put it...\nIt's as though you were able to express exactly how you felt through sound alone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And it was a very nice sound.\nYou were able to show real empathy without saying a word to him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I know. For our next show, why don't we try to captivate everyone like KAITO just did, but with song and dance?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "There may even be things we can only do with such a format!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Wow!\nI wanna give that a try☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That does sound fun.\nWhy don't we start working on it now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(It looks like I didn't need to worry about “me” at all.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(Not only was he able to help the plushies, he was even able to influence Tsukasa and the others.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "(I'm sure that will help with his self-confidence in the future.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I'm glad for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link2_ppr_ed5",
+   "_kind": "Effect"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

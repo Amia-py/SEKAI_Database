@@ -1,0 +1,853 @@
+{
+ "title": "Mixed Event — Screaming?! Welcome to the Forest of Wolves! — Episode1 Our Idea For The School Festival",
+ "meta": {
+  "Event": "Screaming?! Welcome to the Forest of Wolves!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode1 — Our Idea For The School Festival",
+  "Event Outline": "The Miya Girls School Festival is fast approaching. Kohane was thinking about inviting the rest of Vivid BAD SQUAD and wondering what they could do throughout the day, but her class, 1-A, decided to do something An's not very fond of... A haunted house!",
+  "scenarioId": "event_75_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00249",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka Girls Academy - Class 1-A",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Class President",
+   "Line": "So, for the School Festival, our class...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Class President",
+   "Line": "...by a majority vote, will be doing a haunted house!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00306",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00306",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I was hoping that we'd do a cafe, but that fell short by five votes.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(But a haunted house seems like an essential part of any school festival, so it should be fun. Does this mean we get to make gravestones, wells and other things like that for it?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Class President",
+   "Line": "We'll decide on the details during homeroom tomorrow. Please keep in mind that we may need to stay late after school in order to prepare everything for it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Oh, I should tell the others if I'm going to have to stay late to work on this...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I hope they really enjoy our School Festival...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Kohane!\nLooks like things are decided!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, Minori, Shiho.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I sorta wasn't expecting the haunted house to win. I was hoping for something else since it sounded like a lot of work...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. It might be a little tough since we'll have to figure out a design that fits inside this classroom.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But I'm actually kind of looking forward to seeing how our haunted house turns out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I know! We should make it just like the one at PXL! I remember having so much fun there when I was little!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, are you talking about Phenny's Nightmare? The one where Phenny wanders inside an old mansion...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah, that! Phenny was as cute as ever, but it was actually really scary inside...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "And it's great during Halloween because they have zombies come after you in the mirror room!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Oh, that's right.\nI went with Ichika and the others a while back... You should've seen the looks on Saki and Honami's faces.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. Phenny's Nightmare is really popular because it offers a nice balance of cuteness and fear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "On top of that, they change how the monsters look and when they're supposed to jump out depending on the season to make sure it never gets old!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Really? That's pretty interesting.\nYou really do know a ton about PXL, huh, Kohane?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. I do sort of visit a lot...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, that's it... I thought I didn't know much about haunted houses at first, but this seems like a good way to come up with ideas for ours.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah! Let's make our haunted house really fun and thrilling!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, since we're doing one, we should probably make it as fun as possible.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Then, let's do our best to make that happen!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Y-Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001502",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Akito & Toya",
+   "Line": "♪————————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane & An",
+   "Line": "♪————————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay...\nIt's getting pretty late, so why don't we stop here for today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Man, we sang so much!\nOur song this time around is turning out really well too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I agree. And your singing is very encouraging, Shiraishi. I have a feeling that the audience is going to go wild during the chorus.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah. But it isn't perfect yet, so we gotta keep working on it during practice tomorrow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay!\nLet's meet again at the same time after school!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, about that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm really sorry, but I have to help prepare for our School Festival starting tomorrow. I'm probably going to be late to practice for the foreseeable future...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wait, is the Miya Girls School Festival already just around the corner?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see.\nIt's a school event, so there's not much we can do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah. Plus, you can make up for it by practicing when you can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thanks...!\nI promise to do my best to not fall behind!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "All good!\nMore importantly, we get to go, right?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, um... I was actually going to invite you all today...! So... I hope you can all come!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Of course!\nBy the way, what's your class gonna do?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Um... A haunted house...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Also, An, I vaguely remember hearing something about you being afraid of ghosts... Is that because...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Um, well... That's not important!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001502",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Right...\nAn's afraid of ghosts...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What's wrong, Kohane?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I know! Your class is doing a maid cafe, right? With outfits that are a little too embarrassing to wear...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "N-No, actually...\nWe're, umm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "We're doing a haunted house...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "R-R-R-R-R-Really...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Th-The kind where you put drapes up all over your classroom and hang konjac jelly from the ceiling, right?! Th-That sounds like fun...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "A-An...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Your idea of a haunted house sounds ancient. Also, why are you so acting so jittery all of a sudden...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hang on. I remember someone saying how... Now I get it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Shiraishi, you don't look well.\nAre you okay...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "She fine. She isn't sick...\nJust scared...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "H-Huh...?!\nWh-What are you talking about?! I'm not scared!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "A-An, you don't have to visit my class if you don't feel like you're up to it. There's plenty more things we could do together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I-I'll be fine!\nI can't not go, Kohane! I'm definitely stopping by your class...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "An...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "B-But I'd feel so lonely if I went by myself, so let's all go together, okay...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Are we actually allowed to go...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah! I want you guys to come, so I got tickets for all of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We really don't have much time to play around...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But I guess we can make an exception for this. I'm looking forward to seeing how scary your haunted house is gonna be.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Speaking of which, Akito, didn't your class also do a haunted house during our School Festival? It actually ended up being quite a bit of fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We did put a lot of effort into making it as scary as we could. I mean, a haunted house isn't exactly gonna feel haunted if it isn't scary.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "A-Anyway, we're going...!\nWe promise to stop by your class, Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "O-Okay...\nThanks, you guys.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Still...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Th-The Miya Girls School Festival! I can't wait!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Your voice sounds really weird.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(An might not have fun if she has to deal with scary monsters...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Is there anything we can do to make sure she gets to enjoy herself...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00249",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Miyamasuzaka Girls Academy - Class 1-A",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Class President",
+   "Line": "Okay. Today, let's start coming up with ideas for our haunted house. Do any of you already happen to have suggestions ready?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00249",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, I do!\nCan we chase everyone around as zombies?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "We'd be super scary, and it'd be fun to make everyone scream and run!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate A",
+   "Line": "I was hoping that it'd be more like a house of dolls. It'd be pretty creepy if we all brought the dolls we played with when we were little, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Eep! That does sound creepy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmate B",
+   "Line": "Or how about a really long tunnel?\nWe could have weird sounds play in the background and have people follow our visitors.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Wow, everyone's already come up with a lot of ideas...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Y-Yeah...\nAnd they're all really good. I have a feeling that our haunted house is going to be pretty scary.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001502",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Isn't there a way to make our haunted house enjoyable for those who don't exactly like ghosts?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(But if we do that, our haunted house probably won't be very scary...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Class President",
+   "Line": "Thank you for your suggestions.\nAny more ideas out there? If not, I'd like for us to start choosing which to go with...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Hmm... What else can we do...?\nOh, I know!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "What if we took the opposite approach and made our haunted house really cute?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00249",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Didn't you say how the haunted house at PXL is really popular because it offers a good mix of cuteness and fear?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Airi... My friend even said that ideas are sometimes more interesting when they take the opposite approach!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I like your idea...\nBut I'm having trouble wrapping my head around a “cute” haunted house.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Wait, really?\nHmm... How about...? I know!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "What if we based it off a fairytale?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "A fairytale...? Like “Little Red Riding Hood” or “The Wolf and the Seven Young Goats”?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah! Making it cute would be a lot easier if we based our haunted house off one of those stories, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, that could be fun since it'll feel a little different from a traditional haunted house...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmates",
+   "Line": "Decorating it might be fun too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Really? Yay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmates",
+   "Line": "But what about the ghosts and monsters and stuff?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmates",
+   "Line": "Yeah, not many fairytales have them in their stories... Would witches work?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Little Red Riding Hood has the wolf...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Little Red Riding Hood... The wolf...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(It's actually kind of a scary story since Little Red Riding Hood gets eaten by the wolf. But not that scary.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Oh, maybe it's because you know that the hunter's going to use his gun to rescue her in the end...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wait!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Hm?\nDid you get an idea, Kohane?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Y-Yeah.\nHow about...something like this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "First, we'd turn our classroom into a forest.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "As our visitors walk in, they'll become lost, thereby becoming Little Red Riding Hood or the goats.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Mhmm, go on!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Then, we'll be the wolves who go after them as they try to navigate their way towards the exit... How does that sound...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Hey, that sounds pretty fun.\nThat means they'll actually get to be those characters.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Exactly. But that's not all...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I was thinking that they could also choose someone to be the hunter.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "The hunter?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah.\nAnyone chosen to be a hunter will be given a toy gun that will allow them to chase away any wolves.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Oh, interesting.\nThat means they'll get to enjoy our haunted house in a couple of different ways.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I see! The people who want to experience the haunted house as a haunted house can choose to be Little Red Riding Hood or the goats...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "And those who want to experience it as a game can go after the wolves!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmates",
+   "Line": "Whoa! That sounds like fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Classmates",
+   "Line": "Multiple options mean our visitors can go through it multiple times! I vote for this!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Class President",
+   "Line": "Okay, we seem to have strong approval for this idea, so let's go with this idea!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "*Gasp*\nTh-Thank goodness...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

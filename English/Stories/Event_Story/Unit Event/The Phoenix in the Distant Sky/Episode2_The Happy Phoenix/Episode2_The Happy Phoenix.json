@@ -1,0 +1,563 @@
+{
+ "title": "Unit Event — The Phoenix in the Distant Sky — Episode2 The Happy Phoenix",
+ "meta": {
+  "Event": "The Phoenix in the Distant Sky",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — The Happy Phoenix",
+  "Event Outline": "At the Otoris' suggestion, Tsukasa and the rest of WxS are set to perform in the Phoenix Stage's 30th Anniversary Show. What's more, they'll be performing a show starred in by Tsukasa's idol. Tsukasa leaps at the chance to audition for the same role as him!",
+  "scenarioId": "event_88_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Phoenix Wonderland",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Outside the Phoenix Stage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, everyone!\nAre you ready?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup!\nWe'll all go in and shout, “Come at us!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "No, we don't need to do that.\nWe're not here to pick a fight with them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But it isn't something we get to do every day, so it could be worth a try.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What?! You're joking, right...?!\nIt's our first day. Can't we just be polite and courteous...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Anyway, let's go inside!\nOn three...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Hah hah hah hah hah!!!\nSo, you've finally all arrived!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huh?!\nThat laugh! That piercing tone...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Indeed! It is I!\nThe star and prima donna of the Phoenix Stage...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Sakurako Seiryuin!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00059",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00537",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We meet again, Sakurako Seiryuin!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00537",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Wait, why are you making it sound like I'm the villain?! I came all this way to welcome all of you. Can't you show a little more appreciation?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, right. They have their own Tsukasa...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Anyway, setting the games aside for now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Welcome to the Phoenix Stage, Wonderlands×Showtime. We're glad to have you here today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Let's do our best together to put on another incredible show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, we'd like that very much...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Alright, everybody's here.\nI'm sure you all already know, but allow me to explain once more...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "This is Wonderlands×Showtime.\nI've asked them to help make our 30th Anniversary Show one to remember.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thank you for inviting us!\nWe're honored to be working with you again!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu, Nene & Rui",
+   "Line": "Thank you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cast Member A",
+   "Line": "Thank you for asking us to help with your night show! I hope we're able to put on another great performance together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cast Member B",
+   "Line": "Yeah, let's do our best to put on a show befitting of a 30th anniversary celebration!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Of course! We promise to do our very best! Again, thank you for having us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Alright, that's enough for greetings...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "We will now hear the details on what we'll actually be performing, as well as who will be playing which roles.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cast Members",
+   "Line": "Right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(That was sudden.\nThings feel much more serious now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "You should know at least this, Wonderlands×Showtime.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "We take things much more seriously than you may realize, so do your best to keep up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Of course!\nWe wouldn't have it any other way!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Then, I'll begin by presenting what you will all be performing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "You will be performing...\n“The Happy Phoenix”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(...!\n“The Happy Phoenix”?!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“The Happy Phoenix”...?\nHehe. That title suits this park so well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, and it's a pretty famous show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "It is?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes.\nIt's a musical that comes from the United States.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "The protagonist is a phoenix who lives deep within a forest. And one day, she meets a boy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "His mother was cursed by a witch, so he began searching for the heart of a phoenix, which can dispel the curse and save her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "However, without a heart, a phoenix becomes unable to resurrect itself. As such, the phoenix refuses the boy's demands.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "The story unfolds as the boy begins to persistently ask the phoenix to help him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow!\nThat sounds like a fun story! Right, Tsukasa...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Huh...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Tsukasa looks kinda startled...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Now, as for who will be playing which roles...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Our phoenix will be played by...Sakurako Seiryuin.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Thank you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Naturally, she's chosen for the lead.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(It's a difficult role due to it being so demanding, but she should be able to handle it just fine...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Next, the forest's Great Eagle will be played by...Kenta Omori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Omori",
+   "Line": "Thank you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(That's odd...\nNormally, after the phoenix is chosen, her counterpart...the boy, Rio, would come next.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Next, the Cowardly Canary will be played by Nene Kusanagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Th-Thank you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "The Featherbrained Duck by Emu Otori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Thank you!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "The Eccentric Crow by Rui Kamishiro.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "The Obnoxious Chicken by Tsukasa Tenma.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thank you...!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(The Obnoxious Chicken...\nIt and the duck are responsible for being the comic relief.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I'll have to fully immerse myself into my character since we've agreed to be a part of this show...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "That leaves...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Lastly, the witch will be played by Yukiko Nishie.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nishie",
+   "Line": "Thank you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Lastly...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_sky_2023_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Excuse me!\nNobody seems to have been chosen for the role of the boy, Rio...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "About that... I haven't actually chosen anyone yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "After the phoenix, Rio is the next most important role. He will be a major factor in terms of how our show turns out, so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "I plan on making my final decision after holding an internal audition for this role.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "An audition...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Starting now, please speak up if you wish to audition for this role.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "All are welcome, including those whom I've just assigned a role. In the event you are chosen for this role, I shall find a replacement for your old one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "Starting tomorrow, those who have tossed their name in will be practicing alongside the rest of the cast for one week. We will hold the audition following that period.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "If you wish to audition, please do not hesitate to raise your hand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Rio...\nWe get to audition to play him...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(What a marvelous opportunity!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I, Tsukasa Tenma, would like to audition for this role!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Sakurako",
+   "Line": "Hehe. That's what I like to hear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cast Member C",
+   "Line": "Oh, I'd like to as well!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cast Member D",
+   "Line": "Me too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "I see five hands...\nUnderstood.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Director",
+   "Line": "This is not something we normally do, but starting tomorrow we'll have the five of you take turns during readthroughs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Understood!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "He raised his hand without a second thought. I guess that's Tsukasa for you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. I wouldn't expect anything less.\nAlso, Rio's a tricky role that involves a complex set of emotions, so I'm sure it'll be a good learning experience for him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'll be rooting for you, Tsukasa!\nYou can do it!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hm...?\nTsukasa...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(“The Happy Phoenix”... The boy, Rio...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(To think I'd get a chance to play the same role that actor once did...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,583 @@
+{
+ "title": "Mixed Event — It's On! Wonder Halloween! — Episode1 A Fresh Start",
+ "meta": {
+  "Event": "It's On! Wonder Halloween!",
+  "Event Type": "marathon",
+  "Episode": "Episode1 — A Fresh Start",
+  "Event Outline": "Tsukasa and the rest of WxS begin preparing a Halloween performance for Phoenix Wonderland's Show Contest. However, Rui starts acting unusual after an incident...",
+  "scenarioId": "event_03_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Rui's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Okay... I think I have everything I need for today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh, I could use those lights for the final scene too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. Time to put on another fantastic show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Argh!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That flash of light... What was it?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00025",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You remember now, don't you, Black Knight? You used to wield your sword to protect people, to keep peace.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So those shinies were his memories coming back? It looked so pretty!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You're right... I'd forgotten what was really important to me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I shall vow to only ever brandish my sword in the name of peace as I had in the past!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "The Black Knight was once again back on the righteous path and peace returned to the world.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "What a terrific story!\nMaybe I could play a part too♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hah hah hah! I'm not surprised!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "The light effect at the end deserves a special mention. It was a very clever lighting scheme!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe, so it was worth the effort.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "And the part where Tsukasa leaps almost up to the ceiling was so awesome♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I loved that bit too! You shot up like a rocket, Tsukasa! It was so cool♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I thought he was going to go through the roof.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, yes. Being lifted up by hidden wires...\nTo be honest, I was scared senseless.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But you need to challenge yourself to make extraordinary performances! And I aim to be the world's greatest star!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "If it's for the sake of entertaining my audience, I'll pull off even the most dangerous stunts with elegance and grace!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Well, well, it's certainly great to have a reliable guy such as yourself on the team.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'm thinking of adding in a new part, especially for a star of your caliber. What do you say?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, a new part...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What sort of thing do you have in mind? Is it gonna be fun?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I have a bad feeling about this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Don't worry, I've made due considerations for health and safety. Although that performance may require some courage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hey, guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hmm?\nWho's that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "That's Len!\nHey, Leeen!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Like... Kagamine Len?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yup, that's me!\nNice to meet you all♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "I was coming to see your show, but on the way here, I saw some plushies having an argument.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "By the time I got them to calm down and make up, the show was over! I'm so gutted that I missed it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I was wondering where you were.\nIt's a pity you couldn't make it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hmm... I feel sorry for Len missing out.\nWhy don't we do another performance for him?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "YEESSS!\nI'll even do it a hundred times!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "A hundred might be a bit much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But I suppose we could do it once more. It'll be good practice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Then it's settled!\nFeast your eyes on our wonderful show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Awesome!\nEveryone, thank you so much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Phoenix Wonderland",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Aah, I had TONS of fun!\nAnd Len really liked our show too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah. We also got some pointers for improvement.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Our big performance tomorrow is guaranteed to be a resounding success!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, I'm sure it will go without a hitch... It might be time to start thinking of what our next show after that will be.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Already?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Why not? I already have some new ideas to play around with to make our next show even more entertaining.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Is that possible?!\nI'm so hyped♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You'll have me doing even trickier stunts, huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Shouldn't you be pleased? It'll give you the attention you so badly crave, Mr. Self-proclaimed Star.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I think you meant to say acclaimed star!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "It's going to be so amazing, Tsukasa!\nEvery show Rui comes up with is so much fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Fun, yes... But I'd rather not have a jetpack strapped to my back again, or anything like that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Not your cup of tea, Tsukasa...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It would make for a truly fantastic spectacle, worthy of a true star such as...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, fine...!\nI'll do whatever you need me to do!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "If it's to put on a good show, then I'll do anything!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "As long as you can promise me that whatever antics you have me do will make the audience roar with delight.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe, you can be sure of that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It's definitely going to be a crowd-pleaser of the highest caliber.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Scramble Crossing",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ascending to the stage from the seats won't have enough of an impact. He needs to make a powerful impression as a knight...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh, I've got it! That will definitely be better! But I'll have to assess its practicality and safety first.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You look like you've been having the time of your life lately.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh, have I?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah. You look like you're having fun.\nBefore, you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "What do you mean, Nene?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You seemed bored all the time before, but now you keep making this weird face.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "How is it weird? Should I be concerned?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Jokes aside, you may be right...\nI'm finally living my life.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Being able to put my ideas into action feels amazing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Anyways, the stage is sorted and we're ready to hold our show. I'll start planning the next one in the meantime.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hmm... Maybe I can make it easier for Tsukasa by reusing some of the gimmicks that worked with him last time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hehe...\nI'm happy for you, Rui.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00032",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonder Stage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright! Let's get started with the rehearsal...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00132",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mascot",
+   "Line": "Miss!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hm? What's up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mascot",
+   "Line": "A notice about an event that's to be held here just came in...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "An event?\nDad didn't mention anything about that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What sort of event is it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mascot",
+   "Line": "Here's the flyer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Let's see...\nThe First Phoenix Show Contest...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Did you just say Show Contest...?!",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

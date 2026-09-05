@@ -1,0 +1,653 @@
+{
+ "title": "Mixed Event — Secret Distance — Episode3 Time for a Mystery Tour!",
+ "meta": {
+  "Event": "Secret Distance",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — Time for a Mystery Tour!",
+  "Event Outline": "In hopes of pulling Kanade out of her songwriting slump, Mizuki plans a mystery tour for a much-needed change of pace. And so begins Nightcord at 25:00's first ever day trip together...",
+  "scenarioId": "event_19_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The day of the mystery tour",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Scramble Crossing",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, there they are!\nHeeey! Over here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Hello, Mizuki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "*Yawn*... So sleepy...\nHow can you have this much energy this early? ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Good morning...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Morning, Mafuyu! Looks like everyone's right on time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "So let's get this show on the road♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Just where exactly are you taking us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "It'd sorta stop being a mystery tour if I told you, wouldn't it? You'll just have to wait and find out♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Anyways, let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_secret_2021_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "One hour later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Aboard a train",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "We've been on this thing for an eternity...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Can't you just tell us where we're going already? All I see are farms and rice paddies now. Are we going into the mountains or something?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Patience is a virtue, Ena.\nYou should be trying to imagine what sort of fun-filled adventure I have in store for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But we're almost there...\nMaybe this is a good time to tell you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yes, finally. You've already made us wait this long.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Ahem. For today's little excursion...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "We'll be checking out a haunted area that everyone's been talking about♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00032",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_secret_2021_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "H-Haunted...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00015",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What?! Why somewhere that's haunted?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Relax. There's a reason I picked this place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "A reason...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Remember how I met Ena's li'l bro during the School Festival?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "His class did a haunted house that time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "So I thought a little test of courage might do us some good♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But the truth is that you just want to go, don't you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "That's another way to put it☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "You...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Is there a problem...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "If it'll help Kanade with her music, I don't think where we go matters.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm sorry for putting you all through this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "No, Kanade, don't say that!\nBlame Mizuki for dragging us all the way out here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, it's totally okay!\nI've sort of been wanting to go on a trip with everyone like this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "And relax, Ena!\nThis place might be haunted, but there's supposed to be a ton of good photo ops too♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "That's not what I have a problem with!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e001401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00070",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Tunnel",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "This place... I'm starting to get a bad feeling...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Seriously, are we gonna be okay...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Haha! Perfect! This place really doesn't disappoint!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "This spot in particular seems to be pretty famous. They say that a bunch of accidents and stuff keep happening here because people keep seeing ghosts!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, here's that hole they were talking about. Apparently, a car crashed right into here. Pretty eerie...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What...? So you're saying that a ghost made that crash happen...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Let's go in.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What?! Seriously?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Anything for Kanade's sake.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Will it help?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Um...\nIf we're doing a horror theme...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "The intro can include a double bass, people screaming in a few places and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "S-See! It won't really help her! We don't have to go in!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Do you think that song can save anyone?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Kanade, let's go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "O-Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Fine, horror it is!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Geez, this tunnel's so long...\nIt's the middle of the day, but pitch black in here...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "It's just an old tunnel...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Just?\nDoesn't it feel... Evil?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, right. They say that the ghost here is of a woman with really long hair...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wait, what are you saying...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "They say that she looks like a regular person, so people end up asking her if something's wrong...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00022",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "She apparently mumbles some stuff and these people always end up trying to hear what she's saying...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Which is...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "She softly says, The pain... ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "And the ones who heard her speak all ended up...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Ended up what...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Who knows...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What?! What do you mean, Who Knows?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "And why are you telling us that in a place like this?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hahaha. Okay, sorry.\nWe'll be fine. I promise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "See? There's the exit so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_secret_2021_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Eep!!\nWait, is someone there?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Whoa! Calm down, Ena!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "B-B-But...! Something moved and...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "It was a tanuki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "It ran off in that direction.\nIt kicked the can and made it rattle.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "*Sigh*... Just a tanuki?\nI got worked up over nothing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Haha. You should've seen the look on your face...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Hm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hm? What's up, Mafuyu?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Where's Kanade?\nShe was right next to me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00027",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wait, are you sure?\nHeeey! Kanade!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "She's not responding...\nWhere'd she go?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "She might be lost. We can't just leave her like this! I'll go look while you two head for the exit!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I'll go too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wait, hey...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Just me...?! All alone...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wh-What do I do...?\nBut the exit's right here, so as long as I can make it there...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_secret_2021_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Eep!\nOh, nevermind. It was just a leaf...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "*Sigh*... Why me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Is someone there?\nMizuki and Mafuyu went the other way so...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "K-Kanade...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "The...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "The pain... The pain...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wait, Th-The Pain...?\nNo, is this what Mizuki was...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "N-Noooooooo...!!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

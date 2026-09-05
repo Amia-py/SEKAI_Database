@@ -1,0 +1,703 @@
+{
+ "title": "Unit Event — Time to Take Off! — Episode5 Music on the Backstreets",
+ "meta": {
+  "Event": "Time to Take Off!",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — Music on the Backstreets",
+  "Event Outline": "Vivid BAD SQUAD are just about ready to visit the US, where they'll attend the event Taiga and Ken are taking part in. An excited Toya is packing his things when he receives an unexpected message...",
+  "scenarioId": "event_154_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c003001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next morning",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "New York Academy of Music - Cafeteria",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An & Kohane",
+   "Line": "Leeet's eat!\nLet's eat.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Mmm!\nThis chicken sandwich is so good! I'm loving this barbeque sauce!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. This sausage sandwich is also really good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What did you two order again, Aoyagi, Shinonome?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I got some coffee, bacon and eggs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I got some cafe au lait and pancakes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "They said that it'd take a while to make them, but... Oh.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Waiter",
+   "Line": "“Here are your pancakes.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00314_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "These are...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huge...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Y-Yeah, this is pretty overwhelming...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Sh-Shinonome, can I take a picture?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Sure. Actually, I'm gonna take one too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00075_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00075_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Wow! Those look amazing!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Hm? That sounded like...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000399",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<I've never seen such a huge stack of pancakes before!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Len? When did you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Hehe. I got curious, so I came to see what you guys were doing!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<New York's really is super big and amazing, huh!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c003001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, but I didn't think big meant...\nNo, this might actually count.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Len, what did I tell you about keeping it down?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Haha. But I understand why he's so excited.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Miku, KAITO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Hello!\nWe decided to follow Len after he said that he'd be coming over.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<So, how's your trip to the States been?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Well...\nWhere to begin?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<I see. So quite a lot has already happened.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<But getting to stay in one of the dorms is super lucky! You wouldn't be able to under normal circumstances, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "True. It's ended up being a very valuable experience.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Plus, our rooms are nice and spacious.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<The school in general seems very big, just looking around.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, the New York Academy of Music doesn't just focus on classical music and jazz. There are many different departments on campus.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "You can study pop, rock, world music, dance, musicals and much more.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<World music?\nLike music from different countries?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, Mr. Lloyd...\nThe professor we just mentioned was telling us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Some students here major in Japanese instruments, like the koto and shamisen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Wow, they really do cover a wide variety.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes. You can name any field of music, and this school has produced some of its best players.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Which is why nobody was surprised when my brother chose his major...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002903",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“While attending a music school in Vienna, he had the chance to study here as an exchange student.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c003001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But I had no idea that my dad had also attended.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, I think that caught us all by surprise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Did your dad say anything before you left for this trip? He knew that you were going to New York, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I got his permission to go...\nBut he didn't say anything else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "He may not have seen any reason to mention it, since we didn't originally plan on stopping by here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I'm running on very little here...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(But could he have spent his mornings in this very same cafeteria when he was a student?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c003001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I'm having a hard time imagining that...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(How did he spend each of his days here?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Oh, do you guys have any plans after this?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Mr. Lloyd's gonna give us a tour of the campus!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But he has a couple of classes this morning, so we need to wait until he's done teaching.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "We were thinking that we could go somewhere in the meantime...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What should we do?\nThe manager did say that he'd drive us somewhere if we asked.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Why don't we just wander around this area?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Around this area?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Remember what Mr. Lloyd said?\nThere's that street he said we should check out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Oh...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002903",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“If you're interested, I recommend that you visit the backstreet behind campus.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lloyd",
+   "Line": "“Harumichi used to go there quite a lot when we were students.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c003001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, let's go check it out...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I appreciate it... But are you all sure?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, I think we're all really interested!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We didn't get a chance to do anything yesterday, with how hectic things got. Seems like a nice place to start.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00307",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "New York Academy of Music - Backstreet",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Wow...! What a beautiful street!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<All the signs are in English!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hey, someone's gonna notice if you guys don't keep it down.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Are you sure? It might actually be okay for us to talk normally.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "It seems like such a lively place with all these different people doing street performances...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "And tons of people are watching.\nLook at that group over there! They're all clapping along!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, but they seem like they're all over the place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<All over the place? They sound pretty good to me...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh, I was talking about all the different genres.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I'm hearing classical, pop...\nAnd some folk music coming from over there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see cellos, trumpets, guitars, accordions and... Oh, that person's even playing the harp.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000398",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(It's like a wave of different sounds with every step I take.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I had no idea that Dad spent so much time in this kind of place...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(He's a classical musician through and through, so I was under the impression that he had no interest in other types of music.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Oh, that old man playing the guitar is really cool.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yeah, it's like he's making his guitar talk.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, check it out!\nThose kids are using snack tins as drums!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. Wow, that looks like a lot of fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Fun, huh?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(The sights, and even the sounds, are different.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(And yet, this street...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...it's a little similar to Vivid Street.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<To Vivid Street?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, that's it! I thought something felt familiar about this place when we first arrived here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, they both give off the same sort of vibe!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I agree. There's music being played everywhere, and everyone here seems to be enjoying themselves.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Music feels like a vital part of this neighborhood and its people. In that sense, they're very similar.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "This place is nice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

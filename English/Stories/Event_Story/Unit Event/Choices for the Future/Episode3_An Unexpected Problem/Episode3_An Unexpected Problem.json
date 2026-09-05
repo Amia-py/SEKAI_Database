@@ -1,0 +1,673 @@
+{
+ "title": "Unit Event — Choices for the Future — Episode3 An Unexpected Problem",
+ "meta": {
+  "Event": "Choices for the Future",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — An Unexpected Problem",
+  "Event Outline": "Emu continues studying management with the Morinomiya Revue. While leading fulfilling days full of new connections, she learns that a threat is coming to bear on Morinomiya's Kikyogumi troupe.",
+  "scenarioId": "event_164_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d004001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Morinomiya Revue - Corridor",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Management Staff Member",
+   "Line": "Thank you for helping me put everything away like this, Ms. Otori...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Management Staff Member",
+   "Line": "I really appreciate it since there was just so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Not a problem!\nI have a much better understanding of what general affairs involves now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'll be more than happy to lend a hand if you need help with anything else!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Management Staff Member",
+   "Line": "Oh... Hehe.\nYou're even more energetic than usual.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Management Staff Member",
+   "Line": "But you can clock out for the day.\nI'll see you again tomorrow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Thank you! See you tomorrow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Management Staff Member",
+   "Line": "*Nod*\nThank you again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(General affairs deals with so many different things.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I guess every company is different, but you have to help set up meetings, keep track of all the equipment in the building and all sorts of other stuff...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Alright, I'll read over my notes again after I get home!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d004001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I wonder how Suzu learned about management...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I should ask her the next time I see her.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I don't remember coming this way...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "U-Uhhh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Which way did I come from?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What do I do...?!\nI think I went the wrong way while I was thinking about everything I've been learning...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Uhhhh... How about this way?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00285_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Huh? That looks like...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Thank you again for making the time to meet with me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Board Member",
+   "Line": "Ah, not a problem. Still...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Board Member",
+   "Line": "It is unfortunate to hear that Kikyogumi is going to be disbanded.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(What...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Board Member",
+   "Line": "Try not to worry too much.\nThese sorts of decisions are sometimes necessary to ensure the longevity of a company.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "I appreciate you saying that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Board Member",
+   "Line": "Please let us know if you'd like to speak with me again. For now, you'll need to excuse me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "These decisions are sometimes necessary...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Kikyogumi is being disbanded...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Wh-Wh-Wh-What's going on here?!\nWe just saw them perform the other day...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Suzu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Otori? What are you doing here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Umm... I got lost after helping put away a few things.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And then just now, I...! Uhh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Let's find a place where we can talk, shall we...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00046_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "No one is scheduled to use this rehearsal room right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Anyway, Otori, about what you just heard...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'm really sorry!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I didn't mean to eavesdrop or anything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But is it true? Kikyogumi is really being disbanded?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Yes. The board reached a consensus yesterday.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "But things haven't been fully finalized yet.\nSo, please refrain from telling anyone else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But why...?\nKikyogumi's shows are so amazing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Ah, that's right. You've seen them perform...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Then, did anything stand out to you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Stand out?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Yes, for example... The number of empty seats.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "It was such a great show, so I did wonder why there were all those empty seats.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "In order to give a proper explanation, I'll probably need to start with how the Kikyogumi troupe initially came to be...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Which may take a while. Is that okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, please go on!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "The Morinomiya Revue and Suzurangumi were simultaneously established a hundred years ago.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "This company has spent decades establishing the Morinomiya brand of shows. As such, its fan base has become rock solid.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Unfortunately, it's also grown stagnant.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wait, so... They have a lot of fans coming to see their shows, but not many new ones...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Exactly.\nNothing serious has happened yet, but we'll slowly but surely keep fading from the public eye if we let things go on like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Kikyogumi was established two years ago with the precise intent of getting ahead of this issue.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "The goal was essentially to bring in a new set of fans and breathe new life into Morinomiya by forming an all-male troupe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I had no idea...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "However, Kikyogumi is still a very new troupe that's full of young members.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Compared to Suzurangumi, they're lacking in terms of quality... Showgoers have seen reviews of that nature going around, and as a result, the troupe is struggling to bring in the expected earnings.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "If a product fails to hit sales targets, then the company must cease producing it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "And what's more...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "All of Kikyogumi's leads and star-level talent just keep leaving for greener pastures.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What?! Wh-Why...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Wouldn't you want to leave if you were in their shoes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "You push yourself to the absolute limit during practice, but it doesn't fill the seats. On top of that, you're seen as lesser than Suzurangumi. I honestly don't blame them for wanting to leave.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Improving the brand while short-staffed is impossibly difficult. As such, there's no reason to expect an increase in earnings. In other words, the board was right to disband them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "I understand their reasoning. But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Suzu, it sounds like...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You don't want to give up on them, do you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "No, I don't...\nBecause I believe they're a vital part of Morinomiya.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "The younger fans find a slight lack of refinement actually charming. When it comes to reaching a new audience, this troupe has been able to produce results.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Plus, the remaining troupe members and the male students are all very passionate about what they do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Which is why I want to see if we can keep them somehow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(It's always hard when you can't reach your goal or protect the things you care about...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(That reminds me of Phoenix Wonderland not too long ago.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Suzu!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Huh...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Can I help you save them?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So, I really understand why you want to help Kikyogumi not get disbanded...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I mean, they put on these amazing performances that feel totally different from the ones Suzurangumi does...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "There were empty seats, but the people who did come to see them all seemed to really enjoy themselves!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, sorry...! I'm an outsider, so I probably shouldn't be saying all this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "The thing is, Phoenix Wonderland went through something similar a little while back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "We started losing guests...\nWe tried doing a lot of new things, but nothing worked at first.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Also, I'm studying management and how to run an organization right now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So I want to help you in any way I can, Suzu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Please, let me help you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Otori...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "It is nice knowing that I have an ally...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Thank you. I'm looking forward to working with you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...!\nMe too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

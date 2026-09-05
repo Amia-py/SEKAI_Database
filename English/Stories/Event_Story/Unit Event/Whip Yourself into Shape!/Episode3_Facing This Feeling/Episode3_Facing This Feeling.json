@@ -1,0 +1,513 @@
+{
+ "title": "Unit Event — Whip Yourself into Shape! — Episode3 Facing This Feeling",
+ "meta": {
+  "Event": "Whip Yourself into Shape!",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — Facing This Feeling",
+  "Event Outline": "An psyches herself up to work on the task she's been given, but there's hesitation in her singing. When she realizes that her unease over Kohane is causing the problem, An calls her out to Vivid Street to settle things once and for all.",
+  "scenarioId": "event_129_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002603",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "An's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Is there something on your mind?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "You hesitated just now while you were singing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "At first, I thought you were thinking about everyone in town, but... I'm not so sure now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "What's got you so hung up?\nThere's definitely something lingering in your mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What's got me so hung up...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Looks like you know the answer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "It's something I've...probably been thinking about for a really long time now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "A really long time...?\nWhat do you—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Oh, is this about her?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002603",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I never would've thought that it'd affect my singing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(I've been hung up about Kohane for the longest time.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(But I thought...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002603",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(I thought I'd gotten over all that after talking to Akito and Miku.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(I decided to keep singing with my partner and stay by her side.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(I made the commitment to set aside my uncertainties and move forward.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000167",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002603",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Those uncertainties never really went away.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(My stomach sinks every time I see Kohane reach new heights.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(That's what's motivated me to keep working hard...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(But as long as this feeling lingers...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "If you hesitate at all while you sing, your audience will notice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "That doubt might handicap you significantly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002603",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I can't go on like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(I have to do something...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(I need to get closure.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So, if you don't do something, you don't think you can accomplish the task Ken gave you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "As long as I keep feeling this way about Kohane, I'm never going to be able to get the locals to believe that we're going to go beyond Aunt Nagi's dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "RAD WEEKEND happened because she was able to get them to believe in what she was doing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But... Here I am feeling so unsure.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I know I have to do this, but Kohane sings so well that it keeps reminding me of Aunt Nagi... And all that doubt wells up inside of me again...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "If I don't do something about this, then I'm probably never going to be able to get everyone behind what we're doing the way Aunt Nagi did.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So, I want to find a way to get rid of this doubt.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But I haven't been able to come up with a solution on my own...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "This is a difficult problem.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What you're talking about has nothing to do with what Kohane's done. It's a matter of how you feel.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah... I know.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Kohane said that she isn't going anywhere, and I know I just need to keep doing my best...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But I keep thinking about how...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Argh!\nI hate being indecisive like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I...probably sound really lame right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "No, that's not—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "That's not true!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Luka...?! You too, Toya...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "You're not lame at all, An!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I'm not entirely sure what's going on, but you're nervous that Kohane's sort of jumped ahead of you, right?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Isn't that just another way of saying she means that much to you?! Lame isn't the word I'd use here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Luka... You...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh no! Wh-What have I done...?!\nSorry, everyone! I was just trying to...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Sorry, Shiraishi.\nWe just happened to overhear your conversation. I was actually just asking Luka for her opinion regarding my song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Y-You shouldn't be the one apologizing, Toya! It's my fault for suggesting that we listen to what was going on for a little bit! I'm really sorry!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "But... I meant every word of what I just said! I don't think you're lame at all, An!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hehe.\nThank you, Luka.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But there's no need for you to apologize so much. There's no use crying over spilt milk.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "If anything, can I ask you guys for some advice regarding this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Anything you can tell me will be really appreciated! The more the better!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka & Toya",
+   "Line": "Okay!\nSure.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

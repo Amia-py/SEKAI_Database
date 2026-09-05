@@ -1,0 +1,473 @@
+{
+ "title": "Otori Emu — Beware Of Thieves!〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "Otori Emu",
+  "Card": "Beware Of Thieves!（3★）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "Halt! Tenma's on the Case",
+  "scenarioId": "014037_emu01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Hiori Jidaigeki Studio Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehehehehe♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'm so glad they gave us permission to warn the guests about these thefts by putting on performances♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, I'm glad the park gave us the green light too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Indeed!\nBut what are we going to perform...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Well, we want everyone to understand what's been going on, so we'll want to do something that's short and simple.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup yup!\nIt's gotta be easy to understand above all else!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, also... We need to try to remind them to stay calm if they do happen to run into the thief!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Stay calm, huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, learning that people's things have been getting stolen would scare anyone...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Exactly. I know it's important to warn everyone about what's been going on, but I also want them to really enjoy their time here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe.\nIt's very like you to come up with such a wonderful idea, Emu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I agree.\nWe should do our best to not make them worry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "So, something short, simple and easy to understand, but also fun and enjoyable...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Oh, did you hear?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "People's things have been disappearing.\nAnd it's apparently been happening quite a lot lately.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Oh, really? That's pretty scary...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "I even heard that someone's things got stolen just yesterday. What if it happens again today...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "What?!\nDoesn't that mean the thief might be hiding in plain sight?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "People are already talking about it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "There isn't much anyone can do since word can spread so quickly like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Emu? Is something wrong...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "It's just...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I want those people to smile, you know...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "They came here wanting to have a fun time, so I don't want them to feel all sad and scared.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, I agree...\nI feel the same way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. Then, why don't we try doing a quick skit for them right here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We'll have to improvise, but I have a feeling that it'll make things feel more real.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah! I'm in!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Let's do an improv skit that'll make them smile and laugh!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hehe. Okay...\nLet's give it a try.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Then, let's quickly come up with some roles! Any ideas?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Then, I'll be the thief!\nYou play the victim, Nene, and Rui can...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Oh, these are so cute!\nWanna buy some as souvenirs?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Yeah, okay!\nOh, but we need to be careful since someone's been stealing everyone's things...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "R-Right...!\nThen, maybe we should buy these later.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu's Voice",
+   "Line": "“Hah hah hah!\nI am the great thief, Emuemon Otori!\nAll of your possessions are mine, young lady!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00185",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Wait, what?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00627",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "“S-Stop! Thief!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“Do you honestly think anyone would stop after hearing that?! If you want your things back, then come get them!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00349_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00627",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Oh, is this supposed to be a skit...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "I recognize them from the posters. They're a part of the cast for the show that they were supposed to do today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "“Wh-What do I do...?\nI've already lost sight of her...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "“What's wrong? You seem very distraught.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "“Oh, I'm sorry, Mr. Samurai, but my things just got stolen!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "“Wait, that's terrible.\nCan you tell me what this thief looked like?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "“She was about this tall, but very fast...\nWait, that's her!!!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“Oh no! You found me!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "“Freeze!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“No! You aren't going to catch me so easily!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Huh...?! She's coming this way!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Wh-What do we do...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Stop right there, thief! Did you really think you'd get away with this?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00420_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Eep...!\nSomeone's coming from behind!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“No, you're that detective!\nN-Not good!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "“Heh. End of the line!\nYou're under arrest!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "“The life of a criminal is seldom a long one. Now, it's time for you to face the music!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“Nooo!\nA pincer move! I'm trapped!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Haha. She's starting to panic!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "I've never seen people do a skit so up close like this before. This is really fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00559",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“Grr...!\nTh-There's nothing I can do!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Anyway, everyone, the moral of the story is that you need to be very careful with your belongings!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "If you happen to witness a theft in progress, be sure to ask a nearby ronin or detective wearing a staff badge for help.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We promise to continue doing our best to keep you smiling and laughing, so please try to stay positive.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Now then, we hope you enjoy the rest of your time here at Hiori Jidaigeki Studio Park!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00022_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Nice work, everyone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Phew...\nWe did that skit completely on the fly, but everyone seemed to really enjoy it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah! I really hope it helps keep their spirits up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Actually, I think it's already having a positive effect. Look...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "That was meant to be a warning about all the thefts we've been hearing about, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "I think so. But I ended up laughing for most of it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Me too. And the staff will help us if anything does happen, so let's just try to have fun...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...!\nThank goodness!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Things are just so much better when everyone's smiling like this...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I mean, this park's meant to be a place where they get to have fun.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Alright, let's keep up the momentum and keep doing more of these skits!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

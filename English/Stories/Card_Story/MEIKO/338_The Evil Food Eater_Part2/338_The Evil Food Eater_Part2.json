@@ -1,0 +1,603 @@
+{
+ "title": "MEIKO — The Evil Food Eater〔Part2〕Side Story (Part 2)",
+ "meta": {
+  "Character": "MEIKO",
+  "Card": "The Evil Food Eater（4★）",
+  "Part": "Part2 — Side Story (Part 2)",
+  "Event": "",
+  "scenarioId": "025015_meiko02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Now, shall we continue with our “meal”?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Oh, where are my manners...?\nLook at me, doing all of the talking.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Hehe. But allow me to tell you all about this pair of twin servants, as well as a certain cook. I promise not to disappoint♥",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Let us begin with the twins, Arte and Pollo...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_i000109",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "The girl, Arte, had a habit of declaring war on anything she disliked, but was a very capable servant and cook.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_i000110",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "The boy, Pollo, was much simpler and struggled to learn courtly manners, but had a much milder personality compared to his sister.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "They had been by my side since I was born, but they curiously never really aged as time went on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "They ate very well too. Almost as much as I did. Strange, is it not...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "And I must not forget Josef the cook...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "It was quite delightful having all of us living in my manor together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_i000105",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00108",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Banica's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "A parasite-sausage dish...?\nYou added this to tonight's menu?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Josef",
+   "Line": "Y-Yes... You mentioned how it was far too bland last time, so I decided to make a few changes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Josef",
+   "Line": "Bugs don't maintain their flavor well. To compensate, I made a sauce out of the shells of some poisonous bugs that I had to painstakingly peel off and grind up...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "I have eaten quite a few poisonous bugs in my time, but a powder made out of their shells is indeed a new one...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Nicely done, Josef♥ I expect nothing less from such a great cook. Please, add it to tonight's menu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Josef",
+   "Line": "Th-Thank you very much.\nIf you'll excuse me, I need to go back to preparing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00043",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Hehe. I simply cannot wait for dinner tonight...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Josef's Voice",
+   "Line": "Wah?! Ow!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00051",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Josef's Voice",
+   "Line": "Arrgh!\nWhat's a banana peel doing out here...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Pollo's Voice",
+   "Line": "Hehehe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00253",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Arte's Voice",
+   "Line": "You fell for it again!!\nWhat an idiot!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00253",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Ah, them again...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Everything Josef made was so unique and delicious...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Then, he gave me the greatest spice I could ask for...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Love...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "I was blind to it at first, but I would soon realize that he was the one. My old flame.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "He came to me and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Ah, I will never forget...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_i000105",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "That night we spent together, as well as when we shared a meal while in my room...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Because of my deal with that demon, a sort of euphoric sensation came over me after tasting his poisoned soup.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "But my lover, Carlos, had some as well, so that we could die together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Unfortunately, my contract prevented me from dying, while he soon passed away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "But he left me the greatest ingredient of all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Himself! My “lover”...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Ahh... Ahhhh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Mmm... That was astounding...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Delicious beyond belief...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "My “lover”. The only one in this entire world, and my sole opportunity to truly enjoy him...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "I would like for you to feel even just a fraction of the delight I felt that time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Ah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "“They” may have been quite tasty as well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Hehe. Oh, not Arte and Pollo.\nThere is no denying that they were very good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "But before I knew it, there was nobody left in my manor except for me, my empty stomach and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_i000105",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00299",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "There, there...\nYou can rest a while here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "So precious...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "(Our baby...\nSeeing you sleep always warms my heart...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "(And my stomach could not be emptier...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Demon",
+   "Line": "You must consume this child or face death...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00106",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Ah, “demon”, long time no see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Demon",
+   "Line": "Your powers have weakened.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Oh, is that so?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Demon",
+   "Line": "Yes. You must consume this child to save yourself. You must hurry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Baby",
+   "Line": "Zzz...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "I refuse...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Demon",
+   "Line": "What?! Why?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "I cannot explain why.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Demon",
+   "Line": "You will die if you do not!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Again, I refuse.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Demon",
+   "Line": "Are these your emotions talking...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Demon",
+   "Line": "Now, eat!\nWithout “food”, what would you have left?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "I said, “No.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Demon",
+   "Line": "Eat! Devour! Consume!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "I! Will! Not!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Demon",
+   "Line": "No, you must eat! Nothing else in this world will sate your lust for food!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Are you sure about that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "I see something just as good... Right in front of me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Demon",
+   "Line": "What...?! N-No...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Now then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Demon",
+   "Line": "Do not be a fool! Stop! No!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "I will consume myself.\nAlong with you, “demon”...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Demon",
+   "Line": "N-Nooo!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Hehe. I simply cannot wait to see how you taste♥",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "That will be it for today's “meal”...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00070",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "I'm glad to see that you enjoyed everything as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Oh, are you wondering how I am still here even after I devoured myself...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "It really is quite strange, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "By the way...\nMy stomach is grumbling...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Hehe. I suppose anyone would feel hungry after hearing these kinds of stories.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00301",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "How would you feel about hearing another story of the like?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Hehe. Do not worry, satisfaction is guaranteed♥",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Banica",
+   "Line": "Hehehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,643 @@
+{
+ "title": "Mixed Event — An Unmissable Spirited Affair — Episode4 A Road Less Lonely",
+ "meta": {
+  "Event": "An Unmissable Spirited Affair",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode4 — A Road Less Lonely",
+  "Event Outline": "Kamiyama High School's second-years are headed to Kyoto! In contrast with Tsukasa's excitement for their school trip, Rui is less enthused. But will his feelings change when one of his classmates approaches him?",
+  "scenarioId": "event_99_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a005901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kyoto",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Alright, let's head to the shrine for the performing arts!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa & Shizuku",
+   "Line": "Yes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Actually, before we do, mind if we take a quick detour?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa & Shizuku",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Where, Momoi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Between here and the shrine, there's supposed to be a big street with lots of shops... We should be able to buy souvenirs and have a quick tea break.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "So, would that be okay?\nIt'll also give you two a chance to find some souvenirs like you said.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, that sounds good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Great!\nThen, we'll start with the street of souvenir shops!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa & Shizuku",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Wow...!\nSo many shops...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Let's see... Based on this map, there's a souvenir shop on the street just ahead, with a little tea shop further along.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, that bulletin says a new Japanese sweet shop apparently just opened up in the area where the tea shop is. It seems very popular.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Japanese sweets?!\nThat's definitely going on the list...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Shizuku, we gotta check it out later and–",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh wow...!\nThese candies look like gemstones!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, these could work very well as a stage prop if we made a ring using some. I can see it already... The king eats his own ring as he goes mad with power...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi & Tsukasa",
+   "Line": "*Sigh*\nOh dear...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, you can try this mochi?\nThen, I'd like a sample!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hey, don't wander off without us!\nHave you forgotten that your phone's out of battery?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh, a textile shop.\nIt'd be nice to make some costumes out of these fabrics someday.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hey, that goes for you too!\nDon't wander off like that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "This is turning into quite a lively day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Alright, let's find some souvenirs for our nearest and dearest!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Mutsuhashi are pretty standard...\nBut I kinda want to get something more fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, how about these?\nGrapefruit-flavored mutsuhashi gummies!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Grapefruit-flavored mutsuhashi gummies?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "That's quite the combination...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I guess this kind of tragedy is what happens when the tourism industry goes a little too far...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But they could be worth getting.\nEmu likes these sorts of strange snacks, and Nene likes grapefruit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That doesn't justify buying these!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Ena might like some of these blotting sheets...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "You're getting those for her, Asahina?\nThen, I think I'll get this powder puff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hehe. It would've been nice to also run into Ena here since we're all second years.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "That's sorta doubtful since night school students don't have their trip at the same time as regular students.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "So, we should take this opportunity to get her some nice gifts!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hmm... I'm not seeing one anywhere...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "What are you looking for, Tenma?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, one of those golden Kyoto figurines...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Golden Kyoto figurines...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Do you mean one of those porcelain dolls made in Kyoto, but colored gold...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Wait, what are you talking about?!\nThere's no way they make those!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That's unfortunate... I've searched for them everywhere to no avail... I was hoping to get one for Saki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, you're looking for something for Saki?\nIn that case...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "How about some of these colorful comfits? They look like little stars.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, you're right!\nAnd they're very cute! Excellent idea!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hehe. I'm glad to hear that.\nI think I'll get some for Shii.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "How adorable is it going to be when they have these together with their friends?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes...!\nA harmonious scene indeed!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh... Thank goodness... Saki's going to get a real gift...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "One hour later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Okay, that should do it for souvenirs...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh, I see a Japanese sweet shop up ahead. Shall we take a break there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah!\nHehe. I can't wait to see what they have♪ Huh?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Wh-Where'd Shizuku go?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wh-What?!\nThis is terrible...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It is...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, because she's—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku's Voice",
+   "Line": "Oh, this is so lovely...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "*Gasp*\nThere she is!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Old Store Clerk",
+   "Line": "I'm sure it'll look very good on you, miss.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Thank you very much!\nBut this looks so well made... I'm not sure I can afford it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Store Clerk",
+   "Line": "Hehe. You're in for a nice surprise.\nI make these as a part of my hobby.\nHow does this much sound?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, my allowance can cover that...!\nThen, if you don't mind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Old Store Clerk",
+   "Line": "Yes, of course!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00100_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Shizuku!\nAgain, your phone has no power, so losing sight of you immediately turns into a big emergency!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh! Hi, Airi...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "She's prone to getting lost?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes...\nHer sense of direction leaves something to be desired...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00171_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I'm sorry.\nI found something wonderful that really caught my attention...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Something wonderful?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, what a lovely haori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "These snowflakes... They've been embroidered so carefully onto this white fabric...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hehe. That's also what I liked about it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, it's really pretty... But when are you gonna wear it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I was thinking of using it as a bed jacket since I'm not sure when I'd wear this outside.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "R-Really?! A bed jacket?!\nThis looks way too nice for that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "W-Would that be bad?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "No, but...\nI guess that does suit you best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Anyway, now that we're all back together, let's head over to that sweet shop!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Right!\nAnd after that, we can head over to the shrine for the performing arts!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shrine for the Performing Arts",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, we're here!\nAnd still all together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "So, shall we go make our wishes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Okay!\nReady, everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00484_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00484_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00483_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I will!!! Become!!! The world's greatest star!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Whoa...!\nWho shouts like that while making their wish?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Th-That was alarming...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I agree... I'm used to this in your case, but I doubt many people shout out their wishes the way you did...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "W-Wait, but...!\nI need to be loud if I want this shrine's deity to hear me, no?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Th-They probably felt your presence...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hehe... Hehehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Is something the matter, Hinomori?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, I'm sorry...\nIt's just... Tsukasa really hasn't changed since we were little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Actually, Hinomori...\nHow long have you two known each other?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, I didn't ask you that. It seems like you two have known each other forever...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I've known Tsukasa since we were in elementary school.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "So, you're childhood friends?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Actually...\nWe didn't play that often together, but I suppose we're something like that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, that seems fair.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I first met him when we were in second grade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

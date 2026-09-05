@@ -1,0 +1,763 @@
+{
+ "title": "Mixed Event — Wishing to the Blue Sky for Your Happiness! — Episode1 Me?! A Model?!",
+ "meta": {
+  "Event": "Wishing to the Blue Sky for Your Happiness!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode1 — Me?! A Model?!",
+  "Event Outline": "A photographer who is a regular at the cafe asks An if she would be her bridal model. An, who cares deeply about those around her, pushes past her embarrassment and accepts. At the wedding venue, An encounters another bridal model—Shizuku.",
+  "scenarioId": "event_60_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Vivid Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Let's see...\nThat should be everything I need to buy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But the guy at the coffee shop just loves to talk so much. It's already this late and... Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cat",
+   "Line": "Meow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_happiness_2022_006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, Vivi!\nYou look good today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Vivi",
+   "Line": "Meow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hehe. And as adorable as ever!\nC'mere you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_happiness_2022_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I've been seeing so many trucks on the road today... Be careful not to hit by one, okay, Vivi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Vivi",
+   "Line": "Meow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hehe. That's what I wanna hear.\nAnyway, I gotta get going. Later!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Truck Driver",
+   "Line": "Hey!\nYou guys finished loading everything?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Vivi",
+   "Line": "Meow!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00184",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Truck Driver",
+   "Line": "Hm? Did something move by the bed just now...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Truck Driver",
+   "Line": "Or it could just be my imagination.\nAlright, I'm heading out!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Vivi",
+   "Line": "Meow...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_happiness_2022_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_happiness_2022_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey! Vivi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hmm... Not here either.\nIf she isn't on top of this AC unit, that just leaves...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "*Sigh*\nSeriously, where'd she run off to?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I'm supposed to practice with Taiga today, but I ended up coming way earlier than the time we agreed to...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Since I have some time, I can warm up at the park... Oh, I know. I can try looking around Vivid Street like I did with him that other time.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I still don't really understand why I need to see the city to get better at singing...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(But it's been pretty fun getting to know everyone around here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Voice",
+   "Line": "Vivi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(Huh...?\nIs that An over there?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "An!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Kohane?\nWe don't have practice today... Oh, isn't this your day to practice with Uncle Taiga?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, but we're not supposed to meet for a while. What are you up to, An?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, I was looking for a cat.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "A cat?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, she's a stray called Vivi. You might've seen her before too, Kohane. You know, the gray tabby with dark stripes? ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, maybe...\nI've definitely seen cats matching that description around here before.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "See?\nBut I haven't seen her in a while...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I get that she might've moved somewhere else since she's a stray, but I've also been seeing all these trucks moving in and out because of this new shop that just opened.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, I see...\nI hope you find her soon...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I hope so too.\nEverybody around here's taken a liking to Vivi, so it just doesn't feel the same without her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wait, I saw some cats hanging around this place just the other day... Do the people here really like cats or something?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah!\nVivi especially since she “understands music”. Because of that, she gets treated kinda special!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh? What do you mean she “understands music”?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You know how cats don't really like hearing loud noises? They usually scatter whenever we sing and stuff on the street, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But Vivi stops and listens when someone good's singing! Otherwise, she just walks on by like nothing's happening.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So, everyone does their best to get Vivi to stay and listen! As a result, they all find ways to get better and better.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "That's why she's become known as the “cat that understands music” who's able to turn aspiring talent into fully-fledged musicians.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Really...?! That's so cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hehe. There's no way to know if she's actually listening, but it'd be pretty great if it were true, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Whoa, look at the time.\nI have to get back home to help out...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Okay...\nI'll let you know if I see any cats matching that description you gave!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hehe. Thanks, Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, also... If you still have time until you're supposed to practice with Uncle Taiga, wanna stop by my place? I bought this new CD and was wondering if we could listen to it together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Really?\nIn that case, I think I will.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay!\nLet's head on over!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00035",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend Garage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I'm back!\nKohane, I'll go get the CD now... Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "*Sob*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Is someone at the counter crying...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Is it that lady...?\nDo you think something happened to her?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Oh, An, you're back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An's Father",
+   "Line": "Just in time too. Mind talking to our friend here for a bit? Based on what I was just told, she's in a tough pickle.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh? You want me to talk to...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "*Sob*\nWhat am I supposed to do?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wh-Whoa!\nHm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wait, hold on... Ms. Kawasaki?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wait, An, you know her?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, she's a freelance photographer.\nShe took pictures of me when I was little and I got all dressed up for Shichi-Go-San.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Ms. Kawasaki!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "Huh?\nA-An...! It's been so long!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I knew it was you!\nWhat's the matter?\nYou sound like you're in trouble...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "That's because I am...\nI'm supposed to do this big shoot the day after tomorrow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "But all of the models I had booked can't make it anymore...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "A photography contest?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "Yes...\nThis year's theme is “happiness”, so my idea was to take photos of a wedding.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, a wedding sounds like a great idea! I helped out a little at one a while back, and really liked how the air was filled with so much warmth and kindness...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "Yes, that's exactly what I want to capture! My goal is to get shots of that moment you often see during weddings when “happiness brings everybody together”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "When happiness brings everybody together...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "Yes.\nThat popped into my head when I attended my friend's wedding some time ago.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "There were many guests there, including children and the elderly... All of them seemed so happy when they saw the bride and the groom together too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "And I had this realization.\n“Everybody's there to wish for their happiness.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "That wonderfully miraculous moment is what brought us together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I see what you mean...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "A place where everyone wishes for somebody's happiness... That really is wonderful!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "Hehe. I'm glad you understand!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "Which is why I started hiring some models, booking a venue and everything... Then, I received this call yesterday...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "It turns out that the modeling agency I contacted is going out of business...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Out of business?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Is that true...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "Yes, I couldn't believe it either!\nBut that's just that and there's nothing I can do about it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "I've been looking everywhere trying to get  ahold of more models, but I'm having trouble finding the right people...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "And that's how you ended up slumped over our counter... I remember back in the day when you used to come here whenever things weren't going so well. ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Hmm... I really wanna help her since I've known her since I was really little.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(What if I introduced Haruka to her...?\nOh, wait. She said she's going somewhere with Minori the day after tomorrow...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "*Sigh*\nIsn't there anyone out there? A photogenic model with the aura to match...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "A photogenic model with the aura to match...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "Yes.\nIdeally, someone with a brilliant spark that shows just how full of life they are...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "A brilliant spark...? Filled to the brim with life...? Isn't that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hm? Why are you both looking at me like that all the sudden?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, um...\nI think you're just the model who Ms. Kawasaki's looking for, An.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "Yes, she's right!\nTo think that the answer was right under my nose this entire time...! ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "An, please!\nI need you to model for me as a bride!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What?!\nS-Slow down, Ms. Kawasaki!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I have zero experience being a model and I've never worn any fancy dresses before!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "With my works, I value soul more than experience! And you're the very embodiment of that, An!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "So, An, I beg you!\nGive me a chance to capture that moment when “happiness brings everybody together”...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "L-Look, I appreciate you saying all this... But I mean...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "It's important for brides to have an air of maturity and collectedness about them, right? I honestly don't possess any of those qualities...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "And I've never been a model before...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "No, that's okay! This has nothing to do with experience! I want to photograph you, An!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "Please!\nGive me a chance to take that really heart-warming shot I'm looking for!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(That reminds me of what Ms. Kawasaki told me back when she took my Shichi-Go-San pictures.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(She's trying to take the best shot possible, just like we're trying to put on the most amazing event ever as musicians.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Just as I'm trying to surpass RAD WEEKEND, Ms. Kawasaki's...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "...\nAlright, I understand. I'll lend you a hand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I can't really guarantee anything, but I'll give it a try...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "*Gasp*\nThank you so much, An!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "An as a model for a wedding...\nThat means I'll get to see her dressed as a bride...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "Wait, I should've noticed you sooner...!\nYou're An's friend, no?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "Why don't you join us for this shoot?\nI was also looking for people to play the part of her friends as her bridesmaids, but having an actual friend there would make it feel all the more real!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawasaki",
+   "Line": "Also, you have this look about you, so, I'm sure I'll be able to take some wonderful photos! Think of it as creating some fun memories! C'mon, what do you say?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "U-Umm... W-Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "G-Go easy on her, Ms. Kawasaki!\nYou're making her panic!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

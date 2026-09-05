@@ -1,0 +1,623 @@
+{
+ "title": "Mixed Event — Doll Festival at the Tenma's — Episode7 More Ragged Than This Doll...",
+ "meta": {
+  "Event": "Doll Festival at the Tenma's",
+  "Event Type": "marathon",
+  "Episode": "Episode7 — More Ragged Than This Doll...",
+  "Event Outline": "It's the first Doll Festival since Saki returned to school! In the midst of his enthusiastic preparations, Tsukasa looks back on a bitter childhood memory. He then executes his plan to do something special for Saki, but will it go as he hopes...?!",
+  "scenarioId": "event_16_07"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d001202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Tenma Household - Living Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Doll Festival♪ Doll Festival♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Saki, is there a bowl or plate I can put the rice puffs in?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yup!\nLet's see, they can go in... This one!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Thanks. Oh, this one looks cute.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehe. I really like that one♪\nTsukasa bought it for me way back...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Saki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hey, Shiho!\nHow are things over there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Hm? Oh, the food's all ready now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wow, that looks amazing!\nThank you so much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "All I did was put what your mom made onto some plates. Is there anything else we need to do?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "That should be it! Thanks so much, you two! All that's left to do is wait for Hona!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay. I hope her committee meeting gets to end early...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah. But now that I can see it all, there's a ton of food and snacks...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "It felt like we did a lot, but this still isn't everything, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Haha, yeah... Tsukasa bought a lot of stuff for us yesterday and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "He said he wanted to make sure we had as much fun as...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Saki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Shiho, something definitely happened between Saki and Tsukasa...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I can see that. Did they get into an argument or something? I can't really imagine what they would fight about...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, right! Take a look at this too! The Tenma family's special dolls! Including a seven-tiered stand and all the fixings!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "This really is something else. Even the clothes they're wearing are fancier than normal...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah. Oh, except for the ones at the top. Why are they so dirty?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Their kimonos are torn in some spots too. Did you do that while playing with them, Saki...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I would never do something like that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "They're dirty because Tsukasa did something very thoughtful for me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Tsukasa...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah. This happened when we were still little...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00016",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "(I didn't get to celebrate the Doll Festival at home this year either...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "(I really liked the cake mom and dad got me but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "I really wanted to see our huge doll stand too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "(No, I'm starting to feel sad...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "(I can't let everyone see me this way or ask for too much. Otherwise, they'll start worrying about me...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Tsukasa",
+   "Line": "Saki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "Huh...? T-Tsukasa?!\nDid you forget something?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Tsukasa",
+   "Line": "Oh, uh... Yes!\nI forgot my handkerchief...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "Your handkerchief...?\nOh, here you go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Tsukasa",
+   "Line": "Thanks, Saki...!\nI'll be back later too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "Okay, bye...\nWait, later...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00047",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "(What did he mean by that? Is he talking about visiting me tomorrow too...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "(And it's already dark...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "(I'm happy that we celebrated the Doll Festival together, but I do feel lonely here...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00046",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Tsukasa",
+   "Line": "*Huff*... *Huff*... Saki!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "Huh? Tsukasa?\nDid you forget something else?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Tsukasa",
+   "Line": "No, it's not that!\nI came here to bring you these!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "Th-Those are our dolls...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "But why...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Tsukasa",
+   "Line": "I... I really wanted you to see them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00029",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Tsukasa",
+   "Line": "I couldn't bring them all, so I thought I could bring at least the ones at the very top to show you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "Tsukasa...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "(Did he do this because he realized I was feeling sad...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Tsukasa",
+   "Line": "But... I'm so sorry... I fell on the way here and got them all dirty...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Tsukasa",
+   "Line": "They mean so much to you but I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "*Gasp*...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "(Tsukasa's really hurt.\nWorse than the dolls...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "(He's covered in scrapes and bruises too. He must be in so much pain, but he came anyway...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "(I'm happy that he brought me these dolls but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "(I'm even happier that he came all this way for me...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "(Oh no... I'm so happy, I might start crying...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "No, it's okay! I'm really happy that you did this...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Saki",
+   "Line": "Thank you, Tsukasa! Doing all of this for me...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Is what happened...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "And I wanted everyone to see those dolls, so I decided to have a party to celebrate.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I never knew...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "That's so adorable.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehe, thanks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Mom and dad even asked a few times to see if they should buy some new ones, but I kept telling them that I like them just the way they are.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "These dolls are the most important thing in the world to me. Tsukasa and I are tied together by them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Which is why I don't want any new ones...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "But Saki. Did something happen between you and...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00119",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, that must be Hona!\nI'll go take a look.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00031",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00043",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Coming♪ Welcome!\nWait, huh...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Uh, please excuse the sudden intrusion...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Toya?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, did you come here to party with us? Come right in!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Um, Tsukasa hasn't come home yet but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No... There's something I need to tell you, Saki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Huh? Me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes... I apologize in advance for butting into your business but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Tsukasa told me about the fight you had with him about your dolls.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "*Gasp*...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I fully understand that you didn't want him to do such a thing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But Tsukasa put quite a lot of thought into your gift.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "He's been saving up for years in order to see you smile and be happy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "What? Tsukasa never mentioned anything like that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "What he got may've ended up being not to your liking but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I just wanted you to understand why he did what he did and how much thought he put into it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Toya...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes. Let's make the most of it since we're going to have so many people join us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Tsukasa... He does so much for me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But I just...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00100",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Aaahhhhh!!!\nSaki!! Sakiii!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Ts-Tsukasa...?!",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,628 @@
+{
+ "title": "World Bloom — Our Starry Sky Leading to the Future — Episode4 Stronger",
+ "meta": {
+  "Event": "Our Starry Sky Leading to the Future",
+  "Event Type": "world_bloom",
+  "Episode": "Episode4 — Stronger",
+  "Event Outline": "The VIRTUAL SINGER version of Leo/need's debut song is generating buzz, and Ichika and the others couldn't be happier. As the band renews their vow to make it as pros, a new area appears in SEKAI!",
+  "scenarioId": "wl_band_01_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_leoneed_op2",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "CD Shop",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Let's see... The CD Shiho recommended should be...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Oh, here it is!\nThank goodness I found it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(She said it should help me because their drummer's very good. I'll try listening to it while I practice, starting today.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(These are our CDs...!\nAnd they're on display in a prime location...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. I'll tell the others about this later...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Hey, did you listen to that song?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Yeah, it was so good!\nGot any others that you recommend?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Yeah, wanna check out my playlist later?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Cool!\nThanks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Those voices. They sounded like...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami's Former Classmate C",
+   "Line": "But I haven't been listening to much music lately because I'm spending so much time studying...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(It is them...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Honami's Classmate C",
+   "Line": "You act chummy with just about anyone.\nWhose side are you on?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00021",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Oh...\nI couldn't help but hide from them...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami's Former Classmate A",
+   "Line": "Oh!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami's Former Classmate A",
+   "Line": "Hey, have you two heard of this band? They're called Leo/need! I just discovered them recently and they're pretty good!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami's Former Classmate B",
+   "Line": "Yeah, I've heard of them!\nAlso, isn't Honami in this band?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami's Former Classmate A",
+   "Line": "What?! She is?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami's Former Classmate A",
+   "Line": "She's in a band...?\nAnd she's gone pro?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(They're talking about Leo/need.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(What do I do...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(I'm afraid that they're going to say some really mean things about me again...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami's Former Classmate B",
+   "Line": "I'm curious as to what this song's like. I might give it a listen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami's Former Classmate B",
+   "Line": "Still, it's hard to believe that Honami's in a band. I didn't think she was the type.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami's Former Classmate C",
+   "Line": "I mean, does that matter? She's clearly doing her best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami's Former Classmate C",
+   "Line": "Also, I've already had a chance to listen to this song. I thought it was pretty good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami's Former Classmate A",
+   "Line": "Yeah, true.\nIt is a good song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami's Former Classmate B",
+   "Line": "Do you know who else is in Leo/need besides Honami?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami's Former Classmate C",
+   "Line": "Pretty sure they're all Honami's childhood friends. Like Hoshino and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00170_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "School SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00419_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(I...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(I... In that moment...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(What do I do...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(I'm afraid that they're going to say some really mean things about me again...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_nightsky_2024_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Huff... Huff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(This is bad...\nMy mind keeps jumping back to that moment.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(I know I can't keep going on like this...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "You seem more motivated than usual today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "MEIKO...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'm sorry for not noticing you sooner...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "That's okay.\nMore importantly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Did something happen to you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Huh? H-How did you know...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "The way you were drumming sounded a little different.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "The way I was drumming...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes.\nIt seemed like you were trying very hard to sound energized, but you thrashed around quite a bit...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "That's...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I'll be happy to listen.\nI am a senior you look up to, after all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe...\nThank you very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "The thing is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I was at the CD shop earlier and just happened to see my old classmates from junior high school.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "From junior high school?\nWasn't that when...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes...\nI don't have too many fond memories from back then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "And I ended up hiding from them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "You hid?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, behind some shelves...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Then, they saw our CDs and I overheard them talking about us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I became so worried that they would say some more awful things about me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But that wasn't what happened at all...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Go on...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Then, I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I felt so weak.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Weak...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I ran and hid because I didn't want to hear them talking about me behind my back again...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Even though it was partially my fault that we ended up arguing with each other.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I immediately jumped to the conclusion that they were going to say mean things about me. Even when I found out that wasn't the case, I wasn't able to go over and talk to them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Now that we're professional musicians, I know that we'll be faced with various challenges moving forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "We may need to be even more courageous than when we stood up to Mr. Shindo.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "As the leader of this band, it's my duty to learn how to pull us in the right direction.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Which is why I want to become stronger...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I understand why you felt that you were weak in that moment, Honami...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "But I believe that you've become such a strong girl.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "When we first met, Honami, you had so much on your mind and were very indecisive, remember?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh...\nYes, I remember.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I know it's hard for you to get a good sense of this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "But you've gradually been getting stronger. You're much more decisive now, and have the courage to speak your mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "So, I think you should just keep doing your best and not get too anxious.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "MEIKO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Thank you very much.\nI feel a little bit better now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe. I'm glad I could help a little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh, that's right...\nThis seems like a nice place to stop and get a change of scenery. Would you like to join me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Huh? A change of scenery?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes!\nA rather interesting place just appeared in SEKAI...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

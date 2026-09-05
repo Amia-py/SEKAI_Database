@@ -1,0 +1,543 @@
+{
+ "title": "Unit Event — Choices for the Future — Episode2 Solving the Mystery",
+ "meta": {
+  "Event": "Choices for the Future",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — Solving the Mystery",
+  "Event Outline": "Emu continues studying management with the Morinomiya Revue. While leading fulfilling days full of new connections, she learns that a threat is coming to bear on Morinomiya's Kikyogumi troupe.",
+  "scenarioId": "event_164_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Phoenix Wonderland",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, Rui, it looks like we're the first ones here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. It's not quite the time we agreed upon yet, so let's...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu's Voice",
+   "Line": "Wheeeeeeee!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00050_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00257_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Thanks for waiting, Tsukasa, Rui☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, Emu. Hello.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wait, wait, wait! What were you doing on top of that tree?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe♪ I was running a little late because of some class rep business, so I decided to take the short way!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It looks pretty tall to me!\nHonestly...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Also, you didn't have to do that since Nene and her friend aren't here yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. To be fair, we are all ten minutes early.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay! Then, I'm glad I made it in time!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I can't wait to meet Nene's friend. I wonder what she's like!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What was her name? Byakkomachi...?\nShe's keen on learning more about Wonderlands×Showtime, so she must have an eye for talent!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "She sounds like a very avid student.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "She even asked to meet us at Phoenix Wonderland because she wants to learn as much as she can from the night show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe☆ I really hope she enjoys it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00799",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00799",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Thanks for waiting, you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Hello. You must be Kusanagi's friends.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Nice to meet you all. My name is Suzu Byakkomachi, and I need to thank you for this wonderful opportunity.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00303",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Kusanagi's told me all about Wonderlands×Showtime. I've been hoping to meet you for quite a while now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "It's heeeeerrrrr!!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Wh-What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "I see.\nYou saw me leaving that meeting...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah!\nI was really far away, but I saw someone with perfect posture!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That was you, right, Suzu?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Suzu...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "E-Emu, you shouldn't start calling her by her first name so suddenly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "No, that's okay. I was only a little surprised, since not many people do call me by it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Please feel free to use whichever you prefer, Otori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Thanks, Suzu!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Oh, sorry for getting us sidetracked.\nWhere were we...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "I was definitely the person you saw that day, Otori, since I was scheduled to meet with the board then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "That being said...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "I would greatly appreciate it if you could all keep this between us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "I'd like for everyone at the academy to treat me like any other actor or actress.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "O-Okay, got it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Still, it's incredible to think that a student is being given an opportunity to be involved with how Morinomiya is run...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "It is incredible.\nI'm very grateful to Grandfather for giving me this opportunity.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Grandfather?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Oh, he's the chairman of the board of the Morinomiya Revue.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu & Tsukasa",
+   "Line": "The chairman?!\nOf the board?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "From what I understand, Morinomiya's chairman is quite the businessman...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I remember reading about how he became the chairman of the board after spending time as the president or one of the executives at several major companies...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "That's right.\nWhen he was young, he apparently had a reputation for being a ruthless manager.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "But he was actually a Morinomiya fan long before he ever became the board chair.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "He even used to take me to see shows with him when I was little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You went with your grandpa...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000207",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "I've always loved how dazzling Morinomiya's shows are. I wanted to stand in the spotlight on that stage...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "My family wanted me to enter the world of business, but then my grandfather said, “Why not try both...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Initially, all I did was sit in on some meetings. But I've been getting more and more opportunities lately to express my opinions regarding proposals, advertisements and such.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Now that you mention it, I remember hearing about a recent ticket campaign running on Morinomiya's social media...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Oh, that was actually my idea.\nIt was the result of us trying to get more young people to come see Morinomiya's shows.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That's...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That's amazing, Suzu!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So, I'm also learning a lot about management and stuff right now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "My grandpa was the one who founded Phoenix Wonderland...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And I'm doing everything I can to make it a place that's filled with smiling guests!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Your grandfather...?\nYou mentioned that your last name is Otori. Does that mean...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, we also forget from time to time...\nHer family runs the Otori Group.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "I had no idea.\nThat explains why you're learning more about management...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But my brothers are always telling me how my ideas aren't practical.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "When Phoenix Wonderland was having trouble attracting guests, I couldn't come up with any good ideas to turn things around...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Which is why...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I think you're really amazing, Suzu!\nYou're actually balancing your dreams with reality and making things work with everyone at Morinomiya!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I wanna be just like you! I want to learn to do what you do as fast as I possibly can!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Just like me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Suzu...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "No, never mind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Guest",
+   "Line": "Daddy! The night show's about to start!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We've been chatting for quite a while now.\nWhy don't we find a good place to watch the show?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, let's do that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Let's go, Otori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00799",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Just now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Suzu seemed kinda sad for some reason...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

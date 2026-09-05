@@ -1,0 +1,618 @@
+{
+ "title": "Mixed Event — It's On! Wonder Halloween! — Episode6 The Actors and the Director",
+ "meta": {
+  "Event": "It's On! Wonder Halloween!",
+  "Event Type": "marathon",
+  "Episode": "Episode6 — The Actors and the Director",
+  "Event Outline": "Tsukasa and the rest of WxS begin preparing a Halloween performance for Phoenix Wonderland's Show Contest. However, Rui starts acting unusual after an incident...",
+  "scenarioId": "event_03_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Doggie Plushie",
+   "Line": "C'mon! I can do better than this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kitty Plushie",
+   "Line": "No, it's too dangerous...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00034",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I see... So that's what brought you here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes.\nI'm at a loss as to what to do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'm not consciously holding back or anything either...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Holding back...?\nHas this ever happened before?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "No, not really.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "If anything, I've always done the opposite.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Little Rui",
+   "Line": "And for the finale, we'll all jump down from the wall. How does that sound?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Friend A",
+   "Line": "It does sound fun... But it also seems a little dangerous.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Friend B",
+   "Line": "I don't want to end up getting hurt or anything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Rui",
+   "Line": "But it's going to be fun...! Everyone watching will love it and we can even place a trampoline for us to land on!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Friend A",
+   "Line": "Ask someone else.\nI'm not doing it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Friend B",
+   "Line": "Me neither. If I get hurt, my mom will get so mad at me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Rui",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "That paints a vivid picture...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "There were a few kids who would get excited about my ideas.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But sooner or later, even they became fed up with me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It kept happening again and again. Eventually there was no one left that wanted anything to do with me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Junior High School Nene",
+   "Line": "Rui...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Rui",
+   "Line": "Oh, Nene.\nIt's been a while...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Rui",
+   "Line": "I heard you're going to be the lead for a show. Congratulations!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Nene",
+   "Line": "Oh, yeah. Thanks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Nene",
+   "Line": "And, um... How are you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Rui",
+   "Line": "I'm working on a solo project... But I haven't found anyone else like you that's willing to help.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Nene",
+   "Line": "Oh, I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Nene",
+   "Line": "Then would you like to join the troupe I'm in...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Nene",
+   "Line": "I mean, uh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Rui",
+   "Line": "Hehe. It's nice of you to invite me, but there's no need to pity me. I'm doing okay on my own, and it's for the best anyway.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Rui",
+   "Line": "I've got to go. I still have plenty of work left for my show. Good luck with yours, Nene.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Junior High School Nene",
+   "Line": "R-Rui...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I know you're actually very considerate of others. I know this for a fact...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Your ideas sometimes sound crazy, but you take steps to make sure they're safe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "As long as they trust you and follow your instructions, they'll be fine. I know this because we used to try your ideas when we were little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. Thank you, Nene.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "These shows mean everything to me. Nothing makes me happier than seeing you, Tsukasa and Emu having fun while bringing what I wrote to life.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That's why the thought that I'm holding back doesn't make sense to me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, I understand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Rui, you feel like you've found a place where you belong.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "You finally found a group of friends who let you unleash your full potential. Isn't this how you feel?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But you need to challenge yourself to make extraordinary performances! And I aim to be the world's greatest star!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "If it's for the sake of entertaining my audience, I'll pull off even the most dangerous stunts with elegance and grace!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "If it's to put on a good show, then I'll do anything!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Aaargh!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00128",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "It looks like you've figured it out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes...\nIt started with that accident.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "On a subconscious level, I must have been so afraid that Tsukasa would start hating me and leave, like everyone else did...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Somewhere along the way, I started to press the brakes out of not wanting to lose what took me so long to find...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'm honestly surprised.\nThis never occurred to me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I disappointed my friends, who are working so hard, over these fears. I let them down as their director...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Rui, your concerns are nothing to be ashamed of.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I'd like you lot to hear about this too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushies",
+   "Line": "Us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000027",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "You genuinely love these shows, so it's only natural that you'd want to preserve this place you've found.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Of course, nobody wants to see their friends get hurt in the process.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "But you all share the same goal of wanting to put on great shows that will delight your audience.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Which is why it becomes important to find a balance, so that you can all move ahead together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I'm sure Tsukasa will understand where you are coming from.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I think so too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "We can find a way to work things out.\nI'm sure Tsukasa will come around too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "He's kind of a nutcase.\nA show maniac if that even makes sense.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But I mean... You're one too, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I doubt he'll turn his back on you like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe...\nI really have found something special.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Which is why I need to make sure you guys can count on me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Tsukasaaa! Calm down already...!\n...Bwargh!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Ugh... Don't stop so suddenly like that...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Emu, please tell me....",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Do you think Rui's shows are good?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah! I LOVE them!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "They remind me of Grandpa's shows!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Like they're super exciting from start to finish, and make you feel all fuzzy inside!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Exactly, I like that about them too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And that's why I got so angry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The four of us teamed up to create shows that are fun for everyone, but it was like Rui forgot what we were trying to achieve...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Well, it's not entirely his fault...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "If that accident never happened, Rui wouldn't be like this now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You mean you weren't just mad at Rui?\nYou were mad at yourself too?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Of course! I still am too! I killed the director's confidence, didn't I? I'm not a star, I'm a disgrace!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "A real star inspires their director to entrust them with any role! To unleash their imagination and try new ideas!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe♪ There's the Tsukasa we all know and love!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Anyway, this is what I'm going to tell Rui tomorrow. The last time we spoke, I was at a loss for words...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah! I'm sure he'll hear you out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

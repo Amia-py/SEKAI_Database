@@ -1,0 +1,438 @@
+{
+ "title": "Tenma Tsukasa — A Persistent Game Of Tag〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "Tenma Tsukasa",
+  "Card": "A Persistent Game Of Tag（4★）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "Desperate Times?! Island Panic!",
+  "scenarioId": "013018_tsukasa01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d002202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Desert Island - Jungle",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, we returned to the jungle cave to get our living space set up...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But... It's not as big as we initially expected. This may be just barely enough space to serve as our sleeping area.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "There's no wind or rain to speak of right now, so why don't we set up the living space next to our base camp instead?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, that sounds good, so let's return to where Nene and the others are. We should also keep an eye out for any flotsam that we can use as blankets and covers along the way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Agreed! The cruiser also has some, but there's no harm in having more!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004702",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Coast",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Let's see... What can we use as blankets or covers...? Aha...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Is this a sail from a yacht...?\nIt's torn, but we should still be able to use it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hey, Rui!\nI found something that's perfect!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm? Rui...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That's odd...\nHe was here just a second ago...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Rui? Hello?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004702",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What's he doing with his face stuck in the bushes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00227",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "PlaceInfo",
+   "Line": "Desert Island - Jungle",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Rui, there you are.\nWhat are you doing snooping around in the bushes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, Tsukasa, perfect.\nI was just about to come get you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Here, take a peek. Try looking at the foot of that tree.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The foot of that tree?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Baby Monkey A",
+   "Line": "Ook! Ook ook!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00364",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Baby Monkey B",
+   "Line": "Ook! Oook!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Baby Monkey C",
+   "Line": "Ook... Ook?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I'm seeing three baby monkeys...\nWhat about them?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. Just keep watching.\nThose monkeys all seem to have a very different personality from one another.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "First, the one swinging around that branch seems fairly assertive. That other one is happily going along with its antics while the third is timidly hunched over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Baby Monkey A",
+   "Line": "Ook! Ook!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00364",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Baby Monkey B",
+   "Line": "Ook! Oook♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00365",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Baby Monkey C",
+   "Line": "O-Ook... Ook...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, I'm starting to see their individual personalities...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Interesting. And then, you can...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Baby Monkey A",
+   "Line": "Ook! Ook ook!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00364",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "<Hey, you guys, guess what?!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Baby Monkey A",
+   "Line": "Ook! Oook!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00364",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "<The big folk that walked into our territory earlier... They're called “humans”!> ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Baby Monkey B",
+   "Line": "Ook! Oook!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00365",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "<Yes, grandfather's told me stories about them!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Baby Monkey C",
+   "Line": "Ook... Ook?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00363",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "<Those monkeys looked so strange. Which forest do you think they came from?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Baby Monkey A",
+   "Line": "Ook! Ook ook!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00364",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "<Not a forest!\nThey came from beyond the salty water!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehehe... Something along those lines?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You caught me off guard when you suddenly started doing voices for them, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Believing that humans are monkeys who came from another forest and the way they described seawater... It was very interesting...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Wasn't it? It was a fun way to get in some acting practice, but it was also a nice way to work on getting in character by learning how others think and see the world.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "By the way, Tsukasa, if you were in those monkeys' shoes, how would you describe the cruiser we arrived here on?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Well... A big box...? No...\nThe concept of a box may be foreign to them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Metal? White? Triangle? No...\nThose concepts may also be beyond their grasp.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hmm... This is harder than I thought.\nHow would you describe our cruiser, Rui?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Well, they might see it as a large fish with a tough exterior or a strangely hard stone that can somehow float on the water...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I see. A giant fish seems plausible.\nBut I'm less sure about it being a rock.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That was predicated on those monkeys being able to discern that our cruiser isn't a living creature.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "And like you said, Tsukasa, “metal” may be a foreign concept to them. That's why I thought it'd be better to call it something other than “metal”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It's identifiable by how hard it is, so I simply guessed that they'd end up calling it some sort of rock or stone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It's cool to the touch as well, so they may even expand upon that by calling it a type of cool stone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, now I understand! That explains your stone idea!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Also, is there more to that conversation you just voiced?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "More? Not exactly, but I did come up with some ideas as to how their conversation would've continued.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "They'll feel compelled to go down by the water, see that we're trying to fix our vessel and set sail by stealing it somehow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And they'll go on a big adventure! That's wonderful!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. Unfortunately, we'd be stranded here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "And we've been chatting up a storm.\nWe should probably start working on getting our living space set up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm? Right... That does take priority...\nStill, why don't we keep talking while we work?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I can see it now! A fantastic adventure about humans getting lost in a forest full of monkeys where they learn to work together despite not being able to communicate through speech!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, that does sound fantastic.\nLet's discuss that further!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, first, the part about not being able to communicate seems like the most interesting part, since there could be instances where some wires get crossed...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

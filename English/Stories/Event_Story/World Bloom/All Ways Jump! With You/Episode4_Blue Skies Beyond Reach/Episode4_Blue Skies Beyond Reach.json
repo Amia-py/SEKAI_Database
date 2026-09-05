@@ -1,0 +1,788 @@
+{
+ "title": "World Bloom — All Ways Jump! With You — Episode4 Blue Skies Beyond Reach",
+ "meta": {
+  "Event": "All Ways Jump! With You",
+  "Event Type": "world_bloom",
+  "Episode": "Episode4 — Blue Skies Beyond Reach",
+  "Event Outline": "Just when MORE MORE JUMP! has settled in to their lives as Lumina Grand Prix contestants, they notice something wrong with the tree in their SEKAI. Before they know it, the girls find themselves in a world where the four of them never met.",
+  "scenarioId": "wl_idol_02_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link2_idol_op2",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00181",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka Girls Academy - Class 2-A",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "That concludes this homeroom.\nPlease don't forget to review what we covered and read ahead.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00249_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00249_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I don't have any extracurricular activities scheduled for today, so I might make that poster for the children's center before going home...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(And then, I'll start getting ready for that volunteer nursing home visit.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(It's going to be my first time visiting that facility, so I'll need to do some research to see what the atmosphere is like and what things they emphasize.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(All the volunteering that I've been doing has made every day feel so fulfilling...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I'm really glad that I decided to try my hand at something new.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(And I really need to thank Mom again for giving me the push I needed.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few months earlier",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You got the highest scores out of all the second-years on those tests we took the other day, didn't you, Haruka?! You're so amazing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. The things I studied just happened to show up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "But you always make sure to review the things we cover in class and read ahead, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You even show us your notes from time to time! I can't tell you how much I respect you since I tend to space out after getting tired from practice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Me too. I didn't do very well on math this time around because of that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "You two have been working very hard in preparation for your next show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "We have! And we need to keep practicing if we really want to move the hearts of the people who come and watch us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I know. Would you like it if I helped you with the parts you struggled with on those tests...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Wait, are you sure...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes. I was actually just thinking about looking over what came up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wow, thanks...! Then, it'll be a study session with just the three of us! That means we gotta go buy a bunch of snacks♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That's fine, but our main goal going to be study.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I know♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b000703",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00586",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Okay, this should be enough information for me to smoothly explain the key points behind each type of test question.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b000703",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(The amazing ones are Tenma and her band.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Because they're always doing what they can to give their audience the best shows possible...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(While I...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00048_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka's Mother",
+   "Line": "Haruka? Do you have a minute to talk?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh... Yeah, I can talk.\nIs something the matter?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00043_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka's Mother",
+   "Line": "Guess what...? There's an article in the evening paper about your favorite person. Remember her? She made you smile and laugh so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yeah, I remember.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I didn't just smile and laugh...\nShe became my hero and gave me a dream.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I can't face her anymore...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka's Mother",
+   "Line": "You can choose whether or not to read this article, Haruka.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Maybe just a quick skim...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(“Although she's retired from being an idol and stepped away from the spotlight, she continues to spread hope to others...”)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(“Now, following her retirement, she's become a radio personality for a station in another part of the country. However, her activities are not confined to a cramped studio.”)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(“Between retirement homes, kindergartens, hot springs and such, she uses her past experience as a star to stand on stages all over her region...”)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(“And so, she continues to spread hope and inspire courage in others with her dazzling smile and beautiful voice.”)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka's Mother",
+   "Line": "She hasn't changed at all...\nJust look at the way she's smiling while being surrounded by these children.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Her smile really is rosy...\nIt has this way of filling your heart with joyous light...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Even now, she's spreading hope to lots of people.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "She really is an amazing person.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I wish...I could've been like her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka's Mother",
+   "Line": "If you feel that way... Why don't you give it another try?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka's Mother",
+   "Line": "Reading this article, I realized that there are many ways to make people smile.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka's Mother",
+   "Line": "Which means... You may yet find the path that's just right for you, Haruka.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I never thought about spreading hope to others without being an idol.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(What if I rob someone of their hope again...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka's Mother",
+   "Line": "Sorry, I didn't mean to put you on the spot like that. You don't have to answer right away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka's Mother",
+   "Line": "Regardless of what you choose to do, you'll have my support. Please take your time and prioritize your own feelings.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I don't know if there's anything I can do for other people anymore.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(But if there's even the slightest possibility...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(After that, I began volunteering a lot for these events...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(But I still don't think I'll ever be like her.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Even still, getting to help others even just a little bit makes me feel happy and fulfilled.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(So, for now... I'll just focus on what I can do for the people around me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Nursing Home",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Thank you for having me today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elderly Lady A",
+   "Line": "It's so nice to have adorable students such as yourselves come and visit. Lately, I've had no one to talk to, so I've been very bored.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Student Volunteer",
+   "Line": "Hehe. In that case, we can spend lots of time chatting today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "We also have a quiz tournament planned for later, so we hope you enjoy that as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(If I recall, we're supposed to go around and speak with everyone until it's recreation time.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(I think I can leave these two to talk, so I'll try someone else.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Elderly Lady B",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Huh...?\nCome to think of it, that lady in the wheelchair's been sitting alone by the window for a while now. I hope she's feeling okay...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nurse",
+   "Line": "Nobuko likes to stare at the sky like that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh, is there a reason why?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nurse",
+   "Line": "Until not too long ago, she used to be very talkative... She loved to exercise and take walks around the facility. But she fell ill and lost the use of her legs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00215",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Her legs...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nurse",
+   "Line": "She's been feeling very blue ever since.\nKeeping active seemed to be her reason for living.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh, I had no idea...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Her reason for living...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_005_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hello, Nobuko.\nWould you mind if we chatted for a bit?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nobuko",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "The sky's beautiful today, isn't it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nobuko",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nobuko",
+   "Line": "It is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nobuko",
+   "Line": "But it's terrible...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nobuko",
+   "Line": "It's so nice outside, but I can't go out and take a walk...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Oh...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "In that case, why don't we go outside together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nobuko",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Is there anywhere you'd like to go? I'll happily go with you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nobuko",
+   "Line": "Oh, in that case...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nobuko",
+   "Line": "Would you mind pushing my wheelchair?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few weeks later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hello, Nobuko.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nobuko",
+   "Line": "Oh, you're back again.\nI've been waiting for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nobuko",
+   "Line": "I've been wanting to go somewhere with you again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nobuko",
+   "Line": "Ever since I was little, I've always loved to travel.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nobuko",
+   "Line": "Climbing bluffs to get so close to the sky I could touch the stars, adventuring through caves to find beautiful flower fields on the other side...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nobuko",
+   "Line": "These legs took me to discover so many new places. And I had so much fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nobuko",
+   "Line": "Which is why... I was totally crushed when I found out that I couldn't walk anymore. The future seemed dark and empty.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Nobuko...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nobuko",
+   "Line": "But I feel like I've been making more discoveries during our walks compared to when I was going out and about on my own.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nobuko",
+   "Line": "Because of you, I feel a little more optimistic about life.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Because of me...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(But... I...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nobuko",
+   "Line": "Thank you, Haruka.\nFor giving me hope.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nobuko",
+   "Line": "I'm so glad that we met.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Thank you. I'm also glad that we met...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

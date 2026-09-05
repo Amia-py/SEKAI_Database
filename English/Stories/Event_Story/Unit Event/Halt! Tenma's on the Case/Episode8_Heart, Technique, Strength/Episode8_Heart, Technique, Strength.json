@@ -1,0 +1,663 @@
+{
+ "title": "Unit Event — Halt! Tenma's on the Case — Episode8 Heart, Technique, Strength",
+ "meta": {
+  "Event": "Halt! Tenma's on the Case",
+  "Event Type": "marathon",
+  "Episode": "Episode8 — Heart, Technique, Strength",
+  "Event Outline": "At Kijima's suggestion, Tsukasa has been putting on muscle to increase his acting chops. He and the others arrive at the Jidaigeki Studio Park with the Mikazukigumi troupe, but news of a theft puts the new production on hold...and that's when Tsukasa spots a suspicious ninja on the lot!",
+  "scenarioId": "event_136_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Hiori Jidaigeki Studio Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_003_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Heihachi",
+   "Line": "“Stop right there!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Heihachi",
+   "Line": "“Grr...!\nChusuke's too quick! And slippery!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ginnosuke",
+   "Line": "“I'll give him that he's faster than us...\nNo wonder he's called the swift-footed thief.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ginnosuke",
+   "Line": "“So, let's set up a trap!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Heihachi",
+   "Line": "“A trap?\nWhat do you mean...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ginnosuke",
+   "Line": "“You've been practicing that one technique in the evenings, right, Heihachi?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Heihachi",
+   "Line": "“...!\nYou knew, Mr. Ginnosuke?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ginnosuke",
+   "Line": "“Of course I knew.\nHow many years do you think we've been working together now?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ginnosuke",
+   "Line": "“Use it against him, Heihachi!\nThat should allow us to catch Chusuke!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Heihachi",
+   "Line": "“Got it!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_003_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Chusuke",
+   "Line": "“Hah!\nIf you want to catch me, then you'll have to come up here!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chusuke",
+   "Line": "“But I'm guessing that you tortoises will never be able to. Not even in a million years!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ginnosuke",
+   "Line": "“Oh?\nWe'll see about that.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Chusuke",
+   "Line": "“What...?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00496_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Heihachi",
+   "Line": "*Roar*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00496_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_torimonothou_2024_004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_torimonothou_2024_006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Chusuke",
+   "Line": "“What...?!\nHe can climb up here?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Wow, that was amazing...!!!\nYou're the coolest, Heihachi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "He just glided up that wall!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Heihachi",
+   "Line": "“This is what you get for underestimating me! I am Heihachi, Mr. Ginnosuke's right-hand man!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Heihachi",
+   "Line": "“We can't let you keep running amok forever! Prepare yourself!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00051_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Chusuke",
+   "Line": "“Wh-What?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "Oh no! Chusuke's gonna fall!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ginnosuke",
+   "Line": "“Gotcha!!!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00128_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "Whoa...!!!\nHe caught him! That was awesome!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Guests",
+   "Line": "He caught a grown man all by himself! He must be really strong...!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Chusuke",
+   "Line": "“Grr...!\nBut I can't get caught! I'm THE Chusuke...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ginnosuke",
+   "Line": "“Too bad for you, Chusuke.\nYour legs were no match for me and Heihachi.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ginnosuke",
+   "Line": "“Now, Chusuke, it's time for us to tie you up!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00239_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Phew...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That concludes our final showing...\nOur time here really flew by.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Nice work, Tsukasa.\nYou wowed us all again with your wall jumping today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah!\nAnd the audience got so excited!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hah hah hah! How spectacular was I?!\nMy portrayal of Heihachi was spot-on, was it not?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Alright, settle down.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But I'm glad that you got a chance to wall jump during the actual show...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Me too! We need to thank Mr. Kijima and the others again for being so accommodating.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, speaking of which...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hello, Mr. Kijima!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Oh, nice work, all of you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Your performance today was excellent!\nAll that sword fighting practice you did really paid off!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!\nThank you very much!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That's because you and your troupe were such great teachers, Mr. Kijima! Thank you so much for everything!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Hah hah hah!\nI appreciate you saying that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Also, did you hear?\nThey found out that thief's identity.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What...?!\nWho was he?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "A former cast member.\nDuring his first visit back in a very long time, something came over him which caused him to steal a person's belongings he saw on the ground. Unfortunately, he succeeded in getting away with it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "He soon realized that he could continue stealing things undetected if he masqueraded as a cast member playing a ninja.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I see...\nSo that's why he seemed like a real ninja...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "It's such a shame.\nDespite being so athletic, he decided to use his abilities for unwholesome purposes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "But I'm hoping that you'll all use your fitness for what you consider good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We will!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Still, this is a sad moment.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "The end of this show means you're just about finished training with us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Thank you again for everything you've done for us, Mr. Kijima.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We all learned quite a lot while training with Mikazukigumi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Most importantly, that an actor's physical fitness is their best asset. I think we all have a firm understanding of that now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "I see...\nI'm glad that we were able to help you all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "But I also need to thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Seeing you and Wonderlands×Showtime at work reminded me of how...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "You need heart in order to make your dreams and ideals a reality.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Good fitness and technique.\nThose are both things you need to make that happen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "But there are times when just those aren't enough. You experienced that firsthand this time around, Tenma.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Regardless...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "We want to move others and make them smile.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "That spirit motivates us.\nIt helps us keep moving forward even during the toughest of times.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Mr. Kijima...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Heart...\nRight...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(Heart, technique and fitness.\nOnly when we've attained all three of those things can we start properly moving forward.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Seeing all of you reminded me of how I need to remain passionate. To keep that fire in my heart going.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "So, thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Let's all keep doing our best!\nTo make our dreams come true!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Right...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Now then!\nLet's say goodbye to each other with a nice, big group hug!!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huh? Whoa!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Nooo!\nToo tight! Too tight!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "I couldn't have asked for better students!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "I hope we get to perform together again someday! And keep those beautiful fires in your hearts going! Do your best with the next troupe you visit! Hah hah hah hah!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kijima",
+   "Line": "Anyway, I'll see you later!\nThe other troupe members and I are getting a big farewell party ready for all of you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay, thank you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_003_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What a wonderful troupe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah. Each day was pretty grueling, but I really learned a lot about my body and how to become more fit...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. We always seem to learn so much whenever we visit someplace new.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Let's keep doing the same when we start training with the next troupe we visit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, let's!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And the next one is going to be our last.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Right!\nThe Morinomiya Revue!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "The largest musical theatre troupe in Japan. It's hard to believe that we get to train with them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "We need to keep doing our best when we start training with them...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00192",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, we do!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(As sad as it is that we have to say goodbye to everybody from Mikazukigumi...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I want to see how I can apply what I learned with them in another environment.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(So, we'll be parting ways for now.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(And I'll keep moving forward.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(If the trail ends, I'll blaze a new one.\nAnd I will achieve my goal...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "(I'm going to become a star who makes the whole world smile...!!!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

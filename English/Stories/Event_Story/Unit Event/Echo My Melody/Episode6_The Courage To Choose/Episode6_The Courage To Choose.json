@@ -1,0 +1,648 @@
+{
+ "title": "Unit Event — Echo My Melody — Episode6 The Courage To Choose",
+ "meta": {
+  "Event": "Echo My Melody",
+  "Event Type": "marathon",
+  "Episode": "Episode6 — The Courage To Choose",
+  "Event Outline": "After putting on a successful show, Leo/need decides to start posting videos to a video platform so that their music can reach more people. Meanwhile, Ichika tries to help out the band by creating songs using digital tools, but is still struggling...",
+  "scenarioId": "event_76_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a001901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Rehearsal Studio",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "♪————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Miku and the others... They're all listening...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Come to think of it, we haven't performed with them sitting in front of us for a fairly long time.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(They're usually stuck watching us from somewhere backstage or in the shadow of some piece of equipment...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(We never get to see their faces when we're on stage.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(But they must really enjoy themselves.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(And they've always been there for us. I mean, they helped out so much for our last show, but we never got to thank them properly...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(So... Now's our chance to do that... With our sound!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<I can clearly sense what they're all feeling. Maybe far more than during that last show they played...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Me too. The way their sound is resonating with my heart... They're playing for us.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Message received, girls.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<And from all of us... Thank you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "♪————...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00048",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Okay, how'd we do?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Incredibly well...\nYour performance really resonated with all of us, more than ever before.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yeah, I got goosebumps!\nThis is totally what Leo/need's all about!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That's nice to hear...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<All that's left is for you girls to see how it turned out...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Huh?\nFor us to see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, right!\nI totally forgot that we're making a video!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Oh, Saki... To be fair, I also nearly forgot about our primary goal, but that's a bit much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Let's watch it together!\nI bet it turned out super duper amazing!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Me too.\nI'm looking forward to seeing how we did.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Whoa! This is...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Really good...\nWe have so much force behind us, but it's also easy to listen to.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I think it's because we got to play for you guys, Miku.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Thank you all very much...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Hehe. Thank you for the wonderful performance.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Now that I've seen this video...\nI guess this is what it's like to see us play, huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'm actually a bit embarrassed.\nI have such a serious expression on my face...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "No, don't say that!\nYou looked really cool, Hona!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Yeah, totally! It's obvious that you were playing like you meant it, which I think is really good! Sakki on the other hand couldn't contain her joy...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Huh? Me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<You do always seem to really enjoy yourself, Saki.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "That's an understatement. But that's also one of Saki's best qualities. It's nice how the video actually captured that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, stop it, you two.\nYou're making me blush... Wait!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Look, don't forget about Ichi!\nThe way her throat tightens up during the high notes is so cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Y-You don't have to examine my singing so closely...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Anyway, now that you're done shooting your video, you just have to upload it, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<No, don't they have to edit it first?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, that's right...\nCan I borrow a bit more of everyone's time? We should decide on how we want our video to look.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Which is why I made sure to bring my laptop with me today...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Whoa, Hona, how did you cram so much stuff into your bag?! Is it enchanted or something?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "It must've been heavy.\nWe would've helped if you needed it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "It's actually not so bad.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Anyway, I'll send the video over to my computer and load it into my video editing software...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Hey, that's a lot easier than I expected...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<But there's so much going on with her screen. I have no idea what buttons you're supposed to push and stuff...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "It took me a while to get used to, but I managed to figure some things out by looking up instructions online.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "So, if you click this tab...\nOh, here. This lets you easily throw in some really cool effects.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00320",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "...!\nWow! This blur effect goes so well with our performance...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<That's pretty cool.\nI didn't realize that one effect could change your video so much.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, there's more. For example...\nWe can have flowers bloom as it plays.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Oh, that's so cute.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, it's cute...\nBut it kinda doesn't go with the video, you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<It's not exactly a cute and happy song either...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Th-This is just a test to show that we have a wide variety of options to choose from.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(A wide variety of options to choose from...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I see...\nThat's quite the conundrum.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<And I have a feeling that it's going to take a while...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Actually, it's kind of fun to try all these different things out. Although, that was all just for practice. I'm yet to actually work on an entire video...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, just watching you work is exciting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But wow Hona, you really did your homework.\nYou can already do so much after just starting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'm still limited to what a beginner can do... But if you pull this lever-like thing, you can change how the colors look...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00320",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh you're right... It looks a lot darker now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. Isn't this fun?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "When I was at home thinking about how to edit the video, I had the idea to give it a darker tone around the chorus for a more somber feel...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But I sort of like the original at this point. What do you all think?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Both options seem good to me.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, I thought the same thing.\nIn that case, I guess we should go with the original.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "This is just me, but I have a feeling that people are gonna focus on how dark it is instead of our song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Wait, you think so?!\nI get what you mean, Shiho, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I really like this dark tone!\nLike you said, Hona, it goes really well with the theme of the song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Looks like we've reached an impasse.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "What do you think, Ichika...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "...\nI...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Shiho and Saki both bring up valid points. Neither are wrong.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(This is just like what's going on with my own song... I need to have the courage to make a decision...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(So, I...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I think darker is better.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I agree with Saki.\nIt makes it easier to understand what our song's about, and we wouldn't be able to do this if we weren't making a video.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes, Shiho may be right about people focusing on that more than our song, but I don't think that's necessarily a bad thing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "If this effect helps our viewers see how pain and sadness are at the core of this song, then I see no problem with using it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Ichika...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, of course, Honami... You know the most about video editing here, so you'll have the final say regarding this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Thank you.\nYour suggestions have all been duly noted.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Both sides provided valid arguments, but I'm of the same mind as Ichika. I think darker is better for this song.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Since a video can't deliver the impact of a live performance 100%, I'd like to use this effect to achieve something similar.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Okay...\nMaybe I gave our actual song a little too much weight.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Also, now that I think about it, not everyone who watches this video is necessarily going to be a die-hard music lover...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Which means we should probably keep them in mind if we want them to actually listen to our song. So, let's go with darker.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Alright, now that we've reached a consensus, I'll continue working on this when I get home.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Cool! I can't wait to see how it turns out♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Just from what you just showed us, Hona, I have a feeling that it's gonna turn out great!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "I'm really looking forward to making even more videos♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Do you know what you girls are going to do for your next video?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah, a brand-new song!\nI'm gonna come up with something really good for everyone who enjoys our music!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I know how you feel, but I doubt you're gonna be able to come up with one this instant.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Y-Yeah, if things go like the one before...\nI'll have to think about it a lot, which means it might take a really long time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But I know that some people out there are really looking forward to hearing our songs, so I'm gonna do everything I can to make sure our next video can bring a new Leo/need song to lots and lots of people.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Oh...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(If I can write songs for us, that would directly help Leo/need...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Until just recently, I wasn't sure when that was going to be possible, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Things are different now. I have a good feeling about my song...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(I need to complete it as soon as possible, so that the others can hear it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

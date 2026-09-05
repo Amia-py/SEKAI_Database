@@ -1,0 +1,598 @@
+{
+ "title": "Mixed Event — Connected Through SEKAI's Cherry Blossoms — Episode4 A New Spring Menu",
+ "meta": {
+  "Event": "Connected Through SEKAI's Cherry Blossoms",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode4 — A New Spring Menu",
+  "Event Outline": "In the Empty SEKAI, Miku's words inspire a discussion among Kanade and the others about having a cherry blossom viewing party. Meanwhile, everyone in the other SEKAI is also planning ways to make the most of the season...",
+  "scenarioId": "event_54_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Crase Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Heya!\nI came to hang out, MEIKO!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh, Len, welcome.\nYou're here later than usual.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh? What do you mean...? Oh no!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "The gang's all here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Come sit with us, Len!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Wait, what's going on?\nIs something happening today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "MEIKO and Rin called us in when we were passing by the cafe just now to try these new menu items.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hehe♪ That's what's up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000061",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "New menu items?\nOh, these pink drinks...?!\nAnd this looks like a dessert...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Those are cherry blossom lattes and smoothies. KAITO's having some pancakes topped with cherry blossom ice cream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Wow, that looks delicious...!\nI wanna try some too! Um... I'll have what Luka's having!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "A cherry blossom latte?\nComing right up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Thanks!\nBut no one told me that you'd come up with some new menu items, MEIKO...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Of course not. I just started making these the other day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I drew some inspiration from one of the photos Kohane showed me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Really?\nWhat kind of photo was it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "A budding cherry blossom.\nThe way it was just starting to turn pink was so beautiful that I felt compelled to make some drink based on that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Whoa! You can come up with new menu items just like that?! Way to go, MEIKO!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Thank you. But I don't deserve all the credit. Rin helped out as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh? Rin?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah! I came up with a bunch of ideas for her, like how they should look and stuff! Outside of that... I was sort of the taste tester.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I see.\nNot only do these look nice, but they're pink in a spring-like way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, exactly!\nThey're aesthetically pleasing and delicious!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "It's hard not to get excited about spring♪ Thank you both for making these, MEIKO, Rin!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hehe. We did it, MEIKO! High five!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hehe. Thank you for helping me with these, Rin.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "That's good to hear...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hello, MEIKO!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "We came to visit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh, you're all together. Welcome.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Great timing, you guys!\nWe have special spring menu items ready for you today, so give these a try♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Whoa, those look adorable! What are they? Can I get one of those pink drinks too, MEIKO?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, they look good and scream, “Spring!” Hey, you have pancakes on top of drinks...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes, ask for whatever you like!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "These are actually based on that photo you showed me the other day, Kohane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wait, really?\nThat's incredible... You came up with these after seeing just that photo...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "These cherry blossom cookies look very good. Mind if I have some?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Of course! Coming right up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Alright, here you are!\nCherry blossom smoothies for Kohane and An, cherry blossom pancakes for Akito, and cherry blossom cookies for Toya.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00166",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wow, this looks so yummy...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah!\nI love how they represent spring so well!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "These are good. Especially these strawberries...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "These are good too. Just the right amount of sweetness. Also, they've been cut beautifully to look like cherry blossom petals.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "You hear that, MEIKO?! They love everything!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I'm glad.\nIt was worth all the effort.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, before I forget.\nThe cherry blossoms around the park in my neighborhood were in bloom.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wanna try having a little picnic when it's not too crowded?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, a picnic sounds great!\nI'd love to go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "At the same time, I'm very jealous.\nI wish we had some cherry blossoms over here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "You can see from Kohane's or someone else's phone, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "That's true, but don't you want to cut loose a little under some real cherry blossom trees?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I know how you feel!\nIt'd be so much fun♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "People who say that usually end up catching a cold the next day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Speaking of which, Shiraishi, you said you went out looking for some cherry blossom trees in SEKAI the other day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, I did!\nI didn't end up finding any that time, but do you think I missed some along the way...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Hmm... I've taken quite a few walks around here but am yet to see any actual cherry blossoms...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "However, I want you all to experience this season as much as possible, so I plan on coming up with more cherry blossom-themed menu items...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Okay! I'll keep helping too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Yay!\nI can't wait to see what you come up with, MEIKO♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I'm gonna try my best too!\nWhat do you think we should make next?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "(They all look like they're having so much fun...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Isn't there anything I can do for them, like MEIKO and Rin...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But I can't cook like MEIKO and she already has Rin taste testing for her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "I can...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "At the same time, I'm very jealous.\nI wish we had some cherry blossoms over here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Speaking of which, Shiraishi, you said you went out looking for some cherry blossom trees in SEKAI the other day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, I did!\nI didn't end up finding any that time, but do you think I missed some along the way...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "That's it...!\nI just have to see if there are any cherry blossoms in SEKAI!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "There's still a chance that there's a tree around here somewhere, and everyone will really love it if I do manage to find one!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Alright, time to go searching!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "No, I'm not seeing any at all...\nNot many other trees either.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "It'd be so much fun to have some of the cherry blossom stuff that MEIKO made while having a picnic together under some cherry blossom trees too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh?\nWhat's that? Is it glowing...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Alright, let's take a look!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "It's so sparkly...\nWait! This is a fragment of a feeling!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But what kind of feeling?\nI'm kinda curious now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Wait, hold on...\nWe all just talked about having a picnic together...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Is this about seeing cherry blossoms? Does this mean they'll get to see some real ones...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But if I touch this, I'd be the only one who gets to see them, right? Hmm... What if I just poked it? Would it let me get just a quick peek...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Phew...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "(Walks really are the best way for me to come up with new menu items.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "(I'm glad everyone liked my cherry blossom-themed menu items so much, but what should I do next...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "(Something that'll give everyone the motivation to keep trying would be nice.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "(Len...?\nWhy's he squatting? Is he looking at something...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Len, what are you doing in a place like this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hey, MEIKO!\nHow did you...? Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00092",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Whoa, what's going on?!\nI didn't even touch it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Huh?\nIs that ball of light a...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,79 @@
+# Tenma Tsukasa — Lessons With Kikyogumi〔Part2〕Side Story (Part 2)
+
+- **Character**：Tenma Tsukasa
+- **Card**：Lessons With Kikyogumi（3★）
+- **Part**：Part2 — Side Story (Part 2)
+- **Event**：The Power of Regret
+- **scenarioId**：013040_tsukasa02
+
+## 正文
+
+| Speaker | Line | _kind |
+|---|---|---|
+|  | bg_d000101 | Background Change |
+|  | Morinomiya Music Academy - Rehearsal Room | Caption |
+|  | se00183_b | Sound |
+| Tsukasa | Hmm... | talk |
+|  | se00046_b | Sound |
+| Rui | You're here already, Tsukasa?<br>Are you practicing by yourself? | talk |
+| Tsukasa | I was, but...<br>I'm having a little trouble with something... | talk |
+| Tsukasa | Remember how our last lesson involved males playing female characters? | talk |
+| Tsukasa | They taught us how to stand and walk, but I simply can't get my body to do what I want... | talk |
+| Rui | After all, it's because you're acting while also focusing on aspects of your bearing you've never had to think about before. | talk |
+| Rui | They say that onnagata actors in the world of kabuki live their daily lives with feminine mannerisms. For them, it may hardly fall under acting at all. | talk |
+| Rui | It's certainly not something we can pick up in one day. | talk |
+| Tsukasa | You say that, but you seemed to do pretty well back there. | talk |
+| Tsukasa | The others were astonished by how quickly you improved over the course of one day. | talk |
+| Rui | Hehe. The truth is, I've watched video footage of an all-male ballet company put on a performance a number of times. | talk |
+| Rui | I wasn't expecting the analysis I performed of their physical expression to come back and help me like this. | talk |
+| Rui | It just goes to show that it's important to keep your eyes open for anything and everything one can use. | talk |
+| Tsukasa | Oh, I didn't know that...!<br>Would it be possible for me to also watch that video? | talk |
+| Rui | I don't know...<br>It was a stream that I just happened to stumble across, but I can try looking for it. | talk |
+| Rui | Anyway, are you done practicing? | talk |
+| Tsukasa | No...<br>Nothing will come of me running circles in my head! | talk |
+| Tsukasa | So, let's review what we covered during our last lesson! | talk |
+| Tsukasa | Do you have time to watch what I do for a bit, Rui? | talk |
+| Rui | Yes, that's the plan. | talk |
+| Tsukasa | (Starting with my shoulders. They still feel too square...) | talk |
+|  | bgm00000 | Sound |
+| Tsukasa | Grrr! Why is this so hard...? | talk |
+|  | bgm00170 | Sound |
+| Tsukasa | I can't seem to lower my shoulders without slouching. And every time I try to walk with my knees closer together, I end up waddling instead. | talk |
+| Rui | Yes, I may be your friend, but I must say that you make for a wonderful penguin. | talk |
+| Tsukasa | Yes, I'm well aware of that!<br>How can you laugh at me like that?! I'm trying my best over here! | talk |
+| Rui | I know.<br>Let me apologize by telling you a trick I learned while practicing on my own. Will that suffice? | talk |
+| Tsukasa | Oh? Let's hear it. | talk |
+| Rui | In order to make your shoulders look more round, try to make it as if your wrists are pulling them down. | talk |
+| Tsukasa | Hm? My wrists? | talk |
+| Rui | The person who showed me was apparently told to not slouch, and to relax his shoulders more, as part of an assignment in order to improve his acting. | talk |
+| Rui | Thus, the key is to not curl your shoulders, but to drop them instead. That's supposed to prevent you from slouching. | talk |
+| Rui | And to avoid putting too much focus on his shoulders, he envisioned his wrists, far below his shoulders, pulling his arms down. | talk |
+| Rui | I should also mention that he said, “It's a solution I arrived on for this problem, so I can't say that it's for everyone...” | talk |
+| Tsukasa | No, I believe his reasoning is sound. | talk |
+| Tsukasa | It's difficult not to slouch when you're trying to round your shoulders... | talk |
+| Tsukasa | But you have to concentrate quite a lot in order to push them down, which ends up affecting everything else you do. | talk |
+| Tsukasa | In order to prevent that, you need to drop them instead of trying to round them. That's where your wrists play a key role... | talk |
+| Rui | So, am I right to say that this helps? | talk |
+| Tsukasa | Yes! Now I'm glad that I got you to laugh at my waddling! | talk |
+| Tsukasa | So, let me try this again, using the method you just described! Tell me what you think! | talk |
+|  | bgm00000 | Sound |
+| Tsukasa | How's this, Rui?!<br>This should look much better compared to before! | talk |
+|  | bgm00171 | Sound |
+| Rui | Yes, you're using your upper body much better now! Your posture has also improved, and you look much less like a penguin now. | talk |
+| Tsukasa | Excellent! To think that one trick would end up helping this much! | talk |
+| Tsukasa | Still, that's incredible... | talk |
+| Tsukasa | What you learned didn't come from a teacher, but another student, yes? He really came up with this all on his own? | talk |
+| Rui | Yes, because he knew this was a problem for him. He apparently struggled quite a lot before arriving upon this solution. | talk |
+| Tsukasa | I see... | talk |
+| Tsukasa | We're all doing our best to improve by correcting our mistakes... | talk |
+| Tsukasa | But this fellow's efforts deserve more recognition. | talk |
+| Rui | I suppose that's what it means to be a student at Morinomiya. | talk |
+| Tsukasa | As I thought, we stand to learn a tremendous amount by taking lessons here! | talk |
+| Rui | Yes, we do. We need to make the most of the three months we have with them. | talk |
+| Tsukasa | Agreed! | talk |
+|  | bgm00000 | Sound |
+
+
+## Outline
+
+https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）

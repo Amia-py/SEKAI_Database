@@ -1,0 +1,478 @@
+{
+ "title": "Unit Event — Time to Take Off! — Episode3 Trouble Strikes Quickly",
+ "meta": {
+  "Event": "Time to Take Off!",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — Trouble Strikes Quickly",
+  "Event Outline": "Vivid BAD SQUAD are just about ready to visit the US, where they'll attend the event Taiga and Ken are taking part in. An excited Toya is packing his things when he receives an unexpected message...",
+  "scenarioId": "event_154_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "New York",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Outside the hotel entrance",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00698",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00698",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "This is it. Please watch your step.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Th-Thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wow, this hotel's gorgeous...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "The entrance alone is so glamorous...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I can't believe Uncle Taiga booked us such a luxurious hotel.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Please wait here.\nI'll be over at the check-in counter.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An & Kohane",
+   "Line": "Okay!\nThank you.\n",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You okay, Toya?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes... I feel much better compared to before...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hmm... Yeah, you're definitely not as pale as you were on the plane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Let us know if you need to take a rest, Aoyagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I apologize for making you all worry about me like this. I was doing fine for most of the flight...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But I became curious just before we landed, and ended up opening my eyes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Haha. I understand why you wanted to take a look.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, I guess.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Still, actually standing here in the city is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00020_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00739",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Frankly, I'm moved.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I've visited a number of other countries...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Each time I set foot on the soil and see the sights with my own eyes, I feel this same rush of excitement.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Seeing everyone go about their day, all the sounds, their conversations, the atmosphere... They hit you all at once.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, just standing here, I feel like all my senses are being bombarded with all sorts of information.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, me too!\nIs this what it means to get a feel for the city?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "*Nod*\nWe're really here... In the United States of America.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Man, I'm so excited now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Let's head up to our room, put our bags down and check out some of the shops nearby... Wait, huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "What's wrong, Shiraishi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Something isn't right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What do you mean?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Look over at the check-in counter.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "The manager and the clerk both look really concerned.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, you're right...\nDo you think there's something wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "We're too far away to hear what they're saying...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh no! The manager put his hands on his head.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I've got a bad feeling about this...\nOh, here he comes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "I'm so sorry, everyone...\nThe thing is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "We don't have a reservation?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Yes, I'm incredibly sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Taiga said he'd book his favorite hotel, but he accidentally made a reservation for one month from now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Seriously...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wait, he used to do stuff like that all the time when I was a kid and we went on trips together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "This one time, we were gonna stay at an inn with hot springs, but he ended up booking a campsite deep in the mountains. We had to pitch our own tents and practically live off the land.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You're kidding, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "No, I'm serious!\nHe's always really careless when it comes to these sorts of things...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Wait, would it be possible for us to book some different rooms?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Unfortunately, they're all booked up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "I even checked all the hotels nearby...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Taiga's event is happening soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "People from all over the world must be looking forward to seeing it. In other words, we're not alone, and finding a place to stay won't be easy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(The sun will be setting in a few hours...\nWe should probably avoid wandering around after dark.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(But what do we do in this situation...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shuji",
+   "Line": "<I see...\nYou let me know if you ever need anything.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(He has his performance to worry about, so I'd rather not bother him.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c002903",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "New York Academy of Music - School Gate",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So, we wait here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, he should be here soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "I'll be excusing myself once I've handed you all over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Manager",
+   "Line": "Once I've managed to find a hotel for tomorrow onwards, I'll let you all know...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you. We really appreciate it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Still, I'm so glad that we managed to find shelter for tonight!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Me too! Thank you for doing this, Aoyagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No, I didn't do anything...\nMy brother did all the work.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Still, we would've been up a creek if you hadn't gotten a hold of your brother.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah!\nWould you mind thanking him for us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Not at all. I'll let him know later.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, also...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "The person coming to get us isn't your brother, is he?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No, he's out of state for a performance at the moment.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "In his message, he said, “Someone I respect very much is coming to get you.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“Ah, there you all are.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

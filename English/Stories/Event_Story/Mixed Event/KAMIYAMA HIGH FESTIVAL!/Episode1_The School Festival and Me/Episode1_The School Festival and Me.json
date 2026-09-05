@@ -1,0 +1,518 @@
+{
+ "title": "Mixed Event — KAMIYAMA HIGH FESTIVAL! — Episode1 The School Festival and Me",
+ "meta": {
+  "Event": "KAMIYAMA HIGH FESTIVAL!",
+  "Event Type": "marathon",
+  "Episode": "Episode1 — The School Festival and Me",
+  "Event Outline": "It's the day of the Kamiyama High School Festival, which had completely slipped Mizuki's mind. Upon An's invitation, Mizuki decides to check it out and makes several interesting encounters, including one with a familiar face. Together, they reminisce on the last time they met...",
+  "scenarioId": "event_07_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Mizuki's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Nngh... Yawn...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "What time is it...? Eight?\nHuh, I woke up earlier than usual.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I finished work early last night, and then...\nOh, right... I passed out at my desk.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Great, I've got ink stains on my cheek from my notes. What a crummy way to start a new day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Huh? Who's calling me this early? Oh, it's An.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "<Hey, Mizuki! How's it going?\nAre you coming to school today?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "School?\nBut it's Saturday, isn't it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "<I knew it... You forgot.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Forgot about what?\nIs something going on today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "<The School Festival is today!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, yeah...\nI forgot all about it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "<Haha! Classic Mizuki...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "<Our class just finished setting up, so I'm just wandering around. You wanna come? There are food stalls and all sorts of other stuff to do.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hmm, I guess I could...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Oh, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Student A",
+   "Line": "Is that the person you were talking about?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000502",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Student B",
+   "Line": "I was just a little curious about why you dress the way you do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I don't really want that kind of attention...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I feel bad about disappointing An, but I think I'll pass...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "<Oh, and lots of students are wearing funky outfits today. A lot of the second years are in costume for their class shows too. It's really cool!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "<Unless you wear something really crazy, it's gonna be hard to stand out in this crowd.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(That's considerate of her, telling me in an indirect way that it's safe for me to come.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(I can't really come up with any excuse not to go now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'll head over then!\nCan't wait to see all those costumes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "<Great! I'm working my stall until noon, so you can find me in our classroom!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Got it. See you soon, and thanks for the invite.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00138",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "The School Festival, huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I haven't been to one since...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yikes, I can't be spacing out now or I'll be late.\nI better get ready to go...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000504",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00048",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kamiyama High School - School Festival Day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hey, An!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "There you are, Mizuki!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "What are you wearing...?\nIs that a new T-shirt?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, it's our class uniform for the day!\nWe designed it together, so we're all wearing one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "There's one for you too.\nWant me to go get it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Nah, I'm good...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "There are too many people around to find a private place to get changed anyways...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, okay...\nWell, it's your choice!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I just finished up so let's check out the festival!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000104",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00145",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kamiyama High School - Courtyard",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wow, this place is packed!\nAnd there are lots of stalls like you said!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yup! Our School Festival attracts a lot of the local residents too, see?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Look, they're selling cotton candy over there.\nIt looks so cute! Let's get some!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay! Sounds good!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Phew! That was a lot of stalls.\nI feel like I'm gonna pop.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Same here.\nWanna go back to the classroom?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hey, An...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Kohane, you made it! You said you weren't sure if you could come, so I'd almost given up hope!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. I didn't know if I'd have time, but I finished up earlier than I thought.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, you must be Azusawa.\nAn's always talking about you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "That's right, she's my unbeatable singing partner♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "H-Hello there!\nI'm Kohane Azusawa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'm Mizuki Akiyama.\nIt's really nice to meet you, Kohane!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, um. Nice to meet you too...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, how about we check stuff out all together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "A-All of us...?!\nOh... Um...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Is she getting nervous because I'm here?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(She came all this way on her own, so she probably wants to hang out with An.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(In that case...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, drat! The teacher noticed me. Ever since I missed that test, she's been all over me about taking a make-up...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You two go on ahead. I need to find some place to hide. I'll see you later, An!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wait, what? Mizuki?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Shoot, they're gone...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000504",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Looks like they're not following me.\nI might as well look around on my own then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Every class seems to be showcasing something different. There are theater performances, movie-inspired shows... What should I see first?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Although...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "(Everyone's wearing their class festival T-shirt.\nI'm gonna stick out like a sore thumb...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Not like that's different from any other day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Ha ha ha ha ha!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "What the...?!\nWas someone laughing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "It sounded like it was coming from the empty classroom upstairs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I guess I don't have anything better to do. Let's go see what's going on...",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

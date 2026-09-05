@@ -1,0 +1,458 @@
+{
+ "title": "Mixed Event — This Way! That Way! Zookeeper Day — Episode8 Spectacular Caretakers!",
+ "meta": {
+  "Event": "This Way! That Way! Zookeeper Day",
+  "Event Type": "marathon",
+  "Episode": "Episode8 — Spectacular Caretakers!",
+  "Event Outline": "Fresh second-years Minori and Shiho are on the animal caretaker committee, and their work has already begun. When they learn about a shadowing opportunity at Odaiba Animal Land from a teacher, they decide to participate. Animal antics ensue!",
+  "scenarioId": "event_115_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later - Before classes",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka Girls Academy - Rooftop",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hey, check it out, Minori.\nThere's a news article online about you and the others.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "“Minori Hanasato and Haruka Kiritani from MORE MORE JUMP! teamed up to capture an escaped armadillo...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "“...and all the guests applauded when they succeeded.”\nThat's pretty cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "To be fair, Shiho was the one who caught Dylan, not us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "They embellished the story a little... But I guess they didn't write anything negative.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, and I heard that your shadowing went very well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Shii had such a wonderful expression on her face while she told me about what happened.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. I'm glad it was fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "It really was! And after it ended, we even went around with Haruka and Ichika to all the places that we missed during our break!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Including the petting zoo...\nShiho looked so happy while playing with all the cute little animals.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "She also looked really sad when it became time for us to leave.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "She really fell in love with that baby lop-eared rabbit...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Come to think of it, Shiho and Haruka couldn't stop talking about penguins after that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yeah, she also really likes them.\nWe even made plans to go to the Penguin Cafe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. It's great that you two got to chat over a shared interest.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "You got to help take care of the animals and see the entire zoo... That certainly sounds like a full day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, I almost forgot!\nLuka came to visit during all that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Wait, she did?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah. She told me where to go and stuff while we were trying to catch Dylan!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Unfortunately, I couldn't...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<There wasn't much you could do.\nI mean, I wasn't expecting him to jump like that.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<No fair, Luka.\nI wish I could've seen Dylan.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Me too!\nYou could've told us where you were going!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Luka...! Everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Hello, Minori.\nI decided to drop by again♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<I should've gone with you last time.\nI probably would've gotten to see all those animals...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<I'm sorry, Rin.\nI was worried that us all going together would cause Minori and the others too much trouble.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Then, why don't all of us go together sometime?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<All of us?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, I really want to go now after hearing about what happened.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Really?!\nLet's go! Right this second!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Right now may be a bit difficult...\nBut I'd also like to go.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<They have a wide variety of animals, large and small, yes? I'm interested in seeing the frogs since I heard that some are supposed to have pretty patterns!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Frogs...?\nI think I'll pass...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hehe. Sounds like you're all aching to go. In terms of when, how about—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00005_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, there's the bell.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "W-Wait, we have that assembly today!\nWe gotta get over to the gym!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<What?! You're going?!\nBut we still haven't decided when we're all going to the zoo!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Rin, you should ask so much of them.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. The zoo's not going anywhere, so we can talk about it again later.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Then, we'll talk again in SEKAI.\nFor now, have a nice day!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Okay, see you guys later!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Gym",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Principal",
+   "Line": "...and that's why I took this opportunity today to tell you about a writer who calls this school her alma mater. I hope you all get a chance to read her works.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00239_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(Mhm...\nThe principal's stories always make me feel so sleepy for some reason.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(I know they're supposed to be educational, but I just can't process anything...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Next, we have commendations.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "This time is usually for clubs and committees that have made significant accomplishments.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "But today, the school has received a letter of appreciation, which I would like to read out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teacher",
+   "Line": "Shiho Hinomori from Class 2-B.\nMinori Hanasato from Class 2-D.\nPlease come up to the stage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Class 2...Hanasato...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "W-What?! Me?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(Is this about the zoo?\nFor now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "(I guess I should go up.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_005_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_005_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Principal",
+   "Line": "Ahem. We've received a formal letter of appreciation from Odaiba Animal Land where you both shadowed...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Principal",
+   "Line": "“When working with our caretakers, not only did your students perform their duties magnificently...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Principal",
+   "Line": "“They also connected with the animals, showed a deep compassion for them and even kept our zoo safe.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "We kept it safe...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I'm guessing they're referring to us catching Dylan.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Principal",
+   "Line": "“On behalf of the zoo, I would like to take this opportunity to recognize your students' efforts and achievements. From the bottom of my heart, thank you.”\nYour work has not gone unnoticed, it would seem.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Th...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Thank you very much!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00254",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00239_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I wasn't expecting this to happen...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Me neither... But I'm glad we were able to help. Plus, I got to become friends with Schubert.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "And you had a lot of fun while feeding the chipmunks, Shiho! The face you made was so cute! Let's keep doing our best as members of the animal caretaker committee!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00444_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Talk about a hot mic...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Huh...?!\nDid everyone just hear that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "You...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "You didn't need to tell them about the chipmunks!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I-I'm really sorry, Shiho!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,713 @@
+{
+ "title": "Unit Event — The Vivid Old Tale — Episode1 Let's Look For A Hint!",
+ "meta": {
+  "Event": "The Vivid Old Tale",
+  "Event Type": "marathon",
+  "Episode": "Episode1 — Let's Look For A Hint!",
+  "Event Outline": "After successfully hosting their own event for the first time, Vivid BAD SQUAD is determined to ride that wave closer to the heights of RAD WEEKEND. As they're discussing that legendary event, the members start to want to know more about Nagi, the woman who played a central role.",
+  "scenarioId": "event_64_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Crase Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Whew! I'm exhausted!\nWe can finally take a break...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, I'm pretty tired too after singing so much... We even got to the park earlier than usual, and before we knew it, it was already dark out...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Nice work, everyone.\nHere are your lemonades.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00059",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I made sure not to make yours too sweet, Toya.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you.\nAh, I can feel the sour, lemony essence revitalizing my body...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Haha!\nYou all sound like you just finished running a marathon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Hehe. It's rare to see all of you this tired.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Heya!\nMEIKO, we came to hang out! Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "What happened to all of you?!\nYou guys look totally drained...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Sorry, we didn't mean to make you worried. We're all just really tired after our joint practice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Joint practice?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, we're getting ready for our next show! Arata and the others are putting this event together and we asked them if we could all practice together whenever possible.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "We had our first one today...\nAnd they were all really good...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Mita even kept going until he literally dropped.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I believe we were all very enthusiastic about it, and it turned out to be a very good practice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Really?! That sounds really tough, but also really fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes, it does.\nIt's wonderful to see that you and your new friends are all working well together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "We're also glad. I think that event really did let us take a small step towards surpassing RAD WEEKEND.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "And we have Akito to thank for the hint he gave us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Way to go, Akito!\nWoohoo!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What's with the cheering...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Also, we're nowhere near achieving that goal. We've still got a long ways to go before we can even think about surpassing that night.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Right. And figuring out what you're actually going to need to do moving forward will be no small task.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "However, just as the “atmosphere” became a hint for you all last time, you may yet come across more helpful thoughts...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hints, huh...?\nHmmmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Do you have something, Rin?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah, I think I do!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Remember how seeing a video of RAD WEEKEND ended up being really helpful?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "What if we did that again?\nDon't you think it still has more to tell us?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "For example, Akito figured out how the atmosphere was totally different from any other event after seeing that footage, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "So, what if you focused on something else this time? You might discover something new by zooming in on everyone's singing or how they performed!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "That's right! I came up with that all on my own...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hmm... But they've already watched it a bunch of times, right? You really think we'll find anything else in there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The chances of that do seem low, but I'm inclined to believe that it's worth a try...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Wait, really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I've seen it several times myself...\nBut I always find myself overwhelmed by everyone's technical mastery and the quality of their performances.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So you may be right, Rin.\nTrying to see how RAD WEEKEND differed from other events may lead us to some new discoveries.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh, now I understand!\nIt makes so much sense coming from you, Toya!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "What?\nLen, what's that supposed to mean?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hey, relax. I'm kidding.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hehe.\nAlright, you two, settle down!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "So, let's give it another watch!\nWould you all like to join us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Oh, are you sure?\nYes, since we missed our chance to last time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "That's right!\nLen and Rin kept saying how great it was while we were essentially still in the dark.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "In that case, let's make it a viewing party. Let's see... We can show it on the screen we used during that event we did the other day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Alright, let's all help get things set up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Okay, here we go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00352",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000094",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00124",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nagi's Voice",
+   "Line": "♪————————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Wow...!\nShe's incredible...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Powerful too!\nHer singing is so overwhelming that I'm getting sucked in.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "I know, right?!\nI couldn't believe it the first time either!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yeah, I didn't think it would be this amazing...! It's sending chills down my spine! ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hey, you guys, be quiet!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len, Luka & KAITO",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Oh my...\nAs rambunctious as ever, I see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Hehe. Yes, they are.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "But by comparison, Kohane and the others are...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(I always end up focusing on how everyone sings, but I'm gonna try to learn more about their set lists today...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(With that one line in their very first song, they turned the live house on its head, got everyone's attention and kept drawing them in...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(And they're doing a great job of transitioning between songs and keeping the crowd guessing...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(But... Still...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "(This Nagi person...\nI can't look away from her...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(The lighting's amazing too...\nIt's hardly a big venue, but the lights are giving this stage a totally unique feel.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(And standing in the center is...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(How is she able to get everyone so worked up? Is it her raw singing ability...? No, wait... There's definitely something else at work here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(It's as if everyone's energy and...something else...are swirling around her... Like she's at the center of this storm... Could this be...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Clues... Look for clues...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Argh. No, I always end up just watching it. I need to take a step back and look for clues and hints this time...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(Still... RAD WEEKEND's just something else.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "(My heart races every time I see it and I'm completely immersed in it before I realize what's going on...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001802",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, she really is amazing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, how'd you guys do...?\nFind anything good?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah! Um, so...\nIt was really, really awesome!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hey, what happened to looking for clues?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, um...!\nB-But I got so caught up in watching it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Haha! Oh, Rin...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But I understand how you feel.\nI got really sucked in the first time too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I mean, that's why it's considered such a legendary night, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm not sure if this counts as a hint or clue, but I did notice something...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, what have you got for us?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I may be mistaken...\nBut something about all the performers' voices felt sad or dispirited for some reason...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Sad...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes.\nBut it was very subtle...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "What?\nEven though everyone was going totally nuts?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What if it's because my dad and his team decided to split up...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "That event became their very last event and I'm guessing everyone else sort of already knew that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh, so because it was RADder's last event, everyone felt that they had to sing with everything they had?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Could that be it...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, it would sort of explain why they all sang with so much passion..",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "However, I'm not sure if we can conclusively say that it's the reason why this event became so extraordinary...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Speaking of singing with passion...\nThe way Nagi sang by herself in the beginning left a big impression on me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Also, it kind of felt like Nagi, Taiga's little sister, was at the center of this entire event...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, Kohane, you too?\nI sorta felt the same way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah...\nSame here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "From the very first song, RAD WEEKEND's atmosphere felt way different from other events. And Nagi was the reason behind that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "We all worked together and did everything we could to approach that level, but this Nagi person achieved that all by herself... Possibly from the get-go with just that one song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, and it wasn't just that.\nShe seemed to make it so everyone around her could also do their best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "My dad and Uncle Taiga seemed pretty tense when they took the stage, but Aunt Nagi found a way to get them to relax by talking to them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "And her power was so awesome!\nI'm never gonna get tired of seeing what she did!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, that reminds me... You know this Nagi person pretty well, right, An?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, I do.\nShe's been looking after me since I was really little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I used to practice singing with my dad, Uncle Taiga and her all the time back then too... Those days were so much fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Um, An...?\nWould you mind telling us more about how things were like back then?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh? You mean when I used to practice with Aunt Nagi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah. I have a feeling that we'll understand RAD WEEKEND a lot better by learning more about Nagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I'd like to hear more as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Nagi clearly stood at the center of RAD WEEKEND, so we certainly have much to gain by learning more about her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah.\nPlus...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "She stood toe to toe with Ken and Taiga in terms of singing ability, so I sorta just want to know more about her personally...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I agree.\nI'm interested as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Me too! Me too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Aunt Nagi, huh...?\nHmm... I don't mind telling you more about her, but where do I even start...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Oh, I know. How about that one time...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Aunt Nagi was always the absolute coolest...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

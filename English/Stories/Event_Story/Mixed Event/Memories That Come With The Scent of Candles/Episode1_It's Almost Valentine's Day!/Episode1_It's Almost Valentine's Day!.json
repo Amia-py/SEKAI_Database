@@ -1,0 +1,663 @@
+{
+ "title": "Mixed Event — Memories That Come With The Scent of Candles — Episode1 It's Almost Valentine's Day!",
+ "meta": {
+  "Event": "Memories That Come With The Scent of Candles",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode1 — It's Almost Valentine's Day!",
+  "Event Outline": "Ichika and Nene aren't sure what to give for Valentine's Day. They ask Honami for some advice and decide to make some scented candles together. Meanwhile, Kanade, who has the same concern, also asks Honami for help...",
+  "scenarioId": "event_84_01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000601",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "After school",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka Girls Academy",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(School's finally out...\nThis day felt so long for some reason.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Is it because I'm just that excited about having singing practice with Kusanagi?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Student A",
+   "Line": "Valentine's Day is coming up!\nI can't wait to share chocolates with everyone♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Valentine's Day...\nIt's already that time of year.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(I'd like to give something to Miku and the others... But what would be best?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Oh, actually, I think the mall's having a Valentine's Day fair. That might be a good place to look.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Student A",
+   "Line": "What are you gonna make? I wanna try my hand at baking a chocolate tart.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Student B",
+   "Line": "You are...?\nI was thinking about being lazy and just buying some...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Student A",
+   "Line": "What?! Why?!\nIf we're gonna exchange them, they should all be homemade!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Student B",
+   "Line": "They don't absolutely have to be homemade. I mean, store-bought ones just look better and more appetizing, you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Student A",
+   "Line": "Y-Yeah, I get what you mean...\nBut homemade means that there's just that much more love baked into them, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(More love baked into them...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(I agree that a homemade gift would do a better job of showing someone just how much you appreciate them as opposed to a store-bought one...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(But what would I make...?\nI don't really know how to bake sweets or anything...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(No, now's not the time for this.\nI need to hurry. I shouldn't keep Kusanagi waiting!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shibuya Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "♪————!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay...\nH-How was that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Really good.\nI thought you also did well at Shibuya Festa, but you seem to just keep getting better and better.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You already had such a clear, refined voice, but it's like it's become even more refined...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I'm guessing that you feel a lot more confident about your singing now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh... S-Sorry, I didn't mean to sound uppity...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "No, it's okay.\nActually, that made me really happy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I mean, it's hard for me to tell how my singing is changing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "And it means a lot coming from you, Kusanagi. I feel like I've grown quite a bit now, so thank you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "O-Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "At the same time, I should also be thanking you... I've learned so much by practicing with you, Hoshino.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Wait, you have...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah. Whenever I practice with you, I notice things that I don't normally...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "It's so nice to be able to practice singing with someone else outside of the Wonder Stage like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Really...? Then, I'm glad.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Anyway... Wanna try singing together next?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes! Oh, but... I'd like to get something to drink first. All this singing has made me parched.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, I think I'd like something as well. There's a convenience store just right there, so let's head over together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_candle_2023_005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Convenience Store Clerk",
+   "Line": "Thank you, have a nice day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I'm glad that we were able to get some drinks, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That store...\nIt was covered with Valentine's Day merchandise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "There were so many different chocolates on display in front of the register too. I guess it really is just around the corner.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That reminds me of some girls who I overheard talking about Valentine's today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "When I heard them talking, I began thinking about what I'm going to do, but couldn't really come to a decision.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, are you planning on giving some gifts to people?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes, my bandmates.\nBut I don't really know how to bake sweets or anything, so I initially thought about just buying something from the store...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "But one of those girls said how it'd be more meaningful if you made a gift yourself... So, I sort of want to do that instead.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I see...\nI think I'm in the same boat as you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Wait, Kusanagi, you too?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah. I also initially thought that something store-bought would be fine... However, after rehearsal yesterday, we started talking about Valentine's Day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Isn't Valentine's Day such a wonderhoy event?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'm gonna make some really amazing sweets, so stay tuned, everyone! I don't know what yet... But it's gonna be really awesome!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "After Emu said that, I started thinking that I should also make something.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Hehe. That sounds like something Otori would say.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Unfortunately, I also don't really know how to bake and stuff, so I'm not sure what to do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Isn't there a good solution out there...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh... What if we made something other than sweets?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Something other than sweets?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah. Handmade accessories or trinkets... Food's not the only way to show someone that you appreciate them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "True... That never came to mind for me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Also, not being limited to sweets means we might have more options available to us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, I agree.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, then...\nWhat if we tried making our gifts together, Kusanagi...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? Together...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes. I mean, it could be fun to make our gifts through some trial and error.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, of course... You don't have to if you don't want to, Kusanagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh... N-No, that does sound fun.\nI... I'd like to try making something with you, Hoshino.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I'm glad to hear that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But what could we make?\nThe only things that immediately come to mind are hair accessories and stuff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That's an option. However, Saki and Honami may like that, but Shiho might not...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Right... We should go for something that everyone's gonna like, but that we can manage to make...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Still can't think of anything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Honami probably would've already come up with something too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait, really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, um... Yeah...\nShe's really good at knitting and making accessories by hand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wow, I didn't know that...\nThen, she probably would know what to do in this sort of situation.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah, I might just ask her for some advice now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? I thought you were gonna make something for her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I am. However, as much as I want it to be a surprise, I'd rather give a gift that's as nice as it can be...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I see... Sorry, I wish I could've come up with something...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "No, Kusanagi, it's okay. You don't need to apologize. Anyway, I'll try sending her a message now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Umm...\n<Sorry, I know this is sudden, but there's something I need to ask you. Kusanagi and I were trying to come up with something we can make for Valentine's Day...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "<Do you know anything that's simple and beginner friendly...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "It's kind of straight to the point, but I hope she understands...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, she's already replied.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "<How about scented candles?\nThey're actually pretty easy to make and hard to mess up.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Scented candles...?\nAs in the ones that give off really nice aromas? You can make those yourself...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, that could be really good since anyone we give them to can get use out of them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "You saved us, Honami. It's amazing how she can come up with an idea like this on the spot... Wait, huh...?! She keeps sending more...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh... Resin jewelry, leather goods... Wow, there's so many.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Still, by comparison, I feel like scented candles are going to be the easiest to make and decorate.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Shiho would also probably like that the most, so I'd like to try making some...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, I agree...\nLet's go with that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Then, I'll send Honami a reply...\n<Thanks. I think we'll go with the scented candles that you first suggested.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Hm...? She replied back...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "<I think I can teach you how to make them, so how about we all do it together?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Wait... Honami's going to teach us...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "H-Hang on... Hoshino, that makes sense since you're her friend, but me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "She's already invited you, so you should be more than welcome to join us. To put you at ease, I can ask just to be sure.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "O-Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I-I'm kinda nervous... I haven't really had a chance to talk to Mochizuki before...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(But I want to get to know her better. I don't want to let this opportunity go to waste...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Then, I'd like to join you two...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Great. I'll let Honami know right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "*Nod*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(I wasn't sure what we should make, but I'm glad I asked her for some advice...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(And Honami said she'd teach us...\nI need to do my best with Kusanagi to make sure our scented candles turn out well!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

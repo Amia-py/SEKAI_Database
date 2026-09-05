@@ -1,0 +1,888 @@
+{
+ "title": "Unit Event — Our Constellation of Song — Episode3 Returning To That Place",
+ "meta": {
+  "Event": "Our Constellation of Song",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — Returning To That Place",
+  "Event Outline": "Leo/need has done it at last. They've been signed by a record label! Reflecting on all of the people whose support has taken them this far, Ichika thinks of a way for the band to show their gratitude.",
+  "scenarioId": "event_101_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_f000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "School SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(I'm early. We're not supposed to meet for a little bit.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(But I wonder if the others are already here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len's Voice",
+   "Line": "So, you're really pros now?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "That's what they've been saying, Len!\nPlus, they told us about their contracts just the other day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh, right...\nSorry, I didn't mean to get so excited.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hehe. You're just that happy for them, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "This means they should be debuting soon. That's definitely something to look forward to.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "This is incredible. You girls really did it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Hehe. Thanks, you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00046_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "You're all here already.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, Ichika!\nWe were just telling them how we're signed to that label now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "We're so happy to hear that you've taken such a big step towards your dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Your hard work is starting to finally pay off. Congratulations, girls.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Thanks, Miku...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "But we're here because of you and the others.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Huh? Us...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes. As it so happens, I just ran into Yoshizaki and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "That's so wonderful...\nHanano and her brother get to see each other again...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah, and it made me start thinking...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Our fans, including Hanano and her brother...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Also, all the other people we met after we got our band back together... Our friends, Miku and everyone... We've made it this far because of them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Ichika...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "So that's what you meant by what you just said.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes. So, I began wondering to myself...\nIsn't there anything we can do for everyone who's been there for us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, it would be nice to thank them somehow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Especially since they've given us so much!\nBut how do we show our appreciation for them...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "What about music?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "If you wish to show your appreciation for others, why not do what you'd normally do...? By playing music.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "H-He's right...!\nIf we're saying our thanks as a band, music's easily the best way to go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, I agree. That's probably the best option...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Which can only mean...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yup! We're doing a show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah...! We can thank them by playing music for them...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Then, let's ask Mr. Shindo about this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, right! We're signed to a label now, so we can't just do shows whenever we like anymore.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Hehe. Sounds like things are about to get very busy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Good luck, girls.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka Girls Academy - Courtyard",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<Ah, yes. I see...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<You wish to put on a show for all the people who've supported you up until this point.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000462",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Y-Yes, that's right...! At the very least, we'd like to thank them somehow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "W-Would that be alright?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "We understand that we can't just do whatever we like since we're signed now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But we feel that we need to do this...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<This is an important period for your band since it's when we're going to decide how you'll be marketed.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<And we haven't decided on anything yet. Doing a show now may have ramifications on things down the road... To be honest, I can't just give you the green light.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000462",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "B-But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "But we...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<However...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<You have a clear purpose in mind for this show, so we should be able to do something about all the red tape.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<Plus, it may be good for you to cap off this chapter of your lives before you start working as pros in earnest.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000462",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Huh...? D-Does that mean...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<You are free to do this show.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<The president's probably going to have some questions, but I'll just say that you've been planning this since before you signed with us...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000462",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "M-Mr. Shindo...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Thank you very much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<I'll be looking forward to the show.\nWe'll talk again soon.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00138_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yes! We get to do our show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "But the hard part starts now.\nThis is gonna be just like our solo show. We have a huge list of stuff to get done.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Still, things should be smoother this time around since we've done this once already...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah, so let's do our best to make our Thank You Show a really amazing one! How about it?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Y-Yeah...! Uh, let's do it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Tenma Household - Living Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Heh heh heh. Ladies of Leo/need! Thank you for agreeing to gather here today. Now, let's start discussing our Thank You Show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Um, who are you supposed to be...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Hehe. Then, I'll start. I came up with this set list...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Okay, the ticket site looks set, and so do our flyers...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "And we have a set list!\nWe're up to ten songs, though. That's more than for our solo show...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "But they're all songs that we want to play, and I think each one is necessary for the flow.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Then, in order to get through it, we'll need to keep working on our stamina.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah. Now, as for when and where we'll be playing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, about that... I want to get everyone's thoughts on something...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Huh? What is it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "So, I was thinking that the live house Shiho works at would be best since we owe them quite a lot...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But then, yesterday, I got a call from Mr. Shindo...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<Hello. I apologize for calling you so suddenly. The thing is, I have a suggestion regarding the show we discussed the other day.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000463",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "A suggestion?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<Yes. If your band hasn't decided where to play yet, there's a venue that I'd like you to consider.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<I'll send a link to their site now.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "O-Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00004_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00183_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh...! This is...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000463",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<I believe this is where Leo/need performed in front of an audience for the very first time...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<As the opening act for STANDOUT.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<Apparently, they need a replacement after the band that was supposed to play dropped out suddenly.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<If we act now, I may be able to book it for fairly cheap.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000463",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "R-Really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(We'd be returning to the place where we played in front of an audience for the very first time...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(But... Are we ready to play there...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<Of course, I understand that selling enough tickets to fill this place out will be challenging...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<However, the experience of putting on a show at a large venue such as this one will undoubtedly prove beneficial to you as professionals.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_h000463",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<Consider it a lucky turn of events and an opportunity to prepare for your future.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "<But the decision rests with you and your band. Please let me know after you've had a chance to discuss this with them...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Y-Yes...! Um, so... Thank you very much...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00138_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That place...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "I mean, what are the odds...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "That's where we played our first show...\nThat's where we decided to go pro together. With you, Shiho.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "What do you all think?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'm actually for this idea...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Honami...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(That time... It was our very first show, so I just sang like there was no tomorrow...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(I wanted to give Shiho our answer through our music...\nTo tell her that we wanted to go pro with her.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(But we probably didn't sound very good back then... I doubt the audience actually enjoyed our performance.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(However, we should be able to do better now. We can put on a much more compelling performance.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Then...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I agree. I want to try playing there again too, if we have this opportunity...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00069",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah... Let's fill that venue with a totally different sound than before.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah...! And if we're gonna make it as pros, we gotta start playing at some of the bigger venues.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Which means we shouldn't back down from this sort of challenge!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Then, it's settled...\nLet's go back there and put on the best show we can...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh, hang on... Doesn't this mean we'll be playing on the date of that meteor shower?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Huh...? Oh, you're right.\nBut we should be fine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, since we'll have a few days to see it. Also, the peak viewing period is apparently a few days after our show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Then, let's put on an amazing show and then go see it that night.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Alright!\nLet's do our best to make sure that we get to enjoy it to the fullest!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

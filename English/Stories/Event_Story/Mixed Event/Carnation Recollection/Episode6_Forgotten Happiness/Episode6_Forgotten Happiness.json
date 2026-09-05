@@ -1,0 +1,638 @@
+{
+ "title": "Mixed Event — Carnation Recollection — Episode6 Forgotten Happiness",
+ "meta": {
+  "Event": "Carnation Recollection",
+  "Event Type": "marathon",
+  "Episode": "Episode6 — Forgotten Happiness",
+  "Event Outline": "Despite Kanade's persistent efforts to save Mafuyu, none of the songs she composes seem to leave an impression on her. Feeling like she's reached a dead end, Kanade heads to SEKAI for advice...",
+  "scenarioId": "event_26_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Nonogi Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "This place...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00077",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Thank you for the meal!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "Hm? Kanade, you have something on your cheek.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "I do? Where?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "Your other cheek, silly.\nJust stay still for me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "There we go.\nAll gone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Oh, are you sure about that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Kanade isn't the only one with something on their cheek, honey.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Mommy, look!\nDaddy did the same things as me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "What?! W-Where...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "It's on this cheek.\nStay still now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "O-Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "There, got it.\nWere you trying to copy Kanade, dear?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Daddy's a copycat!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "Hahaha...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Look, a butterfly...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Careful not to trip and fall, Kanade.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Mommy, look! The butterfly stopped on the flower!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Yes, I see. Butterflies love to eat flower nectar very much, so it must be lunchtime for it too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "It's eating a flower for lunch?\nDo flowers taste good...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "Oh, that's right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "What are these flowers called?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "These are carnations.\nThey're my favorite type of flower.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Car-nay-chons?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Hehe. Carnations, dear.\nOh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00080",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Daddy's playing his guitar!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Kanade, wait! Please don't run off like that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Hehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Let's give daddy a big round of applause!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Which song was that called?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "That one? Well, I sort of just played it off hand, so it doesn't really have a name...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "But let's see...\nWe can call it, “Kanade and Mommy's Happy Sunday”...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Kanade and mommy's happy Sunday...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Haha! That's such a silly name!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "What?! You think so?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Kanade, you know it's not nice to say things like that. You'll make your father sad.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Oh no...!\nI'm sorry, daddy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "Haha. It's okay, Kanade.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "As long as my music makes you and your mother smile, I'll be more than happy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Me smiling makes you smile too, daddy?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "Yes, it does. It makes me feel all warm and fuzzy inside.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Really?!\nThen I promise to smile lots and lots!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Hehe...\nWould you mind playing us that song one more time, honey?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Father",
+   "Line": "You got it! Get ready for an encore!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00080",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Mommy, you look really happy...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Oh, I do?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "I suppose I just can't help it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade's Mother",
+   "Line": "Your father's music always finds a way to make me smile.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Kanade",
+   "Line": "Yeah, me too...!\nI love the music daddy plays!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "This is it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000082",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00029",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "This is what my parents and I saw.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "What?!\nBut this isn't really a glamorous flower field. It's just a bunch of flower beds...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "No, I got it!\nYou came when you were little, so it looked a lot bigger than it really was!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, you may be right.\nSorry for the confusion...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "No, that's totally fine! I'm just glad that we found it! There really are a lot of carnations here, huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes... It's so nostalgic...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Oh...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Kanade? Is something wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Remembering what happened that day's making me feel worse.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Even after Mizuki went through the trouble of finding this place. But if I recall any more than this, I might...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "This place really means a lot to you, doesn't it, Kanade...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Sorry, it's just that I'm glad to have learned that because you hardly ever talk about yourself or stuff like this, you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You had this great expression on your face when you saw these flowers too. You seemed so happy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "So, I'm glad we did this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Mizuki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Nevermind, ignore that last part! Look at me...! Talking like I know everything about you...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "No, don't say that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I wouldn't have been able to remember anything if it weren't for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Like my memories from when I was little and why I liked this place so much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Would you mind telling me more? About what happened back then and stuff?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Uh, sure...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "My parents and I came here on a picnic.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Dad even brought his guitar and sang for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It was a really simple song, but it was so gentle and happy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Because of that, listening to it usually cheers me up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, that sounds nice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You're talking about that music box your dad made, right? It has to be good if you're willing to say this much. It'd be great to listen to it sometime too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, I can bring it with me next time if you want...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wait, really?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, I'd like you to hear it too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Great, thanks...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(When is the last time I talked about my past like this...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I'd forgotten about what happened back then for so long...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Or rather, I kept it locked away in the back of my mind...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(We were so happy back then, remembering it all now felt painful...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(But I'm glad I was able to.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(This place meant so much to me, and it still does...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But what are the odds that one of my favorite places would turn out to be this kind of blast from the past for you, Kanade?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hehe. I'm glad we came.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, me too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Thank you very much, Mizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm not sure I would've been able to handle what I just felt if I came here alone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I was able to look back on what happened then with a more open mind thanks to you, Mizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But I didn't really do...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You're very welcome, Kanade.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

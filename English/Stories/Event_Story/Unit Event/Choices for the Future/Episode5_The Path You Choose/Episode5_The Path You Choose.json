@@ -1,0 +1,673 @@
+{
+ "title": "Unit Event — Choices for the Future — Episode5 The Path You Choose",
+ "meta": {
+  "Event": "Choices for the Future",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — The Path You Choose",
+  "Event Outline": "Emu continues studying management with the Morinomiya Revue. While leading fulfilling days full of new connections, she learns that a threat is coming to bear on Morinomiya's Kikyogumi troupe.",
+  "scenarioId": "event_164_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Harbor",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushies",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushies",
+   "Line": "Hey, did something happen with Emu?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushies",
+   "Line": "Yeah, she's been sitting on that bench and staring off into space for a really long time now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushies",
+   "Line": "I'm a little worried. Should we try and go talk to her...?\nHuh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000435",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Emu, there you are.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "KAITO...\nWhat are you doing here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I've been looking for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I kept wondering how you were doing after we spoke last, so I've been taking peeks here and there using your phone...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Mind if I sit next to you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Sure, sit here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I'm sorry for eavesdropping on your conversation with Byakkomachi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "No, that's okay.\nI really appreciate you worrying about me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Are you feeling okay...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d004001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Suzu told me that she's really scared...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00215",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And I think I kinda understand what she's going through right now. Because I felt the same thing when we were trying to save Phoenix Wonderland...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "They started tearing down the old rides and replacing them with new ones...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And I remember the look on the guests' faces as they watched their favorite rides slowly disappear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I became so scared of disappointing all the people who'd been coming to the park for a really long time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Of course...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Change things or keep them the same.\nBoth end up being scary choices...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "*Nod*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "What if you tried talking to someone who went through the same experience, Emu...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Someone who went through the same experience?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes. When Phoenix Wonderland was in trouble...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Who were the first people that tried to turn things around for the park?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Are you talking about...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Those people...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "They must've had to overcome the same sort of fear Byakkomachi is feeling right now, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Otori Household - Living Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "You wish to know what we were thinking as we tried to reestablish Phoenix Wonderland as a viable enterprise?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah...! I wanna know what you guys felt back then!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Weren't you afraid of all the changes that were coming?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wasn't the thought of disappointing everyone really scary? Were you ever worried that you were taking the park down the wrong path...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "What? Why are you asking us these questions now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Well, truth be told...\nMany of those around us were opposed to our choices.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "I'd be lying if I said that we never worried or felt scared.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Yes, really. Some even said that we should scrap the park altogether in order to build something else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "By that point, Phoenix Wonderland had an established history.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Its reputation was effectively set in stone, which made attracting new demographics a nearly impossible task.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "In other words, starting over from scratch would've been easier.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "But we didn't want to do that.\nEven if it meant that the park would change drastically, we didn't want Phoenix Wonderland to disappear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "And we came up with the best ideas we could to prevent it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You guys were scared...\nHow did you overcome that and move forward?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "It didn't matter that we were worried or feeling scared. We had to move forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Because reality wasn't going to wait for us to get all our ducks in a row.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Right. We definitely didn't have the luxury of time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "We had to come up with as many ideas as we could in a short period and choose the best ones...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Nobody knew what the right answer was.\nBut...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Our task became to turn our choice into the correct solution.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Turn your choice into the correct solution...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "That being said...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "You and your friends came along partway through, and sent us on a completely different course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "True. However, if we had ended up partnering with Riley Entertainment...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "We would've stuck with that decision.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Once you've made up your mind, it becomes easier to make scary decisions.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "So, the problem becomes a matter of resolve.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "I don't know what's on your mind right now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "But I'll leave you with this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "I'm sure you'll do just fine, Emu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Yes, I agree.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "You and your friends are the reason Phoenix Wonderland is thriving right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "So, I'm sure you'll find a solution that will make everyone happy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Keisuke, Shosuke...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Thanks, you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d004001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Morinomiya Revue - Courtyard",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What do you think?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Interesting...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "This idea could help us deal with all three problems at once. Ticket prices, member retention and the quality of their performances.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Really?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Yes. It's a bold idea, but we should be able to turn it into a presentable proposal after we hammer out all the details.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Woohoo!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "However...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "There's no telling how Morinomiya's fans are going to react. This may result in even greater backlash...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I know how you feel, Suzu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You're scared that you're going to disappoint even more fans.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "If you just keep things as is... If you don't do something, then the thing you really care about is going to vanish someday.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Which is why I think everyone is trying to get past the fear and move forward...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Nobody knows what the right answer is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You just have to turn your choice into the correct solution...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Turning my choice into the correct solution... I like that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Me too! My brothers said that to me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Thank you, Otori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Would you mind bearing with me for just a bit longer?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Before any ideas are presented to the board, they first need to be approved by the chairman.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "So, in order to convince my grandfather, I'd like to hash out the details with you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, of course!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

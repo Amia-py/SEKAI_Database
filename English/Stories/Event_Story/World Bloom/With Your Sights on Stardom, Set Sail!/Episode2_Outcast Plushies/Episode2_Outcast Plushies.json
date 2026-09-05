@@ -1,0 +1,753 @@
+{
+ "title": "World Bloom — With Your Sights on Stardom, Set Sail! — Episode2 Outcast Plushies",
+ "meta": {
+  "Event": "With Your Sights on Stardom, Set Sail!",
+  "Event Type": "world_bloom",
+  "Episode": "Episode2 — Outcast Plushies",
+  "Event Outline": "Wonderlands×Showtime's training continues as they each pursue their dreams. When they're called over to SEKAI by Rin and the others one day, they find an expansive new land awaiting them!",
+  "scenarioId": "wl_wonder_01_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_wonder_op1",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00264",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Harbor",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Okay, that phoenix appeared to be headed in this direction...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00624",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Plushies",
+   "Line": "Hey, check it out! I got a big balloon!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushies",
+   "Line": "Oh, we should go down to the water together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I wasn't expecting this harbor to be a part of such a bustling city.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Look at all the plushies!\nIt's like a big festival!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "Excuse me. Did any of you happen to see a large bird flying overhead?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushies",
+   "Line": "No, sorry. I don't think so.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "I see. Thank you.\nEnjoy yourselves!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "There are so many plushies here, but none of them seem to know anything about that phoenix...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I tried asking around too. They all said they didn't see it either...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I see...\nBut we may want to keep asking.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah. Plus, Tsukasa and the others still might learn something—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00173_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hey, all of you!\nWe have some good news!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Tsukasa, there you are!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "You have good news?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes! While talking to some of the plushies...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "We found that none of them knew anything about that phoenix, but they told us instead to ask around at the inn.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Apparently, lots of different plushies from all over gather there to talk about the rumors they've heard and stuff!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, which means one of them may've seen or heard something about that phoenix.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Alright, let's try heading over there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Outside the Inn",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The inn's supposed to be around here somewhere...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Huh?\nIt sounds like there's a fun party going on!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, is it coming from that place?!\nI'm seeing a lot of plushies gathered outside talking☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It is like a party!\nWait, is that the inn we're looking for?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Gorilla Plushie",
+   "Line": "Ah, are you all guests?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "And you are?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Gorilla Plushie",
+   "Line": "I'm the innkeeper.\nWe have a party going on today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Gorilla Plushie",
+   "Line": "So, why don't you all join in on the fun?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yeah☆ I wanna talk to the plushies♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hey, don't forget that we're here to investigate!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, but...\nJoining in on this celebration may actually make it easier for us to draw out information.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "People do tend to be more talkative when they're in a good mood.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hmm... Good point...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Then, we can split up and ask around, while also enjoying this party!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Plushies",
+   "Line": "I don't know anything about this phoenix of yours.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00235",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Plushies",
+   "Line": "A phoenix? Like the mythical creature?\nAre you sure you saw one?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushies",
+   "Line": "Sorry we can't help you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "No, thanks for talking to us!\nYou guys enjoy yourselves☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00567",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00567",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Hmm... No one here seems to know anything about that phoenix...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I suppose information should be difficult to come by considering how incredibly rare a creature it seems to be.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Still...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushie A",
+   "Line": "Hey, wanna hear me sing?\nI'm from an island where everyone's a great singer!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushie B",
+   "Line": "I'm looking for work. I'll do anything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'm seeing so many different types of plushies here. Mermaids, androids...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Gorilla Plushie",
+   "Line": "Well, of course! What you're seeing here is a gathering of plushies from all different islands.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Really?!\nThen, does that mean there's a Mermaid Island and an Android Island?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Mermaids and androids...\nHehe. It reminds me of our shows.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah! Do you think that's important?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "SEKAI was born out of Tsukasa's feelings, so they may be a reflection of his personal experiences.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. It's really never a dull moment here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Whoa, look! What's going on with those plushies?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Huh? O-Oh no!\nThey're hurt all over!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Some have their eyes popped out, and others are wrapped in bandages... I feel really bad for them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Gorilla Plushie",
+   "Line": "Haha. Don't feel bad!\nThey're from Zombie Island!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, okay☆\nThey're zombies! Now it all makes sense!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Then, there's no need to worry♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushie A",
+   "Line": "Are you gonna ask them about that phoenix?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, but... Would that be a bad idea?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushie A",
+   "Line": "Just be careful!\nThe last time I tried talking to them, they decided to bite me for no reason!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "What?! Th-They bit you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushie A",
+   "Line": "I didn't get hurt...\nBut they're a really grumpy bunch, so be really careful when you go over to talk to them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Plushie A",
+   "Line": "Good luck!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00381_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00381_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It sounds like they're a bit of an odd bunch.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Gorilla Plushie",
+   "Line": "They're not actually evil or anything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh, is that so?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Gorilla Plushie",
+   "Line": "Yeah. In the beginning, they tried their best to make friends with everyone. You see, biting someone is apparently how folks greet each other on their island.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Gorilla Plushie",
+   "Line": "But people have a tendency to judge a book by its cover, and they were misunderstood...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Misunderstood...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Really...?\nThat's so sad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Imagine wanting to get to know someone better, but them feeling scared of how you look and the way you greet them. That'd definitely make me sad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Gorilla Plushie",
+   "Line": "Which is why they're somewhat prickly now. They've completely given up on trying to get along with everyone else...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I see...\nStill, aren't they lonely...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In any case, we should try talking to them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "They may know something about that phoenix.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00143_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hello there.\nDo you all have a minute to talk?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We have a question for you all.\nWe're looking for a phoenix that—",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "CHOMP!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh my.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "H-He bit you!\nAre you hurt, Rui?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "CHOMP CHOMP CHOMP!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'm okay. It doesn't hurt.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Oh, perhaps he's replying to my initial greeting with his own?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Alright, I should give a greeting in return.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000289",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Pardon me.\nCHOMP.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Oh, I wanna chomp too!\nThat looks like fun☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Me too☆\nCHOMP.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "Wh-What are you all doing...?\nWeirdos...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Anyway, there's something we wanna ask you zombies!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "We're looking for a phoenix☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "But we don't know where it went...\nDo you guys happen to know anything about it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "A phoenix...?\nAre you talking about...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "No, I'm not telling you anything!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wait, why not?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "Because you're trying to trick us!\nYou're not trying to become our friends! You think we're ugly and say nasty things about us behind our backs!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushies",
+   "Line": "What he said!\nYou hate us, so why should we help you?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "No, that's not true!\nWe don't hate you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "Hmph... You're lying.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "Everyone else before you ran away scared when we tried to make friends with them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, it's true that some of the other plushies are scared of you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But dispelling them of those fears should help you all get along better. Help them understand that you want to become friends with them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yeah, he's right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "Y-You think that would work...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah☆ So, let's go over and talk to them♪ I'll help you guys break the ice!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "No, go away!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "What?! Why?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "Because there's no way we can ever be friends...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(There's no way...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Zombie Plushie",
+   "Line": "Hmph... Let's go. We're leaving!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00567",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00567",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Those zombies seemed so sad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Yeah...\nAnd if nothing changes, they're gonna keep getting misunderstood...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Is something wrong, Rui?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh...\nNothing's wrong. It's just...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "They reminded me of my own past...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

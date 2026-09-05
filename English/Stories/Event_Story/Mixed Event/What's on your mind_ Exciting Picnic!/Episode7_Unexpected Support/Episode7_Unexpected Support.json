@@ -1,0 +1,593 @@
+{
+ "title": "Mixed Event — What's on your mind? Exciting Picnic! — Episode7 Unexpected Support",
+ "meta": {
+  "Event": "What's on your mind? Exciting Picnic!",
+  "Event Type": "marathon",
+  "Episode": "Episode7 — Unexpected Support",
+  "Event Outline": "Noticing Mizuki's lackluster attitude following the mystery tour, Ena grows worried. Her apparent concern for her friend doesn't go unnoticed by Airi and Shizuku, who extend an invitation to a picnic to both of them in hopes of lifting their spirits.",
+  "scenarioId": "event_22_07"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a003001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Hiking Trail",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Achoo!!\nThis rain isn't doing us any favors...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Ena and Airi might catch a cold if they stay exposed like this. I'm worried about Mizuki too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "No, I need to be more positive...!\nWe need to save them before the rain gets worse. Is there anything I can do right now to help...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "<Oh, is this a bad time...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Wait, this voice... Was that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Shizuku, it sounded like you're in quite a bit of trouble...!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Luka...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "W-We are!\nEna and Airi fell down a ledge...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Mizuki went off to go look for help, but I haven't been able to do anything for them. It's raining too, so if we don't do something soon, Ena and Airi might...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Don't worry, Shizuku. We can think of a way to help them together.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Luka... Thank you so much...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<You said they fell, but can they still move around?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I believe so. Airi said she scraped her knee, but that was about it. Still, I'm incredibly concerned...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<I see... We do need to act fast...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, we do. I was hoping that I'd be able to just pull them back up, but they were too far away. If only we had a rope or something...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Do you have anything that can act as a rope?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Well, I was carrying the tarp and towels. Oh, a change of clothes too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "But these wouldn't be long enough even if we did turn them into a rope somehow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "What if I tied them all together?\nThen they might be long enough...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Great idea! Do you know how to tie the right knots?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, I think I still do. I learned how to for an educational show once. Do you think this will work...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<I believe in you.\nI'm sure you can do it, Shizuku!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Thanks, Luka...!\nI'll give it a try!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "It's really starting to come down. That ledge is gonna be way too wet to climb up now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What do we do? It'll be dark soon too...! If we can't get back up, does that mean we'll...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Saying stuff like that isn't gonna help us get out of this. We have to keep trying and come up with a way to get out of here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "But we've already tried everything!\nWhat else can we possibly do?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "*Gasp*...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I'm so sorry, Airi. It's all my fault for slipping and falling down here in the first place...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Ena, enough...!\nJust try thinking about your art or something for now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh? My art?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Back in junior high, your dad told you that you don't have any talent, but you kept on drawing! You never gave up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Even after you couldn't get into that art school, even as no one appreciated your art, you kept going!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "You overcame all those things and never gave up! You're a fighter, Ena!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Airi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "So buck up!\nWe have to believe in Mizuki too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'll be fine! I promise to be right back with help!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Believe in...\nYeah, I'm sure Mizuki will...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki's Voice",
+   "Line": "Hey, you guys!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wait, was that Mizuki's voice...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'm back!! I brought help too!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Mizuki!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Thank goodness. Looks like everything will be okay now♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, I think so...!\nOh, right! I need to put you away for now, Luka...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Yes, but I'll still be here with you until Ena and Airi are back safe with you.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Thank you, Luka!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You two, over here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Is this where your friends fell, Mizuki?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Whoa, that's pretty steep...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I do have some rope on me, but it may not be long enough...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "In that case, please feel free to use this...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hm...?\nDid you make this, Shizuku?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I did. If you tie it together with that rope of yours, I'm sure we can use it to save them!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Nice work, Shizuku!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "You've tied these together very well.\nI believe this will do...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Okay, let me tie the other end of the rope to here and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Alright, everyone... Pull!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "W-We made it... I thought we were goners...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "The rain really didn't help, but great work hanging in there, Ena!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "You too, Airi. I don't even want to think about what might've happened if Mizuki and Shizuku weren't here either...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Airi! Ena!\nThank goodness you're safe...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Yeah, I'm relieved too but exhausted at the same time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "You two really saved our skins there. I'm not sure we'll ever be able to pay you back for this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Nah, don't worry about that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "And we need to thank these two for saving us as well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What, us?\nWe're just glad that you're safe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It looks like you can still walk too. We'll lead you back to the rest area.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Right...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<I'm glad everything worked out. I'll be heading back now, Shizuku.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Thank you for your help, Luka. And I'm sorry about not getting a chance to show you this wonderful landscape...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Oh, don't mind me.\nI'll see you later, okay♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, see you in SEKAI!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Hm? Did you just say something, Shizuku?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Huh? Oh, I was just talking to myself...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We'll have to apologize to everyone that came on this tour too. They're probably worried sick about us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Yeah, but how...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "For now, let's just be glad that we're all okay. After we get back, we can get some well deserved rest...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Um, Mizuki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "What's up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Wasn't that your favorite outfit?\nI feel terrible about it getting ruined like that. I'm so sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "What, this? I did like it, but I can just buy something else, right? More importantly...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000072",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00065",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You're safe now and that's what matters most.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Mizuki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "And you're not hurt at all?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I'm fine, really...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, me too!\nThis barely counts as a scratch!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, Airi...\nJust promise to get it checked after we head home, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, please do. You might not even know something's wrong until days later.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Okay, okay, I'll go! I promise...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(It's been a while since I saw that look on Mizuki's face...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I want to help. I have to help...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I don't care if Mizuki doesn't feel like talking, I don't want to see that expression again...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I mean, Mizuki's my...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

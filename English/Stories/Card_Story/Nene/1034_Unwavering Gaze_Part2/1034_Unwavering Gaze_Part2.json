@@ -1,0 +1,403 @@
+{
+ "title": "Kusanagi Nene — Unwavering Gaze〔Part2〕Side Story (Part 2)",
+ "meta": {
+  "Character": "Kusanagi Nene",
+  "Card": "Unwavering Gaze（4★）",
+  "Part": "Part2 — Side Story (Part 2)",
+  "Event": "The Power of Regret",
+  "scenarioId": "015039_nene02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d004001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Morinomiya Music Academy",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Let's see... The classroom for my next lesson should be this way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I'd like to get there early in order to check to make sure I'm moving okay.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait, this is where...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "Stop it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "I don't want to hear any empty words! Not from someone who didn't get cut today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(This is where I had that talk with Imura...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I haven't seen her since she was told to stop auditioning the other day... I hope she's okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I know I should focus on the show itself, but...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00799",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Huh? Kusanagi...?\nWhat are you doing in the middle of the corridor? Is something wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, Byakkomachi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Umm... I was just thinking about something, is all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "I see.\nThen, I apologize for interrupting your train of thought.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "No, we should be heading to class, after all. I appreciate you speaking up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Ah, I'm glad to hear that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Um, Byakkomachi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Do you know if Imura's okay?\nI haven't forgotten about what you told me the other day, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "She should be fine.\nIt's nothing for you to worry about, Kusanagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "Anyway, shall we?\nWe probably shouldn't spend all our time chatting here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "R-Right, let's go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00799",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(So, is she telling me again to stop thinking about Imura and stay focused on the production?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(It's still a bit of a bitter pill to swallow...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(But...\nI do need to do everything I can for the task ahead of me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "After the lesson",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Phew... Another tough lesson today, but I feel like I'm moving my body much better now.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Still, I'm miles behind the others.\nI should probably head over to SEKAI to do my usual training and...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "Hi, Kusanagi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? Imura?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "U-Uhh, so... How are you feeling?\nYou haven't been showing up for our lessons.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "O-Oh, I'm okay!\nI had a bit of a flu, is all...\nBut my fever finally broke just earlier.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Really? Thank goodness...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "A-Also...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I'm really sorry about what I said during the auditions. I feel awful about not taking your feelings into consideration more.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "I'm also sorry...\nYou were just trying to cheer me up, but I ended up lashing out at you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "No, you were just...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "No, I took all of the anger and frustration I was feeling out on you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "Even going into the audition, I knew that I still didn't have a good grasp of Luca.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "But I decided to go in without doing the work, because I wanted to play him so much. I ended up putting on a horrible performance, and the teachers rightly called me out on it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "Then, even though you were just trying to cheer me up, I bit your head off... I really am sorry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "No, you don't have to apologize. It's my fault for...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "No, please let me continue!\nI want to apologize to you, properly. But that's not all I have to say.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "I want to finish by thanking you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "The way you performed during the audition made it clear to me that you really faced Luca head-on.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "That made me really happy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "I ended up getting cut, but you kept trying your absolute best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "Seeing that made me want to stand back up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "So, thank you. I'm done running...\nFrom auditions, and from my own shortcomings.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Oh...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Byakkomachi",
+   "Line": "She should be fine.\nIt's nothing for you to worry about, Kusanagi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I see...\nSo this is what Byakkomachi meant.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(She must've known that Imura would find the strength to stand back up.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Which is why she just kept watch. Because she believed in her classmate...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Then, why don't we hold a debrief together right now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "Huh? A debrief?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, because I wanna do everything I can. That includes making the most of the results from this time around.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "So, I'd love to hear what your thought process was, in terms of learning to play Luca.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Because I do genuinely believe that you did a good job of capturing Luca's delicate personality.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Imura",
+   "Line": "*Nod*\nThanks, Kusanagi. I also really liked your portrayal of Luca...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Thanks. Then, let's discuss this in the courtyard. There are just so many questions that I wanna ask you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

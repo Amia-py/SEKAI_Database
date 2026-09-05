@@ -1,0 +1,583 @@
+{
+ "title": "Unit Event — Deeper and Deeper — Episode3 \"Insipid\"",
+ "meta": {
+  "Event": "Deeper and Deeper",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — \"Insipid\"",
+  "Event Outline": "Wonderlands×Showtime agrees to participate in a workshop run by ArcLand. As Rui takes the directors' course, he is confronted with something he's never realized about himself before.",
+  "scenarioId": "event_172_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d005001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "ArcLand - Workshop Venue",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "And now, without further ado, I hereby declare the directors' course open.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "I'm not one for formalities, so I'll be keeping things casual from here on out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "And I think it's high time we introduced our other teacher.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00084_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“Hello. Can you all hear me?”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "“Yes, we can hear you.\nWe can also see your bedhead, Tom.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“Excellent. That means we're all set to begin.”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(It's not surprising that two world-class directors such as them would be on speaking terms...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But they seem like old friends.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "Ah, I almost forgot.\nWe'll be constantly switching back and forth between English and Japanese during this workshop.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "I'll be sure to translate any especially technical terms or phrases, but this is also training for when you go overseas for work in the future. So, try to keep up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "Please feel free to use the translation functions on your smartphones and computers. Tom will be doing just that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“Hello, everyone.\nI won't be able to be there in person due to work scheduling, but I've been looking forward to this workshop for a very long time.”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“I may be a teacher for this workshop, but I'm sure you all have much to teach me too.”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“So, let's make the most of our time together.”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00306_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00306_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "We'll start by going over the workshop's goals.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "The objective of the directors' course is to have you all produce shows from scratch.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "We'll have you approach this assignment as though you're developing a show to be performed on stage at ArcLand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In other words, this show will need to meet the park's world-class standards...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Not only will it have to appeal to a wide range of age groups, it will need a high degree of artistic mastery.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "We wish to see original ideas from all of you, so please refrain from deriving or adapting anything from existing works. Keeping it on the level of homage is fine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "And as far as casts go, you'll need to ask the actors in the other workshop course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I see. In my case, I'll likely be asking Tsukasa and the others for their help.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "Try to keep your show's runtime around an hour.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "You'll have a month to work on them. Then, we'll watch them and give you our assessments.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "ArcLand has told us not to pull any punches, so please try to understand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Director Ａ",
+   "Line": "It's even scarier when he says that with a smile...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Director Ｂ",
+   "Line": "But we'll learn more by them picking us apart, so let's try to do our best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“That's about it for the briefing.\nWe're looking forward to seeing your shows.”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "Now then, we were going to call it there for the day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "But since we're all here, why don't we have ourselves a little test before you start working on your shows in earnest?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Young Director Ａ",
+   "Line": "A little test...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“There's no need for alarm, everyone.\nThink of it as a piece of homework which will help you get to know your workshop peers better.”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“The next time we meet, we'd like for you all to introduce yourselves through some short shows.”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Introduce ourselves...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "You are directors, after all. Doesn't it make sense to let your direction do the talking?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "The theme will be “rain”.\nWe're looking for shows around three minutes in runtime, to be performed in the arcade by the main entrance to ArcLand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "Of course, your shows will actually be performed here in this meeting room, so please keep that in mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "It'll be a one-man show.\nWe'd like to get an unbiased sense of your directing styles, so we've chosen an actor in advance to remove that particular variable.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "I'm sure you're all familiar with Asahi Genbu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I see. Asahi can handle any role, so they'll immediately be able to see each director's capabilities.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(It's the best way for them to size us up.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "Please have scripts and directing plans ready by next time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "Bring something good, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d007001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Alright, this is the arcade where our shows will theoretically be staged.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00326",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Since it's so close to the entrance, guests of all ages should be present...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'll want a show which fits in with the magical world of ArcLand, and also heightens anticipation and excitement for the wonderful time the guests are about to enjoy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Still... I feel like I'm dreaming. Tom Gray himself will see this show...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(A show to introduce myself...\nIt's no simple task, but I need to do my best.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "To achieve that ArcLand feel, I'll want to include some elements of magic and fantasy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Also, since this is my self-introduction, I'll need to tie in something which refers to me personally.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I know. I can revive some of the ideas I used for those surprise shows I did all those years ago...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d005001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "One week later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Argh! Why?!\nIt always rains on the days when I have something important planned!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“The princess and I can't have our wedding in this weather!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Oh, you're completely soaked.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Would you like to rest at my house?\nI have some hot soup.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(This is fascinating...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(With all of us working with the same theme, each director's style is clearly visible. I'm learning so much.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(And more importantly...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "That line at the end needs to carry a bit more implication.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "As it is now, things just end as a normal, day-to-day conversation. Try to be more conscious of impactful phrasing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Director Ａ",
+   "Line": "I understand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“I appreciated the boldness of your story structure. Devices like that will help keep your audience's attention.”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "I agree.\nBe careful not to rely overmuch on props, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Their feedback, born from their wealth of experience, covers every conceivable angle. Each and every remark from them is a pearl of directing wisdom.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(That alone makes my decision to participate in this workshop worth it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "Next, we have Kamishiro. You're our last one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Thank you.\nAre you ready, Asahi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "I'm ready.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Hey, have you seen them before?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“What am I talking about? The special flowers that bloom only during rainy days!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“I came to look for them after hearing reports of sightings around here.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "The story of a botanist who wanders into the park in search of flowers that only bloom during rainy days.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "And through that search, he and the audience share special experiences you can only have when it rains, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That's correct.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“What a wholesome story.\nIt should appeal to children and grown adults alike.”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“Also, forgive me if I'm mistaken... But have you ever happened to watch 'The Voices of Honeybees'?”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "“I have.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "“The shot of all the umbrellas seeming to bloom like flowers in the rain was very memorable.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“Yes, I knew it!”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tom",
+   "Line": "<“I'm impressed. That show's so old that footage of it doesn't really exist anymore.”>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I had intended to avoid directly paying homage to his work...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But it seems it came through all the same.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "I have no further comments.\nWould you like to say anything, Mr. Sakaki?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "I thought it was put together well.\nYour eye and technique go far beyond that of any ordinary high schooler.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Director C",
+   "Line": "He did really well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Director Ｂ",
+   "Line": "Yeah, this is the first time Mr. Sakaki's showered someone with so much praise.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(No, this is...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "But that's about it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "I enjoy family-oriented stories quite a lot.\nThey seem simple, but many of them have deep depths too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "But that doesn't apply to yours.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "You've shown us something quite insipid... Kamishiro.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

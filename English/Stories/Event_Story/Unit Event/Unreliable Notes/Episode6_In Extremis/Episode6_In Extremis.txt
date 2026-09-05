@@ -1,0 +1,166 @@
+﻿【Unit Event — Unreliable Notes — Episode6 In Extremis】
+
+Event: Unreliable Notes
+Event Type: marathon
+Episode: Episode6 — In Extremis
+Event Outline: Kanade delves into the "warmth" Mafuyu feels from her music, hoping to identify its nature. When she learns it relates to a memory of Mafuyu's mother, she starts working on a new song, but finds something isn't right.
+scenarioId: event_161_06
+
+[Background Change] bg_e002403
+[Caption] 25:00:00
+[Caption] Bedroom
+[Sound] se00001_b
+【Mafuyu】...
+[Background Change] bg_e000303
+【Ena】<Okay, it's done...>
+[Background Change] bg_h000309
+【Mizuki】<Oh, you mean that asset I asked you to make?>
+【Ena】<Yeah, it just took longer than expected. I'll send it over now.>
+【Mizuki】<Thanks!>
+[Sound] se00037_b
+[Background Change] bg_e000403
+【Mizuki】<Yeah, this looks great! I'll try plopping this in now!>
+[Background Change] bg_h000309
+【Ena】<Alright... In that case, I'm gonna take a quick break.>
+【Mizuki】<Have fun♪ I've got lots more assets for you to make, so I'll tell you about them after you get back.>
+【Ena】*Sigh* <I guess we should take this opportunity to polish everything up really nicely, since K still seems to be busy.>
+[Background Change] bg_e000303
+【Ena】<Actually, speaking of her... She's been staying offline to compose that song for you, Yuki, but I'm starting to get worried...>
+[Background Change] bg_h000309
+【Mizuki】<Yeah, she hasn't been on at all lately... Knowing her, I'm worried she's not getting enough rest again.>
+【Mizuki】<Fortunately, Yuki's with her, so I'm sure she's at least getting something to eat.>
+[Background Change] bg_e002403
+【Mafuyu】<I'm not so sure...>
+[Sound] bgm00000
+[Background Change] bg_h000309
+【Ena & Mizuki】<What?>
+[Background Change] bg_e002403
+【Mafuyu】<She's been eating during the sporadic breaks she's been taking. But only very little...>
+[Background Change] bg_h000493
+【Mizuki】<Only a little? Are you sure she's okay...?>
+[Sound] bgm00038
+[Background Change] bg_e000303
+【Ena】<No, she's gonna collapse again! You gotta tell her to eat more, Yuki!>
+[Background Change] bg_e002403
+【Mafuyu】<I have been... But...>
+【Mafuyu】<I don't think she's heard a word I've said.>
+[Background Change] bg_h000492
+【Ena】<What...?>
+【Mafuyu】<She just keeps mumbling that her song is all wrong.>
+【Ena】<...>
+[Background Change] bg_e000403
+【Mizuki】<She's that stuck...?>
+[Background Change] bg_e002403
+[Sound] se00028_b
+【Mafuyu】<Oh, Rin.>
+[Background Change] bg_e000303
+【Ena】<What's up? Did something happen?>
+[Background Change] bg_h000492
+【Rin】<I got worried and decided to see how Kanade was doing.>
+【Rin】<She spent all of today working again, nonstop.>
+[Background Change] bg_e000403
+【Mizuki】<Oh...>
+[Background Change] bg_e000303
+【Ena】<But, why? She's had a few slumps here and there, but nothing this bad, not recently...>
+[Background Change] bg_e002403
+【Rin】<Kanade says she can't picture it.>
+[Background Change] bg_h000492
+【Ena】<Huh?>
+[Background Change] bg_e000403
+【Mizuki】<What do you mean by that, Rin?>
+[Background Change] bg_e002403
+[Sound] se00828
+[Sound] bgm00000
+【Mafuyu】<...!>
+[Sound] se00632
+[Background Change] bg_e000303
+【Ena】<Wait, Yuki, what was that sound just now?!>
+[Background Change] bg_h000309
+【Mizuki】<Yeah, what's going on?!>
+[Background Change] bg_e002403
+【Mafuyu】<I'll go check.>
+[Background Change] bg_a000000
+【Kanade】What's the right sound...?
+【Kanade】How do I capture the warmth Mafuyu felt?
+【Kanade】Maybe it's this...
+[Sound] se_event_notes_2025_002
+【Kanade】No, this isn't it either...
+【Kanade】I still can't get it right...
+【Kanade】But I have to find it...
+【Kanade】The sound that will save Mafuyu...
+【Kanade】Because if I don't, she'll...
+【???】Mommy...
+【Kanade】Huh...?
+【Kanade】That voice. Where have I heard it before...?
+【???】Mommy, where are you...?
+【???】I can't find her anywhere...
+【Kanade】Is she crying...?
+【Kanade】I-Is everything okay? Are you looking for your mom...?
+【Mafuyu】Mommy...
+【Kanade】...!!
+【Mafuyu's Mother】I looked all over for you, Mafuyu!
+[Sound] bgm00228
+【Mafuyu's Mother】Didn't I tell you to never leave my side?
+【Mafuyu】*Nod* I'm sorry...
+【Mafuyu's Mother】Anyway, let's go. Together.
+【Mafuyu's Mother】Don't worry. As long as we're together, you'll be happy.
+【Mafuyu's Mother】After all, I am your mother.
+【Kanade】Oh...
+【Mafuyu】*Nod*
+[Sound] se00382_b
+[Sound] se_walk_women_001_2
+【Kanade】No, Mafuyu...!
+[Sound] se00382_b
+【Kanade】Don't go with her!
+【Kanade】Mafuyu!
+[Sound] bgm00000
+【???】<Kanade!>
+[Background Change] bg_s000423
+【Rin】<Kanade! Are you okay...?!>
+【Rin】<Can you hear me?!>
+【Kanade】*Groan*
+【Kanade】H-Huh...? I can't move... My body...
+[Background Change] bg_e000102
+[Sound] se00043_b
+【Mafuyu】Kanade, stay still.
+【Kanade】B-But...
+【Ena's Voice】<You're pushing yourself way too hard, Kanade!>
+【Kanade】What...?
+【Mafuyu】I have Ena and Mizuki here on my phone.
+[Background Change] bg_h000409
+【Mizuki】<Are you alright, Kanade? You should rest and give your body a chance to recover.>
+【Mizuki】<Also, Mafuyu was worried sick about you... She told us you've hardly had anything to eat.>
+[Background Change] bg_e000102
+【Kanade】Oh...
+【Kanade】I'm sorry for making you all worry about me like this...
+【Mafuyu】It's okay. You don't need to apologize.
+【Mafuyu】I mean, you're composing this song just for me.
+【Mafuyu】But...
+【Mafuyu】I'd rather you didn't push yourself so hard...
+【Kanade】Oh...
+【Mafuyu】Are you feeling nauseous at all, Kanade?
+【Kanade】No, I'm okay... But my head is spinning a little.
+【Mafuyu】In that case, you should have something to eat.
+[Background Change] bg_e000303
+【Ena】<Yeah, I agree. Something simple like rice porridge is probably your best option right now.>
+[Background Change] bg_h000108
+【Kanade】Yes, I think I can handle that...
+[Background Change] bg_e000102
+【Mafuyu】Then, I'll go make some now.
+【Kanade】What? N-No, I'll...
+[Background Change] bg_e000303
+【Ena】<You need to lie down, Kanade.>
+[Background Change] bg_e000102
+【Kanade】Oh...
+[Background Change] bg_h000109
+【Mizuki】<Yeah, you need to focus on resting right now.>
+[Background Change] bg_e000102
+【Kanade】I'm sorry. Would that be okay?
+【Mafuyu】*Nod* I'll be back soon.
+[Sound] se00044_b
+[Background Change] bg_e000403
+【Mizuki】<Hey, Kanade?>
+【Mizuki】<While we wait, can we chat for a bit?>
+[Background Change] bg_e000102
+【Kanade】Huh...?
+[Sound] bgm00000

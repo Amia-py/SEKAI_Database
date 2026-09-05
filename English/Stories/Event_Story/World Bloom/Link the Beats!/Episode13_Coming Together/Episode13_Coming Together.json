@@ -1,0 +1,873 @@
+{
+ "title": "World Bloom — Link the Beats! — Episode13 Coming Together",
+ "meta": {
+  "Event": "Link the Beats!",
+  "Event Type": "world_bloom",
+  "Episode": "Episode13 — Coming Together",
+  "Event Outline": "VIRTUAL SINGERS in each SEKAI are caring for their respective trees when they are vanished away by a mysterious light. Witnessing this, their counterparts in the space between worlds enter SEKAI to search for them.",
+  "scenarioId": "wl_piapro_02_13"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "So yeah, Emu-Emu, Nene-P! It's great to meet the both of you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Ooh, “Emu-Emu”!\nThat's such a cute nickname☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Nene-P...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe♪\nI'm so happy about getting to meet a Rin from a different SEKAI! Let's be wonderhoy friends☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wait, that was super cute!\nI wanna try it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Let's be wonderhoy friends☆\nLike that?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Sh-She's already blending in...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Still, is everything gonna be okay?\nDo you know how to get back?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "N-No, I still don't!\nWhat do I do?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, uh... Sorry, I guess.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "But doesn't that also mean you can hang out with us until you find a way home?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "She's right!\nWe still have a ton of places to show you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Then, let's keep having fun until you have to go back☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh...?\nHow did you guys land on that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Shouldn't we be helping her find a way back home...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I agree with Luka...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I wanna learn more and more about this SEKAI, and I wanna meet everyone else!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I still don't know how I'm gonna get back, but I'll think about that after I finish doing everything else☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah, that sounds like a great plan♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "A-Are you sure...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Somehow this Rin seems to fit into this SEKAI better than I do, almost...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Haha.\nThis me has already made friends with everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "She looks like she's having so much fun...\nWhich makes me really happy♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, I know!\nSince we're here, why don't we do a show together?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "A show?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah! We all put on shows here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And our goal is to make everyone all around the world smile!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, really?!\nBut I've never done a show before...\nDo you think I can?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, it might be hard for your first time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But we'll support you as best we can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "We'll start by coming up with a simple story, and you'll be able to perform however you like, Rin.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Then, we'll improvise based on what you do.\nHow does that sound?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wait, what?! You guys can do that?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "We don't it often... But we should be able to. We do a lot of improv during practices.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Really...?\nThen, I wanna give it a try!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Woohoo! Alright, what kind of show are we gonna do?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Let's see...\nOh, how about this kind of story?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Wow! So this is the magic amusement park?! It looks really fun!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“I wanna go on the Ferris wheel and the roller coaster... Oh, but I'm gonna ride the merry-go-round first!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“No, I don't wanna!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Huh?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“What?! A-Are you my shadow...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl's Shadow",
+   "Line": "“I wanna go on the Ferris wheel!\nSo...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl's Shadow",
+   "Line": "“I'm done being your shadow!\nI'm gonna go have fun and do what I want♪”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Whaaaat?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00349_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“W-Wait...!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Sorceress",
+   "Line": "“Oh dear... Did you just lose your shadow?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sorceress",
+   "Line": "“That's terrible...\nIf you don't get it back before the sun goes down...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“B-Before the sun goes down...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sorceress",
+   "Line": "“You won't be able to go home.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Huh...? Whaaat?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00627",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Wait! If you don't come back, then I'm gonna be in trouble!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl's Shadow",
+   "Line": "“No way☆ I'm gonna go have lots and lots of fun.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00349_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Argh! She's so slippery!\nWhat do I do...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00627",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Female Cast Member",
+   "Line": "“Are you chasing after that shadow?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Huh? Yeah, but... Who are you?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Cast Member",
+   "Line": "“We're members of this park's cast.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl Cast Member",
+   "Line": "“Our job is to help any guests in need☆”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Really?! Then, please help me!\nI need to catch my shadow, but she's so slippery...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl Cast Member",
+   "Line": "“Sure, we'll lend you a hand!\nYou guys are in, right?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boy Cast Member",
+   "Line": "“Yeah, let's catch her together!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Thanks! But how do we actually do that?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Cast Member",
+   "Line": "“Hehe. That's easy.\nYour shadow wants to enjoy herself, yes?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Cast Member",
+   "Line": "“Then we just need to lure her using something fun as bait.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Oh, right!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Something fun that my shadow won't be able to resist... Hmm... What could that be?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(Hey, I'm doing pretty well, aren't I?!\nMaybe I could even be a real actress?!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(No, I know that the others are giving me a ton of support! Hehe. But this is still really fun.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(Anyway, I need to think of what to say next. What would my shadow think of as fun?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, I know...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl's Shadow",
+   "Line": "“Humhumm♪\nWhat should I do next?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl's Shadow",
+   "Line": "“Since I'm free, I should do all the things I can't do while I'm stuck as her shadow☆”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl's Shadow",
+   "Line": "“I've ridden the Ferris wheel, played tag with everyone... Hmm... What else is there...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "“Wait!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl's Shadow",
+   "Line": "“Oh...! Are you here to catch me?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl's Shadow",
+   "Line": "“But I'm not going back.\nI want to be free and keep having fun!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Heh heh heh...\nIf that's the case, then I have something really fun in store for you!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl's Shadow",
+   "Line": "“Huh? What do you mean...?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“A live performance!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl's Shadow",
+   "Line": "“A live performance?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Yup! They're the most fun thing in the whole wide world♪ I'll play this guitar, so you try to sing along!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00071",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl's Shadow",
+   "Line": "“Wow! That sounds like fun!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl's Shadow",
+   "Line": "“————♪ ————♪”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl Cast Member",
+   "Line": "“This melody has a fun skip to it!\nLet's sing with them, Sorceress♪”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sorceress",
+   "Line": "“Hehe. Okay, let's join them.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Everyone",
+   "Line": "“————♪ ————♪”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(Bands really are the best!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(And somehow, this feels so fresh!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(My performance is part of their show, and their show is part of my performance...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "(It's like two different SEKAI being connected together!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Boy Cast Member",
+   "Line": "“Alright, let's dance to their singing!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Female Cast Member",
+   "Line": "“Hehe. This is so much fun.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl's Shadow",
+   "Line": "“Phew... We sang and danced so much...\nThat was a lot of fun.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Hehe. Do you feel satisfied?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl's Shadow",
+   "Line": "“Yeah! I really just wanted to do something fun for myself.\nI've always just been stuck to you, after all...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl's Shadow",
+   "Line": "“But I realize something now.\nThere's nothing more fun than doing stuff with you!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl's Shadow",
+   "Line": "“I had a lot of fun singing and dancing together...♪”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Me too! I'm so glad I got to play with you!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl's Shadow",
+   "Line": "“Then, I guess this counts as us making up☆”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "“Yeah. Let's do this again sometime!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "*Sigh*\nDoing a show was so much fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "See what we mean♪\nAlso, Rin, you put on such a cool performance!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, I had a lot of fun singing along.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Really?! I'm so glad♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "That was an excellent show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_4",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh... Wait, what?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "KAITO?! You're here?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Also, those two that are with you!\nAre they the Miku-P and KAITO from this SEKAI?!\nThis is so cool!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Miku-P? Is that me?\nHehe♪ That's such a cute nickname☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Hehe. I see your Rin is cheery and bright, just like ours.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes...\nI'm sure they're both very nice girls.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Anyway... Ahem!\nAren't you forgetting someone?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Alright, relax... Rin, this obnoxious person is Tsukasa, and the guy standing next to him is our director, Rui.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hello, Rin. It's nice to meet you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hey, couldn't you have introduced me a little better?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "That seemed good enough.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Haha! All of you seem really interesting!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "But that boy, Tsukasa... Where have I seen him before?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Is something wrong, Rin?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "No, nothing's wrong!\nMore importantly, KAITO, you gotta hear this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I just got to do a show with everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "I was worried if I'd do well since it was my first time, but it ended up being so much fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "We got to perform as a band and act in a show together... It felt like two different worlds colliding!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00290",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Two different worlds...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah! And I was in perfect sync with the other Rin...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Which got me thinking, even if we're from different SEKAI, there really is so much we share with each other!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes...\nI understand exactly what you mean, Rin.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It's something we've felt ourselves, recently. There is much to learn from plunging headfirst into a brave new world.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "It's like, every time we visit someplace new, we get to meet a side of ourselves that we didn't know existed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "And each of those encounters helps us grow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. Let's continue diving into these different worlds, and find new ways to improve ourselves in each one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah! Let's keep doing our best! Wonderhoy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Wonderhoy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Hehe♪ Meeting a different me from another SEKAI seems like so much fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Plus...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "That feeling of SEKAI and SEKAI connecting together...was really exciting!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "It feels a little strange... But I'm so happy, too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Good for you, “me”!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link2_ppr_ed6",
+   "_kind": "Effect"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

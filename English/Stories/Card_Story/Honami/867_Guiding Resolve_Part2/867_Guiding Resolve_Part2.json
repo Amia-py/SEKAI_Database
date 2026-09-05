@@ -1,0 +1,298 @@
+{
+ "title": "Mochizuki Honami — Guiding Resolve〔Part2〕Side Story (Part 2)",
+ "meta": {
+  "Character": "Mochizuki Honami",
+  "Card": "Guiding Resolve（4★）",
+  "Part": "Part2 — Side Story (Part 2)",
+  "Event": "Lead With Courage and Kindness",
+  "scenarioId": "003034_honami02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a001901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Rehearsal Studio",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Thank you for working with me again today, Mr. Shindo.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "No, it's my pleasure.\nYou've improved quite a lot compared to our first day, Ms. Mochizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I have?! Thank goodness...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "Also, about that blister...\nPlease don't forget to treat it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "First, cool it down with ice water or the like.\nAnd whatever you do, don't let it pop.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Okay. This isn't my first one, so I should be able to give it the proper treatment.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "I won't tell you to stop practicing until the day you're supposed to play.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "But please try to be careful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shindo",
+   "Line": "You've come this far, so I want to see you put on the best performance you can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Thank you. I appreciate the concern.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_f000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "School SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(I'm running a little late...\nThe others are probably already here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, Honami...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hello, KAITO.\nHave the others already arrived?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, they're in that classroom over there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Honami, your hand...\nIt has a bandage on it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, this?\nI have a blister...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Does it hurt...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, not all that much.\nBut I do plan on taking it easy during practice today just in case.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "That seems wise...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Anyway, shall we head over...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, that sound...\nI guess they've already started practicing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(To be fair, it's better for them not to waste time waiting for me to arrive since they already knew I'd be running late...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "They've been practicing since this morning...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Wait, I thought we were starting this evening.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki's Voice",
+   "Line": "No, I'm sorry!\nI messed up the same part again!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku's Voice",
+   "Line": "Would a quick break help...?\nThat might help you regain your focus.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika's Voice",
+   "Line": "But Honami's going to get here soon.\nI'd like to be ready to go when she does...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho's Voice",
+   "Line": "Me too.\nCan you keep going, Saki?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki's Voice",
+   "Line": "Yup!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki's Voice",
+   "Line": "Hona's working super hard, so I wanna do the same!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin's Voice",
+   "Line": "You can do it, Sakki, Ichi, Shih!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hang on...\nDoes that mean today isn't their first time doing this...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "They didn't want just you to be working so hard...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Girls...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho's Voice",
+   "Line": "Alright, one last time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika's Voice",
+   "Line": "Okay! Let's do our best to perform like we never have before!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki's Voice",
+   "Line": "Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "*Nod*\nRight...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "We absolutely need to do our best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,668 @@
+{
+ "title": "Unit Event — Desperate Times?! Island Panic! — Episode2 Desert Island Survival!",
+ "meta": {
+  "Event": "Desperate Times?! Island Panic!",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — Desert Island Survival!",
+  "Event Outline": "After a very successful performance at the music hall, Wonderlands×Showtime gets to take a cruiser to their next ambassadorial show venue. But what are they going to do when they all wake up on a desert island after running into a storm...?!",
+  "scenarioId": "event_62_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a004701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Coast",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "We have to survive on a desert island...? You've gotta be kidding...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It's something you see often on TV, but the prospect of actually getting to experience such a situation...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hang on... You're enjoying this, aren't you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "New encounters and experiences are always exciting, are they not?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "However...\nRight now, time is not on our side.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "Yes.\nWe will not make it in time for the show if we do not hurry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We were scheduled to arrive at the hall today and rehearse, then go live tomorrow afternoon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, so that means we'll be okay as long as we get out of here somehow?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "If that's even possible...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "We can't get a cellular signal here, so it's likely that nobody knows about us being stranded.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "And with the cruiser's engine on the fritz, we're currently out of options.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "My attempts to capture a signal were also fruitless. Possibly due to the seawater, several errors arose when I tried to use my communications equipment.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "I apologize for not being able to help.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "No, Robo-Nene, you don't have to apologize!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, she's right.\nWe appreciate the fact that you made a sincere effort!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "B-But what do we do...?\nAt this rate, if we can't get ahold of anyone...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "We won't be able to leave...\nAnd we'll be stuck here forever...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "I seriously doubt that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Why's that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "The venue staff know that we're supposed to arrive today. The same goes for where we're scheduled to lodge.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "They'll surely make the connection that something's wrong and send out help if we don't arrive without prior notice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "R-Right...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "However, there's no guarantee that we'll be saved in time for the show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "True...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Everyone's really looking forward to seeing our show, right...? Is it not possible for us to just do it tomorrow?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "We may end up running late, but I promise that you'll get to do your show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Shosuke...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "I know we're in a tough spot, but I have a duty to get you to your destination and ensure that you're able to put on the best performance possible.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "So, for the time being, focus on surviving until help comes for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "I'm going to see if I can get ahold of anyone using the radio on the cruiser. The rest of you should take a quick look to see what's on this island, but try not to venture too far.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shosuke",
+   "Line": "Also, let me know if you see any ships.\nThat's going to be the quickest way out of this mess.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00227",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, there he goes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wait, Rui, can't you take a look at that radio?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I could, but finding food and shelter seems like a priority now since Shosuke said that he's going to do something about it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Right. I'm somewhat worried about whether or not our show's going to happen, but for now, let's place our faith in him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We may not get there on schedule, but he promised that we'd get to do it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "So let's do as he said and focus on surviving until help arrives!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I agree.\nWe'll get through this as long as we work together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah!\nLet's do our best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Yeah, it's not like we have any other choice...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(But how long is it gonna take for someone to come and help us...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I don't even know how we're supposed to gather food and water... Are we actually gonna be able to survive here...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<It's really starting to feel like a survival adventure now!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What the?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "G-Geez, you scared us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Oh, did I scare you?\nI thought it was okay for me to come out since Emu's brother isn't here anymore.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Y-You could've given us a little heads up...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Haha! I'm sorry!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<But you guys really are amazing...\nI mean, you're on a desert island. That means no people at all, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<If I were in your shoes right now, I'm not sure that I could be so optimistic...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Really?\nI think a desert island adventure would be really fun☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<To be fair, we're only able to say these things because we're in a safe place...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Oh, I know!\nCan't you guys just jump on over to SEKAI if things get sticky?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<You'd have a safe place to wait until help arrives!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That already crossed my mind, but we can't just leave Shosuke here all by himself...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Oh, right...\nI guess that means you guys have to stay there...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Here...?\nIn this place...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<It's only natural for you to be worried. Just imagining what could be lurking out there on this island is somewhat terrifying.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<However, I have a good feeling that this experience will turn into something invaluable later on!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Something invaluable...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000087",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Yes! I mean, you don't get to enjoy anything this thrilling by going about your business as usual, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Which is why I believe this is a rare opportunity to add some spice to your lives!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Yeah, I'm with her!\nThere's no way adventuring somewhere you've never been before won't be fun♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<I agree. This could end up being a good experience! It's not every day that you get to do anything like this!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a004701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But it's not gonna be all fun and games...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Just finding something that's edible is going to be hard...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Speaking of which, seawater's the last thing you're supposed to drink in these situations, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, it's salt water, so it's only going to make you thirstier.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Really?! I didn't know that!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<That means you guys have to also find fresh water! There's so much to do! Almost too much to handle!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<There is quite a bit to do, but isn't that also a good thing?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<It won't be easy, but doing your best by working together as a team to get through this will do wonders for you in the future.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wonders? For us...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Yes, that's right! Just think about it.\nWhat good will come of sitting around waiting for help to arrive?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<So, wouldn't it be better to get in the spirit of things and enjoy the moment?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, MEIKO's absolutely right!\nA star must be able to smile and have fun regardless of the situation they may be in!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup yup!\nI think having fun's the best thing we can do right now too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Have fun...? In this situation...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I can't honestly say that I'm on the same page as them...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(But I do agree that there's no point in feeling down and out.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(As worried as I am, I should try to be a little more optimistic...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Alright, let's take what MEIKO said to heart and enjoy this situation while also doing what we can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, what do you wanna do first?!\nWe need water, right? How about we look for some coconuts and make some juice?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Coconuts could help keep us hydrated... But there might not be enough for all of us, so shouldn't we try to find a freshwater spring or something instead?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Tsukasa and I even came across a cave when we were looking for a good place to call a base camp, so we should be able to take shelter in the event the weather doesn't hold up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "So, finding drinkable water's the next thing on our list... Also...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00011",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hm...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Haha!\nWas that you, Emu? Your tummy made such a cute sound just now!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe...\nI had a big breakfast, but I guess I'm already getting hungry!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And it's already past noon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "It may be best to also forage for some food.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Agreed!\nIn terms of what this place has to offer... I suppose catching fish is our best option, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Catching fish... That sounds fun.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<But how are you guys gonna do that?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, I'm pretty sure our fishing rods all went overboard!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Alright, why don't we head into this bit of forest to forage for food and find a source of water?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, good idea!\nI bet there's tons of food in there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "This forest...\nIt's probably full of bugs... But there's no time for that right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Okay, let's go with that plan.\nAnd we can always make a contraption for collecting water if we have trouble finding a decent source.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Wait, you can make one?!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "You can gather up water vapor by digging a hole in the ground, laying down a tarp and making sure it stays put by laying down some stones.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I see. That sounds remarkably simple.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Also, Robo-Nene, mind gathering up some of the other things we'll need to set up camp? Once you've done that, please go help Shosuke.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait, Robo-Nene's not coming with us...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Remember how she said some errors were popping up? I'm worried that having to maneuver around this terrain will only serve to exacerbate that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay...\nI wanted her to come with us, but I guess we don't have a choice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Will you be alright by yourself, Robo-Nene?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "Yes, I will be fine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "I will let Shosuke know about where you entered the forest. Please take care as you explore.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Alright, we're finally about to go in! This is gonna be awesome♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<We'll keep an eye out for any possible dangers while you forage for food, but please do be careful since we don't know what's going to be waiting for us in there.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Exploring a forest on a desert island sounded scary at first, but it might not be so bad since we have Miku and the others here with us...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(At the same time, KAITO's right.\nIt's probably really dangerous in there, so we need to be extra careful.) ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

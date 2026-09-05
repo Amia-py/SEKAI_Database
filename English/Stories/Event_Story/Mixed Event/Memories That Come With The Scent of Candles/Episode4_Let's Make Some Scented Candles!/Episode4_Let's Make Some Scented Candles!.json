@@ -1,0 +1,498 @@
+{
+ "title": "Mixed Event — Memories That Come With The Scent of Candles — Episode4 Let's Make Some Scented Candles!",
+ "meta": {
+  "Event": "Memories That Come With The Scent of Candles",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode4 — Let's Make Some Scented Candles!",
+  "Event Outline": "Ichika and Nene aren't sure what to give for Valentine's Day. They ask Honami for some advice and decide to make some scented candles together. Meanwhile, Kanade, who has the same concern, also asks Honami for help...",
+  "scenarioId": "event_84_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Yoisaki Household - Kitchen",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Th-Thank you for having us over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Please, come in. It's not very spacious, but feel free to move the furniture around and sit wherever you like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "O-Okay. Thank you very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'll pour us some tea.\nLet's see... Where did I put the tea bags we bought the other day...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, Ms. Yoisaki, that's okay. I don't mind doing it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "No, you're not here to work today, so please make yourself at home.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh... I need to boil some water first... I'll fill the kettle with some water and... Hnng... I-It's so heavy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_candle_2023_007",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_candle_2023_007",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I-Is everything okay, Ms. Yoisaki?\nAre you sure you don't want me to help?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "S-Sorry... Then, if you don't mind...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Ahh... Thank you for the tea, Honami, Kanade.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, um... It was delicious.\nThank you for making that for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Thank goodness... I'm glad it actually turned out well... I couldn't have done it without your help, Ms. Mochizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Although, I was really hoping to make some for you all by myself... Thank you, and I'm sorry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, you don't need to thank me. If anything, I really appreciate the gesture.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Alright, now that we've had a chance to relax a little, shall we start making our scented candles...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "O-Okay. Again, thank you for doing this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Not to worry. Scented candles are very easy to make. All we have to do is melt down some store-bought candles, mix in the oils we bought earlier and reharden them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Just melt and reharden them...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "It does seem a lot easier when you put it that way...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. I felt the same way when I first learned how to do this. Regardless, let's just take it one step at a time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "First, you'll each need to choose some crayons to give your candles color.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Crayons will give them their color...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, you shave off bits of crayons and mix them into the wax. You won't believe how beautifully this works.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I recommend choosing colors that go with the fragrances you chose or even using multiple to create several layers of colors.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Several layers...?\nYou can do that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes. Of course, you don't have to choose any colors at all... However, since we're doing this, I thought it'd be nice if we all did.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, I agree. I'd like to give it a try...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Once you've chosen a color, we'll use a double boiler to melt down the wax. I'll start us off...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "First, we'll need three large pots and bowls... You heat the bowls with boiling water and use them to melt the wax.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_candle_2023_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "It seems kinda strange to melt candles for their wax...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah... But this process is sort of similar to how you make your own chocolates.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, you're right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "The wax is starting to melt...\nWait, what's this...? It looks like a piece of string...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Ah, that's the wick.\nWe'll save that as we'll be using it later...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Now we just need to wait a little longer for the candles to melt.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Okay, they seem ready.\nNext, we'll start mixing in the crayons you've all chosen. Why don't we do this part together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "O-Okay...\nWait... How much do we need to put in...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hmm... Not a lot.\nIf you put in too much, it may cause the wick to not light because it isn't able to absorb the wax properly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, don't worry!\nI'll be right here to make sure you don't put in too much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "O-Okay. That's a relief... I think...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(So... Carefully put some crayon shavings in... Little by little...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "H-Honami, is this enough...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, you don't have to be so careful... You can put a little more in.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "R-Really...? Then... H-How's this...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, good...! That should be plenty, Ichika. Now, just mix the wax and... Oh, see. It's changing colors already.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I-It is...\nThat's incredible. It changed completely...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Um... Does mine look okay...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, Ms. Yoisaki, Kusanagi, you're both doing a wonderful job...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Th-Thank you... That's good to hear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Okay, next... We need our wax to cool off a bit. Our oil will evaporate and lose its scent if we put it in when it's still hot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Really...? So, we're taking a short break?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, but it shouldn't take too long. In the meantime, why don't we choose which fragrances we're going to mix in?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Okay... They seem to be at about the right temperature...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "So, everyone, please take your bowls and put in roughly ten drops of your scented oil.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "O-Okay... Ten drops...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I hope I don't lose count...\nOr make it come out all at once...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "I-I'm sure you'll be fine.\nIt's meant to add a nice scent to your candle, so adding a little more than suggested shouldn't be...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, if you put in too much oil, the wick will have trouble lighting...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "U-Uh, but... You don't have to be super precise either...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "We'll reheat our wax again a little and mix it up... Also, everyone, do you have your molds ready?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yeah, here's mine.\nUm... We place the wick in the middle, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, that's right. The wick will go there and you'll keep it in place using a pair of chopsticks.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "After that, you'll pour in your wax.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay. I'll give it a try...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Then, Ichika, here's your bowl...\nBe careful not to spill any, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "O-Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Gently carry my bowl over and... Oh...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Wow, that's really nice...\nIt's already starting to smell like oranges...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(It's even turned bright orange.\nThis candle might actually turn out really well.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(I hope Saki likes my present to her...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(Okay, now...\nCarefully pour the wax in...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Okay, I did it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. Nicely done, Ichika.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Thanks! So, what's next...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Next...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "That's it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade, Nene & Ichika",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "All that's left is to wait for the wax to reharden. The final step of the process was to pour it into the molds.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "See? Wasn't it easy?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Y-Yeah... I was under the impression that there were more steps, but I guess that's it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I didn't think it would be this easy either...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. It should only get easier once you've gotten a hang of this process. So this time, why don't you try melting the wax yourselves?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "And please feel free to ask for help if you get stuck. I'll be there with you every step of the way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

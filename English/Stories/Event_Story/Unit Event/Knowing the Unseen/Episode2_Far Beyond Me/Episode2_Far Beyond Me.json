@@ -1,0 +1,448 @@
+{
+ "title": "Unit Event — Knowing the Unseen — Episode2 Far Beyond Me",
+ "meta": {
+  "Event": "Knowing the Unseen",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — Far Beyond Me",
+  "Event Outline": "Ena debates whether she should aim for art school post-graduation. With this inner turmoil comes restlessness, which begins to affect her art. Mr. Yukihira notices that she's struggling, and after she divulges the cause, he invites her to take part in an excursion.",
+  "scenarioId": "event_127_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e001003",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shinonome Household - Living Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00247_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I'm back...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "Welcome home.\nDinner will be ready soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Okay...\nI'm going up to my room to change.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Art school, huh...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I really need to make up my mind about that soon.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "How are things for your exhibit coming along, dear?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Ah, it's coming along nicely...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "Oh, that's wonderful to hear.\nI might have to stop by if I get a chance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "You're going to have quite a few of your older works on display, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "Yes, that's right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "This exhibit's sort of meant to be the culmination of my life's work up until now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "Hehe. I'll be looking forward to it.\nAnd I'm sure all the other visitors are also going to enjoy it very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(He's doing another solo exhibit...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(That's the dream...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Getting to create art for a living... Having the masses see and appreciate your work...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I wish I could also be...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I'm having trouble seeing myself being able to doing that.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I've been drawing every day since I decided that I'm going to improve one step at a time. But everyone else is still miles ahead of me...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Do I even need to go to art school in the first place?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(If I want to get better...\nIf I really do want to become an artist, then I probably should.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(But can someone like me really do this for a living?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Is it okay for me to even apply when I'm feeling like this...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mother",
+   "Line": "Is something wrong, Ena?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh... Nothing's wrong.\nI'm gonna go get changed now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_005_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Father",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e001801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Art Class",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00647",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Okay, my drawing of this statue has nice some depth to it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(But I seem to be making the same mistake again. It looks crooked just like last time...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I see now. The length of each part is uneven which is why it feels imbalanced.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I've been practicing what he's been telling me to do, but I can't figure out how to make them second nature...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00646",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "As I do each year, I'll be holding a special course on technical mastery for those aiming to get into art school.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e001003",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(That's the dream...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(But can someone like me really do this for a living?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(Is it okay for me to even apply when I'm feeling like this...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e001801",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I can't focus. My head's a complete mess...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(No, you gotta stay focused somehow.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(You gotta keep drawing...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "The outline of your statue looks lopsided, Shinonome. Are you having trouble focusing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Huh?! I-I'm sorry...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(No, focus...\nStay focused and...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00647",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "So, to summarize, you need to observe your subject as much as possible and put that to paper. This is one of the most fundamental components of art.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "You seemed to completely miss that today. You can hone your craft all you want, but it'll be all for naught if your fundamentals aren't sound.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I know...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Also, you seemed to lose focus partway through. Is there something on your mind...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "So, right now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I'm wondering if I should try to get into an art school.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Tell me this. Why do you wish to go to art school...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Because...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I want to become a better artist...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I want to do that and become a professional artist.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "A professional...artist...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Right, I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "I have a proposal for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yukihira",
+   "Line": "Next weekend, let's have a special lesson outside of class.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "What?",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

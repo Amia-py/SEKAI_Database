@@ -1,0 +1,448 @@
+{
+ "title": "Otori Emu — Happy Birthday! 2025〔Part1〕Side Story (Part 1)",
+ "meta": {
+  "Character": "Otori Emu",
+  "Card": "Happy Birthday! 2025（BD）",
+  "Part": "Part1 — Side Story (Part 1)",
+  "Event": "",
+  "scenarioId": "014039_emu01"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Neighborhood",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Neighborhood Expedition Team, gather 'round!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Everyone",
+   "Line": "Yeah!\n<Yeah!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You know the drill, recruits! Today's mission is to look for fun! There's always excitement hiding in our very neighborhood☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "With you at the helm, Captain Emu, our success is assured.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hah hah hah hah!\nLeave everything to us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hey, don't scare the neighbors shouting like that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Hehe. This is so exciting! We get to be members of Emu's expedition team!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<I'm so glad that she invited us to her special birthday exploration!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<You think we'll find amazing treasures or get to experience hair-raising adventures?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Hehe, that's what I'm hoping for!\nWe'll be following your lead, Captain Emu!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Hmm? Where did the Captain go? Emu?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah! You take your eyes off her for one second...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<The Captain is over there. It seems she's already found something.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Over here, everyone!\nI've found our first fun of the day!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "She has so much energy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It seems she's been looking forward to today's expedition very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Well, we certainly mustn't allow ourselves to fall behind!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Well done, Captain!\nWhat have you found for us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Look! A cicada!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Gah! A bug?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "AHHH! Stop right there, Emu!\nDon't you dare bring that thing any closer!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Don't worry, Tsukasa! These ones sound really cute when they sing☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "That does not put me at ease whatsoever!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Listen to me, Emu!\nPlace that cicada back on the tree, veeery carefully, and don't provoke it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Before I lose my nerve entirely and run away!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00209_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You don't have to be that honest about it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "A true cry of anguish, indeed...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "To think I would face such tribulations so early in the day...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<Hehe. Looks like we got our hair-raising adventure already! Or at least, Tsukasa did.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Oh, how wonderful. I would also... Love to... Zzz...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Come on, Luka! It's not much of an expedition if you sleep through it!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Look, everyone! Check this out!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "W-What is it this time?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That cafe over there came out with a new menu!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "They have autumn eggplant Bolognese, and mushroom spaghetti!\nOoh, and pumpkin gratin!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Ooh, that sounds so good! I would love to try the gratin!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<They have chestnut cake, too! Those chestnuts on top are so round and cute☆>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Haha. Everything's a new discovery when you're with Emu, isn't it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "True. But it can be fun making adventures out of things you normally wouldn't look twice at.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Speaking of, cicadas like the one Emu found earlier are most active around the end of summer, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Oh, right! And all those items on the cafe's special menu are seasonal, too!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Perhaps Emu is feeling the changing of the seasons, in her own way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "When you put it that way, “neighborhood exploration” is a pretty neat hobby.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu's Voice",
+   "Line": "Aaah! Everyone! Come over here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00134_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<What is it?!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What have you found this time... Ack?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I beg your pardon?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "O-Otori...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00200",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "H-Hello...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Good wonderhoy! What are you three up to?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, um, just doing some errands...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That's nice! Did you buy those on your errands too?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Ah...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Look at all the party hats!\nAnd funny-shaped glasses! And big party poppers, too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Um, those are...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "They're... Right! Props for your shows, yes?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "R-Right! That must be it. Right?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami, Ichika & Kohane",
+   "Line": "Ah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "R-Right! We use all sorts of things for our shows!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "T-That's right. And I'm helping them, since they had to buy a lot.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wooow... So, these glasses with the fake moustache are for your show too? That's so fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "We thought it might help us make our interactions with the audience more fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "You did say you were looking to work some humor in, right, Hoshino?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "R-Right, now that we are pros and all...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, I just remembered! We have another stop to make! So sorry, everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay! Good luck on your show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "W-We made it through, somehow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What an amazing discovery we made!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I wonder what kind of show it's going to be! I'd love to go see it♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehehe☆\nOnward to the next discovery!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/character/member*/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

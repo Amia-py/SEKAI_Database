@@ -1,0 +1,578 @@
+{
+ "title": "Mixed Event — Warmth in Every Stitch — Episode3 A Fun Sewing Session",
+ "meta": {
+  "Event": "Warmth in Every Stitch",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — A Fun Sewing Session",
+  "Event Outline": "Shizuku feels grateful for all of Mafuyu's help with studying and club activities, and wants to do something in return. When she learns that Mafuyu is looking for ways to improve her home ec project, she offers some embroidery lessons.",
+  "scenarioId": "event_156_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Sewing Lounge",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Phew... Thank goodness we didn't get lost along the way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. Thank you for leading the way.\nI'm liking this place's relaxed atmosphere.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, it's the perfect place for today's lesson, since they have all the things we need for embroidery available for rent.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh, it's the sewing lounge. I was wondering where you were taking us, Hinomori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Have you been here before, Asahina?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "No, but Mizuki's told me all about it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh, hold on... Isn't today when...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Huh? That looks like...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I knew it! Hi, Mafuyu!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "This is usually when Mizuki comes to do alterations.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hi, Mizuki...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Whoa, Shizuku and Haruka too?!\nWhat's going on today?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "She brought us here to give us a lesson in embroidery.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, okay...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Then, can I join you guys?!\nEmbroidered ribbons are in lately, so I really wanna learn how to make them!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, of course.\nWe can make some together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Woohoo!\nThen, if you don't mind me squeezing in♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Hehe. Let's do our best today, Mizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "*Nod*\nI can't believe that I get to learn with you and the others like this, Haruka!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Then, let's begin our second embroidery lesson♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I have some flowers for you to embroider, Asahina, and penguins for you, Haruka.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Thank you.\nOh, I didn't realize I'd get to choose from all these different types...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, but don't worry. They all involve the same stitches I showed you the other day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "What about these penguins?\nThis looks pretty tricky...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Not to worry. You should be able to make them, since they only involve using outline stitches.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "And we'll practice doing some basic stitches, Mizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Alright, I'm ready to learn!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Whoa! Look at you, Mafuyu!\nYour flowers are so pretty!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "You think so?\nI think our teacher here deserves most of the credit.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "No, it's because you're so talented.\nYou've only just begun learning, but everything's so well-balanced. I'm very impressed.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, I know! What if you sewed a bead or a button in the middle? That should make it look even cuter!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Hehe. I agree.\nWould you mind showing me how to do that, Hinomori?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "It's finished...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Wow!\nThese penguins look so adorably chubby!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Thanks.\nI think I've gotten the hang of doing outline stitches.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh... In that case, would you like to try coloring it in using another type of stitch?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Not only will you be able to make it look even cuter, you'll even be able to add a gradation using different colored threads.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I see...\nThen, that would allow me to give the babies fluffy feathers, and the emperor penguins their characteristic yellow necks...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Please show me, Shizuku.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "That should be everything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, Mafuyu, you're done too?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Wow, your flowers are beautiful...\nI really love these blue ones with the beads in them. They're so cute and sparkly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "These would make any accessory look really photogenic! I'm gonna give these a shot when I get home♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Hehe. I believe we're all finished now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Nice work today, everyone.\nI was honestly a little surprised by how quickly you were all able to master everything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "That's because you took us through each technique step by step. I have a good feeling about my project now, thanks to you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Me too. I never imagined being able to embroider adorable penguins like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Same here!\nChatting with all of you while we embroidered was super fun! I hope we get to do this again sometime!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yeah, me too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Then, why don't we all gather again to make our gifts for Valentine's Day?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "For Valentine's Day?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes. I plan on embroidering a few accessories again this year, so I thought we could make some together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Embroidered accessories... That does sound nice. I do really love the handkerchief that you gave me a little while back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I already have my gifts decided...\nBut it would be nice to embroider the ribbons that I'm gonna wrap them with♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Thank goodness...!\nWhat do you think, Asahina? You're still undecided in terms of gifts, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Yes, I think I'll join. I did have quite a lot of fun today, after all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Alright, that makes all of us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes, so let's figure out when we can all meet!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "This is just how I feel, but I believe quite a lot of emotion goes into every stitch.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Which is why, for those truly special occasions, I almost always give people things that I embroidered myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "(A gift full of emotion...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Stage SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Since your goal is give off an air of mastery, you should probably dial back your smile a little here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Also, you may want to throw in a subtle wink.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "A smaller smile and a subtle wink.\nThanks, I'll try doing another run now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000403",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Thanks for all your support!\nYou guys are the best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00089_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hehe. I hope you all enjoyed my gift!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Alright, how was that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "That was very good...!\nIt seems like a wonderful way for you to connect with your fans, Len.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Thank goodness. I couldn't have done this without you, Shizuku. I really appreciate you watching me practice until the end like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "You're welcome. I'm just glad that I was able to help.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh, how are things going on your end?\nDid your embroidery lesson go well?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I believe I was able to teach everything that I had planned. Also...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Really? You're all gonna meet again to make gifts for Valentine's Day together?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Yes. I'm going to make some for everyone in SEKAI, so I hope you'll be looking forward to the day of.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "You are? Thanks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But making gifts for everyone sounds really hard...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Let me know if there's anything I can do to help. I wanna pay you back for helping me practice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Oh, are you sure? Then, would you mind helping me come up with designs for everyone?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "My goal is to choose the right one for each person. On top of being very knowledgeable, you're close with Miku and the others, so I'd love to hear your opinion.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Sure thing. I'll do my best to make sure that your gifts for everyone turn out really great.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

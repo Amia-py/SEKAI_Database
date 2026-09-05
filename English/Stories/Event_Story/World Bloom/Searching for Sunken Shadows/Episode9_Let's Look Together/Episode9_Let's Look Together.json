@@ -1,0 +1,823 @@
+{
+ "title": "World Bloom — Searching for Sunken Shadows — Episode9 Let's Look Together",
+ "meta": {
+  "Event": "Searching for Sunken Shadows",
+  "Event Type": "world_bloom",
+  "Episode": "Episode9 — Let's Look Together",
+  "Event Outline": "Mafuyu is now living with Kanade after running away, and all four members of Nightcord at 25:00 are working together again. As they each turn their thoughts to the future, something begins to shift in the Empty SEKAI...",
+  "scenarioId": "wl_night_01_09"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Empty SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Thank goodness she stopped crying for now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Still... Is she lost...?\nMore importantly, how did she get here...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Um, so... Where did you come from?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "I don't know...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "I was taking a nap...\nBut when I woke up, I saw that my plushie was gone and started looking for her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "*Nod*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I still don't understand how she got here, but I should try to get her home as soon as possible...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(But... How do I actually do that...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Would I be able to take her back by listening to Untitled...?\nNo, what if she wounds up somewhere unsafe instead...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "*Sob*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Bunny... Where'd you go...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Right. She said that she lost her plushie. I should help her find it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Um, about your plushie...\nDo you know where it might've gone?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "I don't know...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "So, um...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Does this place not scare you at all...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Yeah... This place felt scary at first...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "But that music helped me feel better...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh? Music?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Yeah, the music that's playing right now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "It feels so warm and cozy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh...\nSo, did you also hear it when you first woke up?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Yeah. It was louder then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(If it was louder, then somewhere closer to the source may be where she woke up...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Which means her plushie may also be waiting for us there.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Have you tried looking over there yet?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "No, not yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Then, shall we...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e002202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00246",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "???",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "This is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "This lake's beautiful. It's crystal clear...\nBut I'm not hearing any songs... Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Is something wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "This place is scary...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Wait, scary? Why's that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "I don't know, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see...\nThen, let's try going over that way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, also... I'll try seeing if your plushie is somewhere around here. Give me one moment.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm not seeing her plushie anywhere...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Maybe this isn't the right place...\nWhat if it's closer towards the lake...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Also, she can hear my song coming from the lake. Could there be a music player or something down there...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(What if her plushie fell into the lake...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...!\nWhat was that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Are you okay...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes, I'm okay.\nI'm going to keep looking for a little bit longer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Going in doesn't seem safe...\nBut I may also find a clue...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_underwater_2023_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(I'm not finding anything...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(But what I just saw...\nIf that was her plushie...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Just a little bit... Oh no...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "No, don't fall in!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "S-Sorry.\nBut I feel like I'm really close.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh...? Where'd that shadow I just saw go...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "That's strange. I could've sworn it was just...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "It's okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "I don't want you to get hurt because of me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "No, I'm fine.\nI did slip a little just now, but I'll be more careful...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "No, you can stop.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "If she really is in that lake, then there's no point in you looking. I'm probably never gonna get her back...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "We're never gonna find her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e002202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Don't say that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm sure she's here somewhere.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "There may be a way for us to look inside the lake. Even if she's not here, she could be somewhere else.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Don't worry. We'll find her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000247",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00120",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "We still don't know where she might be... And I know finding her won't be easy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "But that doesn't mean we can give up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "If she's in the lake, then we'll find a way to save her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "So, let's come up with a plan.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "A plan...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Okay...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e002202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Thank you for everything you've done.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Kanade... Kanade...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Wait, I'm back in my room...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(But how...?\nWas that all a dream...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Kanade, is something wrong...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, no... I think I fell asleep just now is all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Were you working?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "No, I just woke up.\nI'll finish those lyrics now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay, then I'll also continue working.\nWould you mind letting me know when you're finished?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "*Nod*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00007_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00001_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...——♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(This is the song I just heard in my dream...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Mafuyu, that song...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Oh, was I singing just now...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00164",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Y-Yes...\nBut why...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I'm not sure, but I thought I just heard it in my dream just now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I was lost in a place that I'd never been, and I was looking for something. I also felt very scared...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "And then I heard this song playing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "That made me feel a little better...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "Yeah, the music that's playing right now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl",
+   "Line": "It feels so warm and cozy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Come to think of it, that little girl kind of looked like Mafuyu...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(What if...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Mafuyu, do you remember what it was that you were looking for in your dream...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "I don't...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Why do you ask?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, sorry. It's just that I happened to have a similar dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I was helping a little girl look for her plushie...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Yes. How strange is that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(That may've been just a dream.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(But if both Mafuyu and that girl felt that they needed to hear my song...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "(Then, I have to keep composing...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "In order to save Mafuyu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link_night_ed4",
+   "_kind": "Effect"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

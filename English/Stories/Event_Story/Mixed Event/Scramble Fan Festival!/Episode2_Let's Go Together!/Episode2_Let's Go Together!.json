@@ -1,0 +1,473 @@
+{
+ "title": "Mixed Event — Scramble Fan Festival! — Episode2 Let's Go Together!",
+ "meta": {
+  "Event": "Scramble Fan Festival!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode2 — Let's Go Together!",
+  "Event Outline": "Minori, Ichika, Kohane and Nene are all set to sing in the annual VIRTUAL SINGER Fan Festival. Kanade and the rest of N25 also attend, keen to witness their favorite creators. The curtains rise, uniting heartfelt emotions into a grand symphony!",
+  "scenarioId": "event_36_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Stage SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "What? You want to participate in the VIRTUAL SINGER Fan Festival?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yeah, and it sounds like they still have some open slots for amateur performers!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I'd really like to join but...\nWhat do you think?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I don't see why not.\nIt's a good opportunity to sing in front of a crowd.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, that's true.\nBut I'm still pretty startled by this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "What brought you to this decision?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Um...\nIt's because your performance was so good, Airi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "This is about me?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yes! You shined and sparkled on stage at that elementary school... So I decided that I wanna do that too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But I'm not nearly as good as you are at singing and dancing... Even then, I need to become more independent and learn to perform on stage by myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Minori...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Me participating in this Fan Festival is a part of that! I want to get better!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Hehe. Practicing to learn to perform on stage all by yourself. That's very admirable of you♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I agree, but I also feel like you're diving head first into the deep end with the Fan Festival...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Y-You think so...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "She may be right. Especially considering how many people attend each year.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah. Some say that more people gather here than for some of the bigger idol events.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "E-Eep...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Hehe. At the same time, it's important to take on new challenges.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "I think so too.\nAnd I have a feeling that you'll be just fine, Minori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "R-Really...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Geez, you're so easy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "But since you've decided to take the stage like this, make sure to send everyone home smiling.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "And I'm sure she will. You have our support, Minori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Thanks, Airi, Shizuku...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I'm with them.\nBreak a leg, Minori.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh, but don't push yourself too hard and actually do that. We still need you back in one piece.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Okay, Haruka, I promise to be careful!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "You can do it, Minori!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "We'll be rooting for you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Thanks!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Okay, I'm gonna keep trying more and more in preparation for this event!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm_area00003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Crase Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "An",
+   "Line": "A Fan Festival?\nWhat's that like?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "A friend of mine told me about it.\nIt's an event where Miku artists and creators gather to do shows and stuff.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I'm thinking about participating in it with this friend, who's in a band, and this other friend, who's an idol.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hey, that sounds pretty fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "But what made you want to participate in this event?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Well, it's a chance for me to expand my horizons in terms of music.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Expand your horizons?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "When I went to the Seaside School, my group decided to sing a piece from this one musical.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "It was so different from what we usually sing, but I learned so many new things and really grew as a singer because of it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "I have a feeling that I'll make some new discoveries by participating in this event.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Also...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Remember how a song by Rin and Len became the reason why I'd become interested in music?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "If you weren't there singing that song that time, I probably wouldn't have wandered into this wonderful world...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "This event would sort of be my way of giving back and showing my appreciation.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Kohane...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Why not?\nLike Kohane says, sometimes you have to switch things up to experience new things.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "I agree.\nIt's important to take on new challenges like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I say go for it.\nThe Summer Festival definitely taught us a thing or two about trying something new.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It really did.\nNot only that, this is a rare opportunity to sing with people other than us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Hehe. Good for you, Kohane!\nIt sounds like you have their blessing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Thank you so much!\nShinonome, Aoyagi, I don't know what to say!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "And An?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Huh? Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, of course...!\nI can't wait to see you knock everyone's socks off at this event!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Right! Thanks, An!\nI promise to do my best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shibuya Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "A VIRTUAL SINGER fan appreciation event? And you're gonna be in it, Hoshino...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "It'll be me and two other girls from my school, but we're coming from very different groups.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "A Fan Festival, huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003802",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I need to keep working on my singing to make my own dreams come true...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Say, Hoshino, are there still spots open for that event?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes, I think so...\nDoes that mean you'd like to join us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah. This feels like something I need to do. You know, to help make my dreams come true...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I have to keep getting better and gain experience singing on my own.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes, I see. You're more than welcome to join us...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, why don't we all have a practice session together? It'd even be a great chance to introduce you to Minori and Kohane.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "O-Okay...\nI hope we get along...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Don't worry, they're both really nice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "O-Okay...\nI'll join you all for practice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(Hoshino's friends, huh? I wonder what they're like...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "(I sort of can't wait to meet them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

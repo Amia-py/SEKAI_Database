@@ -1,0 +1,508 @@
+{
+ "title": "Mixed Event — Special Present for You! — Episode3 Hello on the Slopes",
+ "meta": {
+  "Event": "Special Present for You!",
+  "Event Type": "marathon",
+  "Episode": "Episode3 — Hello on the Slopes",
+  "Event Outline": "Rui has received a request to write and direct a ski resort's Christmas show. This is the first script he's penned in some time, and it's apparently based on a Christmas episode from his own childhood...",
+  "scenarioId": "event_152_03"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a005301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Christmas Day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Ski Resort",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Good work, everyone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I thought you all did wonderfully in that rehearsal. I couldn't ask for any of you to be in better condition.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Of course we're in tip-top shape! It's been so long since Wonderlands×Showtime last put on a show together! It's only natural for us to be excited!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Performing on top of snow isn't easy...\nBut now that we've had a chance to do a full rehearsal and check over everything, all that's left is to give everyone a good show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe. I'm also gonna do my best☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. I'm glad you all feel that way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "How are you feeling, Robo-Nene? Good?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "Yes. My internal thermoregulation system is operating as expected.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Thermoregulation system?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. Sudden temperature fluctuations have made her prone to malfunctioning in the past, so I tried installing a new system in order to help mitigate that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Anyway, we're just about finished preparing for the show, so all that's left is to wait for the equipment we'll be using during the climax to arrive.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Then, we're free until the evening...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, in that case, let's go skiing☆\nI wanna go zoom-zoom-zoom down the mountain!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I was just thinking the same thing, but I'd rather not risk any of us getting injured...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Instead, why don't we keep practicing for our show while playing in the snow?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Playing in the snow...? I have just the thing for that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "This snowball maker.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00209_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow, you made a Mr. Snowball Maker?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. Our show this time around requires so many snowballs that we can't make them all by hand, so I decided to automate the process.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "So, while I make some final adjustments, why don't we make a snowman and have a snowball fight?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, both sound really fun!\nLet's play, you guys☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I'd rather not spend too much energy before the show...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "But I guess I should be here for the final adjustments since it's me who's going to be using it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. Then, let's take it for a spin.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "All you have to do is place it on top of a nice mound of snow, press the button and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00030_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_specialpresent_2024_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow...! This is so cool!\nIt's spitting out so many snowballs!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "A-At an incredible speed...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "How are we even gonna use all these?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "You have a point... In that case, I can lower the speed at which it produces them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You can adjust how fast it makes these...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, by using this lever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "This is the middle setting, so if we lower it a little, then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Huh? Kamishiro?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_specialpresent_2024_001",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00471_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, I knew it... It's Wonderlands×Showtime!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We were wondering who was making all that noise. It was you guys...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Azusawa? Shinonome...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh!\nIt's Kohane and her friends☆ Welcome to this wonderful ski resort♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Hehe. Hi, Emu!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Are you all by chance here to see our show...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "We are! And to go skiing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "You won't believe how much Kohane's looking forward to seeing your guys' show. She couldn't stay still at all during the bus ride over.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "A-An...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "B-But... I am really looking forward to your show! It's been so long since I last saw you all perform...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "And I'm wondering what sorts of effects you're going to use today...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Effects...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yes! Because I just love Wonderlands×Showtime's shows!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "They're always full of light, hope and excitement...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "They're so dreamlike.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Dreamlike, eh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Heh heh heh...\nThen, I think you're going to love the climax of this show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Oh, really...?!\nHehe. I can't wait!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. We're blessed to have a fan such as yourself on our side. We really appreciate your support.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "And she isn't alone.\nThe rest of us are also very much looking forward to your show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Also, I've been meaning to ask...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "What is that machine, and why is it producing snowballs at such a furious pace...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, you mean our snowball maker?\nAs you can probably tell, it's designed to make an infinite amount of snowballs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "A character who specializes in snowball fights is going to appear in the show. So, we're going to need quite a few snowballs.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "A snowball fight specialist...\nOh, are you talking about the Phantom Snowman...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Oh, you know about him?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yes. I remember seeing his name in the synopsis on the flyer Emu gave me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "A snowball maker...? The Phantom Snowman...? What kind of show did you guys put together, exactly...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah, I'm guessing most people would react the same way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "There's no need to worry.\nIt's a fun Christmas show that's meant to make children smile.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "The story involves the strongest Santa Clauses from the land of Santas overcoming a series of trials in order to deliver their presents to the children waiting for them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The strongest Santa Clauses overcoming a series of trials...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. In this world, there are quite a few enemies who wish to steal their presents.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In order to circumvent their attacks and get their presents to the children, they had no choice but to become stronger...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "There's the Phantom Snowman with his endless supply of snowballs, the Giant Gingerbread Man and some troublesome Christmas trees that are an absolute nuisance...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Our Santas will battle against numerous enemies and even be betrayed by some of their friends as they attempt to reach their destination.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "All in order to deliver the children their presents.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In summary, it's a perfectly standard tale about the Santa Clauses we're all used to seeing taking part in an epic struggle.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Perfectly standard...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I'm still trying to get my head around the idea of the bad guys trying to steal everyone's presents.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Plus, the ones you just mentioned sound nuts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "But it's wonderful how the Santas keep fighting for the sake of the children...! I got so excited reading the synopsis on the flyer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I'm sure these Santa Clauses are going to put on a compelling performance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Also, I do like how these bad guys are going to stand in their way. It feels like a fresh and new idea...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, but what exactly do you have to do to come up with this kind of story...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, I wanna know too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, Rui came up with this story himself.\nWhat was your source of inspiration for it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "The truth is, this story is based on something I experienced when I was little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "When you were little...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

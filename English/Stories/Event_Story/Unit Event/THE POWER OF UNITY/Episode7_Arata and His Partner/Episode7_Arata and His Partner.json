@@ -1,0 +1,903 @@
+{
+ "title": "Unit Event — THE POWER OF UNITY — Episode7 Arata and His Partner",
+ "meta": {
+  "Event": "THE POWER OF UNITY",
+  "Event Type": "marathon",
+  "Episode": "Episode7 — Arata and His Partner",
+  "Event Outline": "As Akito repeatedly watches the video of RAD WEEKEND, he realizes that creating a certain \"atmosphere\" may be the key to surpassing the legend. Then, he hears that Len and the others are going to put on an event in SEKAI.",
+  "scenarioId": "event_59_07"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_e000703",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Hospital",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00048",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00046",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Soma, I'm here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Hey, Arata!\nThanks for making the trip!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "So, how's practice for that event going? Good?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Hm? Those guys behind you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Hehe. Can you guess who they are?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh... Hey...\nSorry for the sudden intrusion. I'm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Whoa!!\nAren't you guys in Vivid BAD SQUAD?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Oh, that was quick. You could've made it a little more interesting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Are you kidding me?!\nHaven't you realized just how much you've been talking about Vivid BAD SQUAD lately?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "You're Shinonome and Aoyagi, right?\nHe's told me all about you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "I'm Soma Miyata.\nThis dude's best friend!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "I bumped into them just outside the hospital and asked them to join me since it seemed like a nice opportunity...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "They're very well acquainted with Ken, so I'm sure you know there's plenty you'll want to ask them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Really?\nBut you guys are probably really busy right now since your event's just around your corner... Oops.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hey, you okay...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Yeah, sorry about that...!\nMy body isn't all that mobile because of the accident, and I get woozy just sitting up in bed sometimes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Oh, right...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I totally forgot since he seemed okay on the surface, but he's...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Please let us know if there's anything we can do for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Hey, Arata...\nIs it just me or is Aoyagi really that nice?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Yes, he's very kind and polite.\nWith none of the leers that Shinonome gives people sometimes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hey.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "I'm guessing he does that because you yank his chain sometimes, Arata. Sorry about that, Shinonome, but he's sort of always been this way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh... No...\nYou don't need to apologize.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "And you're right about Akito leering at people.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Dude!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Hahaha!\nArata was right. You guys are a riot!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Oh, speaking of which, you guys are regulars at Ken's place, right? Mind if I ask how he's been lately?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, of course.\nRecently, Taiga's also been popping in and they usually end up talking for quite a while.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Cool. Ken and Taiga in the same place again...! Man, I'd do anything to be there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Soma, have you ever been to Ken's place before?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "No, not yet... The accident happened before he opened up his shop.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "But I was able to transfer here, so I definitely wanna see them again! And ask them all about RAD WEEKEND...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Even now, I still remember it...\nNagi began by singing and everyone started going nuts like the roof was on fire...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "It was such an amazing event...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Now I get it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(He was just as entranced by RAD WEEKEND and wants to find a way to surpass it...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Man, I had a blast!\nThanks for dropping by today, Shinonome, Aoyagi!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you as well.\nPlease let us know if you ever want to chat again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Awesome! Promise?\nCome back soon, okay?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Anyway, we should get going.\nSee you later, Soma.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Later!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00047",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Arata was right about them being nice guys...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "Now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Soma",
+   "Line": "I have my own stuff to take care of...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001003",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Thank you both very much.\nSoma must've been a handful because of how excited he was.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Not really. It was nice to hear about what Vivid Street used to be like back in the day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "He seemed like a cheery guy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Yes, he's always been like that.\nThe accident was definitely tough for him, but he's pretty much back to being his old self now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Here we are!\nWait... Are we inside Akito's pocket?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Oh, this is fun!\nIt's like we're in a cave!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<You know we aren't here to play, right?\nYou were the one who said the event's getting close and want to give them your support... Hm?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001003",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "But he seemed to have much more fun than usual thanks to you both. I really appreciate it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Anyway... See you during our next practice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hey...\nIsn't there something else you still need to say?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You seem dissatisfied.\nIf there's something you want to say, just say it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We're fellow performers in the same event, aren't we?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Alright, let me ask you this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "What does it mean to “take a look at this city”?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "That's what Taiga told me to do the other day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "“If you're serious about surpassing RAD WEEKEND...take a look at this city.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "This city...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What's that supposed to mean?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Haha. Tricky one, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "After he said that, I went around everywhere looking for whatever it is that I was missing or needed to find...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "But I couldn't find the answer and became stuck.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "So stuck that...\nWell, I got the idea that being at an event with all of you would lead me towards some sort of hint.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "But seeing him makes me want to show him our dream... Of surpassing RAD WEEKEND...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Which is why... I'd like you to tell me anything that comes to mind when you hear, “Take a look at this city.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Right now, that's what I need to know to move forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Sorry, I have no idea what it means to “take a look”...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But I promise to tell you if I do manage to figure out something since it seems like we also need to figure out the meaning behind those words...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00112",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'll think on it as well.\nI'm also curious as to what it means.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Thank you. I really appreciate it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Anyway, let's keep doing our best for the event. All to find a path towards producing that “atmosphere”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm glad we had a chance to discuss so much. I feel like we have a much better understanding of Tono now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, same...\nHis partner, his music... It was nice to hear about all of that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<I agree! It was wonderful to hear their story!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yeah, I thought so too!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Whoa...!\nHow long have you two been there?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<When you started talking with that Tono person! We stayed in your pocket the whole time, so he probably didn't see us.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "O-Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Just based on the bit we heard just now...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<That Tono person seems very similar to you two.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Hm? What do you mean?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Oh, his personality may be very different.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<But he cares about his partner very much and seems very serious about surpassing RAD WEEKEND. I definitely see some similarities there.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<You even said so yourself, Akito.\nYou're all “fellow performers”, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yeah! You guys all feel the same way, so I bet your event's gonna turn out great!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I was wrong about not knowing what he was thinking.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(He feels the same way as us... Which means we're in this together.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Toya, we're gonna need to move up the meeting time for tomorrow's practice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I have a feeling he'll agree to it, so mind letting An and Kohane know for me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Okay, I understand.\nLet's keep doing our best to get even a whiff of that atmosphere...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00075",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shibuya Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "♪————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Whoa! That was awesome...!\nWay better than what you did during our other run...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "You didn't seem to be running on all cylinders then. Did something happen...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Yes, and I need to apologize to all of you.\nThe thing is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "My partner recently transferred to a hospital nearby and I've been helping him get settled...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "I thought I'd found a way to separate my personal life from our practices, but I still wasn't able to focus. I'm sorry for causing you all so much trouble.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Your partner...? You mean the one you're trying to surpass RAD WEEKEND with...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "You weren't always singing by yourself, Tono?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "No, we were chasing after the same dream... But he got into an accident and isn't able to perform on stage right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "I'm not going to say that I'm going to grant his dream for him, but for his sake, I need to find a way to surpass RAD WEEKEND.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00048",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "So you're carrying his thoughts along with your own. That explains why you can sing with so much power, Tono...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "What's the reason you wanted to start singing, Okazaki?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "Me...? Because this senior I looked up to liked to sing. The high school I used to go to was pretty rough...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tatsuya",
+   "Line": "But they went after their dream of becoming a professional singer and didn't care if anyone laughed. I really admired that and decided to also start singing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "A senior...? I see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "What about you, Kotaro?\nWas there a moment like that for you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Oh, when my little brother was born, I decided that I wanted to become a cool big brother. That happened to also be when I saw RAD WEEKEND, like Akito...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Really...?! You have a little brother, Mita?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Yeah!\nHe's still little, but really, really cute!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Aww, that's so adorable!\nOh, that means you gotta kick butt during our event to show him just how cool a big brother you are!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "R-Right...! He's still too little to come to our event, but I'll try to perform like he's actually there...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(We still haven't gotten any closer to that atmosphere...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(But the air between us is definitely starting to change bit by bit...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Or are we the ones that are changing...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(It's like we all want to sing more and more good songs together now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Arata",
+   "Line": "Alright, this place feels pretty good now...\nLet's start from the top and give it our best today, Shinonome...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00054",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The day of the event",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Crase Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Everyone!\nIt's almost time for Akito and the others' event! Hurry!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "We asked An to leave her phone in a place where no one else will find it, so we should be able to see everything!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Okay, okay.\nAlright, now that we all seem to be here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00030",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Live House",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Backstage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Wow! So many people!\nAkito and the others must be really popular!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Oh...!\nEveryone's gathering up over there!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<What are they all doing?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "<Are they gathering to discuss something...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

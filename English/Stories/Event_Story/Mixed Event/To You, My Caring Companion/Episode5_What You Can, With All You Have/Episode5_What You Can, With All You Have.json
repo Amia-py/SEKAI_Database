@@ -1,0 +1,723 @@
+{
+ "title": "Mixed Event — To You, My Caring Companion — Episode5 What You Can, With All You Have",
+ "meta": {
+  "Event": "To You, My Caring Companion",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode5 — What You Can, With All You Have",
+  "Event Outline": "Honami notices that Kanade has been more focused than ever on composing lately. When Emu gives her tickets to a bridal fair, Honami decides to invite Kanade in the hope of her employer taking a break.",
+  "scenarioId": "event_96_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a003301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wedding Dress Fitting Area",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh wow! Look at all the wedding dresses...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Whoa! Check out that ball gown!\nIt looks so fluffy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "No sleeves either! It's simple and really pretty! Oh, this mini skirt's also super cute!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "We can seriously choose from any of these dresses?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup! Pick whichever you like!\nThe staff here will answer any questions you have☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Cool! Then, where to start...\nMaybe something standard, like an A-line...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, those are over that way!\nI'll show you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00170_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Those two certainly seem to be enjoying themselves. Which would you like to try on, Ms. Yoisaki?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm not sure...\nI don't even know where to begin, so I'm okay with just seeing what's here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh, I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "But wouldn't you like to try one on since we're here? It might be a good change of pace to put on something that you don't normally wear.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Why don't we try picking something out together? If you tell me your preferences, we may be able to find one you like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I see...\nThen, if you don't mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Of course. Let's find one together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I was initially under the impression that wedding dresses all had to be white. But the dress exhibit showed me how they come in a variety of colors, and I see the same thing here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "White is the old standard, but there's actually nothing wrong with choosing another color. What do you like, Ms. Yoisaki...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Well, I'm not set on any particular one, but something simple and subdued might be nice if I'm going to be wearing it. I'd feel pretty embarrassed if I ended up standing out by wearing something too vivid...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Then, one of these may work...\nThis one has a bit of light gray mixed in.\nYes, I think this would look really good on you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Or... Oh, how about this one?\nThe lace pattern on it is so beautiful.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay, I think I'll try this one.\nThank you for helping me choose, Ms. Mochizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I'm glad we were able to find something you like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Me too. Oh, but... Ms. Mochizuki, you haven't picked a dress yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Don't mind me. It shouldn't take me too long to pick one.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I'm sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Huh? Why are you apologizing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I feel like I've been giving you things to worry about this entire day.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Not only did you go out of your way to invite me to this event, you just helped me pick out a dress to wear...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Even when we were going around the booth area, you noticed that I was tired and suggested that we go somewhere with less people.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I-I'm sorry.\nI must've seemed too overbearing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "No, please, don't say that.\nIf anything, I'm glad you're so worried about me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "It's just... I feel like I'm making you work even though you're technically off right now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "I know this isn't normal.\nSo, I'm sorry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, I...\nI like doing this is all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "So, please don't mind me.\nAs long as you have fun today, I'll be happy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Ms. Mochizuki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Then, I will...\nThank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(I just wanted Ms. Yoisaki to enjoy herself, but that ended up having the opposite effect...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(This is so much more difficult than I realized...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00170_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hey!\nHave you two picked out your dresses yet?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow, Kanade, is that what you're gonna wear?! It's so pretty!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Ms. Mochizuki helped me choose it.\nOtori, Mizuki, have you already picked yours out?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup☆ I just found the one I wanna wear!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I'm still kinda torn...\nCan I ask you all for your opinions?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Sure. Oh, but... Ms. Mochizuki still needs a dress.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Oh, okay.\nThen, Honami, you should probably go find one for yourself!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, I'll go with her!\nKanade, you help Mizuki pick a dress☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay, but I don't know if my opinion will help...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Don't worry! Just say whatever comes to mind for me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Honami, they have lots and lots of pretty dresses here, so I'll try to show you as many of them as I can!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. I really appreciate it, Emu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hmm... Honami! Honami!\nHow about this one?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh! What a pretty pink, like the color of cherry blossoms... It's so lovely!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe. I'm glad you like it! I thought it'd look really great on you! Also, just gimme a second to bring over some of the dresses I saw in that other section!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. Thank you, Emu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Is something wrong, Honami?\nYou're all bunched up like a scrunchie...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "L-Like a scrunchie...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, I mean... You look like you're thinking a whole lot and your heart's being squeezed really tight!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "At least, that's the expression you had on your face just now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Is something bothering you?\nIf so, you can tell me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Thank you, Emu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Then, if you don't mind listening...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So, you just want Kanade to have fun today...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, that was the plan.\nBut it sort of ended up having the opposite effect.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I didn't realize it would be this difficult...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hmm... Isn't there anything we can do...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, I know!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "When I think “fun”, I think “shows”☆\nSo, we should put one on together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Us? Putting a show...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Heh heh heh! Just leave it to me!\nI've got a great idea♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00190",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Ten or so minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Ta-daa! Check it out, everyone!\nThis is the dress I chose!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Wow, so many frills...!\nIt's adorable!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I know, right? It's a pretty simple design outside of the frills, but that means it shouldn't take too much time or effort to put on. I figure I can try on a bunch of different dresses if they're like this!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "But I was really torn between pastel pink and magenta... Luckily, Kanade told me what she thought and I was able to decide on the pastel one!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Hehe. I think it's going to look really good on you, Mizuki.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hehe. Thanks!\nDo you already know what you're gonna wear, Honami?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Yes, Emu helped me with that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Great.\nThen, let's head to the fitting rooms!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, Mizuki!\nBefore we do!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Did you know that you can do something really fun here along with trying on wedding dresses...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Something fun...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah! After you pick out a dress, guess what...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You can have your own mock wedding!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "A mock wedding...?\nYeah, that does sound like a lot of fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe. Doesn't it?\nYou can have your pictures taken and even have a flower shower like a real wedding!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And there's more!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "It doesn't have to be just any old wedding...\nIt can also be a show that you take part in!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "A show?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, with the two participants as the main characters!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "My brothers asked me if there was some way to make things more enjoyable for the guests...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So, I had a brainstorming session with Tsukasa, Nene, and Rui, and we came up with...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“A Beleaguered Bride: A Special Wedding Presentation”!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "What? A beleaguered bride...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "If it's something Rui and Tsukasa came up with, it's probably gonna be a bit nuts...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Haha. True...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "But being in a show sounds difficult. Are you sure it's okay for complete amateurs to participate...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Don't worry! Anyone is free to join in because it's such a simple story! You don't even have to read a script! Just listen to what the staff say and do what you'd do normally!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Shows are really fun to watch, but they're just as fun to be a part of! I spent a lot of time with Tsukasa and the others thinking about how to make this fun for all the guests!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Really...?\nThen, should we give it a shot? I mean, it does sound pretty fun!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Umm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(Yes, we shouldn't have much trouble participating in this show...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(But I hardly ever do anything like this, so I'm a little worried as to how I'll do...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(At the same time, if this is a chance for Ms. Yoisaki to have more fun...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I-I'd like to give it a try...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00101",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "R-Really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Y-Yes! I think it'll be fun!\nSo... Ms. Yoisaki, would you like to be in it as well?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "But I've never been in a show like this before...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I think we're all in the same boat there.\nWhy not take this opportunity to be in one with her, Kanade?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I really wanna see you perform in it while wearing that dress you picked out♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "M-Mizuki...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Haha! But I won't force you to do anything you don't want to.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Still, this kind of chance doesn't come by that often, so I kinda want you to have as much fun as possible.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Wh-What do you say, Ms. Yoisaki?\nWould you like to join me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Okay, I'll do it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You will?! Woohoo!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Then, I'll go let the staff know☆\nHonami, Kanade, you two get changed!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Okay! Thank you, Emu!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Hehe. I can't wait to see your guys' show!\nAnd you wearing your dresses!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "So, Kanade, Honami, break a leg!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "O-Okay...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "(I have to do my absolute best in order to make sure Ms. Yoisaki enjoys herself...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

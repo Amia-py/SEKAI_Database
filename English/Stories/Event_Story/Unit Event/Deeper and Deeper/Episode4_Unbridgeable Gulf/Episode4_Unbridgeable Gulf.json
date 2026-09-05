@@ -1,0 +1,793 @@
+{
+ "title": "Unit Event — Deeper and Deeper — Episode4 Unbridgeable Gulf",
+ "meta": {
+  "Event": "Deeper and Deeper",
+  "Event Type": "marathon",
+  "Episode": "Episode4 — Unbridgeable Gulf",
+  "Event Outline": "Wonderlands×Showtime agrees to participate in a workshop run by ArcLand. As Rui takes the directors' course, he is confronted with something he's never realized about himself before.",
+  "scenarioId": "event_172_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d005001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "ArcLand - Workshop Venue",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "Our workshop will end here for today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Veteran Director",
+   "Line": "For those interested, after this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(“Insipid”...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "You seem smart and decently clever.\nSo, if you maintain your current course, you'll likely manage to do reasonably well for yourself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "Producing what's asked of you is talent too, in a way. But... I think you're of a different breed, aren't you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Different...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "That being said, this is all just my personal opinion. Try not to dwell on it too much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Every other time he gave feedback, his comments struck at the core of each presentation...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(So, I can't simply brush this aside as a matter of “personal opinion”.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "The concept of appealing to a wide audience, itself, didn't appear to be the problem.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "So, does that mean I took the wrong approach in terms of the theme? Or maybe, in going for broad appeal, I sacrificed too much originality...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hey, Rui?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Tsukasa...? What are you doing here?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Don't forget about us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Our workshop finished for the day, so we decided to come and get you. You're going, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Going where...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wait, didn't anyone tell you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Those who wish to are welcome to watch and take notes as the cast of the Center Theatre practices for their next show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And Asahi's playing the lead!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Ah, I vaguely remember them mentioning something about that just now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I was so lost in thought that I forgot to listen to everything else.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(In order to think things through properly later...\nFor now, I need to shift my attention.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Thank you all for coming to get me.\nSo, let's start heading over, shall we?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d006001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00326",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Center Theatre",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wow...! This theatre's so pretty...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "It is supposed to be one of the best theatres in the country.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'd heard that only the best actors ArcLand has to offer are ever allowed to perform here...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "And the same care and effort seem to have gone into every aspect of this theatre's design.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Stagehand",
+   "Line": "You'll be standing in a different position for this scene to make sure you're not in the shadow of the background props.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Understood. I'll run it through once and let you all know if things don't feel right.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Stagehand",
+   "Line": "Of course. Now, about the timing for the lights...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It's Asahi.\nThey're doing a dress rehearsal today, so that's what they must be discussing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, it appears that way.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "He even helped the directors with our workshop today. I'm honestly astonished by his sheer stamina.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Stagehand",
+   "Line": "That's it from me.\nDo you have any other questions, Asahi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "No, that's all from me as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Oh, would it be okay if I stepped out for a second before we begin rehearsing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Stagehand",
+   "Line": "Of course.\nBut please refrain from eating while wearing your costume.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Haha. Never!\nI was just hoping to talk to some of my friends.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Hey, you guys! Are you all here to watch?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes! The workshop hosts invited us over to give us an extra learning opportunity.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "I see. If possible, I'd like to hear your comments later.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Since this show is special to me in many ways.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Special? What do you mean?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "This show is written and directed by Tom.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "That's actually still supposed to be a secret. Most of the details regarding this show haven't been released to the public.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I see!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That's incredible... Congratulations.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Thanks. I kept hoping that we'd cross paths someday, as long as I continued to be an actor...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "But I was staggered when I heard the news.\nIt just didn't feel real.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I understand what you mean.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Stagehand",
+   "Line": "Asahi! We begin rehearsing in five minutes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "Oh, I should get going.\nI'll see you all later. And enjoy the show!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We'll be rooting for you from the seats.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Break a leg!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_men_002_3",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00874",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Geez, this place is covered in spiderwebs.\nCreepy old mansion...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00327",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Well, no matter.\nI'll just clean it up, sell it and get it off my hands.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Hm...?\nI thought I saw something cross the hallway just now.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Actor A",
+   "Line": "“Who are you...?\nNone may set foot in this place without my permission...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Whoa!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00210_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(This show is titled “Goodbye Ghosts”.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Asahi is playing the protagonist, Luke.\nA lonely young man who lost his family at a very young age.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(He's kind by nature, but has trouble forming relationships with others. As a result, he struggles to hold down work, and leads a bit of a desperate life.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But one day, Luke suddenly ends up inheriting an old mansion from a distant relative. That is where this story begins...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Okay, now I understand.\nThis distant relative of mine, due to being a real weirdo, decided to buy and live in a bona fide haunted mansion.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Actor A",
+   "Line": "“A weirdo? How rude... He was a good man, and a good housemate to us all.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Actor B",
+   "Line": "“Yeah! All of us had a lot of fun together as friends♪”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“How many 'friends' are we talking about here?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Actor C",
+   "Line": "“If you're talking about us ghosts, then I'd say around a hundred.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“There's no way that a hundred ghosts can fit inside this mansion! Wait, I'm not standing inside anyone right now, am I?!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Hehe...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "This ghost story isn't very scary at all! It's actually really interesting!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, and it includes many comical scenes. That means this show should appeal to everyone from children to grown adults.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(All of the ghosts living in this mansion are capricious and fickle. If they don't like the human residents, they'll use any and all means to run them out of the house.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Luke is strapped for cash, and needs to sell this mansion as quickly as possible. But he also knows that he won't earn very much in its current state.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(So, Luke begins to concoct a plan.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Ghosts linger in this world due to unresolved issues. If he can resolve the regrets of every ghost, they'll all vanish from the mansion.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Thus begins the monumental task of going around to every ghost, learning what anchors them to this world, and granting their last requests...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Actor B",
+   "Line": "“What do I want to do?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00195",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Tell me everything that comes to mind.\nI'll do what I can to make it all happen.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Actor B",
+   "Line": "“Hmm... There's so much...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Actor B",
+   "Line": "“But I really wanna go somewhere with my mom and dad while holding their hands.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Actor B",
+   "Line": "“Because I was in the hospital for so long.\nI wasn't really allowed to leave my bed...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Wanting to see the people they cared about the most one last time. Wanting to apologize to friends who they parted from in anger.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Every ghost's wish is simple but heartfelt.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(Some of them seem resentful and malicious at first, but underneath it all...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Actor C",
+   "Line": "“Thank you for helping me, Luke.\nI feel much better now.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“All I did was bring your old lover to the mansion... Are you sure you're okay with how things went?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Actor C",
+   "Line": "“I am. I got to scare him by pretending to be an evil spirit, so I'm sure he's over me now.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Actor C",
+   "Line": "“I mean, I really am like an evil spirit...\nI felt so satisfied when I watched him crying day and night, unable to forget me.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Does that really make you evil?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“It's only natural to want someone precious to you to remember you after you've gone.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Actor C",
+   "Line": "“Yes, I know.\nBut I love him so much... I'll let him go.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wow, indeed.\nAsahi's rendition of Luke is remarkable, of course...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But the ghosts' performances let you vividly picture their past lives, even when the details aren't shown on the stage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(You can't see the ghosts' expressions due to the masks they're all wearing.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(The masks represent the uncrossable line between the living and the departed. And by leaving the audience's minds to fill in their expressions, it makes it easier to empathize with the ghosts.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I understand the technique on an analytical level.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“It's just us left now, huh.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Actor A",
+   "Line": "“Yes...\nI'm amazed that you were able to help all the other ghosts.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Oh, is this wine my reward?\nI did think it was an expensive vintage.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Actor A",
+   "Line": "“No, it was something I had stashed away before my death, and never got a chance to drink...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Actor A",
+   "Line": "“But now, I can say that I've fulfilled my wish of sharing it with a dear friend. That means I will vanish from this mansion tonight.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00175",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(The more time lonely Luke spent with the ghosts, the more comfortable he became around them. He had found a place to call home.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(And so, each time he saw a friend off, the specter of that loneliness grew a little stronger.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(And this is the most important part of the story. The moment he says goodbye to the last one...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Would you laugh if I told you that I feel sad right now?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Actor A",
+   "Line": "“No.\nI believe that's the mark of a proper farewell.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“I see...\nYeah. You're right.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“When I was all by myself, I never actually felt lonely.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“But now, I'm all choked up...\nMy heart aches and I can't seem to stop crying.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“Still, I'm glad we met...\nI'm glad this haunted mansion came into my life.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Asahi",
+   "Line": "“So, thank you.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d005001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Sakaki",
+   "Line": "I enjoy family-oriented stories quite a lot.\nThey seem simple, but many of them have deep depths too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d006001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(As each ghost finds peace, the stage that was initially very lively grows emptier and emptier. A hole begins to grow in each audience member's heart.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(But then comes the end... The narrow spotlight illuminating Luke's smile brings everything home.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(People come and people go. This story is the story of life itself.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(And even within the most final parting, there is still joy...a blessing. You feel that from the bottom of your heart.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000464",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(As a scriptwriter and director, he's miles ahead of me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(It doesn't matter how influenced I am by him, or how much I try to copy him.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(The depth of the world he created, the weight of the message he's trying to send, everything...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I still have much to learn...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d006001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(How do I close that gap...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "(I have no idea. But...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

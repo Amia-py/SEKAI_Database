@@ -1,0 +1,403 @@
+{
+ "title": "Unit Event — From the Marks Left Behind — Episode2 MORE MORE HOUSE Candidates!",
+ "meta": {
+  "Event": "From the Marks Left Behind",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — MORE MORE HOUSE Candidates!",
+  "Event Outline": "MORE MORE JUMP! starts looking at candidates for their new home base, the MORE MORE HOUSE. However, finding a place that fits their criteria proves rather difficult...",
+  "scenarioId": "event_122_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "One week later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "This day we've been waiting for... It's finally arrived...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "We get to look at prospective properties for the MORE MORE HOUSE!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Woohoo! We get to go house hunting♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<I'm very much looking forward to seeing what's on the table!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<That Kawanishi person found the places you'll be going to see today, right?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "That's right.\nSome are newer than others and they're all by different stations, but they all have the things we need.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Plus, they're all within budget.\nIf we do happen to find the right one, then it'd be great to close the deal.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Umm... I have a question.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Ask away, Miku.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<So, we all decided to tag along since house hunting sounded like a lot of fun...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<But are you sure we won't be getting in the way? You're essentially choosing the office for your business...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "You're all more than welcome to be here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "She's right. Once the MORE MORE HOUSE is up and established, we'll get to spend more time with all of you. So, you should all be here for this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Oh, then... Thank you!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Then, we'll help you inspect each one. We've also become quite good at hiding since you've been nice enough to take us to all those different places.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kawanishi",
+   "Line": "Ah, you're already here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00632",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kawanishi",
+   "Line": "Oh, I'm sorry. Were you having a call?\nI can wait until you're finished...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "No, that's okay!\nWe actually just finished.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawanishi",
+   "Line": "I see.\nThen, shall we? Please join me in the car if you're ready to depart.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<Yikes... That was a close one...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Overconfidence can lead to mistakes, so we need to be as careful as ever.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few hours later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Neighborhood",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kawanishi",
+   "Line": "Alright, that was the last one on the list.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawanishi",
+   "Line": "It's unfortunate that none seemed to fit the bill...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I didn't realize choosing a house would be so difficult.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "They all seemed really nice on paper.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, but the first one we visited had a huge pillar running through the middle, which would've made streaming a bit of a challenge...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "The second one was ninety years old, but the pictures and floor plan made it seem like the perfect choice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "But the real thing told a different story.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "That one room in particular...\nI became so worried that one of us would fall through the floor during dance practice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawanishi",
+   "Line": "I'm so sorry...\nI was sure it was a good candidate based on the photos that came attached...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "No, we also felt the same way...\nIt just goes to show how important it is to actually see the real thing for ourselves.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But the third one seemed really nice!\nIt was clean and had the perfect floor plan for us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, except for that giant hill we'd have to climb every time. That's on top of it being pretty far from the station, so I really don't think it's worth the trouble.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "It'd make for a great workout...\nBut we might regret it when it rains or after a long day at work.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Which would defeat the purpose of it being the MORE MORE HOUSE...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "*Sob*\nNo... If it weren't for that hill...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawanishi",
+   "Line": "I know how you feel...\nVery few places are both that nice and reasonably priced. But there's always a catch. In this case, a large hill.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "On second thought, I'm beginning to wonder if we're ever going to find what we want in our price range...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "We may want to start thinking about increasing our budget. However, that also means us having to work a little harder...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawanishi",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawanishi",
+   "Line": "There's actually one more place that suits you nicely on paper...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Wait, there is?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawanishi",
+   "Line": "Yes, but I didn't bring it up until now because it's a bit... Special...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Special...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawanishi",
+   "Line": "Still, it may be worth a look...\nThere's still the question of whether the property will interest you or not.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawanishi",
+   "Line": "So, if you'll bear with me for a while longer, I can try asking the landlady to let us visit today. How does that sound?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Then, okay...\nWe still have some time on our hands, so it'd be nice to shop around a little more.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00171",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Yes, we'd love to go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kawanishi",
+   "Line": "Then, please give me a minute while I try to get a hold of her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_walk_women_001_2",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "What do you think is so special about it...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "<What if it's haunted?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Oh! Maybe someone really scary lives right next door!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "I-I don't know about a haunted house, but I think we can handle having a scary person next door!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kawanishi",
+   "Line": "Thank you for your patience!\nShe gave us the green light to visit!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00632",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kawanishi",
+   "Line": "The group before us just finished, so let's start heading over right now!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "We get to see it?!\nThank goodness...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Thank you very much. Let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(Still, why's it so special...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "(What kind of house is it...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

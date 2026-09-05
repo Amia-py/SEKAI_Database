@@ -1,0 +1,828 @@
+{
+ "title": "Mixed Event — The Sounds of a Summer Festival! — Episode2 Summer Festival Invite",
+ "meta": {
+  "Event": "The Sounds of a Summer Festival!",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — Summer Festival Invite",
+  "Event Outline": "Akito and Toya are invited to perform at the Summer Festival's live concert as a substitute act. Back when Akito had lost sight of his goals after facing setbacks in soccer, he and Ena witnessed that very same event...",
+  "scenarioId": "event_29_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Live House",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "I don't think we even need to tally scores here. The BAD DOGS win! Talk about an awesome song...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00019",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "Hey, give us one more!\nYou gotta give us an encore!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Audience",
+   "Line": "Yeah! Just one more!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Looks like you've made some friends, BAD DOGS. What do you say, you two?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Why not?\nWe've still got plenty left in the tank too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see no problem with that.\nLet's keep singing for as long as we can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MC",
+   "Line": "Alright, BAD DOGS, give us an encore!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00019",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kamiyama Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<You guys, that was such an amazing show! The whole place was shaking because of all the cheering!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, it was a good show, but we can't let that get to our heads...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Right.\nWe still have plenty of room for improvement.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<What?! Really?! You guys can relax a little now, right? Aren't you guys not practicing for a while either?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<An said she's busy with stuff at home, and Kohane's gone off to that seaside school or something, so I feel like you guys can have some fun...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Look, they're not skipping practice because they want to. We even said that we'd get right back to it once we can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, which is why we shouldn't let our guard down just because Azusawa and Shiraishi aren't here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<You guys are so cool. That means I need to try harder too...>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "E-Excuse me...!\nYou're Akito Shinonome, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Len, mind hiding for a bit?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Okay!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You're...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Remember me?\nI'm Shota Hayashi. We used to play on the same soccer team in elementary school.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001302",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Elementary School Akito",
+   "Line": "Sorry for being such a useless Ace.\nBye...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "W-Wait!\nAkito, please don't quit...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Akito?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah, I remember. It's been a while...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "I'm glad you're doing so well! We haven't talked at all since you quit playing soccer.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Why are you here, anyway...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "Oh, right... I noticed you performing in that event just now and was wondering if I could ask you to do something...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh? You want us to do something?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "Yeah! I want you guys to perform in the live concert for the Summer Festival!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "The live concert for the Summer Festival?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "It's called the Shibuya Summer Festival. Every year, we invite artists and performers to play in the concert...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh, that festival.\nWeren't there like pro and amateur divisions for that?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "Yeah, looks like we're on the same page! I'm actually also a part of the planning committee this year.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You are?\nHow...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "My brother's on the committee too, but he said that they needed more people. Then I ended up having to lead all the concert stuff...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "And we just found out that our headliner for the amateur division can't make it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So you were out looking for a replacement?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "Exactly! Who would've thought I'd run into you like this, Akito...? You sounded amazing up there, so I'm sure you'd be able to make just a big a splash at the Summer Festival!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "So please, I need you guys to perform! I'm begging you...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...\nBy the way, do you know who else will be performing?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "Yes, of course! Here's a list of all the groups.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hey, hold up...\nThese guys are pretty much all dance teams.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "Yes, this year we've primarily been inviting dance teams to perform in the amateur division.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm sure you noticed during today's event that we're singers and not really dancers.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I hate to say this, but I'm not sure we'd fit into the overall theme you've established...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah. Everyone watching will want to see that sort of performance too, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "I completely understand how you feel...! But the headliner was also a singing group and not exactly a dance team.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "Our schedule has the amateur division headliner go right before the pros take the stage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "That's why we've reserved this slot just for someone that can really sing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "S-So, how about it?\nI'm sure you two would be able to handle it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm for participating in this event, Akito.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "He gave a reasonable explanation as to why he picked us, complimented our singing ability and made it clear that he needs our help.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "We even happen to be open just around the time of the festival too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "Does that mean...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But since we're gonna be surrounded by dance teams, we should include a little of that in our performance, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We have ages to prepare for this concert of yours, but you think we'll be ready in time?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "No, you don't have to do that! We'd be more than happy with what you usually do...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It'll pretty much be just dance teams before us, right? We'd just be shortchanging the crowd if we get up there and don't dance at all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It's just like you to think that, Akito...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But I have a feeling that our act will benefit from the addition of a few dance sequences, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "We won't be able to practice singing as much, but it may help us down the road by learning to do something new like this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Something new. Something other than singing... Somewhere new might be a nice change of pace too...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(And...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003603",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a003503",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, we'll do it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "What?! You will?!\nThanks! You're a lifesaver...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It looks like we have something to gain from this too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But again, we're not shortchanging the crowd. If we're gonna be the headliners, we've gotta sing AND dance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "Reliable ol' Akito...\nYou haven't changed one bit since then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shota",
+   "Line": "Again, thanks. I'll do whatever I can to support you guys along the way too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, just make sure to tell us once you've got all the details worked out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "And now we're performing in the Summer Festival...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I'm looking forward to it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You are?\nToya, does that mean you've...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I am genuinely excited about performing in this event and plan on doing everything I can to make it a success.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "However, it will also be my first time going to the Summer Festival, so I can't wait to see what it's like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, fine. Whatever...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Hey, can I come out now...?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, you should be fine now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Sorry about that, Len.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<No, don't worry about it!\nBut since you guys are going to the Summer Festival now, can I come with you?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Sure, but we're not going just to have fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<I know!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<But you're gonna be singing and dancing, right? So you'll be doing dance practices too?>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yup.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Then, can I help you with that?\nI even just got a new pair of shoes.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<They fit really nicely, so I'm thinking about turning them into my dancing shoes!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Dancing shoes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000089",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yeah, I was told that it's good to have several pairs of shoes for when you're working on complicated dance sequences!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Like this!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I see. That's very cool.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<I know, right?!\nI was saying how my old shoes were getting worn out, and KAITO just ended up giving me a brand-new pair!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So that's what happened, huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Then why don't we practice in SEKAI?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "And shoes just for dancing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I never really thought about it, but can't we just use what we usually wear for this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I've looked this up before and found that dancing shoes, such as ballet slippers, aren't necessarily made of anything special.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But it's also apparently good to choose them based on their lightness or purpose, such as if they can handle tough step sequences.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I had no idea...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I doubt our current shoes will hinder us in any way, but it may be good to have a separate pair if we do plan on getting better.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Maybe...\nI'm not trying to copy Len, but it would be a source of motivation too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wanna go check some out after practice?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "<Yay!\nTell me once you're done, alright?\nI can't wait to see what you get!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Okay, wanna call it a day?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Thanks for planning our after-party, Ena. It was really fun.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "I'm glad you enjoyed yourself, Mizuki, but you're doing everything next time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Haha. Well, if I have time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Ugh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(There's still this divide between us...\nNormally, I wouldn't have to go as far as saying that I'd plan one of these to get it off the ground...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "(I even promised myself to just wait and see...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "Okay, I'm going home now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "Oh, yeah... Bye.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Bye bye!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Oh, I almost forgot. I wanted to visit the CD shop on the way back, so I'll go with you until then, Mafuyu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Is something wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mafuyu",
+   "Line": "It's blocked...\nThey're doing construction.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kanade",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "You're kidding. This whole road's blocked until the main intersection? I have to figure out a different way back..",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "You know, it's sort of a scenic route, but wanna try going around and through that park over there? We can head straight for the station once we're out.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "That's pretty far and it's still hot out, but I guess we don't have much of a choice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "I mean, you and Kanade don't get enough exercise anyway, right? It'll be good for you two.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ena",
+   "Line": "You hardly look all that different from me, Mizuki. Don't put yourself up on a pedestal, alright?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mizuki",
+   "Line": "Alright, alright.\nAnyway, let's go!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

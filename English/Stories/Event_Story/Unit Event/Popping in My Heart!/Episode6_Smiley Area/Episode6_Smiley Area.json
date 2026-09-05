@@ -1,0 +1,653 @@
+{
+ "title": "Unit Event — Popping in My Heart! — Episode6 Smiley Area",
+ "meta": {
+  "Event": "Popping in My Heart!",
+  "Event Type": "marathon",
+  "Episode": "Episode6 — Smiley Area",
+  "Event Outline": "Emu takes part in a discussion with her brothers regarding future operations of the park. However, each idea she puts forth comes up against issues of feasibility, leaving her determined to educate herself. That's when she gets the news of an opportunity to visit Mr. Riley's park...",
+  "scenarioId": "event_46_06"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d001901",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Riley Dream Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Compass Center",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "*Sigh*\nWe ended up taking the scenic route, but we're finally here... ",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Do you guys see her parents?\nHmm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lost Girl",
+   "Line": "Mommy! Daddy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00232",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Girl's Mother",
+   "Line": "Mary......!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh...!\nThat must be her mom.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah, and it sounds like her name's Mary!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Also, I'm glad she was able to find them right away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, her mother seems relieved as well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Girl's Mother",
+   "Line": "Thank you so much for taking care of our daughter!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "She's thanking us for looking after her.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe! You're welcome!\nI'm glad everything worked out, Mary!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00232",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Mary",
+   "Line": "Thank you, Emu!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00121",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Mary",
+   "Line": "That was a fun adventure!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wait, did she just...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, she thanked Emu for taking her on such a fun adventure.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe...!\nI had fun too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00028",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "<That was beautiful!\nShe was all smiley in the end!>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "<Yes, she was.\nShe must've been so happy to see her parents.>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "<Yeah!\nA happy ending for everyone♪>",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It took us a little while but, yes, we managed to accomplish our goal!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "To be fair, I was pretty worried about what would happen after she cemented herself in front of that roller coaster...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "On the other hand, our splendid little guide here taught us quite a bit about this place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yup!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh no...!\nIt's almost time for us to meet Mr. Riley!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What? Already? We should hurry.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We'll find him at the “Smiley” area, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "“Smiley”... As famous as it is, I didn't realize it was one of Riley Entertainment's works...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Let's go, you guys! Hurry!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I wanna get there as fast as we can and ask him lots and lots of questions!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh...?! Emu, wait...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "“Smiley” area",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Where's Mr. Riley...? Oh, there he is!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, he's in front of the merry-go-round. Mr. Riley!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00064",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "Hello there!\nDid you get to enjoy the park?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes! We had a wonderful time going around your park today!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "We certainly did.\nIt's easy for anyone to strive to make everybody smile...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But this park goes above and beyond that. It's a truly marvelous place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I agree.\nLiterally everyone seemed to be smiling or laughing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "That's wonderful to hear!\nI'm glad I invited you all here today.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "Also, you mentioned that you had some questions for me. Ask away...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, me! Pick me!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "Aren't you an energetic one?\nFire away, Emu.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I realized today that this is the “smiliest place in the world” after experiencing everything firsthand!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "It was clear that you put lots and lots of thought into how to make it so everyone who visits would smile...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So, um... I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I want to ask how and when you “know” that you're making the right decisions.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "I see...\nThat's a very good question, young lady.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "For instance, the “Jungle Music” area posed a significant challenge for us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "We wished to provide the experience of adventuring through a “real jungle”, which initially led me to attempting to plant trees from an actual rainforest here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Wait, real ones?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "Yes. My goal was to have our visitors have fun while getting a chance to walk in the shoes of the characters from that movie.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "Unfortunately, budget constraints prevented that from happening. It would've cost far too much to care for tropical trees in this climate.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "On top of that, the main area required more help than I realized, which left me shorthanded.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(*Gasp*\nThe same thing happened to us...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So your park doesn't always have the resources it needs, Mr. Riley?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "Of course. The movie itself did very well, but there are always limits in terms of manpower and funding.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "As a result, we had to scrap our idea for bringing a “real jungle” here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "It sounds like you didn't have much of a choice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "But it's not like we completely gave up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "How do you mean...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "We consulted with some botanists regarding how we could simulate the real thing. Those trees may be manmade, but they help create a very jungle-like atmosphere.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "Thanks to them, we were able to come very close to what we wanted. After that, we just had to build some waterfalls and research what jungles sound and even smell like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "What they smell like...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But these trees are imitations...\nAnd yet, it feels like we've wandered into a real jungle for some reason...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Now I understand...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "We've been fortunate enough to be able to construct an artificial jungle that all of our visitors can safely enjoy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "We had to perform a balancing act between our goals and what was actually possible. By doing so, we were able to create this wonderful place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00137",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "I'm sorry, it's someone from the office. You'll have to excuse me for a minute...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "What's wrong, Emu...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Huh?\nN-N-Nothing!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "There's no way that's true.\nYour smile's turned upside down.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I noticed that you were hurriedly writing down quite a few notes while our little friend took us around the park.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "We've discussed this before, haven't we...? If something's bothering you, please tell us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'm so sorry, you guys!\nI didn't mean to hide anything from you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "It's just... He's so amazing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00034",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Who? Mr. Riley...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah. It's like he always “knows” what to do to move forward even if he doesn't have what he needs...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And how I'm nothing like him...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm? Where's this coming from?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "For as long as I can remember, I kept saying that I'm going to make the Wonder Stage and Phoenix Wonderland “a place that makes everyone smile”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But I didn't actually know what to do until you guys came along...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "You came up with the idea of us doing a night show, didn't you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "No!\nThat was just something that was floating around in my head. You're the one who made it a reality, Rui.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And it's not just you.\nNene made everyone smile with her singing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Tsukasa used his sparkly powers to convince the other cast members to help us, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "While I... I just had my head in the clouds...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I couldn't help even when it came to trying to convince my own brothers...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Emu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "That's why I've been trying really hard to learn how you guys, including Mr. Riley, are able to make everyone's dreams come true.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So it's true that I had a lot on my mind, and I'm sorry for making you guys worry so much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, I agree that being able to make everyone's dreams come true is very important...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "But, Emu, you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "That settles that! Thank you for waiting!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huh?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "Hm? Is something the matter?\nIt's like a somber mood's come over all of you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, well... We were discussing something and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "W-We'll be fine!\nWe can discuss this later!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Right...!\nWe'll hammer this out when we have more time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "Are you sure?\nWell, if you say so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "Anyway, I had you all meet me here today because of what I've been meaning to show you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Show us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Riley",
+   "Line": "Yes, it's this...",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,513 @@
+{
+ "title": "Mixed Event — Never Give Up Cooking! — Episode4 The Taste Tester",
+ "meta": {
+  "Event": "Never Give Up Cooking!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode4 — The Taste Tester",
+  "Event Outline": "Tsukasa and Saki invite Toya over for a party. With White Day approaching, he wants to give something back to the two of them. He tries his hand at baking from scratch, with varying results...",
+  "scenarioId": "event_87_04"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_a000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kamiyama High School - School Gate",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I'll be baking cupcakes with Miku today after school...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(After what happened yesterday, I thought that my plan had completely fallen apart... But I may yet still have hope thanks to Miku.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I need to succeed this time.\nI'm going to bake some cupcakes that Tsukasa and Saki will really enjoy.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hey, Toya.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Ah, Akito, good morning.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You were smiling just now...\nDid something good happen to you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Not quite, but...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Really? And you're gonna bake them yourself...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I say go for it.\nI think it's good that you're trying something new.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, me too.\nAnd I'm hoping they turn out well.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But you don't really like sweets...\nHow are you gonna know if they're good?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Ah, yes...well...\nI'll be able to tell by...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No, you're right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I don't eat sweets on a regular basis, so there really is no way for me to properly judge how they taste.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Why didn't I realize this sooner...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Hey, there's no need to beat yourself up over this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You're making them with Miku, right?\nWhy don't you just have her taste test them?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I see.\nBut...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "It would be nice to also hear from an independent adjudicator.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Wait, Akito, I know...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "No, don't get your hopes up. Unfortunately, I have work today after school...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Sorry, I wish I could find you a replacement...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00005_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Uh oh. Homeroom's about to start.\nLet's go, Toya.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00134_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Lunch break",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I couldn't find a taste tester...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I suppose I can ask Len, KAITO or someone else later after school...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Hello there. Do have a minute?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Kamishiro!\nWhat are you doing in the first years' corridor...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I was hoping to speak with you for a bit. Remember that little discussion we had regarding gifts?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, about that... After we spoke, I took your idea and decided to bake some sweets.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I didn't quite succeed yesterday when I tried... But I found someone who can teach me and we'll be remaking them today after school.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "That's good to hear. I'm sure Tsukasa and his sister will enjoy your gift. Also, they seem to be looking forward to that dinner party you mentioned very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "They are?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, I came here to mention that.\nI actually met with him earlier today and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Tsukasa, do you have a minute?\nThere's something I need to tell you regarding practice for our next show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Cover the beef in salt and pepper... Add vegetables and let it stew...? Hm? You throw in the herbs with it here? The order for this recipe is a little different from the other one I saw...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Oh, Rui! My apologies! I didn't see you! How long have you been standing there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Only for a second. Also, what were you mulling over just now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, we've invited Toya over to our house for a dinner party, and I was just reviewing the recipe for the dish we'll be making...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "A dinner party...?\nI see. That explains why your brow was so furled.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Indeed! Since Toya will be visiting, we want to make our party as enjoyable as possible!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Speaking of which, Rui, let me hear what you think! I've been trying to decide which of these dishes we should make...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "He really couldn't stop talking about you. As such, he's been working very hard to make sure you enjoy yourself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "He has...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you for telling me this...\nNow I feel an even greater incentive to give them something nice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "You're welcome, and I wish you the best of luck. Also, feel free to ask if you think you need any help.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(If I need any help...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Sorry, I wish I could find you a replacement...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Maybe I can ask Kamishiro...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(No, but... He's busy preparing for a show. Asking him to be my taste tester seems...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Is something the matter, Aoyagi?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, um... So, the thing is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00180",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I see. You need someone to taste your creations...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I'd be more than happy to help.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "R-Really?\nAre you sure?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, since I was the one who originally suggested that you make some sweets yourself. And did I not just say that you're free to ask me for help?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Still, I'm not exactly a culinary expert myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No, that's okay.\nI just want to hear your honest opinion.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I see. I should be able to do at least that. So, when do you need me to taste test for you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Well, we have tomorrow off...\nSo I won't be able to bring them to school until next week.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(But I also have practice with Akito and the others. I'd like him to do this as soon as possible...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I take it you need me to do this soon?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Y-Yes... If possible...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, but we can't do much about our day off tomorrow...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I know. If you're okay with it, why don't I come over to your house and taste test for you there?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Wait, but... I'm already asking so much of you... Also, I'm sure you're very busy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I don't mind.\nAlso, we're not having practice today for our show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Really...?\nThank you very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(But I'll be making them with Miku...\nI can't let him see her...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Ah, no... I can just...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Then, would you mind coming over this evening around six? I'll make sure to have them done by that time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Okay, that's fine with me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "So, I'll see you then after school.\nI'm looking forward to seeing what you bake.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Y-Yes, thank you very much.\nI'll do my best to not disappoint you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

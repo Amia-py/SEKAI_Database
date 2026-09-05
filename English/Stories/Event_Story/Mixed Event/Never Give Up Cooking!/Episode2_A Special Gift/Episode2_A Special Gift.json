@@ -1,0 +1,703 @@
+{
+ "title": "Mixed Event — Never Give Up Cooking! — Episode2 A Special Gift",
+ "meta": {
+  "Event": "Never Give Up Cooking!",
+  "Event Type": "cheerful_carnival",
+  "Episode": "Episode2 — A Special Gift",
+  "Event Outline": "Tsukasa and Saki invite Toya over for a party. With White Day approaching, he wants to give something back to the two of them. He tries his hand at baking from scratch, with varying results...",
+  "scenarioId": "event_87_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Street SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Crase Cafe",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00006_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Hello?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(MEIKO said that it'd be okay for me and Akito to enter, but I'm still not sure if I should have...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Okay, all that's left is to take this dough and let it cool in the fridge!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, and we need to be careful to not touch it too much. Otherwise, the butter may melt away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Okay! Got it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(They seem to be making something in the kitchen together... But what...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, that's it!\nJust wrap it in plastic and... Hm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, Toya! Welcome!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh?! T-Toya?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm sorry for interrupting. I heard that you had this place to yourselves today... Shall I leave?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Not to worry! Oh, but... If you don't mind waiting a second, we need to wrap this in some plastic first. So, Len, let's get to it...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "O-Okay!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Phew... Thank you for waiting, Toya. I apologize for us being a little all over the place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00018",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "No, that's okay.\nMore importantly, that looked like...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "U-Uhh...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "We were actually just making some cookies.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "K-KAITO, why'd you tell him?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Haha! Sorry, but I had a feeling that he'd find out regardless of whether or not we told him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'm sorry. I didn't mean to spoil your secret.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh, no. That's totally fine!\nIt's actually okay if you know, Toya.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But please don't tell MEIKO, Rin or the others. We want to surprise them with these!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Surprise them...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "It's almost White Day, right?\nSo, we want to give them some gifts.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But it wouldn't be much fun to give them something simple, so I thought I could make them their gifts. KAITO was just showing me how.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see. Now I understand...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Truth be told, MEIKO is a much better baker than I am. However, they're meant for her, so we can't really ask her to help us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I agree.\nI hope they turn out well, Len...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Me too! Oh, also...\nDon't tell Kohane or An too! I wanna give them some too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Okay, I promise not to tell them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Still, White Day...\nI'll need to think of something soon.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Do you know who you're going to be giving back to, Toya?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Well, I plan on giving back to those important to me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Azusawa, Shiraishi, my mom...\nMEIKO, Miku, Rin and Luka.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Haha! It sounds like you also have a lot of recipients in mind.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "But I think it's good that you wish to show so many different people how much you appreciate them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(People who I wish to show my appreciation for... Now that I think about it, that is a fairly long list...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Then, I'd like to give back to them as well...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(We're even having our dinner party right around White Day, so it can also be my way of thanking them for inviting me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Toya? Is something wrong?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Oh, no... Actually, some friends I've known since I was little invited me over to their house for a party.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So, I was just thinking that I could do something for them in return.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Then, you should come up with something really nice for them! After all, we're talking about White Day here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Something really nice...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I agree with you.\nI'll try giving this some more thought.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "It really is wonderful, isn't it?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Huh? What are you talking about?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Me? Why, White Day, of course.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I mean, even if you wish to show others how much you appreciate them, opportunities to say how you actually feel don't come often, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "However, having an entire day dedicated to doing just that makes things much easier.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "For instance, Len here has trouble expressing how he truly feels, but is working very hard in preparation for White Day to make up for his shortcomings.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "H-Hey, don't phrase it like that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Oh, just outside the window... Isn't that Akito?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Ah, yes...\nIt's almost time for us to meet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But... If we don't act quickly, Azusawa and Shiraishi will also end up coming here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Len, I'm going to explain what's going on to Akito and try to move our meeting location...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "You will? Thanks, Toya!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Not a problem. So, you two, good luck baking those cookies.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Thank you! Have fun at practice, Toya!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few days later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shopping Mall",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(*Sigh*\nThey really do have a large assortment of sweets and snacks available here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I hope I'm able to find something that both Tsukasa and Saki will like...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(This shop seems to primarily make baked sweets...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Madeleines, macarons, poundcakes and all sorts of other treats.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(I'm not the biggest fan of sweets, but I have a feeling that Tsukasa and Saki will like something from here.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(No, wait...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(They'll probably end up liking whatever I give to them...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(In that case...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Then, you should come up with something really nice for them! After all, we're talking about White Day here!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Something really nice... That's easier said than done.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "What should I do...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00097_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Ah, Aoyagi, hello there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Kamishiro...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Fancy seeing you here.\nWere you browsing gifts for White Day?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00020",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "How did you know?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Well, you were staring at that display case full of sweets and sighing. It was easy to connect those two dots.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "More importantly, you seem somewhat concerned... Were you having that much trouble deciding what to buy?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I was just...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Wait, Kamishiro works with Tsukasa at the same show stage...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(He may be able to give me an insight into what Tsukasa likes...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "(Then...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Um, actually... Would you mind if I asked you for some advice?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "No, I don't mind since I've already finished doing what I came here to do.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you very much. Then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I see...\nSo you wish to give Tsukasa and Saki something very special.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, and you spend quite a lot of time with Tsukasa. That's why I was hoping you could give me some advice regarding him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, well... I don't know Saki all that well, but I may be able to help you with Tsukasa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "At the same time, I feel that they'd like whatever you choose to give them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I had a feeling...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "But it seems like you won't be satisfied with just that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So, um... I'd like to get them something really nice. Something they'd both genuinely enjoy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hmm... Then, why not make some sweets for them?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "What? Make some for them...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. I was actually fortunate enough to receive some homemade gifts for Valentine's Day from my fellow troupe members, and I sort of couldn't believe how happy I felt.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It was a strange sensation.\nI tried thinking about why I felt that way...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "And I ultimately arrived on those gifts being imbued with their respective giver's thoughts and feelings.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Their thoughts and feelings...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes. You could even tell that each gift they made was for a specific member of our troupe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Of course, there are countless ways to convey how you feel to others...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "With one of them being making something for them. Which I'm sure they'll both enjoy very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Yes, I see...\nThat is a wonderful idea.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But, I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I did actually think about making something for them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But I don't have much experience cooking or baking... I'm afraid that I'll disappoint them by making something that isn't very good. So, I've been shying away from that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hmm... I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "But I've begun to change my mind after hearing what you said, Kamishiro.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I'd like to make something for them that comes from my heart...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So, thank you for the advice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "You're welcome, and good luck.\nI hope they like what you make for them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Me too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

@@ -1,0 +1,848 @@
+{
+ "title": "Unit Event — Friendship Rebuilt — Episode7 Unfading Bonds",
+ "meta": {
+  "Event": "Friendship Rebuilt",
+  "Event Type": "marathon",
+  "Episode": "Episode7 — Unfading Bonds",
+  "Event Outline": "In the wake of iHaz, MORE MORE JUMP! are inundated with work offers. After taking a fresh look at their schedule, Airi and the rest of MMJ consider adopting a work style that makes use of the credit-based course.",
+  "scenarioId": "event_92_07"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Stage SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "That really happened...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "So, how are things between you, Ayumi and the others now...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "We're still friends.\nWe still greet each other when we pass by in the corridor and stuff.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "But I don't really get messages from her anymore. We haven't spoken in so long...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I don't think there's anything I could've done about all that. At the same time, it still hurts to think about it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Airi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "It's why I'm afraid that Minori's also going to start drifting away from her friends...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Of course, I'm not saying that's the only possible outcome. I mean, I still hang out with some of my friends from junior high...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "It's just... I can't help but feel worried...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I'm actually not so sure...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes, I agree that being a busy idol means not being able to spend as much time with your friends...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "However, I doubt the bonds you forged with them would disappear because of that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh... You think so...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000185",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00039",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I believe that the bonds friends establish are no different from one's feelings.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Our feelings...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Yes. When people form relationships, they always do so by developing some manner of feelings for one another...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "What those feelings are depends on their situation... For example, two friends may want to be kind to each other...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Once those feelings have been firmly established, it seems unlikely that they'll fade easily, even if you were to wish to get rid of them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Just like your own feelings...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "They don't fade...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Hehe. I take it you two know what I mean?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "The desire to spread hope to others as idols. That feeling never left us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "You're right. Even though I once thought it faded away completely.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "See? That's why I believe the bonds you forged with your friends are just as stubborn.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Just as you still possess feelings for them, Airi, I'm sure they also still feel the same way about you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I have a hard time believing that such bonds would break so easily.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Airi, I agree with what he's saying.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Because how wonderful would it be if you found a way to rekindle the friendships with the people you've become estranged from after all these years...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Also, even if something were to happen that meant you and I ended up drifting apart...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I'm sure that the warm kindness I sense in you would never really go away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Even if I were to forget all about it, I know I'd remember in time. So, I think things are going to turn out just fine...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Shizuku...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Just like our feelings, the bonds we've forged never really fade or break...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah, I wanna believe that too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Airi...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "KAITO, everyone, thanks for listening to my story.\nI'll take what I just learned and try thinking about this some more.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "You're welcome.\nAnd good luck, Airi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "The next day - Lunch break",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Miyamasuzaka Girls Academy - Courtyard",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "See? That's why I believe the bonds you forged with your friends are just as stubborn.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Just as you still possess feelings for them, Airi, I'm sure they also still feel the same way about you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I have a hard time believing that such bonds would break so easily.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Yeah, I'm sure he's right.\nThose kinds of feelings don't just disappear...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(I mean, just look at me...\nI still feel awful about what happened with Ayumi.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(There's no way I'd be filled with so much regret if those feelings were gone from within me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Still, if that's the case...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Is it okay for me to see for sure...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(If there is a way for me to check...\nWould that change things?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Would it be like old times...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Then, I'll be waiting in the courtyard! Don't take too long with whatever the teacher asked you to do, okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Isn't that Ayumi...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Here? Now? But why...? What are the odds...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(No, we go to the same school...\nIt's completely normal for us to spot each other from time to time.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b001001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I have a hard time believing that such bonds would break so easily.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Because how wonderful would it be if you found a way to rekindle the friendships with the people you've become estranged from after all these years...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Also, even if something were to happen that meant you and I ended up drifting apart...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "I'm sure that the warm kindness I sense in you would never really go away.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Even if I were to forget all about it, I know I'd remember in time. So, I think things are going to turn out just fine...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "*Wince*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "A-Ayumi...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "A-Airi...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Umm... Long time no see. How have you been?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "Oh, um... Yeah, it's been a while...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "But... What's gotten into you all of a sudden?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "So, um... I, well...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(I called her name without really thinking... What am I supposed to talk about with her...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "Airi...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I... I was just wondering how you've been doing lately...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "How I've been doing...?\nYou know, the same old, same old...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh, okay... Sorry for asking you out of the blue...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "No, that's okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(What do I do...?\nI don't know what to say next...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Does this mean things are never gonna be like old times...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "Um, so... Airi, how have you been?\nI know you've been really busy lately. Are you holding up okay?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "I watch your streams from time to time. Everyone's been talking about MORE MORE JUMP!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00175",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "You've been watching...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "Yeah, my friends told me about them.\nYou always look like you're having so much fun, Airi, and it really puts a smile on my face...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "R-Really...?\nThanks. I'm so happy to hear that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "Of course! Also, I'm really glad for you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "Remember how you took a break from being an idol? I was so worried for you then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "But I guess that's too little, too late...\nI really couldn't do anything for you back then.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "No, that's not true... But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "You were that worried...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "Yeah. I mean, we're friends, aren't we?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "But that also sounds like just words... Before I knew it, we sort of stopped talking to each other...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah... A gap began to slowly form between us after that field trip...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "*Nod*\nI didn't want to feel like a bother to you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "But that led to talking to you less and less, which only caused us to drift apart more and more... Eventually, I felt awkward even just trying to start a conversation with you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I'm sorry. I didn't mean for any of that to happen...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "You were never a bother...\nI was afraid of disappointing you by making promises I couldn't keep. It's my fault for not being more honest...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Even back then, I kept wishing that I could hang out with you and the others more...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00216",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "You did...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Yeah. All the messages you sent me gave me a lot of encouragement too.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "But I never told you just how much that meant to me.\nI'm really sorry, Ayumi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "No, please... You don't need to apologize.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "I mean, Airi, you're here talking to me again, aren't you?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "Because you decided to come over, we're having a real conversation now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "You worked up the courage to do what I was too scared to...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Ayumi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "I've been wanting to talk with you forever too, Airi.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "We don't have to eat lunch or hang out together like we used to. I just want to stay friends with you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "I feel the same way...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "Really? Thank goodness...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "Um...\nWould it be okay if I started messaging you again?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "I know we won't be able to hang out much and that I might be interfering with your work...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "But I want to go back to having a real friendship with you, Airi...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Of course! Message me all you want!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "It might take me a while to respond, but I promise to always get back to you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "And let's hang out again sometime.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Like old times...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ayumi",
+   "Line": "Yeah...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(What happened? This feels so weird.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Just a second ago, I thought none of this would be possible...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(I didn't think it'd be this easy to see if there was anything left of our old friendship. But all I had to do was talk to her...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000602",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "So, Airi, did that happen to you...?\nDid you and your classmates become more and more distant because you were credit-based...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a002201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(How would I respond now if Minori were to ask me the same question...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Yes, there's going to be some distance or awkwardness between you and your friends if you go credit-based...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(But that doesn't mean all your relationships are gonna unravel or fall apart.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Just don't give up... Believe in the bonds that you and your friends forged...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(All you need to do is work up a little courage and tell them how you really feel...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(Then, you'll get to keep being friends...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

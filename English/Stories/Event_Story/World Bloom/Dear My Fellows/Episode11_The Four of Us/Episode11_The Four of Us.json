@@ -1,0 +1,608 @@
+{
+ "title": "World Bloom — Dear My Fellows — Episode11 The Four of Us",
+ "meta": {
+  "Event": "Dear My Fellows",
+  "Event Type": "world_bloom",
+  "Episode": "Episode11 — The Four of Us",
+  "Event Outline": "Having trained with three famous troupes, Wonderlands×Showtime has certainly grown. While checking for any changes in their SEKAI, they hear of a problem with the tree, and are shown a world where they are each chasing their own dreams.",
+  "scenarioId": "wl_wonder_02_11"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d002501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Wonderland SEKAI",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Tsukasa! You guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "*Gasp*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Huh? Where are we...? Aboard a ship...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We were just doing a show at the Wonder Stage...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "A show?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "What?!\nYou guys all dreamt about doing a show?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh? Dream? What are you talking about...?\nWe were really just doing a show, and...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "I don't understand.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "You all became enveloped in that light and suddenly fell asleep.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Yes. After that, we decided to carry you all here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "R-Really...?!\nHmmm... Now my head's spinning!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Mine too... But we somehow managed to get back...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, it would seem so...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "However, even if we did fall asleep, I doubt that was any ordinary dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, you might be right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "It felt so real.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_men_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_run_women_001_1",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Y-Y-Y-You guys!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "We have super big news!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Huh? Rin...?! Len...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Oh, you guys are all awake!\nThank goodness... We were so worried!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "*Nod*\nTh-Thanks...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Still, you two seem very anxious.\nWhat was this about big news...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Oh, that's right!\nSo, the thing is...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "That tree grew really big all of a sudden!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The tree...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wh-Wh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "What in the world happened?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "When we saw it earlier, it was a lot smaller... How is this even possible...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "It's so big...!\nBigger than you, Rui!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Robo-Nene",
+   "Line": "It has grown at a tremendous pace.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "So, Rui, you guys all fell asleep after you touched the black stuff on the tree.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "After that happened, we started inspecting every inch of it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Yeah, we wanted to see if we could find a way to wake you guys back up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Then, all the black things suddenly started to glow bright white...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "It was so bright that we ended up closing our eyes, but once we could open them back up...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "It had grown this big, yes?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wait, that still doesn't explain anything!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But all the black fragments are gone.\nDoes that mean it's all better now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I don't know if this is the case...\nBut what if the tree used those fragments to grow to this size?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "You mean it used those awful-looking things...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Now that you mention it, MEIKO said that those flecks resembled fragments of feelings... But they weren't exactly the same because they were all black...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Then, did they make you guys have that dream...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "That's certainly a possibility.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "Come to think of it, what was your dream about exactly...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Ah, that's right. We hadn't fully described what happened yet. As for me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "So, you all dreamed about your troupe becoming separated...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes. We'd chosen to go our separate ways and pursue our dreams on our own.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And for some strange reason, we couldn't really remember anything about SEKAI or any of you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Really...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "But why did it make you have that kind of dream...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "I have no proof of this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "But those fragments may've shown you that dream because of the feelings that lingered within all of you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Feelings that lingered within all of us...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "The fear that you'd become separated and never see each other again. You've all considered the possibility before, no?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "As we all know, that never came to pass. But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "It doesn't seem too farfetched to think that all the doubts, worries and pain you'd been harboring managed to manifest in SEKAI right at that moment.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "So, I have a feeling that you saw that dream because you had those feelings lingering inside of you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "In other words, it took all those feelings and showed us a world of “What if?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "But I thought this was Tsukasa's SEKAI.\nWhy were we able to see that dream?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "There's a simple answer to that...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "Yes, this is indeed Tsukasa's SEKAI, but you and the others can come and go as you please.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "MEIKO",
+   "Line": "So, it certainly wouldn't surprise me to hear that your feelings are also able to affect this SEKAI.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "D-Does it really work like that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Again, these are just possibilities.\nBut the fact is that the stronger your feelings are, the greater the impact you'll have on SEKAI.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, I think I understand now.\nIn layman's terms...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "The pain and conflict we endured long ago has come back to help us grow! Does that sound right...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Huh...?! How did you arrive on that...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hm? I thought that was the obvious conclusion from the start.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Think about it.\nOur tree here grew to this tremendous size after absorbing all those black fragments.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "And from the sound of things, those fragments seem to have represented all of our worst doubts and fears. Which means...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "We need to overcome that pain and suffering. No, not just overcome it. We need to turn it into nutrients for growth...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00209_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Len",
+   "Line": "Hmmm... I sorta get what you're trying to say, but also don't...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Hehe...☆\nBut it's a super duper great expression of who you are, Tsukasa♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah!\nIt's got this bang-boom-zippity-zoom feel to it☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Hah hah hah! I'll take that as a compliment.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "*Sigh*\nHonestly, you guys are way too positive...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "That being said...\nI did learn a few things from that dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00318",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Luka",
+   "Line": "You learned a few things?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Yeah. Even though I kept pursuing my dream after we went our separate ways... A lot of things didn't go too well for me on my own.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "So, I realize now just how incredibly important it was for me to stay with you guys and grow together as a troupe.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "I know what you mean.\nI honestly felt a little relieved when I realized that it was all just a dream...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "As interesting a dream as it was.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah...\nWhen I woke up and saw you guys next to me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I started tearing up a little.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Our dreams mean everything to us.\nThat will never change.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "However, it's nice to have your friends by your side while you're chasing after them...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Because we make each other stronger!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I was reminded of just how precious the time we get to spend putting on shows together is.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "I learned that there are certain lessons and experiences we can only have together!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah...!\nSo, let's keep doing everything we can together☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "KAITO",
+   "Line": "Hehe. And we'll keep watching over all of you as you try to make your dreams a reality... We'll always be here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Yes, we greatly appreciate your support!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hey, wanna head back and start practicing for that show?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Nene",
+   "Line": "Oh, right... I totally forgot about that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Hehe. That dream did sort of make us lose track of time.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Right.\nEven though we're all back, I still don't feel like I've fully returned...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "So, why don't we do something to refocus our attention on the task at hand?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Like our usual chant. It feels like it's been so long...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rui",
+   "Line": "Yes, that seems like a nice idea.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Miku",
+   "Line": "Woohoo☆\nThen, we'll join you guys♪",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rin",
+   "Line": "Yeah! With big smiles☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Alright, Emu!\nYou have the honors! Take it away!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Okay☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Everyone!\nLet's keep trying really hard and doing everything we can together☆",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Ready?!\nWon-Won-Won-Won...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Everyone",
+   "Line": "Wonderhoy!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Movie",
+   "Line": "link2_wonder_sapling",
+   "_kind": "Effect"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

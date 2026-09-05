@@ -1,0 +1,638 @@
+{
+ "title": "Unit Event — Live with Memories — Episode2 Estranged Brother and Sister",
+ "meta": {
+  "Event": "Live with Memories",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — Estranged Brother and Sister",
+  "Event Outline": "The wind is in Leo/need's sails as the band continues performing and starts to build its own fanbase. But then, they encounter a brother and sister, who are Leo/need fans, having an argument.",
+  "scenarioId": "event_56_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Outside the live house",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Those two that are arguing... Aren't they...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Ugh... I'm done talking to you!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Hanano!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00052",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "...!\nI-I'm so sorry!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Wait...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00100",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Hanano!\nWe're not done talk... Wah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_memories_2022_003",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Watch out! That car's going to...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_memories_2022_004",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00210",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Driver",
+   "Line": "What did you do that for?! Are you nuts?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "I-I'm sorry!\nOw...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_memories_2022_002",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00134",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Are you okay?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Oh, sorry about that... But I'm okay.\nI just scraped my elbow a little by trying to dodge that car...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Wait, aren't you from Leo/need...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Oh no! Your elbow!\nThe blood is seeping through your clothes too!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Wh-What do we do...?!\nWe need to treat you somehow...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "No, that's okay!\nI don't want to be any more of a bother...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, you won't be a bother.\nLet's just get you cleaned up first...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Shiho, does the live house have a first aid kit? We'd only need a couple of things to properly treat him.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Yeah, there should be one.\nI'll go get it now.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "That and... We should find a place for him to sit! Know any good spots nearby?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh, let's try the park!\nCan you stand?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Th-Thank you very much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Shibuya Park",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "There...\nAll cleaned up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Thank you.\nI really appreciate it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Nothing broke as far as I could tell, but it still might be a good idea to have someone at the hospital look at it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "???",
+   "Line": "Okay.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "Um... You're Leo/need, right?\nIt's nice to meet you. My name's Yota Yoshizaki. I'm always at your shows and really enjoy hearing you play.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh... Th-Thank you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "You're all probably really tired after finishing that show... So, thank you all very much.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "No, it's okay.\nYou don't need to thank us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah!\nHonestly, we should be the ones thanking you two for always coming to see our shows!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "Huh?\nFor always... Wait, you recognize us?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Yes. You two are always at the front, right?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "You both always look like you're really enjoying yourselves, so it was hard not to notice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "I never would've guessed...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "I can't believe you remembered who we are. My little sister's going to be ecstatic when she hears that Leo/need knows who we are...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "Um... I know that this is asking a lot...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "But if my little sister comes and sees your next show, would you mind talking to her for me...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "She's still in junior high, so I'd really like it if she's with someone she knows when she goes to the live house...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "Wait, what are you saying...?\nYou're always with her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "The thing is...\nI won't be able to go to any more shows.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "What? Why not...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "I'm trying to stay away from her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Did something happen between you two?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "Our parents got divorced...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00016",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "I-I'm sorry...!\nI know it's a personal matter and not something I should be discussing with others...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "But Hanano and I have been living away from each other ever since the divorce was finalized last year...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "Yes, but...\nWe're both worried about each other's home lives, so we've been meeting a few times per month like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "That was when we learned about your band...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "The divorce left Hanano in a really bad place, but she's been much happier ever since she started attending your shows.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "Apparently, your music speaks to her by saying, “You're not alone. Let's get through this together.” Oh, needless to say, I'm a big fan too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "You are...?!\nHehe. Thank you so much!\nWe're really glad to hear that!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "Same here.\nEspecially since Hanano's been having so much fun going to your shows.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "That explains why you two are always at the front.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(But they like hanging out with each other despite having to live apart... How does that lead to him not wanting to meet anymore...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "For a while, we didn't have any problems seeing each other...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "But about six months ago, our dad remarried and wound up starting a new family...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "A new family...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "Hanano began to think that she didn't belong at home anymore and asked me if we could start meeting more often...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "That's so rough...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "It really is. I'm sure they're not bad people or anything, but Hanano just doesn't feel comfortable knowing that she's living with strangers...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "Initially, I thought I could keep an eye on her while she adjusted to her new life.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "But as time passed, we began seeing each other more often...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "And just the other day, after I suggested that she spent more time with her new family, she said, “I don't need my new family because I have you, Yota.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "That was when I realized that she won't try to get along with her new family as long as her old one's around... Including me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "I want to help support Hanano, but realistically, I can't be there for her forever...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "In terms of what's best for her future, I feel like she needs to learn to get along with her new family.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "Which is why...\nToday, I said, “We need to stop meeting like this.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Is that why...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "???",
+   "Line": "You big dummy...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "I was just trying to ask her to get to know her new family better, but I guess it didn't come out right...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(They ended up fighting because they couldn't tell each other how they really feel...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(That's so...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000401",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001501",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "(That's so sad...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "Anyway, thank you for helping me out the way you did today. Also, sorry for making you listening to my life story even though it's our first time meeting.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "So... Good luck with your shows.\nI'll come back once things have settled down.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "Now, if you'll excuse me.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "W-Wait...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Um, so...\nI know you two ended up arguing today...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "But I hope you and your sister find a solution because it's awful seeing you two get torn from each other like this...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "Right. Thank you...\nI'll try talking things over with her again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "Once we've come to an agreement, I'll make sure to never see her...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "Never see her... Again...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Yota",
+   "Line": "Sorry, I should get going...\nThank you all again for what you've done.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00104",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "He's willing to not see her for the sake of her future... He seems to really care about his sister...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Saki",
+   "Line": "Yeah, but...\nHe seemed really sad too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Honami",
+   "Line": "Isn't there anything we can do for them...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shiho",
+   "Line": "But this is someone's family we're talking about. I'm not sure we're in a position to say anything...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ichika",
+   "Line": "So... There's nothing we can do...?",
+   "_kind": "talk"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

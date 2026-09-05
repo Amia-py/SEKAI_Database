@@ -1,0 +1,923 @@
+{
+ "title": "Unit Event — Burn My Soul — Episode8 Ignition",
+ "meta": {
+  "Event": "Burn My Soul",
+  "Event Type": "marathon",
+  "Episode": "Episode8 — Ignition",
+  "Event Outline": "Vivid BAD SQUAD and Ken burn the candle at both ends figuring out how they'll surpass RAD WEEKEND. Tasked with reigniting fervor in the residents of Vivid Street, Akito tries to burn brighter than ever before, but will it go up in smoke?",
+  "scenarioId": "event_109_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Vivid Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "You can do it, Shinonome...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, here we go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(...! That's...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Okay then...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Watch closely, Mita.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Long time no see, everyone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I know that rumors have been spreading about us while we've been gone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Some of you thought that Vivid BAD SQUAD broke up after losing to Taiga. That we ran away with our tails between our legs. But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We haven't given up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We're going to surpass RAD WEEKEND!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "And I'm here today to show you that we're serious!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "They...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "They haven't given up! Thank goodness...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(This is our first step...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(But it feels kinda weird.\nI mean, I'm carrying a huge responsibility, and I can't screw this up, and still...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I can't wait to start singing...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00242",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "♪——————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00569",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "Wh-What the...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "This power...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "♪——————————————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00544",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "Is that really Shinonome...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "The way he's singing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "How much did he practice to get to this level...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "He got this good while we weren't looking...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(No, wait...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(He was like that from the start.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(Everyone used to make fun of him for only having a loud voice and nothing else. Including me.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(We didn't think he was special.\nJust another talentless, average Joe.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(But he works harder than anyone I know, and he's long since surpassed all his naysayers.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(I mean, now I think about it, I had come to really like the way he sang)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "♪————!! ————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "Seriously, what happened with him...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "We might be witnessing history in the making here...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(What's different between me and him...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(What is it...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(I already know the answer to that...\nNo matter how hard I work, I'm still terrible because I don't have any guts...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(And I ran.\nI didn't keep singing until the end like him...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(Which is why I...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(I...want to learn to sing like him...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(I...don't wanna give up.\nI might be awful now, but if I keep trying... Maybe someday...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "♪————!! ————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00039_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(And we can once again.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000078",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(Sing like we did that day...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "♪——————————————!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00211_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Now do you guys see? We're not kidding around.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Imagine what's gonna happen when all four of us are here. You'll get to witness something even more incredible.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "More incredible than what we just saw...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "At our next event!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We're gonna have it at COL!\nAnd it's gonna surpass RAD WEEKEND!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00206",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "What...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "You serious?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "At their next event...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "RAD WEEKEND isn't just some legendary event.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We know why it happened.\nThe emotions and hopes that went into it. We know the true story behind it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_e000701",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We're going to take on those emotions and surpass it!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You guys are gonna see that night... No.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You're going to see a new legend!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So, come with us!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "If you want to surpass that night, join us on this ride!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00569",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(With them...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(I...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(No, I can't...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(How can I go back after running away from the opportunity they gave me? I just can't...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(I can't face them...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "Are you not going...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Huh? Oh, no... I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001102",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I don't want to be a burden to them anymore...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I mean... After what happened...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Owner of Crawl Green",
+   "Line": "So, this is it for you...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(This is it...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(Am I just gonna keep running away...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(I'm going to be a terrible singer and a coward that's full of regrets for the rest of my life...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Or...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "No...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I'm done giving up...\nI want to take a hard look at the way I sing like he has. And maybe, that'll let me...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_burn_2023_005",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Akito...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Akito! Wait!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Let me come with you!\nPlease! Gimme another chance...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I know I'm not in a position to be asking you this...! But please...! I'm begging you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Mita...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I... I want to learn to sing like you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I want to surpass RAD WEEKEND with you and the others...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Wanting to sing like me or just sing with us isn't gonna be enough.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Are you prepared?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Are you ready to do whatever it takes to surpass that night? Do you have the guts?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "(D-Do I have the guts...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I do!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I'm never running away! Not ever again!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "I wanna surpass that night! With you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Seriously, it took you long enough...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00192",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Let's do it, together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Thanks, Akito...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You don't really need to thank me or anything.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Also...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You keep saying how you're so terrible, but that's not true. You know how to sing with passion.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We're gonna need you for this.\nSo, let's go surpass RAD WEEKEND together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "...!\nYeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00048",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend Garage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...is what happened.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We got one of our group back.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Oh...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Uh, I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Welcome back, Kotaro!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "What...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you very much for coming back.\nWe're looking forward to working with you again.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Let's do our best to surpass RAD WEEKEND together, Mita!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Yeah!\nThanks for having me back, you guys!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Akito.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Oh, Ken...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Come here. Take a look at everyone outside.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "Are they really gonna do it during their next event...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "But I thought COL closed down.\nWhat do you think's going on?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "I dunno, but the way Shinonome sang just now... If he can do that by himself, then...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "You've definitely succeeded in igniting them.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00224",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yes...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But that wasn't the real thing.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I'm gonna make this flame even bigger.\nAnd, next time...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "We'll all be together.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Right.\nI'll be looking forward to that moment.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Thank you.\nWe promise not to disappoint.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Well, now that Akito's accomplished his goal...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Next, it's you guys' turn.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Right. The hard part begins now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, let's go out there and show everyone in this town that we mean business!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An, Kohane, Toya & Kotaro",
+   "Line": "Yeah!\nYes!\nLet's!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

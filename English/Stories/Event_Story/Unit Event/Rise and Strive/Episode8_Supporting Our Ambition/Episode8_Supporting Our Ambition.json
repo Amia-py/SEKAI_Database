@@ -1,0 +1,583 @@
+{
+ "title": "Unit Event — Rise and Strive — Episode8 Supporting Our Ambition",
+ "meta": {
+  "Event": "Rise and Strive",
+  "Event Type": "marathon",
+  "Episode": "Episode8 — Supporting Our Ambition",
+  "Event Outline": "Shizuku's commercial appearance made waves, and job offers for MORE MORE JUMP! are starting to trickle back in. At the same time, it's still unclear what caused the dry spell they experienced. Haruka steels herself and sets up a meeting with someone who may have an idea...",
+  "scenarioId": "event_157_08"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_b003002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "MORE MORE HOUSE",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "I'm sorry for dropping in on you so suddenly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "No, that's not a problem.\nHow can I help you today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "I bought some cookies at the TV station's gift shop after watching a shoot. Would you and the others like to have some?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh, thank you very much.\nEveryone will love these.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "Hehe. I'm glad to hear that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "How have things been going lately?\nIt seems like you've all been practicing very late each night...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "I hope you aren't pushing yourselves too hard.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Oh...\nI'm sorry. We didn't mean to make you worry...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But the truth is, we haven't been receiving many offers lately... We're currently undergoing some trial and error to turn things around.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "I see...\nI didn't realize things had gotten so hard.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Yes, things have been a bit tough...\nBut...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "We all made a decision together.\nTo keep trying regardless of the situation.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "Would you mind if I asked you a question?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "Your current situation seems dire...\nAnd yet, your eyes are twinkling with excitement.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "It's as if you're in the spotlight on stage right this second.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "What's allowing you to maintain such high spirits...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(Allowing me to stay in high spirits...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "That's probably...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "My determination to keep being an idol.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00194",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "As an idol...\nI made up my mind to spread hope to as many people as I can.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Which means I'm not allowed to lose sight of hope.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Because I won't be able to spread hope if I don't keep any for myself.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a007001",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b003002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "I still have so much to learn, and I'm embarrassed by the way little things can affect me so much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "But that determination is what keeps me going.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Umm... I don't know if that answers your question...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "Yes, I'm impressed by your resolve.\nAlso...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "You just showed me that I made the right choice.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "What...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "I'm actually here today to discuss something with all four of you. So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "Would it be possible for you to call the others over right now?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few minutes later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "I'm sorry for suddenly interrupting your practice like this.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "No, that's not a problem...!\nBut you wished to speak with us about something?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "Hehe. There's no need to be so formal with me. Today, I come with a proposal.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "A proposal?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "Yes.\nI was hoping that I could help with your dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00192",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "I've been keeping a close eye on your group's activities since you moved in here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "You've all been doing everything you can in the name of spreading hope to the masses...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "Even in the face of insurmountable odds, you're all still working towards that goal.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "Which is why...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "You confirmed for me that MORE MORE JUMP!'s members are people who can make their dreams come true.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "(People who can make their dreams come true. Does that mean...?)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "I realized after talking to Minori that you all just might have what it takes to make your dreams come true. In other words, you're the ideal tenants for this place.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b003002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "Which is why I'd like to support you all in making your dream a reality.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "S-Support us...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "U-Umm...\nWh-What exactly do you mean by that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "Hehe. Exactly what you think it means.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "I want you all to become idols with the ability to spread more hope than anybody else. So...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "Would you consider entering into something like this?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Is this...an invitation?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Oh, it's for MORE MORE JUMP!\nAnd it's from...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "The Lumina Grand Prix...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "It's an invitation to appear in a certain idol program.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "A program that decides who the best idols in the country are.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "The best in the country...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "B-But... Where did you get this, Ms. Arisawa?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "Uhh...\nShe's told us that she likes to go see TV shoots... So, could that be why?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "But this invitation's specifically for us...\nHmm?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(No way...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a001301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(I can't shake this feeling that I've seen her before somewhere...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b003002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(It's been bugging me the whole time...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(I knew I'd seen her before somewhere...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "(I had no idea why until now. But this must mean she's...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_g000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00325_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00325_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_b003002",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hinako Arisawa...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "Oh, Airi, did you already know who I was...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "No, I realized who you are just now...\nBut I've been wondering why you seem so familiar ever since we first met...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Minori",
+   "Line": "What in the world is going on here, Airi...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "Hinako Arisawa.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "The legendary idol who once had all of Japan eating out of her hand. Even now, she's still considered one of the greatest ever.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Shizuku",
+   "Line": "*Gasp*",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "Wait, but didn't she...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Airi",
+   "Line": "That's right. Decades ago, at the peak of her popularity, she retired completely out of the blue. They say it was like she vanished into thin air...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "I decided to step out of the limelight as an idol. The reason was because I wanted my fans to remember me as I was at my best.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "Nowadays, I support idols from behind the scenes by passing on time-tested techniques and helping land offers for work.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Haruka",
+   "Line": "So, this invitation is...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "Yes, it's my gift to all of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Landlady",
+   "Line": "As the organizer of this program, the Lumina Grand Prix.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

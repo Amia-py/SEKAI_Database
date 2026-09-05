@@ -1,0 +1,858 @@
+{
+ "title": "Unit Event — Our Happy Ending — Episode5 When You Were Here",
+ "meta": {
+  "Event": "Our Happy Ending",
+  "Event Type": "marathon",
+  "Episode": "Episode5 — When You Were Here",
+  "Event Outline": "Following the successful 30th Anniversary Show, the Wonderlands×Showtime cast feel renewed determination for their respective dreams. Emu, realizing that the troupe will part ways sooner or later, attempts to put on a brave face and say goodbye with a smile. Meanwhile, Rui makes a bold proposition to the Otori brothers.",
+  "scenarioId": "event_104_05"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_d000703",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Emu's Room",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“Then, let's go to the next city!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah...!\nI've got this line down!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And the next part's the final scene.\nLet's see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00122_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "“And they made shows together forever after”...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "They made shows together... Forever after...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Okay, it seems we're all on the same page!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00195",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Tsukasa",
+   "Line": "Wonderlands×Showtime shall continue operations!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000703",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I remember feeling so happy that time...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(My heart was full of joy and excitement about how we were going to put on lots and lots of shows together...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(And we really did put on a lot...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(Our shows were so amazingly spectacular that I had a ton of fun just practicing them.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(And I wished that things would never change.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(No...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I've made my decision.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(If I don't stay strong, the others are gonna start to worry.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "(I have to keep smiling.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00048_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Hinata's Voice",
+   "Line": "Emu, do you have a minute?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, Sis...!\nYeah, come in!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00043_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "I'm sorry to bother you so suddenly.\nI wanted to have some hot chocolate and ended up making a little too much. Would you like some as well, Emu?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00024",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh... Yeah!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Wait, but I just brushed my teeth!\nWill it be okay if I brush them again after?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "Hehe. Yes, I'd say that's fine.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Then, I'll have some!\nBottoms up!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Hehe... It's so warm and sweet...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "My chest is feeling all fuzzy wuzzy...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "Is something wrong, Emu...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "What?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "You looked a little unhappy there for a second.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "H-Huh? I did?\nNo, I'm...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000201",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000703",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "You're right...\nI don't feel completely happy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Can we talk for a bit, Sis?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "Yes, I'm here to listen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "I see... And they'll be freelancing from here on out...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "Are you sure about your decision, Emu...?\nDon't you want to go with them?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I'm sure...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Because I'm never going to forget what we did.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Seeing all those shows with Grandpa...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A dozen or so years earlier",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Little Emu",
+   "Line": "Grr...\nGrandpa, I can't see. It's too dark...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "Heh heh heh. Just another second, dear.\nAh, excellent...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "I'll remove your blindfold in...!\nThree, two, one...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg00026",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00055_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Emu",
+   "Line": "Wah! It's so bright!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000207",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Little Emu",
+   "Line": "Huh...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00032",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Emu",
+   "Line": "Grandpa? Where are we?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "Hehe. This is nowhere in particular, but it can also be anywhere you like!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Emu",
+   "Line": "Nowhere, but anywhere...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "Yes, that's right!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "Ah, however... Today, it seems that it's going to be a magical forest. Take a look at the stage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cast Member",
+   "Line": "Welcome to the Wonder Stage, everyone!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Emu",
+   "Line": "The Wonder Stage...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cast Member",
+   "Line": "Today's showing of “Teddy In The Magical Forest” will begin in ten minutes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00595",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Emu",
+   "Line": "Oh wow...!\nLots of people just came in!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "Ah, I should probably lower my head a bit to make sure the little ones can see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "Now, Emu, take another look at the stage.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "What you're about to experience is going to feel like a wonderful dream!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Emu",
+   "Line": "Wow...!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00077",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Teddy Bear",
+   "Line": "“*Sigh*\nWhy does everyone disappear whenever I try to go play in the forest? Are they afraid of how I look?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teddy Bear",
+   "Line": "“I know I seem scary, but I still want to become friends with them...”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Teddy Bear",
+   "Line": "“Oh where, oh where could all the forest critters have gone?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Emu",
+   "Line": "Over there!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Children",
+   "Line": "There!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "Yes, they're over there!\nListen to my granddaughter!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Lala the Rabbit",
+   "Line": "“I'm too afraid!\nUs rabbits can't walk around the forest knowing that such a big, scary bear is lurking!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Emu",
+   "Line": "No, don't be afraid!\nHe's a nice bear!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Vivi the Squirrel",
+   "Line": "“Hey, what if that bear isn't as scary as we thought? He looks a little mean, but he could be nice.”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Emu",
+   "Line": "He is!\nHe wants to be friends with all of you!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Vivi the Squirrel",
+   "Line": "“Look...!\nThe bear's keeping that tree from falling! He prevented our homes from being crushed!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Forest Animals",
+   "Line": "“We gotta help him!\nLet's go, everyone!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00049_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00134_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Emu",
+   "Line": "...!!!\nGrandpa, Mr. Bear's about to make some new friends!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "*Sob*\nI'm so happy for him...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Emu",
+   "Line": "Huh...?\nGrandpa, are you crying? Why?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "How can I not cry?!\nI'm just so happy that our bear finally has friends to play with!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "Still, this is supposed to be a happy ending... As such, I should be smiling.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Cast Member",
+   "Line": "“Let's all finish by singing together!”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Emu & Rakunosuke",
+   "Line": "Yeah!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_s000222",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00189",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Little Emu",
+   "Line": "Hehe...♪\nI didn't know shows were so much fun, Grandpa!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "They really are, aren't they?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "This stage has the power to take you to a different world for every show.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "You could be in the jungle, on top of the clouds, in prehistoric times or even in outer space...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "It's a wonderland that can take you anywhere at all.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000207",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Little Emu",
+   "Line": "A wonderland...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "If you ever want to smile, Emu, you should visit this stage. I guarantee that it'll take you somewhere fantastic.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "And once what you've seen here has made you smile, you should take a look at the world around you...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "Unfortunately, unlike what you see on stage, it's not all full of smiles and happiness.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Rakunosuke",
+   "Line": "But I'm sure what you witness will become the fuel that drives you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Little Emu",
+   "Line": "Okay!!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000703",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Grandpa was right...\nThe Wonder Stage made me smile so many times after that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And seeing everyone else smile there makes me really happy too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "So, I want to protect them both.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "The Wonder Stage and Phoenix Wonderland that Grandpa left to us.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00175",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "Emu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "It's really sad that I won't be able to do shows with the others like I used to... But I'm okay with that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "I think we'll be able to smile while we say goodbye to each other.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Even though they won't be members of the Wonder Stage cast anymore.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Even though we won't be doing shows together as much...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "Emu...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "Oh, I should go brush my teeth...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Emu",
+   "Line": "And I still need to do my best during practice tomorrow, so...! Night, Sis!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00253_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00253_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00043_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000000",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00044_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Shosuke's Voice",
+   "Line": "How's Emu doing...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "She said she's fine...while crying...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00215",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "She tried her best to compose herself, but she probably still is in her bed right now...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "Do you have any ideas in mind...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "I know it's not right for us to intervene since this is between her and her troupe. But...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Hinata",
+   "Line": "I want to see them smiling...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d000301",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_d001303",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Me too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Keisuke",
+   "Line": "Then, we'll...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}

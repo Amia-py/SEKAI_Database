@@ -1,0 +1,798 @@
+{
+ "title": "Unit Event — Burn My Soul — Episode2 Strategizing",
+ "meta": {
+  "Event": "Burn My Soul",
+  "Event Type": "marathon",
+  "Episode": "Episode2 — Strategizing",
+  "Event Outline": "Vivid BAD SQUAD and Ken burn the candle at both ends figuring out how they'll surpass RAD WEEKEND. Tasked with reigniting fervor in the residents of Vivid Street, Akito tries to burn brighter than ever before, but will it go up in smoke?",
+  "scenarioId": "event_109_02"
+ },
+ "rows": [
+  {
+   "Speaker": "",
+   "Line": "bg_c001101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "Vivid Street",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00034_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Kotaro",
+   "Line": "Akito...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "Hey, isn't that Shinonome from Vivid BAD SQUAD...? I didn't know he was still around.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "But why's he all by himself?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Young Local Musicians",
+   "Line": "Then, the rumors about them breaking up after losing to Taiga were true?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(They're reacting like I expected...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Since that day, everyone around here's lost all confidence in us.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(But.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(This just means it'll feel that much better when we get them going.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Alright, here we go.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few months earlier",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Weekend Garage",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Now, let's start discussing your plans moving forward.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00038",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "In other words, how you're actually going to surpass RAD WEEKEND.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane, An, Akito & Toya",
+   "Line": "Yeah!\nYes!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "So, to get right to it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "What do you all think you need to achieve in order to be able to say, “We surpassed RAD WEEKEND”?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "What do we need to achieve...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Yes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I think we can say that if we figure out a way to achieve a more electric atmosphere.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "But I still have no idea how we're actually going to pull that off.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Right...\nI was under the impression that we'd be able to once we became good enough... But now that we know why RAD WEEKEND happened...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Exactly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "However, I know of just one way for you to all surpass that event and achieve a more electric atmosphere.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "You do...?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Dad, what do you mean...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Nagi's wishes, the path that we took as RADder, the feelings we created in all the locals...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "You need to overwrite those feelings with something completely new.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Overwrite...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "What do you mean when you say that...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Remember what you said that day when you found out the truth?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "You said you were going to surpass RAD WEEKEND and show us—RADder—what things look like from on top of the world.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "You have to take those feelings and turn them into music—into an event—for everyone to see.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Everyone carries different dreams, different feelings...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Nagi wanted you, the next generation, to go beyond our dream, and I want to be there to see what that looks like.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "All our old friends around town wanted to see her wish fulfilled.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Your audience and the young blood around town have gone cold on you, but I'm certain that on some level, they still want to see someone like you guys surpass that legendary night.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "It may just be their subjective ideas...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "But when that comes true...\nWhen everyone sees that you're going to go further than we could...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "That's when you'll have created the kind of energy that surpasses RAD WEEKEND.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "What do you think...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "I mean... I believe that, and I really want it to happen.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Yeah, me too...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(But the problem is, we don't have what it takes to make that happen right now...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(It's not just skill. We lost our friends, and everyone around here has lost interest in us. And we couldn't have beaten him even if there were a hundred of us.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "I understand that the road up ahead is going to be rough...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "But I believe in all of you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "I'll be the first one to tell you all that I want you to go beyond our dream.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "No, the second...\nShe was the first.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Dad...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Everyone around here wants that to happen. If you can remind them of that hope and give them something to place it in again, then you'll start making inroads.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Yeah, okay...\nLet's do it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "If we don't do something, nothing's going to change!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yeah...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Otherwise, we'll never be able to surpass RAD WEEKEND. It's our turn to act.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "Right...! I promise to do my best!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Thank you very much, Ken.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Now then...\nLet's start getting into some of the details.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00173",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "From what I understand, your next move involves two things.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "One is simple. Get better.\nYou'll have no hope of succeeding if you don't.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "The other is to do what I said a second ago. Show everyone around here some new feelings to overwrite the past.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "First, you all need to get better.\nAnd competing against real opponents will force you to do that.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "So, I'll start taking you to some high-level venues where only the best of the best gather. Your job is to battle against them in events.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "Where the best of the best gather...?\nPlaces like Crawl Green?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Exactly.\nThey won't even let you in the door if you're just “good”.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Kohane",
+   "Line": "They even won't let us in...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "I'll be asking you to do this basically every day while practicing like normal. After school during the week, I'll come pick you up in the car and drive you straight to these live houses.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Drive us...?\nAre these places far?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Yes, they are.\nYou'll find all sorts of unbelievable performers outside of Vivid Street.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Just like RADder, each city has its own homegrown talent that's fought its way to the top.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "You'll be going up against them.\nFortunately, I know someone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(I see...\nWe're gonna battle against the best that these places have to offer, teams just like RADder...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "As for the second thing...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "",
+   "Line": "A few weeks later",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "",
+   "Line": "Kamiyama High School - School Gate",
+   "_kind": "Caption"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(It's been a while since then...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(We've each been doing what we need to while Ken's been driving us to live houses...every single day.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(And we've definitely improved after battling against so many tough opponents. Still...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se00053_b",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackIn",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_c000202",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Even if you do get better, just putting on events like you've been doing until now probably won't get you far.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00055",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "It's hard to make a flame burn bright when it's close to going out. You won't get many chances.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Which is why... You're going to split up the work.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Huh?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "These will be crucial steps towards putting on an event that surpasses RAD WEEKEND.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "First, Akito, you go reignite your audience.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Our audience...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Yes.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "I'm sure you already know...\nBut after your battle against Taiga, people have mostly lost the hope they held for you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Getting them to feel it again is going to be the furthest thing from easy.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Which is why this is going to be your job.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Even in the most dire of situations, you don't bend or break. You're here right now because you kept fighting and never gave up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "They were witnesses to that...\nThey watched you like they were watching RADder.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "If you manage to get back on your feet despite all that's happened... No, not just that, but become unbelievably skilled, then you'll reignite your audience.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hold on. Why just Akito?\nShouldn't we do that together? I mean...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "No.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Let me do this alone.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wait... Why?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "It's like Ken said.\nWe aren't gonna get many chances to reestablish ourselves in this town.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "So, we need to hold off on performing together until we're fully ready. We have to wait for the opportune moment...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Right now, everyone probably thinks that we've all turned tail and ran.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Just becoming a little better isn't going to convince them that we're still serious.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "But if I manage to put on an event on my own that's as good as the ones we did together, then they'll consider giving us another chance.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Does that sound about right, Ken...?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Yeah, you got it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "I see...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "In other words, they'll start thinking, “If Akito alone can do this, what will happen when all four of them get back together?”",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Exactly.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Now I get it...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Okay! Akito, go knock their socks off!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I will.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Akito.\nIn order to accomplish this, you'll need to become unbelievably good.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "Yes, I know.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Okay.\nThen, I hope you're ready...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "I am...!!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "As for you three, I'd like to talk to each of you individually. Starting with...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "FlashbackOut",
+   "Line": "",
+   "_kind": "Effect"
+  },
+  {
+   "Speaker": "",
+   "Line": "bg_a000101",
+   "_kind": "Background Change"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Right now, I don't have what it takes to reignite their excitement...)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(That means I have to get better. A lot better.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "se_event_burn_2023_006",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Hey, you two, the car's here!\nThis way!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Sorry I'm late.\nWe got stuck in traffic after I went to pick Kohane up.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00170",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "No, that's not a problem.\nWe actually just got here.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "So, Ken, where are we going today?",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "A place called “Rodin”.\nIt's somewhere that gave even my team a lot of trouble.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "An",
+   "Line": "Wait, even you guys?!",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "Yeah, it's a pretty high-level venue.\nOnly a few places in Japan can really match it.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "You'll find top-level performers who want to put their skills to the test and even pros signed to major labels there.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Toya",
+   "Line": "In other words, the audience will have high expectations...",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "They will.\nYou don't stand a chance there yet.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Ken",
+   "Line": "But what you all need right now are opponents who are ridiculously better than you.",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(Some of the places we've been performing at have been pretty tough. But I guess we're in for something else today.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(But that's what we want...\nThe bigger the wall, the better we have to get to overcome it.)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "Akito",
+   "Line": "(We're gonna figure out a way no matter what...!)",
+   "_kind": "talk"
+  },
+  {
+   "Speaker": "",
+   "Line": "bgm00000",
+   "_kind": "Sound"
+  }
+ ],
+ "source": "https://storage.sekai.best/sekai-en-assets/event_story/…（SEKAI master database + SEKAI Viewer 资源，官方文本）"
+}
