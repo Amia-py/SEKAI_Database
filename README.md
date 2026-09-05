@@ -1,34 +1,35 @@
 # SEKAI Datebase
 
 PJSK（プロジェクトセカイ カラフルステージ！ feat. 初音ミク / HATSUNE MIKU: COLORFUL STAGE! / 初音未来：缤纷舞台）全资料库。
-**中・日・英三语** × **TXT / JSON / Markdown / SQLite** 四格式，每个最小单元同时提供四种载体。
+**中文・English・日本語** 三大分类 × **TXT / JSON / Markdown / SQLite** 四格式，每个最小单元同时提供四种载体，图片与音频等资源以实际文件形式存放于各语言目录内。
 
-PJSK full database, **trilingual (zh / ja / en)** × **TXT / JSON / Markdown / SQLite**, every minimal unit provided in all four formats.
+PJSK full database, organized as **中文 / English / 日本語** × **TXT / JSON / Markdown / SQLite**, every minimal unit in all four formats, with images and audio stored as real files inside each language folder.
 
-プロジェクトセカイの総合データベース。**中・日・英3言語** × **TXT / JSON / Markdown / SQLite** の4形式で、最小単位ごとに4種のファイルを同梱。
+プロセカ総合データベース。**中文 / English / 日本語** × **TXT / JSON / Markdown / SQLite** の4形式で、画像・音源は各言語フォルダ内に実ファイルとして同梱。
 
 ---
 
-## 目录结构 / Structure / ディレクトリ構成
+## 目录结构 / Structure / 構成
 
 ```
 SEKAI_Datebase/
-├─ 中文/            中文数据（文件名与内容均为中文，取自国服官方文本）
-│  ├─ 简介/         游戏简介、世界观、各服上线信息
+├─ 中文/              中文数据（取自国服官方文本）
+│  ├─ 简介/           游戏简介、世界观、各服上线信息
 │  ├─ 剧情/
-│  │  ├─ 主线/      主线剧情（按组合 → 章节 → 话）
-│  │  ├─ 活动/      活动剧情（箱活 / 混活 / WL）
-│  │  └─ 卡牌/      卡牌剧情（按角色聚合）
-│  ├─ 角色/         每个角色：基本设定 / 剧情 / 卡面 / 红线
-│  ├─ 卡面/         按角色 → 旧队服·新队服·1/2/3/4星·生日·特典·联动 分类
-│  ├─ 音乐/         原创（含「箱曲」子分类） / 翻唱
-│  ├─ MV_PV/        MV 出演角色与资源索引
-│  ├─ 开发商解释/    SEGA / Crypton Future Media / Colorful Palette / 朝夕光年
-│  └─ 特殊事件/      国服（朝夕光年）运营事件记录
-├─ 日文/            日本語データ（同上结构，取自日服官方文本）
-├─ 英文/            English data (same structure, from the EN server text)
-├─ 日文/カード/画像/  卡面图片（仅一份，三语通过相对路径引用）
-└─ SEKAI_Datebase.db  汇总数据库
+│  │  ├─ 主线/        主线剧情（组合 → 章节 → 话）
+│  │  ├─ 活动/        活动剧情（箱活 / 混活 / WL）
+│  │  └─ 卡牌/        卡牌剧情（按角色聚合）
+│  ├─ 角色/           每个角色：基本设定 / 剧情 / 卡面 / 红线
+│  ├─ 卡面/           按角色 → 旧队服·新队服·1/2/3/4星·生日·特典·联动 分类
+│  │  └─ {角色}/图片/  卡面图片（实际文件）
+│  ├─ 音乐/           原创（含「箱曲」） / 翻唱
+│  │  └─ 音频/        试听音频（实际文件）
+│  ├─ MV_PV/          MV 出演角色与资源索引
+│  ├─ 开发商解释/      SEGA / Crypton Future Media / Colorful Palette / 朝夕光年
+│  └─ 特殊事件/        国服（朝夕光年）运营事件记录
+├─ English/           English data (from the EN server, same structure)
+├─ 日本語/            日本語データ（日本サーバー公式テキスト、同構造）
+└─ README.md
 ```
 
 **最小单元**示例（角色基本设定）：
@@ -41,17 +42,19 @@ SEKAI_Datebase/
 └─ 瑞希_基本设定.db
 ```
 
-## 数据说明 / Data Notes / データについて
+## 资源说明 / Resources / リソース
 
-| 项目 | 中文 | 日文 | 英文 |
+- **卡面图片**：小尺寸 webp（特训前约 67KB / 特训后约 103KB），存于各语言目录 `卡面/{角色}/图片/`（日本語：`カード/{キャラ}/画像/`，English: `Cards/{char}/Images/`），文件名格式 `{卡面ID}_{卡名}_{normal|trained}.webp`，三语各自完整一份。
+- **试听音频**：short 版 mp3（每首约 0.5MB），存于各语言目录 `音乐/音频/`（日本語：`楽曲/音源/`，English: `Music/Audio/`），文件名 `{曲ID}_{曲名}.mp3`，按各语言曲名命名。
+- **完整版音频 / MV 视频**：体积过大，以官方资源 URL 形式在索引中提供（storage.sekai.best）。
+- 剧情正文仅提取 **说话人、说话内容、背景变化、内心独白** 四类要素，保留官方原文，不作改写。
+
+## 数据进度 / Server Progress / サーバー進行
+
+| 项目 | 中文 | 日本語 | English |
 |---|---|---|---|
 | 数据来源 | 国服 master（pjsk.nvsgames.cn） | 日服 master（pjsekai.sega.jp） | 国际服 master（colorfulstage.com） |
-| 进度 | 落后日服，部分内容标注缺失 | 最全 | 落后日服约一年 |
-
-- 各服进度不同：以日服 ID 为基准对齐，国服／国际服尚未实装的条目会在对应语言包中缺失。
-- 剧情正文仅提取 **说话人、说话内容、背景变化、内心独白** 四类要素，保留官方原文，不作改写。
-- 图片为小尺寸 webp（约 67/103KB），存放于 `日文/カード/画像/`，三语共用。
-- 试听音频（short 版 mp3，714 首）存放于 `日文/音乐/音频/`，三语通过「音乐音频索引」引用；完整版与 MV 视频体积过大，以官方资源 URL 形式索引。
+| 进度 | 落后日服，未实装内容缺失 | 最全 | 落后日服约一年 |
 
 ## 数据来源 / Sources / 出典
 
