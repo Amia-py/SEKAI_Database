@@ -46,7 +46,7 @@ SEKAI_Datebase/
 
 - **卡面图片**：小尺寸 webp（特训前约 67KB / 特训后约 103KB），存于各语言目录 `卡面/{角色}/图片/`（日本語：`カード/{キャラ}/画像/`，English: `Cards/{char}/Images/`），文件名格式 `{卡面ID}_{卡名}_{normal|trained}.webp`，三语各自完整一份。
 - **试听音频**：short 版 mp3（每首约 0.5MB），存于各语言目录 `音乐/音频/`（日本語：`楽曲/音源/`，English: `Music/Audio/`），文件名 `{曲ID}_{曲名}.mp3`，按各语言曲名命名。
-- **MV/PV 视频**：官方 MV 视频文件（427 个 mp4，共 5.4GB）体积超出仓库限制，存放于 **GitHub Releases**：https://github.com/Amia-py/SEKAI_Database/releases/tag/mv-videos （4 个分卷 zip，下载后解压合并为 `SEKAI_Datebase_MV视频/`）；本地已同步存于桌面 `SEKAI_Datebase_MV视频/` 文件夹。各语言目录 `MV_PV/{曲名}/` 单元内含视频文件名、大小与直链。3D 实时渲染 MV 无官方视频文件，单元内标注出演角色。
+- **MV/PV 视频**：官方 MV 视频文件（427 个 mp4，共 5.4GB）体积超出仓库限制，存放于 **GitHub Releases**：https://github.com/Amia-py/SEKAI_Database/releases/tag/mv-videos （13 个分卷 zip，下载后放入同一文件夹一起解压，得到 `SEKAI_Datebase_MV视频/`）；本地已同步存于桌面 `SEKAI_Datebase_MV视频/` 文件夹。各语言目录 `MV_PV/{曲名}/` 单元内含视频文件名、大小与直链。3D 实时渲染 MV 无官方视频文件，单元内标注出演角色。
 - **完整版音频**：体积过大，以官方资源 URL 形式在索引中提供（storage.sekai.best）。
 - 剧情正文仅提取 **说话人、说话内容、背景变化、内心独白** 四类要素，保留官方原文，不作改写。
 
