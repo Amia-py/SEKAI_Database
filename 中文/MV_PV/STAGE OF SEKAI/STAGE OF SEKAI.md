@@ -1,0 +1,12 @@
+# STAGE OF SEKAI — MV
+
+- **曲名**：STAGE OF SEKAI
+- **MusicID**：159
+- **本地视频文件夹**：SEKAI_Datebase_MV视频/SekaiMV
+
+| MV类型 | 出演角色 | 视频文件 | 视频大小 | 视频直链 |
+|---|---|---|---|---|
+| セカイ版MV（官方2D动画，附视频文件） | 一歌 / 咲希 / 穗波 / 志步 / 连 | 0159.mp4 | 15.9 MB | https://storage.sekai.best/sekai-jp-assets/live/2dmode/sekai_mv/0159/0159.mp4 |
+
+
+视频来源：SEKAI Viewer 资源库（storage.sekai.best，live/2dmode/ 官方 MV 视频文件）。视频文件已下载至桌面 SEKAI_Datebase_MV视频/ 文件夹（SekaiMV / OriginalMV 子目录），并打包于 GitHub Releases。

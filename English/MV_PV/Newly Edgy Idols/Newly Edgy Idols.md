@@ -1,0 +1,12 @@
+# Newly Edgy Idols — MV
+
+- **Title**：Newly Edgy Idols
+- **MusicID**：57
+- **Local Video Folder**：—
+
+| MV Type | Characters | Video File | Size | Direct Link |
+|---|---|---|---|---|
+| 3D realtime MV (no official video file) | Miku / Airi / Haruka / Minori / Shizuku | — | — | — |
+
+
+Video source: SEKAI Viewer assets (storage.sekai.best, live/2dmode/ official MV videos). Files saved to the SEKAI_Datebase_MV视频/ folder and packaged in GitHub Releases.

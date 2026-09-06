@@ -1,0 +1,12 @@
+# drop pop candy — MV
+
+- **曲名**：drop pop candy
+- **MusicID**：15
+- **ローカル動画フォルダ**：—
+
+| MVタイプ | 出演キャラ | 動画ファイル | サイズ | 動画リンク |
+|---|---|---|---|---|
+| 3DリアルタイムMV（公式動画ファイルなし） | こはね / 杏 / リン / ルカ | — | — | — |
+
+
+動画出典：SEKAI Viewer アセット（storage.sekai.best、live/2dmode/ 公式MV動画）。動画はデスクトップの SEKAI_Datebase_MV视频/ に保存、GitHub Releases にもパッケージ済み。

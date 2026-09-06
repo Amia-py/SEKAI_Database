@@ -1,0 +1,12 @@
+# drop pop candy — MV
+
+- **曲名**：drop pop candy
+- **MusicID**：15
+- **本地视频文件夹**：—
+
+| MV类型 | 出演角色 | 视频文件 | 视频大小 | 视频直链 |
+|---|---|---|---|---|
+| 3D实时渲染MV（无官方视频文件） | 心羽 / 杏 / 铃 / 流歌 | — | — | — |
+
+
+视频来源：SEKAI Viewer 资源库（storage.sekai.best，live/2dmode/ 官方 MV 视频文件）。视频文件已下载至桌面 SEKAI_Datebase_MV视频/ 文件夹（SekaiMV / OriginalMV 子目录），并打包于 GitHub Releases。
