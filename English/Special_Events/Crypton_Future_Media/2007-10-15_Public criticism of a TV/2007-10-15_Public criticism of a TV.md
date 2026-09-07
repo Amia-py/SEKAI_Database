@@ -1,0 +1,9 @@
+# 2007-10-15 Public criticism of a TV report and apology to users
+
+- **Date**：2007-10-15
+- **Event**：Public criticism of a TV report and apology to users
+- **Subject**：Crypton_Future_Media
+
+In the 2007-10-14 episode of TBS's variety show 'Akko ni Omakase!', the Hatsune Miku feature shifted focus to the behaviour of users and included narration perceived as malicious, drawing criticism for 'otaku bashing' and occupational discrimination. On 10-15, Crypton Future Media CEO Hiroyuki Ito posted a comment on the official blog, noting that remarks made under leading questions were used, that Miku's singing was barely aired, criticising the production team's attitude, and apologising to users.
+
+(Source: contemporaneous news coverage including Sankei Shimbun and CNET Japan)

@@ -1,0 +1,9 @@
+# 2024-06-12 Songs removed on the Global server as well
+
+- **Date**：2024-06-12
+- **Event**：Songs removed on the Global server as well
+- **Subject**：Global
+
+Following the incident involving one of the project's song providers, the related songs were removed from all servers, including Global: in-game data and audio deleted, official channel videos unlisted, and the 'SEKAI' versions taken down from music platforms.
+
+(Source: operation team notices across servers, June 2024)

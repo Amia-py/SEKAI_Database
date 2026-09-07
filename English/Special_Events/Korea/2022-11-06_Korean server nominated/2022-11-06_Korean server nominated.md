@@ -1,0 +1,9 @@
+# 2022-11-06 Korean server nominated for Google Play Best of 2022
+
+- **Date**：2022-11-06
+- **Event**：Korean server nominated for Google Play Best of 2022
+- **Subject**：Korea
+
+On 2022-11-06 the Korean server received a Google Play Best of 2022 nomination. The Korean server ran a closed beta from 2022-04-07 to 04-14 and officially launched on 2022-05-20.
+
+(Source: game timeline records, per Moegirlpedia)

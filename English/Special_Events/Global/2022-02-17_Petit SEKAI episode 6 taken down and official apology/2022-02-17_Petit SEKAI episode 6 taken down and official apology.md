@@ -1,0 +1,9 @@
+# 2022-02-17 Petit SEKAI episode 6 taken down and official apology
+
+- **Date**：2022-02-17
+- **Event**：Petit SEKAI episode 6 taken down and official apology
+- **Subject**：Global
+
+Episode 6 of the mini anime Petit SEKAI ('Leo/need Style'), released on 2022-02-17, featured darkened makeup and costumes resembling African tribal outfits (possibly homaging gyaru/ganguro fashion). Some English-speaking viewers accused it of blackface and cultural appropriation. The episode was withdrawn indefinitely the next day, with a bilingual (Japanese and English) apology posted on the official account; it was re-uploaded on 2022-03-15 with the tan, makeup and tribal items removed.
+
+(Source: English Wikipedia, Controversy section)

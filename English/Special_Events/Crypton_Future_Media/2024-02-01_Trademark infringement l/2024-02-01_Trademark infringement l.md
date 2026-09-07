@@ -1,0 +1,9 @@
+# 2024-02-01 Trademark infringement lawsuits filed in the United States
+
+- **Date**：2024-02-01
+- **Event**：Trademark infringement lawsuits filed in the United States
+- **Subject**：Crypton_Future_Media
+
+In 2024, Crypton Future Media filed a trademark infringement suit regarding 'Hatsune Miku' in Illinois (case no. 24-cv-1176), and in September filed another such suit (case no. 2024-cv-08758). In mainland China the local agent has likewise continued to report anti-piracy actions.
+
+(Source: compiled from public corporate and IP news coverage)

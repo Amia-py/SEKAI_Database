@@ -1,0 +1,16 @@
+# 2020-09-30 Virtual-singer IP and songs provided; joint project
+
+## 基本信息
+
+- **Date**：2020-09-30
+- **Event**：Virtual-singer IP and songs provided; joint project
+- **Subject**：Crypton_Future_Media
+
+## 数据
+
+（暂无数据）
+
+
+## 数据来源
+
+Crypton Future Media joined the project, providing Piapro characters (Hatsune Miku, Kagamine Rin/Len, Megurine Luka, MEIKO, KAITO) and song rights; in-universe, virtual singers appear as 'fictional existences' in the real world. (Source: © Crypton Future Media, INC. / www.piapro.net)

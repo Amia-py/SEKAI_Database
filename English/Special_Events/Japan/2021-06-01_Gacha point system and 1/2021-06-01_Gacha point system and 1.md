@@ -1,0 +1,9 @@
+# 2021-06-01 Gacha point system and 100-pull pity for birthday banners
+
+- **Date**：2021-06-01
+- **Event**：Gacha point system and 100-pull pity for birthday banners
+- **Subject**：Japan
+
+A gacha point system was added: 200 pulls with free crystals or 100 pulls with paid crystals could be exchanged for a featured card in standard banners; a 100-pull pity was later added to birthday banners.
+
+(Source: community-compiled history of the pity system, per Moegirlpedia)

@@ -1,0 +1,9 @@
+# 2019-01-01 Shift to in-house engine: Piapro Studio and Hatsune Miku NT
+
+- **Date**：2019-01-01
+- **Event**：Shift to in-house engine: Piapro Studio and Hatsune Miku NT
+- **Subject**：Crypton_Future_Media
+
+Crypton Future Media announced a move away from Yamaha's Vocaloid engine toward its own technology, releasing Piapro Studio and the Hatsune Miku NT (New Type) voicebank and ending a decade-long partnership with Yamaha. Reception to NT's timbre and tuning among creators has been divided, with some long-time producers continuing to release major works using the Vocaloid 4 banks.
+
+(Source: compiled from Crypton and product materials)

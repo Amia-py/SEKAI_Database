@@ -1,0 +1,9 @@
+# 2019-01-01 转向自主引擎：Piapro Studio 与初音未来 NT 声库
+
+- **日期**：2019-01-01
+- **事件**：转向自主引擎：Piapro Studio 与初音未来 NT 声库
+- **主体**：Crypton_Future_Media
+
+Crypton Future Media 宣布从雅马哈 VOCALOID 引擎转向自主研发，推出 Piapro Studio 与「初音未来 NT（New Type）」声库，结束了与雅马哈长达十年的合作。NT 版本的音色与调声手感在创作者社群中评价两极，部分长期创作者继续使用 VOCALOID 4 版本的声库进行主要作品的发布。
+
+（来源：Crypton 相关公司与产品资料整理）
